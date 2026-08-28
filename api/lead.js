@@ -36,38 +36,87 @@ function esc(s) {
     .replace(/"/g, "&quot;");
 }
 
-// Confirmation to the person who submitted the form. Deliberately does not
-// promise a specific reply time nobody is committed to; "during business hours"
-// mirrors the site copy and nothing more.
+// Detect the visitor's site language from the page they submitted from. The
+// form sends window.location.pathname, e.g. "/es/contact", "/de", "/contact".
+function localeFromPage(page) {
+  const p = String(page == null ? "" : page);
+  if (/^\/es(\/|$)/.test(p)) return "es";
+  if (/^\/de(\/|$)/.test(p)) return "de";
+  return "en";
+}
+
+// Confirmation to the person who submitted the form, in their site language
+// (Spanish uses informal "tú", German informal "du", to match the site copy).
+// Deliberately does not promise a specific reply time nobody is committed to;
+// "during business hours" mirrors the site copy and nothing more. The internal
+// team notification stays English (see notificationEmail).
+const CONFIRMATION_COPY = {
+  en: {
+    subject: "We received your message",
+    greetName: function (f) { return "Hi " + (f || "there"); },
+    p1: "Thank you for reaching out to Innovaria Tech. Your message was received the moment you sent it, and it is already with our team.",
+    p2: "A member of our team will follow up during business hours to schedule your free automation audit.",
+    urgent: "If anything is urgent in the meantime, you can reach us directly:",
+    phone: "Phone or WhatsApp: ",
+    email: "Email: ",
+    signoff: "Best regards,",
+    team: "The Innovaria Tech Team",
+  },
+  es: {
+    subject: "Hemos recibido tu mensaje",
+    greetName: function (f) { return "Hola" + (f ? " " + f : ""); },
+    p1: "Gracias por escribir a Innovaria Tech. Tu mensaje nos llegó en el momento en que lo enviaste y ya está con nuestro equipo.",
+    p2: "Un miembro de nuestro equipo te responderá en horario laboral para agendar tu auditoría de automatización gratuita.",
+    urgent: "Si mientras tanto surge algo urgente, puedes contactarnos directamente:",
+    phone: "Teléfono o WhatsApp: ",
+    email: "Email: ",
+    signoff: "Un saludo,",
+    team: "El equipo de Innovaria Tech",
+  },
+  de: {
+    subject: "Wir haben deine Nachricht erhalten",
+    greetName: function (f) { return "Hallo" + (f ? " " + f : ""); },
+    p1: "Danke, dass du dich bei Innovaria Tech gemeldet hast. Deine Nachricht ist in dem Moment bei uns eingegangen, in dem du sie abgeschickt hast, und liegt bereits unserem Team vor.",
+    p2: "Ein Mitglied unseres Teams meldet sich während der Geschäftszeiten bei dir, um deine kostenlose Automatisierungs-Analyse zu terminieren.",
+    urgent: "Falls in der Zwischenzeit etwas dringend ist, erreichst du uns direkt:",
+    phone: "Telefon oder WhatsApp: ",
+    email: "E-Mail: ",
+    signoff: "Beste Grüße,",
+    team: "Dein Innovaria-Tech-Team",
+  },
+};
+
 function confirmationEmail(lead, from) {
-  const first = lead.name.split(" ")[0] || "there";
+  const first = lead.name.split(" ")[0] || "";
+  const t = CONFIRMATION_COPY[localeFromPage(lead.page)] || CONFIRMATION_COPY.en;
+  const greeting = t.greetName(first) + ",";
   const text =
-    "Hi " + first + ",\n\n" +
-    "Thank you for reaching out to Innovaria Tech. Your message was received the moment you sent it, and it is already with our team.\n\n" +
-    "A member of our team will follow up during business hours to schedule your free automation audit.\n\n" +
-    "If anything is urgent in the meantime, you can reach us directly:\n" +
-    "Phone or WhatsApp: +1 601 860 1258\n" +
-    "Email: info@innovariatech.space\n\n" +
-    "Best regards,\n" +
-    "The Innovaria Tech Team\n" +
+    greeting + "\n\n" +
+    t.p1 + "\n\n" +
+    t.p2 + "\n\n" +
+    t.urgent + "\n" +
+    t.phone + "+1 601 860 1258\n" +
+    t.email + "info@innovariatech.space\n\n" +
+    t.signoff + "\n" +
+    t.team + "\n" +
     "https://innovariatech.space";
   const html =
     "<div style=\"font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:1.6;color:#1a2233\">" +
-    "<p>Hi " + esc(first) + ",</p>" +
-    "<p>Thank you for reaching out to Innovaria Tech. Your message was received the moment you sent it, and it is already with our team.</p>" +
-    "<p>A member of our team will follow up during business hours to schedule your free automation audit.</p>" +
+    "<p>" + esc(greeting) + "</p>" +
+    "<p>" + esc(t.p1) + "</p>" +
+    "<p>" + esc(t.p2) + "</p>" +
     "<p style=\"background:#f4f6fb;border-left:3px solid #6d5efc;padding:10px 14px;border-radius:4px\">" +
-    "If anything is urgent in the meantime, you can reach us directly:<br>" +
-    "Phone or WhatsApp: <a href=\"tel:+16018601258\">+1 601 860 1258</a><br>" +
-    "Email: <a href=\"mailto:info@innovariatech.space\">info@innovariatech.space</a></p>" +
-    "<p style=\"color:#667\">Best regards,<br>" +
-    "The Innovaria Tech Team<br>" +
+    esc(t.urgent) + "<br>" +
+    esc(t.phone) + "<a href=\"tel:+16018601258\">+1 601 860 1258</a><br>" +
+    esc(t.email) + "<a href=\"mailto:info@innovariatech.space\">info@innovariatech.space</a></p>" +
+    "<p style=\"color:#667\">" + esc(t.signoff) + "<br>" +
+    esc(t.team) + "<br>" +
     "<a href=\"https://innovariatech.space\">innovariatech.space</a></p>" +
     "</div>";
   return {
     from: from,
     to: lead.email,
-    subject: "We received your message, " + first,
+    subject: t.subject + (first ? ", " + first : ""),
     text: text,
     html: html,
   };

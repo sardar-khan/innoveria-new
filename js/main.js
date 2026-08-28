@@ -2,6 +2,30 @@
 (function () {
   "use strict";
 
+  /* Language switcher dropdown (globe button) */
+  var langSwitch = document.querySelector(".lang-switch");
+  var langToggle = langSwitch && langSwitch.querySelector(".lang-toggle");
+  if (langToggle) {
+    langToggle.addEventListener("click", function (e) {
+      e.stopPropagation();
+      var open = langSwitch.classList.toggle("open");
+      langToggle.setAttribute("aria-expanded", open ? "true" : "false");
+    });
+    document.addEventListener("click", function (e) {
+      if (!e.target.closest(".lang-switch")) {
+        langSwitch.classList.remove("open");
+        langToggle.setAttribute("aria-expanded", "false");
+      }
+    });
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape" && langSwitch.classList.contains("open")) {
+        langSwitch.classList.remove("open");
+        langToggle.setAttribute("aria-expanded", "false");
+        langToggle.focus();
+      }
+    });
+  }
+
   var reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
   /* Mobile menu ---------------------------------------------------------- */

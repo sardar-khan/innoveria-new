@@ -1,0 +1,85 @@
+{
+  "_meta": {
+    "page": "ai-automation-manufacturers-cut-quote-turnaround",
+    "sourceFile": "blog/ai-automation-manufacturers-cut-quote-turnaround.html",
+    "outputFile": "de/blog/ai-automation-manufacturers-cut-quote-turnaround.html",
+    "language": "de",
+    "locale": "de-DE",
+    "dir": "ltr",
+    "status": "DRAFT — needs native/fluent German review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Standard German, informal du.",
+    "note": "no form"
+  },
+  "head": {
+    "title": "KI-Automatisierung für Hersteller: Angebote schneller erstellen",
+    "description": "Hersteller verlieren Aufträge, wenn Angebote Tage dauern. Sieh, wie KI-Automatisierung eingehende Angebotsanfragen liest, ein bepreistes Angebot entwirft und es in Stunden zurückschickt.",
+    "keywords": "KI-Automatisierung für Hersteller, Automatisierungsunternehmen Fertigung, RFQ-Automatisierung, KI-Angebotsautomatisierung, Angebotsdurchlaufzeit verkürzen, Workflow-Automatisierung Fertigung, KI für kleine Hersteller",
+    "og:title": "KI-Automatisierung für Hersteller: Angebotsdurchlaufzeit verkürzen",
+    "og:description": "Sieh, wie KI-Automatisierung eingehende Angebotsanfragen liest, ein bepreistes Angebot entwirft und es dem Kunden in Stunden statt Tagen zurückschickt.",
+    "og:locale": "de_DE",
+    "twitter:title": "KI-Automatisierung für Hersteller: Angebotsdurchlaufzeit verkürzen",
+    "twitter:description": "Hersteller verlieren Aufträge, wenn Angebote Tage dauern. So bringt KI-Automatisierung ein bepreistes Angebot in Stunden zurück."
+  },
+  "headings": {
+    "h1": "KI-Automatisierung für Hersteller: Angebotsdurchlaufzeit verkürzen und keine Aufträge mehr an langsame Angebotsanfragen verlieren",
+    "h2": [
+      "Warum Angebote in der Fertigung so lange dauern",
+      "Was langsame Angebotserstellung einen Betrieb tatsächlich kostet",
+      "Was KI-Angebotsautomatisierung tatsächlich tut",
+      "Was bei deinem Kalkulator bleiben sollte",
+      "Womit es sich verbindet",
+      "Wie ein realistischer Aufbau aussieht",
+      "Was es kostet",
+      "Häufig gestellte Fragen",
+      "Weiterführende Beiträge",
+      "Sieh, was langsame Angebotserstellung dich kostet"
+    ]
+  },
+  "schema": {
+    "breadcrumb": [
+      { "position": 1, "name": "Startseite", "item": "https://innovariatech.space/de" },
+      { "position": 2, "name": "Blog", "item": "https://innovariatech.space/de/blog" },
+      { "position": 3, "name": "KI-Automatisierung für Hersteller", "item": "https://innovariatech.space/de/blog/ai-automation-manufacturers-cut-quote-turnaround" }
+    ],
+    "article": {
+      "headline": "KI-Automatisierung für Hersteller: Angebotsdurchlaufzeit verkürzen und keine Aufträge mehr an langsame Angebotsanfragen verlieren"
+    },
+    "faq": [
+      "Wie schnell kann KI eine Zeichnung oder ein Datenblatt tatsächlich lesen?",
+      "Ersetzt das unseren Kalkulator?",
+      "Funktioniert es mit unserem bestehenden ERP?",
+      "Was passiert bei einem Teil, das wir noch nie kalkuliert haben?",
+      "Wie lange dauert der Aufbau eines Angebotssystems?",
+      "Gehört uns das System, sobald es gebaut ist?"
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched German search terms for a German manufacturing audience, not literal translations of the English keywords.",
+    "primary": [
+      "KI-Automatisierung Fertigung",
+      "Angebotserstellung automatisieren",
+      "Angebotsanfrage automatisieren"
+    ],
+    "secondary": [
+      "RFQ Automatisierung",
+      "Kalkulation Fertigung automatisieren",
+      "ERP Angebotsautomatisierung",
+      "Angebotsdurchlaufzeit verkürzen",
+      "Automatisierung Lohnfertigung"
+    ]
+  },
+  "translatorNotes": [
+    "Informal du (duzen) used throughout, consistent with the marketing tone across the German site.",
+    "FLAG: RFQ term. 'RFQ' was rendered as 'Angebotsanfrage' in running prose per the glossary. The English acronym 'RFQ' itself is not carried in the visible body text (only 'Angebotsanfrage'), though the keyword string keeps 'RFQ-Automatisierung' for search. A German native reviewer should confirm whether the audience expects the English acronym 'RFQ' in parentheses on first use, since it is common in German industrial B2B usage.",
+    "Glossary terms applied: quote -> Angebot, estimator -> Kalkulator, shop -> Betrieb/Werkstatt, purchase order -> Bestellung (term did not appear in body), supplier -> Lieferant (term did not appear in body), ERP/MRP/CRM/CPQ/CAD kept as acronyms.",
+    "Prices kept exact; '$1,000 and $5,000' rendered as '1.000 und 5.000 US-Dollar' with German thousands separator. 'low hundreds of dollars' rendered as 'niedriger dreistelliger US-Dollar-Bereich'.",
+    "Brand/tool names kept literal: n8n, Make, Zapier, Unsplash image URLs unchanged.",
+    "No em-dashes used anywhere; commas and rewrites replace the English dashes.",
+    "Internal same-site links repointed to /de (services, industries, blog, contact). /privacy, /terms, sitemap, mailto, tel and external URLs left unchanged.",
+    "Language switcher rebuilt as three-way with EN + ES links and DE current.",
+    "No lead/audit form on this page, so no window.__i18n form block was added.",
+    "'You own everything we build' rendered as the fixed glossary phrase 'Dir gehört alles, was wir bauen.'"
+  ],
+  "suggestedLlmsTxtEntry": "German translation of the manufacturing article on how AI quote automation reads incoming RFQs, drafts a priced quote from ERP data, and cuts quote turnaround from days to hours.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent German review before going live."
+}

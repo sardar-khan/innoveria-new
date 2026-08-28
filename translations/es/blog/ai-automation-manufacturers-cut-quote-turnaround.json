@@ -1,0 +1,69 @@
+{
+  "_meta": {
+    "page": "Blog post — AI Automation for Manufacturers: Cut Quote Turnaround (Industry Guides)",
+    "sourceFile": "/blog/ai-automation-manufacturers-cut-quote-turnaround.html",
+    "outputFile": "/es/blog/ai-automation-manufacturers-cut-quote-turnaround.html",
+    "language": "es", "locale": "es-ES", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú.",
+    "note": "Full blog post translated: head/meta, 4 JSON-LD blocks (Article, Organization, BreadcrumbList, FAQPage), nav, breadcrumbs, hero, lede, answer capsule, body sections, lists, inline CTAs, FAQ, related reading, CTA band, footer, alt text and aria-labels. No lead/audit form on this page, so no window.__i18n block was added. Internal links repointed to /es; external links, /privacy, /terms, sitemap, mailto, tel unchanged."
+  },
+  "head": {
+    "title": "Automatización con IA para fabricantes: acelera tus cotizaciones",
+    "description": "Los fabricantes pierden trabajos cuando cotizar tarda días. Mira cómo la automatización con IA lee los RFQ que llegan, prepara una cotización con precio y la devuelve en horas.",
+    "keywords": "automatización con IA para fabricantes, empresa de automatización para manufactura, automatización de RFQ, automatización de cotizaciones con IA, reducir el tiempo de cotización, automatización de flujos para manufactura, IA para pequeños fabricantes",
+    "canonical": "https://innovariatech.space/es/blog/ai-automation-manufacturers-cut-quote-turnaround",
+    "robots": "noindex, follow",
+    "og:title": "Automatización con IA para fabricantes: acelera tus cotizaciones",
+    "og:description": "Mira cómo la automatización con IA lee los RFQ que llegan, prepara una cotización con precio y se la devuelve al cliente en horas en lugar de días.",
+    "og:locale": "es_ES",
+    "twitter:title": "Automatización con IA para fabricantes: acelera tus cotizaciones",
+    "twitter:description": "Los fabricantes pierden trabajos cuando cotizar tarda días. Así es como la automatización con IA devuelve una cotización con precio en horas."
+  },
+  "headings": {
+    "hero_h1": "Automatización con IA para fabricantes: acelera tus cotizaciones y deja de perder trabajos por RFQ lentos",
+    "h2_why_slow": "Por qué las cotizaciones de manufactura tardan tanto",
+    "h2_cost_of_slow": "Lo que le cuesta de verdad a un taller cotizar lento",
+    "h2_what_it_does": "Qué hace de verdad la automatización de cotizaciones con IA",
+    "h2_stay_estimator": "Qué debería quedarse con tu estimador",
+    "h2_connects": "Con qué se conecta",
+    "h2_realistic_build": "Cómo se ve un desarrollo realista",
+    "h2_cost": "Cuánto cuesta",
+    "h2_faq": "Preguntas frecuentes",
+    "h2_related": "Lecturas relacionadas",
+    "cta_band_h2": "Mira lo que te cuesta cotizar lento"
+  },
+  "schema": {
+    "breadcrumb": ["Inicio", "Blog", "Automatización con IA para fabricantes"],
+    "article": {
+      "headline": "Automatización con IA para fabricantes: acelera tus cotizaciones y deja de perder trabajos por RFQ lentos",
+      "inLanguage": "es"
+    },
+    "faq": [
+      "¿Qué tan rápido puede la IA leer de verdad un plano o una hoja de especificaciones?",
+      "¿Esto va a reemplazar a nuestro estimador?",
+      "¿Funciona con nuestro ERP actual?",
+      "¿Qué pasa con una pieza que nunca hemos cotizado antes?",
+      "¿Cuánto tarda en construirse un sistema de cotización?",
+      "¿El sistema es nuestro una vez construido?"
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish search terms, not literal translations. Term for 'quote' varies by market: cotización (Latin America) vs presupuesto (Spain).",
+    "primary": ["automatización con IA para fabricantes", "automatización de RFQ", "reducir tiempo de cotización manufactura"],
+    "secondary": ["automatización de cotizaciones con IA", "IA para pequeños fabricantes", "software de cotización para talleres"]
+  },
+  "translatorNotes": [
+    "Register: informal tú throughout, consistent with the rest of the es effort.",
+    "FLAG — RFQ terminology: 'RFQ' kept as the acronym and glossed once on first use as 'solicitud de cotización (RFQ)'. Whether to keep 'RFQ' or switch to 'pedido de cotización' / 'solicitud de presupuesto' should be confirmed for the target market before publishing (Spain tends to 'presupuesto'; Latin America 'cotización').",
+    "Manufacturing glossary applied consistently: quote -> cotización, estimator -> estimador, shop -> taller, shop floor -> planta, purchase order -> orden de compra, supplier -> proveedor, lead time/delivery date -> fecha de entrega, specs -> especificaciones, drawing -> plano. 'X min read' -> 'X min de lectura'.",
+    "ERP/MRP/CRM/CPQ/CAD/PDF acronyms kept as-is. Brand names kept exact: n8n, Make, Zapier, Innovaria Tech, Innovaria Tech Limited, Ahsan Ilyas.",
+    "Currency rendered per house style: 'between one thousand and five thousand dollars' -> 'entre 1.000 y 5.000 dólares' (period thousands separator); 'low hundreds of dollars' -> 'cientos de dólares'. Numbers, percentages, dates, read-time kept exact.",
+    "'August 7, 2026' -> '7 de agosto de 2026'. article:section 'Manufacturing Automation' -> 'Automatización para manufactura'. Kicker 'Manufacturing' -> 'Manufactura'.",
+    "Internal links repointed to /es equivalents (blog cross-links, /es/services/*, /es/industries/manufacturing, /es/contact, footer, breadcrumbs, brand). English slugs kept in paths. lang-switch EN link -> /blog/<slug>.",
+    "External links unchanged: Unsplash images, LinkedIn author, sitemap. /privacy and /terms left as-is. No /veyrais link present on this page.",
+    "No lead/audit <form> exists on this post, so no window.__i18n form block was inserted."
+  ],
+  "suggestedLlmsTxtEntry": "/es/blog/ai-automation-manufacturers-cut-quote-turnaround — Spanish (es). How AI quote automation reads incoming RFQs, drafts a priced quote from your own ERP data for repeat and standard work, routes complex parts to an estimator, and cuts turnaround from days to hours. DRAFT pending native review.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live."
+}

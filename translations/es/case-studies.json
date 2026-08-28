@@ -1,0 +1,55 @@
+{
+  "_meta": {
+    "page": "Case Studies",
+    "sourceFile": "/case-studies.html",
+    "outputFile": "/es/case-studies.html",
+    "language": "es", "locale": "es-ES", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú.",
+    "note": "No contact form on this page, so no window.__i18n block. Full copy is in the rendered page; this file records head/meta, schema strings, keywords, and notes."
+  },
+  "head": {
+    "title": "Casos de éxito de automatización: resultados reales | Innovaria Tech",
+    "description": "Cómo la automatización redujo la respuesta a leads a 90 segundos, bajó las ausencias un 31% y recuperó 11.000 dólares al mes. Cuatro sectores, números reales.",
+    "keywords": "casos de éxito de automatización con IA, resultados automatización inmobiliaria, caso de automatización de clínica, resultados automatización ecommerce, automatización de admisión para bufetes, caso de respuesta a leads",
+    "canonical": "https://innovariatech.space/es/case-studies",
+    "robots": "noindex, follow",
+    "og:title": "Casos de éxito de automatización: resultados reales en cuatro sectores",
+    "og:description": "Cómo la automatización con IA redujo tiempos de respuesta, bajó las ausencias, recuperó carritos y rescató llamadas perdidas para negocios reales.",
+    "og:locale": "es_ES"
+  },
+  "headings": {
+    "hero_h1": "Lo que la automatización hace de verdad por un negocio como el tuyo",
+    "honesty_note": "Una nota sobre honestidad",
+    "case_real_estate_h2": "Una agencia dejó de perder los leads de la tarde ante competidores más rápidos",
+    "case_healthcare_h2": "Una clínica redujo las ausencias y dejó de perder llamadas durante las citas",
+    "case_ecommerce_h2": "Una marca recuperó carritos abandonados y redujo los tickets de soporte a la mitad",
+    "case_legal_h2": "Un despacho rescató las llamadas fuera de horario y creció su admisión de casos sin nuevas contrataciones",
+    "case_veyrais_h2": "Veyrais: la automatización que construimos para nosotros mismos",
+    "cta_h2": "Tu negocio es el próximo caso de éxito",
+    "faq_h2": "Qué esperar, con honestidad"
+  },
+  "schema": {
+    "breadcrumb": ["Inicio", "Casos de éxito"],
+    "faq": [
+      "¿Qué tan rápido puedo esperar resultados de la automatización?",
+      "¿Qué retorno de la inversión es realista?",
+      "¿La automatización reemplazará a mi equipo?"
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish search terms, not literal translations.",
+    "primary": ["casos de éxito de automatización con IA", "resultados de automatización empresarial", "ejemplos de automatización con IA"],
+    "secondary": ["ROI de la automatización", "reducir ausencias con IA", "recuperar carritos abandonados resultados", "respuesta a leads en 90 segundos"]
+  },
+  "translatorNotes": [
+    "Register: informal tú, consistent with Phases 1–2. Reuses the four industry case narratives already translated on the industry pages, kept consistent (agencia/clínica/marca/despacho).",
+    "'no shows' -> 'ausencias'; 'headcount' -> 'plantilla'; 'intake' (legal) -> 'admisión'; 'average order value' -> 'ticket medio'; 'where is my order' -> '¿dónde está mi pedido?'; 'ghostwriter' -> 'redactor fantasma'; 'return on investment' -> 'retorno de la inversión / ROI'.",
+    "Place name 'Dallas metro' -> 'área metropolitana de Dallas' (kept; real market). 'HIPAA' kept (US healthcare framework; see healthcare page note about localizing for non-US markets).",
+    "Figures unchanged, currency named: description '$11k' -> '11.000 dólares'; body/stat chips keep compact '$11k'; '~$60 AOV' -> '~60 dólares de ticket medio'; percentages and counts unchanged.",
+    "Honesty disclaimer (representative/anonymized examples) translated faithfully — important not to overstate; kept the 'realistic over inflated' framing.",
+    "Industry deep-link buttons -> /es/industries/...; services/industries/blog/contact links -> /es. '/veyrais' internal page kept English (out of Phase 3 translate scope; FLAG if /es/veyrais wanted). lang-switch EN link -> /case-studies."
+  ],
+  "suggestedLlmsTxtEntry": "/es/case-studies — Spanish (es). Representative, anonymized automation case studies across four industries: real estate (90s lead response, +34% viewings), healthcare (-31% no-shows), ecommerce ($11k/mo recovered, -48% status tickets), law firm (+42% consultations), plus the internal Veyrais LinkedIn build. Honest ranges, not inflated. DRAFT pending native review.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live. Keep the honesty disclaimer intact and accurate in Spanish."
+}

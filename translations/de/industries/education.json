@@ -1,0 +1,95 @@
+{
+  "_meta": {
+    "source": "industries/education.html",
+    "target": "de/industries/education.html",
+    "language": "de",
+    "locale": "de-DE",
+    "dir": "ltr",
+    "status": "DRAFT — needs native/fluent German review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Standard German, informal du.",
+    "note": "has form"
+  },
+  "head": {
+    "title": "KI-Agent für Bildung: Schnellere Anmeldung | Innovaria",
+    "description": "Ein KI-Agent für Bildung, der Anmeldungsanfragen rund um die Uhr beantwortet, Campus-Besichtigungen bucht und mit jeder Familie sofort nachfasst. Kostenlose Analyse buchen.",
+    "keywords": "KI-Agent für Bildung, Anmeldung automatisieren, Zulassung Automatisierung, Anfragen für Schulen beantworten, Campus-Besichtigung buchen, KI-Chatbot für Schulen, Nachfassen bei Familien automatisieren",
+    "og_title": "KI-Agent für Bildung: Schnellere Anmeldung | Innovaria",
+    "og_description": "Beantworte Fragen zu Programmen, Gebühren und Terminen rund um die Uhr, fasse mit jeder Anfrage sofort nach und buche Campus-Besichtigungen automatisch.",
+    "og_locale": "de_DE",
+    "twitter_title": "KI-Agent für Bildung: Schnellere Anmeldung | Innovaria",
+    "twitter_description": "Beantworte Fragen zu Programmen, Gebühren und Terminen rund um die Uhr, fasse mit jeder Anfrage sofort nach und buche Campus-Besichtigungen automatisch.",
+    "canonical": "https://innovariatech.space/de/industries/education"
+  },
+  "headings": {
+    "h1": "Der KI-Agent für Bildung, der Familien antwortet, bevor sie woanders in die engere Wahl kommen",
+    "problems_h2": "Wo Anmeldungen still und leise verschwinden",
+    "solution_h2": "Zulassung, die im Tempo antwortet, in dem Familien entscheiden",
+    "outcomes_h2": "Die Speed-to-Lead-Zahlen hinter diesem Aufbau",
+    "how_h2": "In deiner Einrichtung live in zwei bis vier Wochen",
+    "why_h2": "Deine Konten, deine Daten, dein System",
+    "case_h2": "Das Speed-to-Lead-System, auf die Zulassung angewendet",
+    "tech_h2": "Aufgebaut auf den Tools, die deine Mitarbeitenden bereits kennen",
+    "faq_h2": "Bildungsautomatisierung, direkt beantwortet",
+    "cta_h2": "Wie viele Familien haben angefragt und nie wieder etwas gehört?",
+    "contact_h2": "Fordere deine kostenlose Analyse des Anfrage-Flows an",
+    "related_h2": "Aufgebaut aus diesen Fähigkeiten"
+  },
+  "schema": {
+    "service_name": "KI-Agent für Bildung",
+    "service_description": "Ein Anfrage-Agent, der Fragen zu Programmen, Gebühren und Terminen rund um die Uhr im Web und auf WhatsApp beantwortet, mit jeder interessierten Familie sofort nachfasst, Campus-Besichtigungen und Beratungsgespräche bucht und die routinemäßige Elternkommunikation automatisiert, wobei Schülerdaten in von der Schule kontrollierten Konten bleiben.",
+    "audienceType": "Schulen, Akademien, Nachhilfezentren und Kursanbieter",
+    "breadcrumb": [
+      { "name": "Startseite", "item": "https://innovariatech.space/de" },
+      { "name": "Branchen", "item": "https://innovariatech.space/de/industries" },
+      { "name": "Bildung", "item": "https://innovariatech.space/de/industries/education" }
+    ],
+    "faq": [
+      {
+        "q": "Was ist ein KI-Agent für Bildung?",
+        "a": "Ein KI-Agent für Bildung ist Software, die die wiederkehrende Zulassungs- und Kommunikationsarbeit rund um deine Einrichtung übernimmt: Anmeldungsanfragen zu Programmen, Gebühren und Terminen rund um die Uhr beantworten, mit interessierten Familien automatisch nachfassen, Campus-Besichtigungen und Beratungsgespräche buchen und routinemäßige Eltern-Updates versenden. Alles Sensible wird an deine Mitarbeitenden übergeben."
+      },
+      {
+        "q": "Kann er Fragen zu Programmen und Gebühren korrekt beantworten?",
+        "a": "Ja. Der Agent wird ausschließlich mit deinen eigenen Materialien trainiert: Programmbeschreibungen, Gebührenübersichten, Kurspläne und Zulassungsrichtlinien. Er antwortet aus dieser Quelle, verlinkt Familien auf die richtige Seite und sagt es, wenn eine Frage außerhalb liegt, und leitet das Gespräch an dein Zulassungsteam weiter, statt zu raten."
+      },
+      {
+        "q": "Wie werden Schülerdaten vertraulich gehalten?",
+        "a": "Alle Anfrage- und Schülerdaten liegen in Konten, die deine Schule kontrolliert, nicht wir. Der Zugriff ist auf die von dir benannten Mitarbeitenden beschränkt, und alles Sensible, ein Anliegen zum Kinderschutz, eine Gesprächssituation zu besonderem Förderbedarf, eine Beschwerde, wird sofort an eine Person übergeben. Du prüfst jeden Workflow und jeden Datenweg, bevor das System live geht."
+      },
+      {
+        "q": "Was kostet ein KI-Agent für Bildung?",
+        "a": "Ein vollständiges Anfrage- und Nachfass-System liegt beim Aufbau in der Regel zwischen 1.000 und 5.000 US-Dollar zuzüglich 50 bis 300 US-Dollar monatlicher Plattformgebühren, je nach Kanälen und Volumen. Eine Handvoll zusätzlicher Anmeldungen deckt den Aufbau meist. Nach einer kostenlosen Analyse deines Anfrage-Flows bekommst du ein Festpreisangebot."
+      },
+      {
+        "q": "Funktioniert es auch für Nachhilfezentren und Kursanbieter?",
+        "a": "Ja. Dasselbe System passt zu jeder Organisation, die Lernen verkauft: Nachhilfezentren, die Elternanfragen bearbeiten, Sprachschulen, die Probestunden verwalten, und Kursanbieter, die Fragen vor dem Kauf zu jeder Uhrzeit beantworten. Wenn Anfragen schneller eintreffen, als du sie beantworten kannst, hat der Aufbau dieselbe Form."
+      }
+    ]
+  },
+  "targetedKeywords": {
+    "note": "German keyword equivalents for the education industry page; not machine keyword-researched, review with a native SEO before relying on volumes.",
+    "primary": [
+      "KI-Agent für Bildung",
+      "Anmeldung automatisieren",
+      "Zulassung Automatisierung"
+    ],
+    "secondary": [
+      "Anfragen für Schulen beantworten",
+      "Campus-Besichtigung buchen",
+      "KI-Chatbot für Schulen",
+      "Nachfassen bei Familien automatisieren"
+    ]
+  },
+  "translatorNotes": [
+    "FLAG 'fees': rendered as 'Gebühren' throughout (general school/course fees). Where the source clearly means tuition, 'Studiengebühren' (university-level) or 'Schulgeld' (private-school) may be more precise. A native reviewer should choose 'Gebühren' vs 'Studiengebühren' vs 'Schulgeld' per the actual institution type (school, academy, tutoring centre, course creator).",
+    "FLAG 'safeguarding' -> 'Kinderschutz'. This is UK/US safeguarding terminology; the German child-protection framing 'Kinderschutz' is the closest general equivalent but carries a narrower legal meaning. A DACH-market version should confirm the intended scope.",
+    "'enrollment' -> 'Anmeldung' (also 'Einschreibung' in tertiary contexts); 'admissions' -> 'Zulassung'; 'family' -> 'Familie'; 'counselor' -> 'Berater'; 'campus tour' -> 'Campus-Besichtigung'.",
+    "Brand and product names kept exact: WhatsApp Business, Twilio, Calendly, n8n, Make, Google Workspace, LMS.",
+    "Currency converted per spec: '$1,000 and $5,000' -> '1.000 und 5.000 US-Dollar'; '$50 to $300' -> '50 bis 300 US-Dollar'.",
+    "All internal links repointed to /de (nav, breadcrumb, footer, related services, other industries, related reading). Related blog slugs kept: /de/blog/ai-automation-education-admissions-response-time, /de/blog/best-automation-tools-service-businesses, /de/blog/cost-of-automating-lead-follow-up.",
+    "External links unchanged: mailto, tel, wa.me, sitemap.xml, unsplash image, gtag. /privacy and /terms kept language-neutral. /api/lead unchanged.",
+    "Informal 'du' throughout; no em-dashes used."
+  ],
+  "suggestedLlmsTxtEntry": "German (draft) translation of the education industry page: an AI agent for education that answers enrollment enquiries about programs, fees, and schedules 24/7 on web and WhatsApp, follows up with every interested family instantly, books campus tours and counselor calls, and keeps student data in school-controlled accounts.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent German review before going live."
+}

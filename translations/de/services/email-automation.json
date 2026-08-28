@@ -1,0 +1,87 @@
+{
+  "_meta": {
+    "page": "service: Email Automation",
+    "sourceFile": "/services/email-automation.html",
+    "outputFile": "/de/services/email-automation.html",
+    "language": "de",
+    "locale": "de-DE",
+    "dir": "ltr",
+    "status": "DRAFT — needs native/fluent German review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Standard German, informal du.",
+    "note": "has form"
+  },
+
+  "head": {
+    "title": "E-Mail-Automatisierung, die schnell antwortet | Innovaria Tech",
+    "description": "E-Mail-Automatisierung, die deinen Posteingang sortiert, jede Anfrage sofort bestätigt und die Nachfass-Nachrichten schickt, die dein Team vergisst. Kostenlose Analyse buchen.",
+    "keywords": "E-Mail-Automatisierung, Posteingang automatisieren, automatische E-Mail-Antworten, Nachfass-Sequenzen, E-Mail-Sortierung, operative E-Mail",
+    "canonical": "https://innovariatech.space/de/services/email-automation",
+    "robots": "noindex, follow",
+    "og": {
+      "title": "E-Mail-Automatisierung, die schnell antwortet | Innovaria Tech",
+      "description": "Posteingang-Sortierung, sofortige Bestätigungen und Nachfass-Sequenzen, die stoppen, wenn ein Mensch antwortet. Bauten zum Festpreis, die dir gehören.",
+      "locale": "de_DE"
+    },
+    "twitter": {
+      "title": "E-Mail-Automatisierung, die schnell antwortet | Innovaria Tech",
+      "description": "Posteingang-Sortierung, sofortige Bestätigungen und Nachfass-Sequenzen, die stoppen, wenn ein Mensch antwortet. Bauten zum Festpreis, die dir gehören."
+    }
+  },
+
+  "runtime_i18n_form": {
+    "fixFields": "Bitte korrigiere die markierten Felder und versuche es erneut.",
+    "sending": "Wird gesendet...",
+    "thanksConfirmed": "Danke, {name}. Eine Bestätigung ist gerade in deinem Posteingang gelandet. Eine Person meldet sich während der Geschäftszeiten bei dir.",
+    "thanksReceived": "Danke, {name}. Deine Anfrage ist bei uns angekommen und das Team kann sie sehen. Unsere automatische Bestätigungs-E-Mail ist diesmal nicht rausgegangen, also schreib uns direkt an info@innovariatech.space, um sicherzugehen.",
+    "errorSuffix": "Du kannst uns auch direkt an info@innovariatech.space schreiben."
+  },
+
+  "headings": {
+    "hero_h1": "E-Mail-Automatisierung, die den Posteingang leert, bevor du dich hinsetzt",
+    "problems_h2": "Dein Posteingang ist eine Warteschlange, die niemand verwaltet",
+    "solution_h2": "Ein Posteingang, der sich selbst beantwortet und eskaliert, was zählt",
+    "outcomes_h2": "Was sich ändert, wenn die E-Mail-Automatisierung live geht",
+    "how_h2": "Vom überfluteten Posteingang zur täglichen Zusammenfassung in vier Schritten",
+    "why_h2": "Operative E-Mail ist das, was wir selbst betreiben",
+    "proof_h2": "Eine Kanzlei ließ Anfragen nicht mehr über Nacht ungelesen",
+    "tech_h2": "Gebaut in dem Posteingang, in dem du schon lebst",
+    "faq_h2": "E-Mail-Automatisierung, direkt beantwortet",
+    "finalCta_h2": "Finde heraus, was dich dein Posteingang jede einzelne Woche kostet",
+    "contact_h2": "Fordere deine kostenlose Posteingang-Analyse an"
+  },
+
+  "schema": {
+    "inLanguage": "de",
+    "service_name": "E-Mail-Automatisierung",
+    "service_description": "E-Mail-Automatisierung für operative E-Mail: Posteingang-Sortierung, sofortige Bestätigungen, in deinem Stil vorformulierte Antworten, mehrstufige Sequenzen über E-Mail und SMS und eine tägliche Zusammenfassung der Nachrichten, die einen Menschen brauchen.",
+    "breadcrumb": ["Startseite", "Leistungen", "E-Mail-Automatisierung"],
+    "faq": [
+      { "q": "Was ist E-Mail-Automatisierung?", "a": "E-Mail-Automatisierung baut Systeme, die deinen Posteingang sortieren, sofortige Bestätigungen senden, Routinefragen in deinem Stil beantworten und mehrstufige Nachfass-Sequenzen über E-Mail und SMS ausführen. Dein Team startet den Tag mit einer kurzen Zusammenfassung der Nachrichten, die wirklich einen Menschen brauchen, statt mit einem vollen Posteingang." },
+      { "q": "Wie unterscheidet sich das von Newsletter-Tools wie Mailchimp?", "a": "Newsletter-Tools senden eine Nachricht an eine ganze Liste. Wir bauen operative E-Mail: Systeme, die auf einzelne Anfragen reagieren, Angeboten und Dokumenten hinterhergehen und in dem Moment stoppen, in dem jemand antwortet. Es ist Antwort- und Nachfass-Automatisierung für deinen täglichen Posteingang, kein Massenmarketing." },
+      { "q": "Klingen automatische Antworten wie wir?", "a": "Ja. Wir trainieren das System auf deinen früheren Antworten und freigegebenen Vorlagen, damit Ton, Grußformel und Detailtiefe dazu passen, wie dein Team ohnehin schreibt. Alles Ungewöhnliche oder Sensible wird zur menschlichen Prüfung vorformuliert, statt verschickt zu werden, damit der Stil nie verrutscht." },
+      { "q": "Was kostet E-Mail-Automatisierung?", "a": "Ein komplettes E-Mail-Automatisierungssystem liegt beim Bau in der Regel zwischen 1.000 und 5.000 US-Dollar, plus 50 bis 300 US-Dollar pro Monat an Plattformgebühren. Ein einzelner Workflow, etwa sofortige Bestätigungen in einem Postfach, startet niedriger. Wir nennen einen Festpreis nach einer kostenlosen Analyse, es gibt also keine offenen Rechnungen." },
+      { "q": "Stoppen die Sequenzen, wenn jemand antwortet?", "a": "Sofort. Eine Antwort, eine Buchung oder eine manuelle Notiz in deinem CRM stoppt die Sequenz für diesen Kontakt auf jedem Kanal. Niemand bekommt eine dritte Erinnerung, nachdem er bereits geantwortet hat, und genau das ist der Fehler, den manuelles Nachfassen macht." },
+      { "q": "Wie lange dauert die Einrichtung?", "a": "Ein bis zwei Wochen für einen einzelnen Workflow wie Posteingang-Sortierung oder Bestätigungen. Zwei bis vier Wochen für ein komplettes System mit Sequenzen, SMS und einer täglichen Zusammenfassung, inklusive Tests mit deiner echten E-Mail, bevor du die Schlussrechnung bezahlst." }
+    ]
+  },
+
+  "targetedKeywords": {
+    "note": "Researched German search terms, not literal translations.",
+    "primary": ["E-Mail-Automatisierung", "Posteingang automatisieren", "automatische E-Mail-Antworten"],
+    "secondary": ["Anfragen automatisch beantworten", "Nachfass-E-Mails automatisieren", "E-Mail-Vorlagen automatisch versenden"]
+  },
+
+  "translatorNotes": [
+    "Register: informal du throughout, consistent with the sibling ES pages and the German set. The du/Sie decision (here: du) is the single biggest review call and carries across all German pages.",
+    "Glossary applied: Email Automation -> E-Mail-Automatisierung, Lead Automation -> Lead-Automatisierung, Workflow Automation -> Workflow-Automatisierung, Generative AI -> Generative KI, AI Automation -> KI-Automatisierung, AI Voice Agents -> KI-Sprachassistenten (footer as Anrufautomatisierung), Social Automation -> Social-Media-Automatisierung, AI Consulting -> KI-Beratung. Industry 'Legal' -> 'Kanzleien'.",
+    "'lead' kept in English (standard in German CRM/marketing). 'bottleneck' -> 'Engpass'. 'follow up' -> 'Nachfassen' / 'Nachfass-'. 'roadmap' -> 'Fahrplan'. 'fixed price' -> 'Festpreis'. 'payback' kept as 'Payback'. 'inbox triage' -> 'Posteingang-Sortierung'. 'digest' -> 'Zusammenfassung'. 'in your voice' -> 'in deinem Stil'. 'acknowledgement' -> 'Bestätigung'. 'multi touch' -> 'mehrstufig'.",
+    "Prices/facts kept exactly: '$1,000 and $5,000' -> '1.000 und 5.000 US-Dollar'; '$50 to $300' -> '50 bis 300 US-Dollar'. Brand/tool names (Gmail, Outlook, n8n, Make, Zapier, OpenAI, Claude, Twilio, HubSpot, Calendly, Slack, Google Workspace, Mailchimp) and stats (< 60 sec, 100%, 24/7, 20+ hrs, +42%, 0) unchanged. Stat suffixes localized to ' Sek.' and '+ Std.' as in the sibling page. '6 pm' -> '18 Uhr'. '15 hours' -> '15 Stunden'. 'Innovaria Tech Limited', email, phone, /api/lead form action unchanged.",
+    "'traffic warden' -> 'Verkehrslotsen' keeps the human-router image; a reviewer may prefer a less British metaphor. 'to do list' -> 'To-do-Liste'.",
+    "ALL internal links repointed to /de: brand, nav (both dropdowns), breadcrumbs, hero CTA, in-body card links, footer service/company links. Cross-language switcher links (EN -> /services/..., ES -> /es/services/...) intentionally NOT repointed. Left unchanged: /privacy, /terms, sitemap, mailto, tel, wa.me, external Unsplash image, and the form action /api/lead.",
+    "Three-way language switcher added (EN + ES + DE, DE current). Head has four hreflang alternates (en, es, de, x-default) and og:locale de_DE. Robots set to noindex, follow with the draft comment above it. Contact-form status messages localized via window.__i18n.form (English fallback preserved for untranslated pages)."
+  ],
+
+  "suggestedLlmsTxtEntry": "German (de) draft of the Email Automation service page: operational email systems that triage the inbox, acknowledge every enquiry instantly, draft replies in your voice, run multi-touch follow up sequences that stop when a human replies, and deliver a daily digest, built at a fixed price you own.",
+
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent German review before going live."
+}

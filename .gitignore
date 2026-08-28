@@ -1,0 +1,18 @@
+# OS clutter
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Dependencies (restored from package.json / package-lock.json on install)
+node_modules/
+
+# Editor folders
+.vscode/
+.idea/
+
+# Secrets: never commit real credentials. mail.txt holds the live SMTP
+# password; email config belongs in Vercel environment variables instead.
+mail.txt
+.env
+.env.*
+!.env.example

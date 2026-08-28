@@ -1,0 +1,75 @@
+{
+  "_meta": {
+    "page": "blog post: AI automation for medical clinics (cut no shows, end phone tag)",
+    "slug": "ai-automation-medical-clinics",
+    "sourceFile": "/blog/ai-automation-medical-clinics.html",
+    "outputFile": "/es/blog/ai-automation-medical-clinics.html",
+    "language": "es", "locale": "es-ES", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú.",
+    "note": "Full translated copy lives in the rendered page. This file records head/meta, headings, schema strings (breadcrumb, article headline, FAQ), targeted keywords, and reviewer notes. Post has no lead/audit form, so no window.__i18n block was added."
+  },
+  "head": {
+    "title": "Automatización con IA para clínicas: menos ausencias (2026)",
+    "description": "Cómo la automatización de la clínica reduce las ausencias de pacientes hasta un 38%, atiende cada llamada a toda hora y llena las cancelaciones. Cumple con HIPAA.",
+    "keywords": "automatización con IA para clínicas, reducir ausencias de pacientes con IA, automatización en salud, agendar pacientes con IA, automatización de recepción para clínicas, recepcionista con IA para salud, automatización telefónica para consultas médicas",
+    "canonical": "https://innovariatech.space/es/blog/ai-automation-medical-clinics",
+    "robots": "noindex, follow",
+    "articleSection": "Automatización en salud",
+    "og:title": "Automatización con IA para clínicas: menos ausencias y fin del juego del teléfono (2026)",
+    "og:description": "Cómo la automatización de la clínica reduce las ausencias hasta un 38%, atiende cada llamada a toda hora y llena las cancelaciones de forma automática. Cumple con HIPAA.",
+    "og:locale": "es_ES",
+    "twitter:title": "Automatización con IA para clínicas: menos ausencias y fin del juego del teléfono",
+    "twitter:description": "Cómo la automatización de la clínica reduce las ausencias hasta un 38% y atiende cada llamada a toda hora. Cumple con HIPAA."
+  },
+  "headings": {
+    "h1": "Automatización con IA para clínicas: cómo reducir las ausencias y acabar con el juego del teléfono",
+    "postMeta": "Publicado el 11 de julio de 2026 · por Ahsan Ilyas, fundador de Innovaria Tech · 7 min de lectura",
+    "s1_h2": "El costo oculto de una recepción manual",
+    "s2_h2": "Cómo funciona la automatización con IA en una clínica",
+    "s2_h3_1": "1. Un recepcionista con IA para tus teléfonos, 24/7",
+    "s2_h3_2": "2. Reserva de autoservicio que escribe de vuelta en tu calendario",
+    "s2_h3_3": "3. Recordatorios inteligentes que de verdad reducen las ausencias",
+    "s2_h3_4": "4. Relleno automático de la lista de espera",
+    "s2_h3_5": "5. Registro digital antes de la visita",
+    "s3_h2": "Mantener la automatización en cumplimiento con HIPAA",
+    "s4_h2": "Qué miden las clínicas después de arrancar",
+    "s5_h2": "Cómo empezar sin alterar tu consulta",
+    "faq_h2": "Preguntas frecuentes",
+    "cta_h2": "Deja de perder ingresos por huecos vacíos y llamadas sin atender",
+    "ctaBand_h2": "Descubre dónde tu consulta pierde tiempo e ingresos"
+  },
+  "schema": {
+    "inLanguage": "es",
+    "breadcrumb": ["Inicio", "Blog", "Automatización con IA para clínicas"],
+    "article": {
+      "headline": "Automatización con IA para clínicas: cómo reducir las ausencias y acabar con el juego del teléfono en 2026",
+      "description": "Cómo la automatización con IA para clínicas reduce las ausencias de pacientes hasta un 38%, atiende cada llamada a toda hora y llena las cancelaciones de forma automática."
+    },
+    "faq": [
+      { "q": "¿Qué es la automatización con IA para clínicas?", "a": "La automatización con IA para clínicas es un sistema conectado que atiende llamadas, reserva y reprograma citas, envía recordatorios, llena las cancelaciones desde una lista de espera y recoge los formularios de registro de forma automática. Se encarga del trabajo repetitivo de recepción a toda hora y deriva a tu personal cualquier cosa clínica o compleja." },
+      { "q": "¿Cuánto puede reducir la IA las ausencias de pacientes?", "a": "Las clínicas que usan IA conversacional para recordatorios y confirmaciones suelen reportar reducciones de ausencias de entre 25 y 38 por ciento. Las mayores mejoras vienen de recordatorios constantes y bien programados en el canal que cada paciente prefiere, más la posibilidad de reprogramar con un solo toque." },
+      { "q": "¿La automatización de la clínica con IA cumple con HIPAA?", "a": "Tiene que hacerlo. Cualquier sistema que maneje datos de pacientes requiere un Business Associate Agreement (BAA) firmado, cifrado en tránsito y en reposo, y controles de acceso estrictos. Confirma siempre que un proveedor ofrece un BAA antes de compartir cualquier información de pacientes." },
+      { "q": "¿Cuánto cuesta la automatización de una clínica?", "a": "Una sola automatización, como los recordatorios de ausencias o un agente telefónico con IA, suele empezar en unos pocos miles, y un sistema más completo que conecta agenda, teléfonos y registro sale más caro según el alcance. Un buen socio da un precio cerrado tras analizar tu flujo de trabajo, así que no hay facturas abiertas." },
+      { "q": "¿La IA reemplazará a mi personal de recepción?", "a": "No. Quita el trabajo repetitivo, como las llamadas de recordatorio y las reprogramaciones, para que tu personal pueda concentrarse en los pacientes que tiene delante. El sistema se encarga de las tareas rutinarias y deriva todo lo que necesita un toque humano." }
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish search terms, not literal translations.",
+    "primary": ["automatización con IA para clínicas", "reducir ausencias de pacientes", "recepcionista con IA para consultas médicas"],
+    "secondary": ["agendar pacientes con IA", "automatización de recepción para clínicas", "atención telefónica automatizada para clínicas", "recordatorios de citas para reducir ausencias"]
+  },
+  "translatorNotes": [
+    "Register: informal tú, consistent with the rest of the Spanish set.",
+    "HIPAA / BAA / PHI FLAG: HIPAA is a US legal framework and this post's framing (HHS, CMS, no-show cost to 'the US healthcare system') is US-specific; it does not map to Spanish-speaking jurisdictions (EU/LatAm patients would fall under GDPR, LGPD, etc.). Kept HIPAA and BAA verbatim as in source. PHI glossed once on first use as 'información médica protegida (PHI)' per rules. A native/legal reviewer for the target market should confirm whether HIPAA references need a local-compliance note.",
+    "Healthcare glossary applied: 'no shows' -> 'ausencias'; 'phone tag' -> 'juego del teléfono'; 'front desk' -> 'recepción'; 'waitlist' -> 'lista de espera'; 'cancellation' -> 'cancelación'; 'intake' -> 'registro'; 'provider (clinician)' -> 'profesional'; 'practice' -> 'consulta'; 'clinic' -> 'clínica'.",
+    "EHR: the source post does not use the EHR acronym; it refers to 'scheduling software' -> 'software de agenda'. No EHR gloss needed here.",
+    "Prices/stats kept exact per rules: '$150 billion' -> '150.000 millones de dólares'; '$150,000' -> '150.000 dólares'; '$200 each' -> '200 dólares cada una'; '38%' kept as '38%' in meta and '38 por ciento' in body prose; '15 and 30 percent' -> '15 y 30 por ciento'; '25 to 38 percent' -> '25 al 38 por ciento'; '20 percent' -> '20 por ciento'; '24 to 48 hours' -> '24 y 48 horas'. Date 'July 11, 2026' -> '11 de julio de 2026'; read-time '7 min read' -> '7 min de lectura'.",
+    "Brand/legal names kept: HIPAA, BAA, 'Innovaria Tech Limited', Medicare, Medicaid, HHS (rendered as 'Departamento de Salud y Servicios Humanos de Estados Unidos'), CMS (rendered as 'Centros de Servicios de Medicare y Medicaid'). Author 'Ahsan Ilyas' and LinkedIn URL unchanged.",
+    "Internal links repointed to /es: brand and nav (Home/Services/Industries/Case Studies/About/Blog/Contact), all body cross-links (ai-voice-agents service, lead-automation service, healthcare industry, cost-of-automating-lead-follow-up, ai-real-estate-lead-generation), footer, CTAs. English slugs kept on /es paths; those Spanish targets resolve as the wider translation effort completes.",
+    "Unchanged / left as-is per rules: /privacy, /terms, sitemap.xml, mailto, tel, Unsplash image URLs, gtag, LinkedIn author URL, og:image absolute URL. lang-switch EN link points to the English post /blog/ai-automation-medical-clinics.",
+    "aria-labels localized: 'Toggle menu' -> 'Abrir menú', 'Show services menu' -> 'Mostrar menú de servicios', 'Show industries menu' -> 'Mostrar menú de sectores', 'Main' -> 'Principal', 'Breadcrumb' -> 'Ruta de navegación', brand/home label -> 'Inicio de Innovaria Tech', logo alt -> 'Logotipo de Innovaria Tech'."
+  ],
+  "suggestedLlmsTxtEntry": "/es/blog/ai-automation-medical-clinics — Spanish (es). How AI automation for medical clinics cuts patient no shows up to 38%, answers every call around the clock, fills cancellations from a waitlist, and collects digital intake — plus how it stays HIPAA compliant and where to start without disrupting the practice. DRAFT pending native review.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live. Reviewer should confirm HIPAA/BAA/PHI framing for the target market (US-specific) and consistency of healthcare glossary terms."
+}

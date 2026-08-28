@@ -1,0 +1,93 @@
+{
+  "_meta": {
+    "page": "industries",
+    "sourceFile": "industries.html",
+    "outputFile": "de/industries.html",
+    "language": "de",
+    "locale": "de-DE",
+    "dir": "ltr",
+    "status": "DRAFT — needs native/fluent German review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Standard German, informal du.",
+    "note": "no form"
+  },
+  "head": {
+    "title": "Branchen, die wir automatisieren: Acht Leitfäden | Innovaria Tech",
+    "description": "KI-Automatisierungs-Leitfäden für Immobilien, Gesundheitswesen, E-Commerce, Kanzleien, Finanzen, Bildung, Fertigung und Logistik. Finde deine Branche. Buche eine kostenlose Analyse.",
+    "keywords": "KI-Automatisierung nach Branche, Automatisierung für Immobilien, Automatisierung für das Gesundheitswesen, Automatisierung für E-Commerce, Automatisierung für Kanzleien, Branchen-Leitfäden Automatisierung",
+    "canonical": "https://innovariatech.space/de/industries",
+    "robots": "noindex, follow",
+    "ogLocale": "de_DE",
+    "ogTitle": "Branchen, die wir automatisieren: Acht Leitfäden | Innovaria Tech",
+    "ogDescription": "KI-Automatisierungs-Leitfäden für Immobilien, Gesundheitswesen, E-Commerce, Kanzleien, Finanzen, Bildung, Fertigung und Logistik.",
+    "twitterTitle": "Branchen, die wir automatisieren: Acht Leitfäden | Innovaria Tech",
+    "twitterDescription": "KI-Automatisierungs-Leitfäden für Immobilien, Gesundheitswesen, E-Commerce, Kanzleien, Finanzen, Bildung, Fertigung und Logistik.",
+    "alternates": {
+      "en": "https://innovariatech.space/industries",
+      "es": "https://innovariatech.space/es/industries",
+      "de": "https://innovariatech.space/de/industries",
+      "x-default": "https://innovariatech.space/industries"
+    }
+  },
+  "headings": {
+    "h1": "Wir wissen schon, wo deine Branche Umsatz verliert",
+    "lede": "Jede Branche verliert Umsatz an einer anderen Stelle: Abend-Leads aus Portalen bei Immobilien, Terminausfälle im Gesundheitswesen, abgebrochene Warenkörbe im E-Commerce, verpasste Anrufe bei Kanzleien. Jeder Leitfaden unten benennt, wo Umsatz verloren geht, und das genaue System, das die Lücke schließt.",
+    "sections": [
+      "Acht Leitfäden — Finde deine Branche, sieh, wo Umsatz verloren geht",
+      "Ein Muster darunter — Anderes Vokabular, dieselben drei Lecks",
+      "Deine Branche nicht dabei? Die Lecks sind meistens dieselben."
+    ],
+    "industryCards": [
+      "Immobilien — Sofortige Portal-Antworten, Besichtigungsbuchungen, Makler-Weiterleitung.",
+      "Gesundheitswesen — Terminbuchung, Erinnerungen, Mandatsannahme, weniger Terminausfälle. HIPAA-bewusst.",
+      "E-Commerce — Warenkorb-Rückgewinnung, Support-Bots, Automatisierung des Bestellstatus.",
+      "Kanzleien — Mandatsannahme, Beratungsterminbuchung, Rettung verpasster Anrufe.",
+      "Finanzen & Buchhaltung — Dokumentenerfassung, Kunden-Onboarding und Anfragenbearbeitung für Kanzleien, die in QuickBooks und Xero leben.",
+      "Bildung — Anmeldeanfragen rund um die Uhr beantwortet, Besichtigungsbuchungen und Nachfassen, das interessierte Familien warm hält.",
+      "Fertigung — Erfassung und Weiterleitung von Anfragen, Angebots-Nachverfolgung und Antworten zum Bestellstatus direkt aus deinem ERP.",
+      "Logistik — Antworten zur Sendungsverfolgung auf jedem Kanal, proaktive Verzögerungswarnungen und Workflows zum Nachhaken bei Frachtführern."
+    ]
+  },
+  "schema": {
+    "breadcrumb": [
+      { "position": 1, "name": "Startseite", "item": "https://innovariatech.space/de" },
+      { "position": 2, "name": "Branchen", "item": "https://innovariatech.space/de/industries" }
+    ],
+    "itemList": [
+      { "position": 1, "name": "KI-Automatisierung für Immobilienmakler", "url": "https://innovariatech.space/de/industries/real-estate" },
+      { "position": 2, "name": "KI-Agent für das Gesundheitswesen", "url": "https://innovariatech.space/de/industries/healthcare" },
+      { "position": 3, "name": "KI-Agenten für E-Commerce", "url": "https://innovariatech.space/de/industries/ecommerce" },
+      { "position": 4, "name": "KI-Agent für Kanzleien", "url": "https://innovariatech.space/de/industries/legal" },
+      { "position": 5, "name": "KI-Agenten für Finanzen und Buchhaltung", "url": "https://innovariatech.space/de/industries/finance" },
+      { "position": 6, "name": "KI-Agent für Bildung", "url": "https://innovariatech.space/de/industries/education" },
+      { "position": 7, "name": "KI-Agenten für Fertigung", "url": "https://innovariatech.space/de/industries/manufacturing" },
+      { "position": 8, "name": "KI-Agenten für Logistikprozesse", "url": "https://innovariatech.space/de/industries/logistics" }
+    ]
+  },
+  "targetedKeywords": {
+    "note": "German keyword targets for the industries hub. Not verified against search-volume data; needs a native/SEO review before publishing.",
+    "primary": [
+      "KI-Automatisierung nach Branche",
+      "Branchen-Leitfäden Automatisierung",
+      "KI-Automatisierung für Unternehmen"
+    ],
+    "secondary": [
+      "Automatisierung für Immobilien",
+      "Automatisierung für das Gesundheitswesen",
+      "Automatisierung für E-Commerce",
+      "Automatisierung für Kanzleien",
+      "Automatisierung für Finanzen und Buchhaltung",
+      "Automatisierung für Fertigung und Logistik"
+    ]
+  },
+  "translatorNotes": [
+    "Industry names and both nav dropdowns mirror the finished German siblings (de/about.html, de/industries/real-estate.html) exactly.",
+    "HIPAA is US-specific (Health Insurance Portability and Accountability Act). Kept as 'HIPAA-bewusst' on the healthcare card as in the English source; flagged for reviewers because it does not map to EU/German data-protection law (GDPR/DSGVO).",
+    "'playbook' translated as 'Leitfaden'; 'revenue leak'/'where your industry leaks money' rendered as 'wo deine Branche Umsatz verliert' / 'wo Umsatz verloren geht'; 'no shows' as 'Terminausfälle'; 'intake' as 'Mandatsannahme'.",
+    "'You own everything we build' rendered as 'Dir gehört alles, was wir bauen'.",
+    "ItemList industry links point to /de/industries/<slug>; slugs (real-estate, healthcare, ecommerce, legal, finance, education, manufacturing, logistics) kept in English as URL paths. Breadcrumb URLs point to /de.",
+    "Brand/tool names kept exact: QuickBooks, Xero, ERP, Zillow, IDX. Company name 'Innovaria Tech Limited', email and phone unchanged.",
+    "No form on this page, so no window.__i18n form block was added."
+  ],
+  "suggestedLlmsTxtEntry": "German (draft) industries hub listing eight AI automation playbooks — real estate, healthcare, ecommerce, legal, finance, education, manufacturing, logistics — each naming the most common revenue leak and the system that fixes it.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent German review before going live."
+}

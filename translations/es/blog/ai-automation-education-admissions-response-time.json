@@ -1,0 +1,71 @@
+{
+  "_meta": {
+    "page": "Blog post: AI automation for education — cut admissions response time",
+    "sourceFile": "/blog/ai-automation-education-admissions-response-time.html",
+    "outputFile": "/es/blog/ai-automation-education-admissions-response-time.html",
+    "language": "es", "locale": "es-ES", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú.",
+    "note": "Education-sector marketing post. Prose, nav, breadcrumbs, headings, key takeaways, FAQ, CTAs, alt text and footer translated. No lead/audit <form> exists on this page, so no window.__i18n form block was added. Article + FAQPage + Breadcrumb JSON-LD localized (inLanguage es on Article + FAQPage; Article url/@id/mainEntityOfPage and Breadcrumb URLs repointed to /es). Organization block kept verbatim."
+  },
+  "head": {
+    "title": "Automatización con IA para educación: reduce el tiempo de respuesta en admisiones",
+    "description": "Descubre cómo la automatización con IA reduce el tiempo de respuesta en admisiones, baja las ausencias a las visitas con recordatorios y da seguimiento a los aspirantes que se quedan callados.",
+    "keywords": "automatización con IA para educación, empresa de automatización para colegios, tiempo de respuesta en admisiones, automatización de matrícula, IA para colegios y academias, reducir ausencias a las visitas, automatización de flujos de trabajo en educación",
+    "canonical": "https://innovariatech.space/es/blog/ai-automation-education-admissions-response-time",
+    "robots": "noindex, follow",
+    "og:title": "Automatización con IA para educación: reduce el tiempo de respuesta en admisiones",
+    "og:description": "Descubre cómo la automatización con IA reduce el tiempo de respuesta en admisiones, recuerda a las familias las visitas y entrevistas, y mantiene a tu equipo de matrícula centrado en las conversaciones que necesitan a una persona.",
+    "og:locale": "es_ES",
+    "twitter:title": "Automatización con IA para educación: reduce el tiempo de respuesta en admisiones",
+    "twitter:description": "Los futuros estudiantes preguntan algo y se quedan callados si nadie responde rápido. Así mantiene en movimiento cada consulta la automatización con IA."
+  },
+  "headings": {
+    "hero_h1": "Automatización con IA para educación: reduce el tiempo de respuesta en admisiones y deja de perder aspirantes por el silencio",
+    "kicker": "Educación",
+    "answer_capsule_label": "Respuesta rápida",
+    "key_takeaways": "Puntos clave",
+    "h2_why_inboxes": "Por qué las bandejas de admisiones nunca se ponen al día",
+    "h2_what_costs": "Lo que de verdad le cuesta a un colegio una respuesta lenta",
+    "h2_what_it_does": "Qué hace de verdad la automatización con IA",
+    "h2_stays_with_team": "Qué debería quedarse con tu equipo de matrícula",
+    "h2_connects": "Con qué se conecta",
+    "h2_realistic_build": "Cómo es una construcción realista",
+    "h2_costs": "Cuánto cuesta",
+    "h2_faq": "Preguntas frecuentes",
+    "h2_related": "Lecturas relacionadas",
+    "cta_band_h2": "Descubre lo que una respuesta lenta le está costando a tus cifras de matrícula"
+  },
+  "schema": {
+    "breadcrumb": ["Inicio", "Blog", "Automatización con IA para educación"],
+    "article": {
+      "headline": "Automatización con IA para educación: reduce el tiempo de respuesta en admisiones y deja de perder aspirantes por el silencio",
+      "description": "Los futuros estudiantes preguntan algo y se quedan callados si nadie responde rápido. Descubre cómo la automatización con IA reduce el tiempo de respuesta en admisiones, recuerda a las familias las visitas y entrevistas, y mantiene a tu equipo de matrícula centrado en las conversaciones que necesitan a una persona.",
+      "inLanguage": "es"
+    },
+    "faq": [
+      "¿Esto va a sustituir a nuestros orientadores de admisiones?",
+      "¿Funciona con nuestro CRM o sistema de información estudiantil actual?",
+      "¿Qué pasa con una pregunta sobre ayuda financiera o una situación familiar delicada?",
+      "¿De verdad puede reducir las ausencias a las visitas, no solo responder emails?",
+      "¿Cuánto tarda una construcción como esta?",
+      "¿El sistema es nuestro una vez construido?"
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish search terms, not literal translations.",
+    "primary": ["automatización con IA para educación", "tiempo de respuesta en admisiones", "automatización de matrícula"],
+    "secondary": ["reducir ausencias a las visitas al campus", "IA para colegios y academias", "responder consultas de admisiones automáticamente"]
+  },
+  "translatorNotes": [
+    "Register: informal tú, consistent with the rest of the Spanish site.",
+    "Education glossary applied: enrollment -> matrícula; admissions -> admisiones; enquiry/inquiry -> consulta; family/families -> familia(s); counselor -> orientador; campus tour -> visita al campus; applicant -> aspirante; no shows -> ausencias; 'X min read' -> 'X min de lectura'; date 'August 10, 2026' -> '10 de agosto de 2026'.",
+    "FLAG for reviewer: 'fees' was rendered as 'precios' (e.g. 'modest monthly platform fees' -> 'unos precios mensuales moderados de plataforma'). Confirm whether 'precios' vs 'tasas/cuotas' is the preferred term in the client's education-market Spanish. Note: 'tuition' was translated as 'matrícula' throughout.",
+    "Currency: 'between one thousand and five thousand dollars' -> 'entre 1.000 y 5.000 dólares'; 'the low hundreds of dollars' -> 'unos cientos de dólares'. Kept 'SMS', 'CRM', 'API', 'n8n', 'Make', 'Zapier'.",
+    "Internal links repointed to /es (brand, nav, breadcrumbs, services, industries, case-studies, about, blog, contact, inline CTAs, related-reading, footer). Left unchanged: /privacy, /terms, sitemap.xml, mailto, tel, the LinkedIn author URL, and the Unsplash image URLs.",
+    "No lead/audit <form> on this page, so no window.__i18n form block was added.",
+    "lang-switch EN link -> /blog/ai-automation-education-admissions-response-time. English source got the 3 hreflang alternates + EN/ES lang-switch (2 insertions)."
+  ],
+  "suggestedLlmsTxtEntry": "/es/blog/ai-automation-education-admissions-response-time — Spanish (es). How AI automation cuts admissions response time for schools: instant answers to routine inquiries, reminders that reduce tour and interview no shows, and automatic follow-up with quiet applicants, while sensitive cases route to a person. DRAFT pending native review.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live."
+}

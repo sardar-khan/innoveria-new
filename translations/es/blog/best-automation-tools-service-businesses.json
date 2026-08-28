@@ -1,0 +1,58 @@
+{
+  "_meta": {
+    "page": "Blog post — Best Automation Tools for Service Businesses in 2026",
+    "sourceFile": "/blog/best-automation-tools-service-businesses.html",
+    "outputFile": "/es/blog/best-automation-tools-service-businesses.html",
+    "language": "es", "locale": "es-ES", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú.",
+    "note": "Full blog post translated: head/meta, 3 JSON-LD blocks (Article, Organization, BreadcrumbList), nav, breadcrumbs, hero, lede, body sections, one comparison table (platform vs best-for vs watch-out-for), bullet list, CTA band, footer, alt text and aria-labels. No lead/audit form on this page, so no window.__i18n block was added. Internal links repointed to /es; external links, /privacy, /terms, sitemap, mailto, tel unchanged. Tool names n8n, Make, Zapier and WhatsApp kept exact."
+  },
+  "head": {
+    "title": "Mejores herramientas de automatización para negocios de servicios 2026",
+    "description": "n8n vs Make vs Zapier en 2026, más las plataformas de voz con IA y chatbots que desplegamos. Contrapartidas honestas de una agencia que usa las tres.",
+    "keywords": "mejores herramientas de automatización 2026, n8n vs Make vs Zapier, plataformas de agentes de voz con IA, herramientas de chatbot para empresas",
+    "canonical": "https://innovariatech.space/es/blog/best-automation-tools-service-businesses",
+    "robots": "noindex, follow",
+    "og:title": "Las mejores herramientas de automatización para negocios de servicios en 2026",
+    "og:description": "n8n vs Make vs Zapier, más plataformas de voz y chatbots. Contrapartidas honestas, sin enlaces de afiliados.",
+    "og:locale": "es_ES",
+    "twitter:title": "Las mejores herramientas de automatización para negocios de servicios en 2026",
+    "twitter:description": "n8n vs Make vs Zapier, más plataformas de voz y chatbots. Contrapartidas honestas, sin enlaces de afiliados."
+  },
+  "headings": {
+    "hero_h1": "Las mejores herramientas de automatización para negocios de servicios en 2026",
+    "h2_workflow": "Plataformas de flujos de trabajo: el motor que hay debajo de todo",
+    "h3_n8n": "n8n: la opción potente",
+    "h3_make": "Make: el punto medio visual",
+    "h3_zapier": "Zapier: el botón fácil",
+    "h2_voice": "Plataformas de voz con IA",
+    "h2_chatbots": "Chatbots entrenados con tu negocio",
+    "h2_choose": "Cómo elegir sin darle demasiadas vueltas",
+    "cta_band_h2": "Sáltate la investigación de herramientas. Consigue el sistema diseñado para ti."
+  },
+  "schema": {
+    "breadcrumb": ["Inicio", "Blog", "Las mejores herramientas de automatización para negocios de servicios en 2026"],
+    "article": {
+      "headline": "Las mejores herramientas de automatización para negocios de servicios en 2026",
+      "inLanguage": "es"
+    },
+    "faq": []
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish search terms, not literal translations.",
+    "primary": ["mejores herramientas de automatización 2026", "n8n vs Make vs Zapier", "herramientas de automatización para negocios de servicios"],
+    "secondary": ["plataformas de agentes de voz con IA", "herramientas de chatbot para empresas", "automatización de flujos de trabajo para pymes"]
+  },
+  "translatorNotes": [
+    "Register: informal tú throughout, consistent with the rest of the es effort.",
+    "Comparison TABLE translated in full (header row and every cell): headers 'Plataforma / Ideal para / A tener en cuenta'; tool names n8n, Make, Zapier kept exact in the first column; no numeric or price values in the table.",
+    "Tool and product names kept exact: n8n, Make, Zapier, WhatsApp, CRM, ERP, API. Brand/legal names kept exact: Innovaria Tech, Innovaria Tech Limited, Ahsan Ilyas.",
+    "Terms: tools -> herramientas; tradeoffs -> contrapartidas; self hosted -> autoalojado; affiliate links -> enlaces de afiliados; workflows -> flujos de trabajo; handoffs -> traspasos; stack kept as 'stack'; read-time '7 min read' -> '7 min de lectura'; date 'July 11, 2026' -> '11 de julio de 2026' (datePublished/dateModified timestamp kept 2026-07-11). Number 500 kept as '500'.",
+    "Internal links repointed to /es equivalents (blog cross-links to how-to-automate-your-first-lead-reply-with-n8n, ai-chatbots-for-business-what-they-can-and-cannot-do, how-much-does-ai-automation-cost, cost-of-automating-lead-follow-up, how-real-estate-uses-ai-automation-2026, how-to-choose-ai-automation-agency, ai-automation-manufacturers-cut-quote-turnaround; /es/services/*, /es/contact, footer, breadcrumbs, brand). English slugs kept in paths. lang-switch EN link -> /blog/best-automation-tools-service-businesses.",
+    "External links unchanged: LinkedIn author, sitemap. /privacy and /terms left as-is. No /veyrais link present on this page.",
+    "No lead/audit <form> exists on this post, so no window.__i18n form block was inserted."
+  ],
+  "suggestedLlmsTxtEntry": "/es/blog/best-automation-tools-service-businesses — Spanish (es). An agency's honest comparison of the best automation tools for service businesses in 2026: n8n vs Make vs Zapier for workflows, AI voice platforms for calls, and chatbots trained on your own content, with a quick how-to-choose guide. DRAFT pending native review.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live."
+}

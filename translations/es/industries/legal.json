@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "page": "Industry — Legal",
+    "sourceFile": "/industries/legal.html",
+    "outputFile": "/es/industries/legal.html",
+    "language": "es", "locale": "es-ES", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú.",
+    "note": "Has a contact form, so window.__i18n form block is embedded. Full copy lives in the rendered page; this file records head/meta, schema strings, keywords, and notes."
+  },
+  "head": {
+    "title": "Agente de IA para el sector legal: no pierdas admisiones | Innovaria",
+    "description": "Un agente de IA para la admisión legal que atiende cada llamada, revisa conflictos y agenda consultas mientras estás en el juzgado. Reserva una auditoría gratis.",
+    "canonical": "https://innovariatech.space/es/industries/legal",
+    "robots": "noindex, follow",
+    "og:title": "Agente de IA para el sector legal: no pierdas admisiones | Innovaria",
+    "og:description": "Cada llamada atendida, los detalles del caso capturados una sola vez, los conflictos revisados y las consultas cualificadas agendadas mientras facturas horas.",
+    "og:locale": "es_ES"
+  },
+  "headings": {
+    "hero_h1": "El agente de IA para la admisión legal que atiende mientras estás en el juzgado",
+    "problems_h2": "Por dónde desaparecen en silencio los contratos",
+    "solution_h2": "Una admisión que funciona mientras facturas horas",
+    "outcomes_h2": "Los números tres meses después del arranque",
+    "how_h2": "En marcha en tu despacho en dos a cuatro semanas",
+    "why_h2": "Primero la confidencialidad, asesoría nunca",
+    "case_h2": "El bufete de litigios que dejó de perder llamadas por las horas de juzgado",
+    "tech_h2": "Construido sobre las herramientas que tu despacho ya usa",
+    "faq_h2": "Automatización de la admisión legal, respondida sin rodeos",
+    "final_cta_h2": "¿Cuántas personas colgaron mientras estabas en el juzgado?",
+    "contact_h2": "Solicita tu auditoría gratis de admisión"
+  },
+  "schema": {
+    "service_name": "Agente de IA para el sector legal",
+    "service_description": "Un agente de admisión con IA que atiende cada llamada, captura los detalles del caso una sola vez, revisa conflictos e idoneidad, agenda consultas cualificadas en los calendarios de los abogados, y responde por SMS a cada llamada perdida, con la confidencialidad diseñada desde el inicio y sin dar asesoría legal.",
+    "audienceType": "Bufetes, abogados independientes y despachos jurídicos",
+    "breadcrumb": ["Inicio", "Sectores", "Legal"],
+    "faq": [
+      "¿Qué es un agente de IA para el sector legal?",
+      "¿Dará asesoría legal?",
+      "¿Cómo se protege la confidencialidad del cliente?",
+      "¿Cuánto cuesta un agente de IA para el sector legal?",
+      "¿Se integra con Clio o con nuestro sistema de gestión del despacho?"
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish search terms, not literal translations.",
+    "primary": ["agente de IA para bufetes", "automatización de admisión de clientes legal", "software de captación de clientes para abogados"],
+    "secondary": ["atención de llamadas para despachos de abogados", "agendar consultas legales automáticamente", "recepcionista virtual para abogados", "gestión de clientes potenciales bufete"]
+  },
+  "translatorNotes": [
+    "Register: informal tú, consistent with Phase 1.",
+    "'intake' (client intake) -> 'admisión' throughout; native reviewer in Spain may prefer 'captación de clientes' for marketing SEO (used in secondary keywords). 'law firm' -> 'bufete' / 'despacho'; 'attorney' -> 'abogado'; 'matter' (legal matter) -> 'asunto'; 'retainer'/'retained' -> 'contrato'/'contratado' and 'hoja de encargo' for engagement letter.",
+    "'conflicts screening' -> 'revisión de conflictos'; 'fit' -> 'idoneidad'. 'court hours' -> 'horas de juzgado'; 'hearings' -> 'vistas'.",
+    "'privilege' (attorney-client) -> 'secreto profesional' (standard ES legal term). 'billable hours' -> 'horas facturables'.",
+    "'Clio' and 'practice management system' -> 'Clio' / 'sistema de gestión del despacho'. Brand names (Twilio, Calendly, n8n, Make) unchanged.",
+    "Prices/figures unchanged, currency named: '$1,000 and $5,000' -> '1.000 y 5.000 dólares'; '$50 to $300' -> '50 a 300 dólares'.",
+    "Compliance/ethics framing (confidentiality, no legal advice) is jurisdiction-sensitive; a reviewer should confirm wording fits the target market's bar rules — FLAG.",
+    "Blog 'related reading' links point to English blog posts (Phase 3 not started); anchor text translated. Nav/footer service + industry links point to /es."
+  ],
+  "suggestedLlmsTxtEntry": "/es/industries/legal — Spanish (es). AI intake agent for law firms: answers every call in/out of court, captures case details once, screens conflicts and fit, books qualified consultations into attorney calendars, texts back missed callers. No legal advice; confidentiality designed in; integrates with Clio. Build $1,000–$5,000 + $50–$300/mo. DRAFT pending native review.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live. Legal-ethics/confidentiality wording should be checked against the target jurisdiction's bar rules."
+}

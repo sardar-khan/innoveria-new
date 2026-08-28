@@ -1,0 +1,81 @@
+{
+  "_meta": {
+    "page": "AI social automation: reply to every comment and DM without hiring someone (blog post)",
+    "sourceFile": "blog/ai-social-automation-reply-comments-dms-without-hiring.html",
+    "outputFile": "es/blog/ai-social-automation-reply-comments-dms-without-hiring.html",
+    "language": "es",
+    "locale": "es-ES",
+    "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú.",
+    "note": "No lead/audit form present in this post, so the window.__i18n form-strings script was NOT added."
+  },
+  "head": {
+    "title": "Automatización social con IA: responde cada comentario y DM",
+    "description": "Descubre cómo la automatización social con IA responde comentarios y DMs, califica leads y respeta las reglas de las plataformas sin que tengas que contratar a nadie.",
+    "keywords": "automatización social con IA, empresa de automatización de redes sociales, automatización de DM en Instagram, respuesta a comentarios con IA, automatizar DMs pequeña empresa, coste automatización social, agente de redes sociales con IA",
+    "canonical": "https://innovariatech.space/es/blog/ai-social-automation-reply-comments-dms-without-hiring",
+    "robots": "noindex, follow",
+    "ogTitle": "Automatización social con IA: responde cada comentario y DM",
+    "ogDescription": "Descubre cómo la automatización social con IA responde comentarios y DMs, califica leads y respeta las reglas de las plataformas sin que tengas que contratar a nadie.",
+    "ogLocale": "es_ES"
+  },
+  "headings": {
+    "h1": "Automatización social con IA: responde cada comentario y DM sin contratar a nadie",
+    "h2": [
+      "Por qué la bandeja de entrada nunca se vacía de verdad",
+      "Lo que una respuesta lenta le cuesta de verdad a un negocio en redes",
+      "Qué hace en realidad la automatización social con IA",
+      "Qué debería quedarse con una persona real",
+      "Con qué se conecta",
+      "Cómo se ve una construcción realista",
+      "Cuánto cuesta",
+      "Preguntas frecuentes",
+      "Lecturas relacionadas"
+    ]
+  },
+  "schema": {
+    "breadcrumb": [
+      "Inicio",
+      "Blog",
+      "Automatización social con IA"
+    ],
+    "articleHeadline": "Automatización social con IA: responde cada comentario y DM sin contratar a nadie",
+    "faq": [
+      "¿Esto hará que marquen o bloqueen mi cuenta?",
+      "¿La gente sabrá que está hablando con un bot?",
+      "¿Esto reemplaza la publicación de contenido o a un community manager?",
+      "¿Qué pasa con una queja o un comentario negativo?",
+      "¿Cuánto tarda una construcción como esta?",
+      "¿El sistema es nuestro una vez construido?"
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish-market search terms for social media DM/comment automation, not literal translations of the English keywords.",
+    "primary": [
+      "automatización de redes sociales con IA",
+      "responder DMs de Instagram automáticamente",
+      "automatizar comentarios y mensajes directos"
+    ],
+    "secondary": [
+      "automatización de DM en Instagram",
+      "responder comentarios con IA",
+      "chatbot para redes sociales pequeña empresa",
+      "calificar leads en redes sociales",
+      "automatización de WhatsApp para negocios"
+    ]
+  },
+  "translatorNotes": [
+    "Informal tú used throughout, neutral international Spanish.",
+    "No em-dashes used anywhere; the source's comma-spliced appositive style was kept with commas/colons in Spanish.",
+    "Meta platform/policy names kept literal: 'Business Partner', 'Meta', 'Business Partner de Meta'. Brand/platform names kept as-is: Meta, Instagram, Facebook, WhatsApp, n8n, Make, Zapier. Acronyms kept: DM, CRM, API, IA.",
+    "Currency localized in prose: '$1,000 and $5,000' -> '1.000 y 5.000 dólares'; 'low hundreds of dollars' -> 'unos pocos cientos de dólares'.",
+    "Terminology: comment -> comentario, DM -> DM, keyword -> palabra clave, flagged/banned -> marcada/bloqueada, lead -> lead, 'social media manager' -> 'community manager', 'X min read' -> 'X min de lectura', 'August 13, 2026' -> '13 de agosto de 2026'.",
+    "Internal same-site links repointed to /es (nav, breadcrumbs, footer, in-body /es/blog and /es/services links, /es/contact). Left unchanged: /privacy, /terms, sitemap.xml, mailto:, tel:, and external URLs (unsplash images, LinkedIn author profile, googletagmanager).",
+    "Language switcher added to nav (ES current, EN link to English post). English source received reciprocal EN/ES switcher and 3 hreflang alternates.",
+    "Article and FAQPage JSON-LD carry inLanguage 'es'; Article mainEntityOfPage @id and breadcrumb item URLs repointed to /es. author/publisher/image/dates/about labels left unchanged (about names kept in English as entity identifiers).",
+    "Asset paths changed from ../assets, ../css, ../js, ../favicon.ico to absolute /assets, /css, /js, /favicon.ico. gtag and og:image kept absolute."
+  ],
+  "suggestedLlmsTxtEntry": "Spanish translation of the AI social automation explainer: how automated replies to comments and DMs qualify leads and stay inside Meta platform rules without hiring extra staff.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live."
+}

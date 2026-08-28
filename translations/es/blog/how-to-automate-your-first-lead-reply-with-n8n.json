@@ -1,0 +1,84 @@
+{
+  "_meta": {
+    "page": "Blog post: How to automate your first lead reply with n8n",
+    "sourceFile": "/blog/how-to-automate-your-first-lead-reply-with-n8n.html",
+    "outputFile": "/es/blog/how-to-automate-your-first-lead-reply-with-n8n.html",
+    "language": "es", "locale": "es-ES", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú.",
+    "note": "Technical n8n step-by-step tutorial. Prose/instructions translated; n8n node names (Webhook, Set), field names (name, email, message, source), HTTP method POST, the Production setting label, and webhook/URL terminology kept literal. No lead/audit <form> on this page, so no window.__i18n form block was added. Article + HowTo + FAQ + Breadcrumb JSON-LD localized."
+  },
+  "head": {
+    "title": "Cómo automatizar tu primera respuesta a leads con n8n",
+    "description": "Una guía real y numerada para crear tu primera respuesta automática a leads en n8n, desde el disparador webhook hasta el email instantáneo. Sin programar.",
+    "keywords": "tutorial n8n respuesta a leads, cómo automatizar la respuesta a leads, tutorial webhook n8n, automatizar respuesta de email n8n, tutorial n8n para principiantes, automatización de leads sin código, flujo n8n paso a paso",
+    "canonical": "https://innovariatech.space/es/blog/how-to-automate-your-first-lead-reply-with-n8n",
+    "robots": "noindex, follow",
+    "og:title": "Cómo automatizar tu primera respuesta a leads con n8n",
+    "og:description": "Una guía real y numerada para crear tu primera respuesta automática a leads en n8n, desde el disparador webhook hasta el email instantáneo.",
+    "og:locale": "es_ES",
+    "twitter:title": "Cómo automatizar tu primera respuesta a leads con n8n",
+    "twitter:description": "Una guía real y numerada para crear tu primera respuesta automática a leads en n8n."
+  },
+  "headings": {
+    "hero_h1": "Cómo automatizar tu primera respuesta a leads con n8n: un tutorial paso a paso",
+    "kicker": "Tutoriales",
+    "answer_capsule_label": "Respuesta rápida",
+    "key_takeaways": "Puntos clave",
+    "h2_before_start": "Lo que necesitas antes de empezar",
+    "h2_step1": "Paso 1: crea el disparador webhook",
+    "h2_step2": "Paso 2: estructura los datos entrantes",
+    "h2_step3": "Paso 3: redacta una respuesta usando tu propia información",
+    "h2_step4": "Paso 4: envía la respuesta automáticamente",
+    "h2_step5": "Paso 5: registra el lead en un sitio que tu equipo pueda ver",
+    "h2_step6": "Paso 6: cambia al webhook de producción y vuelve a probar",
+    "h2_where_stops": "Dónde esta versión sencilla deja de ser suficiente",
+    "h2_fully_built": "Lo que suele incluir una versión totalmente construida",
+    "h2_faq": "Preguntas frecuentes",
+    "h2_related": "Lecturas relacionadas",
+    "cta_band_h2": "¿Quieres esto construido bien en lugar de mantenerlo tú mismo?"
+  },
+  "schema": {
+    "breadcrumb": ["Inicio", "Blog", "Cómo automatizar tu primera respuesta a leads con n8n"],
+    "article": {
+      "headline": "Cómo automatizar tu primera respuesta a leads con n8n: un tutorial paso a paso",
+      "description": "Una guía real y numerada para crear tu primera respuesta automática a leads en n8n, desde el disparador webhook hasta el email instantáneo. Sin programar y sin resúmenes vagos: pasos reales que puedes seguir hoy mismo.",
+      "inLanguage": "es"
+    },
+    "howto": {
+      "name": "Cómo automatizar tu primera respuesta a leads con n8n",
+      "steps": [
+        "Crea el disparador webhook",
+        "Estructura los datos entrantes",
+        "Redacta una respuesta usando tu propia información",
+        "Envía la respuesta automáticamente",
+        "Registra el lead en un sitio que tu equipo pueda ver",
+        "Cambia al webhook de producción y vuelve a probar"
+      ]
+    },
+    "faq": [
+      "¿Necesito saber programar para crear esto?",
+      "¿Cuánto tiempo lleva de verdad crearlo la primera vez?",
+      "¿Puede esto gestionar una pregunta compleja o poco habitual de un lead?",
+      "¿Cuál es la diferencia entre la URL de webhook de prueba y la de producción?",
+      "¿Por qué pagaría a alguien para crear esto si puedo seguir el tutorial yo mismo?",
+      "¿Funciona con cualquier formulario de contacto de un sitio web?"
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish search terms, not literal translations.",
+    "primary": ["automatizar respuesta a leads n8n", "tutorial n8n paso a paso", "automatización de leads sin código"],
+    "secondary": ["cómo configurar un webhook en n8n", "responder leads automáticamente", "n8n para principiantes"]
+  },
+  "translatorNotes": [
+    "Register: informal tú, consistent with the rest of the Spanish site.",
+    "Technical strings kept literal: n8n node names (Webhook, Set), the field names name/email/message/source, HTTP method POST, and the Production webhook setting label. Only surrounding prose/instructions translated.",
+    "Terms: lead -> lead (kept); webhook -> webhook; trigger -> disparador; follow up -> seguimiento; roadmap -> hoja de ruta (not used here). 'CRM' kept.",
+    "Currency: 'between one thousand and five thousand dollars' -> 'entre 1.000 y 5.000 dólares'. Read time '11 min read' -> '11 min de lectura'. Date 'August 23, 2026' -> '23 de agosto de 2026'.",
+    "Brand/tool names kept: n8n, Typeform, Webflow, Gmail, Make, Zapier, LinkedIn.",
+    "Internal links repointed to /es (brand, nav, services, industries, case-studies, about, blog, contact, related-reading, inline CTAs). Left unchanged: /privacy, /terms, sitemap.xml, mailto, tel, the external n8n docs URL, the LinkedIn author URL, and the Unsplash image URLs.",
+    "lang-switch EN link -> /blog/how-to-automate-your-first-lead-reply-with-n8n. English source got the 3 hreflang alternates + EN/ES lang-switch."
+  ],
+  "suggestedLlmsTxtEntry": "/es/blog/how-to-automate-your-first-lead-reply-with-n8n — Spanish (es). A hands-on n8n tutorial that builds a four-node automated lead-reply workflow (webhook trigger, drafting, email send, logging), with honest limits and when to bring in help. DRAFT pending native review.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live."
+}

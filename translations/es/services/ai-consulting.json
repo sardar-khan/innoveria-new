@@ -1,0 +1,53 @@
+{
+  "_meta": {
+    "page": "service: AI Consulting",
+    "sourceFile": "/services/ai-consulting.html",
+    "outputFile": "/es/services/ai-consulting.html",
+    "language": "es", "locale": "es-ES", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú.",
+    "note": "Full translated copy is in the rendered page. This file records head/meta, schema strings, targeted keywords, and reviewer notes. This is the last Phase 1 service page — with it, all nine /es service pages exist and cross-link to each other."
+  },
+  "head": {
+    "title": "Consultoría de IA: planifica antes de construir | Innovaria",
+    "description": "Servicios de consultoría de IA que mapean tus flujos, ordenan las automatizaciones por retorno y te entregan una hoja de ruta a precio cerrado.",
+    "canonical": "https://innovariatech.space/es/services/ai-consulting",
+    "robots": "noindex, follow",
+    "og": { "title": "Consultoría de IA: planifica antes de construir | Innovaria", "description": "Auditamos tus flujos, ordenamos las oportunidades de IA por retorno y te entregamos una hoja de ruta a precio cerrado. Neutrales ante proveedores, sin ataduras.", "locale": "es_ES" }
+  },
+  "headings": {
+    "hero_h1": "Servicios de consultoría de IA que te dicen qué automatizar primero",
+    "problems_h2": "Todos dicen haz IA. Nadie dice qué, ni en qué orden",
+    "solution_h2": "Un plan ordenado, con precio antes de comprometerte",
+    "outcomes_h2": "Lo que cambia un plan de verdad",
+    "how_h2": "De la primera llamada a una hoja de ruta financiada en cuatro pasos",
+    "why_h2": "Consejo de gente que construye estos sistemas cada semana",
+    "proof_h2": "La auditoría que encontró la fuga de una inmobiliaria de 12 agentes",
+    "tech_h2": "Recomendamos de todo el mercado, no de una lista de socios",
+    "faq_h2": "Servicios de consultoría de IA, respondidos sin rodeos",
+    "finalCta_h2": "Empieza con la versión gratis de este mismo proceso",
+    "contact_h2": "Solicita tu auditoría de automatización gratis"
+  },
+  "schema": {
+    "inLanguage": "es",
+    "serviceName": "Servicios de consultoría de IA",
+    "serviceDescription": "Servicios de consultoría de IA neutrales ante proveedores: auditorías de flujos de trabajo en toda la operación, oportunidades ordenadas por retorno, una hoja de ruta de automatización a precio cerrado e implementación opcional sin ataduras.",
+    "breadcrumb": ["Inicio", "Servicios", "Servicios de consultoría de IA"],
+    "faqCount": 6
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish search terms, not literal translations.",
+    "primary": ["consultoría de IA", "consultoría de inteligencia artificial", "asesoría de IA para empresas"],
+    "secondary": ["estrategia de IA para negocios", "qué automatizar primero con IA", "hoja de ruta de automatización"],
+    "longTail": ["cómo priorizar proyectos de IA por retorno", "consultoría de IA neutral sin ataduras", "plan de automatización con IA para pymes"]
+  },
+  "translatorNotes": [
+    "Register: informal tú, consistent across the set.",
+    "'vendor neutral' -> 'neutral ante proveedores'; 'payback' -> 'retorno'; 'roadmap' -> 'hoja de ruta'; 'tool sprawl' -> 'proliferación de herramientas'; 'guardrails' -> 'salvaguardas'.",
+    "'the board' -> 'el consejo' (board of directors). 'day rates' -> 'tarifas por día'. 'onboarding' (of a new hire) -> 'incorporación'.",
+    "Prices/timeframes unchanged. Product names kept (n8n, Make, Zapier, OpenAI, Claude, Twilio).",
+    "Cross-links: ALL nine service links in nav and footer now point to /es — with this page, the full Spanish service set exists. The three blog links (what-ai-consulting, how-much-cost, how-to-choose) and the finance industry link still fall back to English (Phase 2/3 content).",
+    "Breadcrumb 'Servicios' points to English /services hub (Phase 2 page not yet translated)."
+  ],
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live."
+}

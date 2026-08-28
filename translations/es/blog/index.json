@@ -1,0 +1,60 @@
+{
+  "_meta": {
+    "page": "Blog hub (index)",
+    "sourceFile": "/blog/index.html",
+    "outputFile": "/es/blog/index.html",
+    "language": "es", "locale": "es-ES", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú.",
+    "note": "24 post cards translated (kicker/category, title, excerpt, meta, CTA). Card links point to /es/blog/<slug> (English slugs kept). A window.__i18n.blog block localizes the JS load-more count; required a small backward-compatible edit to js/main.js (describe/updateCount now read window.__i18n.blog with English fallback)."
+  },
+  "head": {
+    "title": "Blog de automatización: guías y costos reales | Innovaria",
+    "description": "Guías prácticas sobre IA y automatización para equipos inmobiliarios, clínicas de salud, marcas de ecommerce y bufetes. Costos, herramientas y guías sin relleno.",
+    "keywords": "blog de automatización, guías de automatización con IA, costo de automatización empresarial, comparación de herramientas de automatización",
+    "canonical": "https://innovariatech.space/es/blog",
+    "robots": "noindex, follow",
+    "og:title": "Blog de automatización | Innovaria Tech",
+    "og:description": "Guías prácticas sobre IA y automatización: costos, herramientas y guías sin relleno.",
+    "og:locale": "es_ES"
+  },
+  "headings": {
+    "hero_h1": "Guías de automatización sin relleno",
+    "cta_h2": "Leer es investigar. La auditoría es acción."
+  },
+  "schema": {
+    "breadcrumb": ["Inicio", "Blog"]
+  },
+  "i18nBlogStrings": {
+    "guide1": "1 guía",
+    "guides": "{n} guías",
+    "allShown": "Se muestran las {all}",
+    "showing": "Mostrando {shown} de {total}",
+    "loadMoreButton": "Cargar más guías"
+  },
+  "categoryGlossary": {
+    "Product": "Producto", "Tutorials": "Tutoriales", "Buyer Guides": "Guías de compra",
+    "Healthcare": "Salud", "Legal": "Legal", "AI consulting": "Consultoría de IA",
+    "Social automation": "Automatización de redes sociales", "Generative AI": "IA generativa",
+    "AI chatbots": "Chatbots con IA", "Education": "Educación", "Logistics": "Logística",
+    "Manufacturing": "Manufactura", "Buyer's guide": "Guía de compra",
+    "Finance & Accounting": "Finanzas y contabilidad", "Costs": "Costos", "Ecommerce": "Ecommerce",
+    "Home services": "Servicios a domicilio", "Real estate": "Inmobiliaria", "Tools": "Herramientas"
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish search terms, not literal translations.",
+    "primary": ["blog de automatización con IA", "guías de automatización para negocios", "automatización de procesos empresariales"],
+    "secondary": ["cuánto cuesta la automatización", "mejores herramientas de automatización", "n8n vs Make vs Zapier"]
+  },
+  "translatorNotes": [
+    "Register: informal tú, consistent with Phases 1–2.",
+    "'without the fluff' -> 'sin relleno'; 'playbooks' -> 'guías'; 'no shows' -> 'ausencias'; 'RFQ' kept; 'WISMO'/'where is my order' -> '¿dónde está mi pedido?'; 'where is my shipment' -> '¿dónde está mi envío?'; 'fair housing' -> 'vivienda justa'; 'break even' -> 'punto de equilibrio'; 'nurture sequences' -> 'secuencias de cultivo'.",
+    "Dates: 'August 2026' -> 'Agosto 2026', 'July 2026' -> 'Julio 2026'; 'X min read' -> 'X min de lectura'. Read-time numbers unchanged.",
+    "Stats inside excerpts kept exact ('12,000 agencies' -> '12.000 agencias', '65 percent' -> '65 por ciento', '62/86 percent', '40 to 60 percent', '38 percent', '70 percent', '60%'). Percent sign vs 'por ciento' matches source usage.",
+    "Product/brand names kept: Veyrais, n8n, Make, Zapier, LinkedIn, Meta, Shopify, ServiceTitan, Jobber, Housecall Pro, TMS, ERP, HIPAA, CRM, DM.",
+    "All 24 card links -> /es/blog/<slug> (English slugs unchanged); those 23 Spanish posts are being built in this Phase 3 pass, so they resolve once complete. lang-switch EN link -> /blog.",
+    "js/main.js was edited (backward compatible) so the load-more count reads window.__i18n.blog; English blog index unaffected because it has no window.__i18n."
+  ],
+  "suggestedLlmsTxtEntry": "/es/blog — Spanish (es). Innovaria Tech automation blog hub: 24 practical, no-fluff guides on AI and automation across real estate, healthcare, ecommerce, legal, finance, education, manufacturing, logistics, and home services — costs, tool comparisons, tutorials, and buyer guides written from shipped builds. DRAFT pending native review.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live. Card titles/excerpts should be re-checked against the (also-draft) translated post titles for consistency."
+}

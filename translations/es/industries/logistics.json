@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "page": "Industry — Logistics",
+    "sourceFile": "/industries/logistics.html",
+    "outputFile": "/es/industries/logistics.html",
+    "language": "es", "locale": "es-ES", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú.",
+    "note": "Has a contact form, so window.__i18n form block is embedded. Full copy lives in the rendered page; this file records head/meta, schema strings, keywords, and notes. Final page of Phase 2 (Industries)."
+  },
+  "head": {
+    "title": "Agentes de IA para operaciones de logística: menos llamadas | Innovaria",
+    "description": "Agentes de IA para operaciones de logística: estado del envío respondido 24/7 desde tu TMS, alertas de retraso proactivas, recogida de comprobantes de entrega. Reserva una auditoría gratis.",
+    "canonical": "https://innovariatech.space/es/industries/logistics",
+    "robots": "noindex, follow",
+    "og:title": "Agentes de IA para operaciones de logística: menos llamadas | Innovaria",
+    "og:description": "Un agente de seguimiento que responde el estado del envío por teléfono, email y WhatsApp desde datos del TMS en vivo, más alertas de retraso proactivas y recogida automática de comprobantes de entrega.",
+    "og:locale": "es_ES"
+  },
+  "headings": {
+    "hero_h1": "Agentes de IA para operaciones de logística que responden '¿dónde está mi envío?' por ti",
+    "problems_h2": "Por dónde desaparecen en silencio las horas de la central",
+    "solution_h2": "Los clientes se mantienen informados, la central se mantiene en la carga",
+    "outcomes_h2": "Lo que el sistema entrega tras el arranque",
+    "how_h2": "En marcha en tu operación en dos a cuatro semanas",
+    "why_h2": "Tu TMS, tus cuentas, tu sistema",
+    "case_h2": "El problema del '¿dónde está mi pedido?', resuelto en un sector contiguo",
+    "tech_h2": "Construido sobre las herramientas que tu operación ya usa",
+    "faq_h2": "Automatización para logística, respondida sin rodeos",
+    "final_cta_h2": "¿Cuántas de las llamadas de ayer fueron solo consultas de estado?",
+    "contact_h2": "Solicita tu auditoría gratis de comunicación"
+  },
+  "schema": {
+    "service_name": "Agentes de IA para operaciones de logística",
+    "service_description": "Un agente de seguimiento que responde el estado del envío por teléfono, email y WhatsApp desde datos del TMS en vivo, notificaciones de retraso y entrega proactivas, registro automático de transportistas y recogida de comprobantes de entrega, y programación de citas de muelle.",
+    "audienceType": "Agentes de carga, operadores logísticos (3PL) y operaciones de mensajería y reparto",
+    "breadcrumb": ["Inicio", "Sectores", "Logística"],
+    "faq": [
+      "¿Qué son los agentes de IA para operaciones de logística?",
+      "¿Puede leer de nuestro TMS?",
+      "¿Atiende llamadas telefónicas o solo email?",
+      "¿Cuánto cuesta la automatización para logística?",
+      "¿Cómo funcionan las notificaciones de retraso proactivas?"
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish search terms, not literal translations.",
+    "primary": ["automatización para logística", "agente de IA para seguimiento de envíos", "automatización de atención al cliente logística"],
+    "secondary": ["estado del envío automático", "notificaciones de retraso proactivas", "gestión de transportistas con IA", "reducir llamadas de estado de envío"]
+  },
+  "translatorNotes": [
+    "Register: informal tú, consistent with Phase 1.",
+    "'TMS' kept (Transport Management System; standard acronym in ES logistics). 'ETA' kept, glossed once as 'hora estimada de llegada (ETA)'. 'POD' (Proof of Delivery) rendered as 'comprobante de entrega (POD)' first use, then 'comprobante de entrega'.",
+    "'shipment' -> 'envío'; 'load' (freight) -> 'carga'; 'dispatch/dispatchers' -> 'central/operadores' (dispatch office = 'central', dispatcher = 'operador'); 'carrier' -> 'transportista'; 'check in/check calls' -> 'registro/llamadas de control'; 'dock appointment' -> 'cita de muelle'; 'detention' -> 'detención' (freight detention). FLAG: 'central'/'operador' vs 'centro de control'/'despachador' varies by market (Spain vs LatAm trucking) — reviewer to confirm.",
+    "'where is my shipment' -> '¿dónde está mi envío?'; the ecommerce cross-reference 'where is my order' -> '¿dónde está mi pedido?' (matches ecommerce page).",
+    "'3PL' glossed as 'operadores logísticos (3PL)'. 'freight broker' -> 'agente de carga'. 'courier and delivery' -> 'mensajería y reparto'.",
+    "Stat chip data-prefix 'under ' -> 'menos de ' and suffix ' sec' -> ' seg'; '20+ hrs' -> '20+ h'; '24/7' unchanged.",
+    "Prices/figures unchanged, currency named: '$1,000 and $5,000' -> '1.000 y 5.000 dólares'; '$50 to $300' -> '50 a 300 dólares'. '$11k' kept as-is in the case-study chip (compact display).",
+    "Case study reuses the ecommerce WISMO story deliberately (source does too, as an adjacent-industry analogy); kept faithful.",
+    "Brand names (Twilio, WhatsApp Business, n8n, Make, Google Workspace, Slack) unchanged.",
+    "Blog 'related reading' links point to English blog posts (Phase 3 not started); anchor text translated. Nav/footer service + industry links point to /es."
+  ],
+  "suggestedLlmsTxtEntry": "/es/industries/logistics — Spanish (es). AI agents for logistics operations: a tracking agent answering shipment status on phone, email and WhatsApp from live TMS data, proactive delay/delivery notifications, automated carrier check-in and POD collection, and dock-appointment scheduling; anything unusual escalates to a dispatcher. Build $1,000–$5,000 + $50–$300/mo. DRAFT pending native review.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live. Freight/trucking terminology ('central', 'operador', 'transportista', 'detención', 'muelle') should be confirmed for the target market (Spain vs LatAm)."
+}

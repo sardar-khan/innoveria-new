@@ -1,0 +1,95 @@
+{
+  "_meta": {
+    "source": "industries/logistics.html",
+    "target": "de/industries/logistics.html",
+    "language": "de",
+    "locale": "de-DE",
+    "dir": "ltr",
+    "status": "DRAFT — needs native/fluent German review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Standard German, informal du.",
+    "note": "has form"
+  },
+  "head": {
+    "title": "KI-Agenten für Logistik: Weniger Anrufe | Innovaria",
+    "description": "KI-Agenten für den Logistikbetrieb: Sendungsstatus rund um die Uhr aus deinem TMS beantwortet, proaktive Verspätungswarnungen, POD-Erfassung. Kostenlose Analyse buchen.",
+    "keywords": "KI-Agenten für Logistik, Sendungsstatus automatisieren, Wo ist meine Sendung, TMS-Automatisierung, Verspätungswarnungen automatisieren, Disposition entlasten, Liefernachweis POD erfassen",
+    "og_title": "KI-Agenten für Logistik: Weniger Anrufe | Innovaria",
+    "og_description": "Ein Tracking-Agent, der den Sendungsstatus per Telefon, E-Mail und WhatsApp aus Live-TMS-Daten beantwortet, plus proaktive Verspätungswarnungen und automatisierte POD-Erfassung.",
+    "og_locale": "de_DE",
+    "twitter_title": "KI-Agenten für Logistik: Weniger Anrufe | Innovaria",
+    "twitter_description": "Ein Tracking-Agent, der den Sendungsstatus per Telefon, E-Mail und WhatsApp aus Live-TMS-Daten beantwortet, plus proaktive Verspätungswarnungen und automatisierte POD-Erfassung.",
+    "canonical": "https://innovariatech.space/de/industries/logistics"
+  },
+  "headings": {
+    "h1": "KI-Agenten für den Logistikbetrieb, die für dich beantworten: Wo ist meine Sendung?",
+    "problems_h2": "Wo Dispositionsstunden still und leise verschwinden",
+    "solution_h2": "Kunden bleiben informiert, die Disposition bleibt an der Fracht",
+    "outcomes_h2": "Was das System nach dem Livegang liefert",
+    "how_h2": "In deinem Betrieb live in zwei bis vier Wochen",
+    "why_h2": "Dein TMS, deine Konten, dein System",
+    "case_h2": "Das WISMO-Problem, eine Branche weiter gelöst",
+    "tech_h2": "Aufgebaut auf den Tools, die dein Betrieb bereits nutzt",
+    "faq_h2": "Logistikautomatisierung, direkt beantwortet",
+    "cta_h2": "Wie viele der gestrigen Anrufe waren bloß Statusabfragen?",
+    "contact_h2": "Fordere deine kostenlose Kommunikationsanalyse an",
+    "related_h2": "Aufgebaut aus diesen Fähigkeiten"
+  },
+  "schema": {
+    "service_name": "KI-Agenten für den Logistikbetrieb",
+    "service_description": "Ein Tracking-Agent, der den Sendungsstatus per Telefon, E-Mail und WhatsApp aus Live-TMS-Daten beantwortet, proaktive Verspätungs- und Zustellbenachrichtigungen, automatisierte Carrier-Check-ins und POD-Erfassung sowie die Terminplanung an der Laderampe.",
+    "audienceType": "Frachtvermittler, 3PL-Dienstleister sowie Kurier- und Zustellbetriebe",
+    "breadcrumb": [
+      { "name": "Startseite", "item": "https://innovariatech.space/de" },
+      { "name": "Branchen", "item": "https://innovariatech.space/de/industries" },
+      { "name": "Logistik", "item": "https://innovariatech.space/de/industries/logistics" }
+    ],
+    "faq": [
+      {
+        "q": "Was sind KI-Agenten für den Logistikbetrieb?",
+        "a": "Software-Assistenten, die die Kommunikationslast rund um deine Fracht übernehmen: Wo-ist-meine-Sendung-Fragen per Telefon, E-Mail und WhatsApp aus Live-TMS-Daten beantworten, proaktive Verspätungs- und Zustellbenachrichtigungen senden, sich bei Frachtführern melden, PODs einsammeln und Termine an der Laderampe planen. Die Disposition behält die Ermessensentscheidungen; die Agenten übernehmen das Weitergeben."
+      },
+      {
+        "q": "Kann er aus unserem TMS lesen?",
+        "a": "Wenn dein TMS eine API hat oder Exporte erzeugen kann, ja. Der Tracking-Agent antwortet aus denselben Live-Status, die deine Disponenten sehen, sodass Kunden die Wahrheit bekommen, kein Skript. Wir bauen um die Plattform herum, die du bereits nutzt, und bitten dich nie, sie zu ersetzen. Tracking-Tabellen funktionieren auch als Ausgangspunkt."
+      },
+      {
+        "q": "Übernimmt er Telefonanrufe oder nur E-Mail?",
+        "a": "Telefon, E-Mail und WhatsApp. Die meisten Wo-ist-meine-Sendung-Fragen kommen per Telefon, also nimmt der Sprachassistent beim ersten Klingeln ab, schlägt die Ladung nach und gibt den aktuellen Status und die ETA an. Alles Ungewöhnliche, etwa ein Schadensfall oder ein verärgerter Kunde, wird direkt mit vollem Kontext an einen Disponenten weitergeleitet."
+      },
+      {
+        "q": "Was kostet Logistikautomatisierung?",
+        "a": "Ein vollständiges System liegt beim Aufbau in der Regel zwischen 1.000 und 5.000 US-Dollar zuzüglich 50 bis 300 US-Dollar monatlicher Plattformgebühren. Die meisten Betriebe decken das allein mit den Disponentenstunden, die bei Statusanrufen eingespart werden. Nach einer kostenlosen Analyse deines Kommunikationsflusses bekommst du ein Festpreisangebot, und es gibt keine Abrechnung nach Stunden."
+      },
+      {
+        "q": "Wie funktionieren proaktive Verspätungsbenachrichtigungen?",
+        "a": "Das System beobachtet Sendungsstatus und ETAs in deinem TMS. Wenn eine Ladung eine von dir festgelegte Schwelle überschreitet, bekommt der Kunde ein Update mit der neuen ETA, bevor er die Verspätung bemerkt, auf dem Kanal, den er bevorzugt. Zugestellte Ladungen lösen auf demselben Weg Bestätigungen und die POD-Zustellung aus. Kunden, die bereits Bescheid wissen, rufen nicht an."
+      }
+    ]
+  },
+  "targetedKeywords": {
+    "note": "German keyword equivalents for the logistics industry page; not machine keyword-researched, review with a native SEO before relying on volumes.",
+    "primary": [
+      "KI-Agenten für Logistik",
+      "Sendungsstatus automatisieren",
+      "TMS-Automatisierung"
+    ],
+    "secondary": [
+      "Wo ist meine Sendung",
+      "Verspätungswarnungen automatisieren",
+      "Disposition entlasten",
+      "Liefernachweis POD erfassen"
+    ]
+  },
+  "translatorNotes": [
+    "FLAG trucking/freight vocabulary is US-centric and varies in German logistics. Choices made: 'shipment' -> 'Sendung'; 'load'/'freight' -> 'Ladung'/'Fracht'; 'dispatch' -> 'Disposition' (dispatcher -> 'Disponent'); 'carrier' -> 'Frachtführer' (legal term; 'Spediteur'/'Transportunternehmen' are common alternatives); 'driver' -> 'Fahrer'; 'dock appointment' -> 'Rampentermin'/'Termin an der Laderampe'; 'detention' -> 'Standgeld'. A native logistics reviewer should confirm carrier ('Frachtführer' vs 'Spediteur') and check-in wording for the target market.",
+    "'where is my shipment' rendered as the question 'Wo ist meine Sendung?' where used as a headline/quote, and as the compound 'Wo-ist-meine-Sendung-Fragen' where used attributively, per spec.",
+    "POD glossed once on first mention: 'PODs' kept as acronym; the concept 'Liefernachweis (POD)' is noted here for reviewers. Acronyms kept exact: TMS, ETA, POD. WISMO kept as-is (retail 'where is my order' shorthand).",
+    "Brand and product names kept exact: Twilio, WhatsApp Business, n8n, Make, Google Workspace, Slack. '$11k' kept exact per spec.",
+    "Currency converted per spec: '$1,000 and $5,000' -> '1.000 und 5.000 US-Dollar'; '$50 to $300' -> '50 bis 300 US-Dollar'.",
+    "All internal links repointed to /de (nav, breadcrumb, footer, related services, other industries, related reading). Related blog slugs kept: /de/blog/ai-automation-logistics-shipment-status-calls, /de/blog/wismo-ai-order-tracking-automation-ecommerce.",
+    "External links unchanged: mailto, tel, wa.me, sitemap.xml, unsplash image, gtag. /privacy and /terms kept language-neutral. /api/lead unchanged.",
+    "Informal 'du' throughout; no em-dashes used."
+  ],
+  "suggestedLlmsTxtEntry": "German (draft) translation of the logistics industry page: AI agents for logistics operations that answer shipment status on phone, email, and WhatsApp from live TMS data, send proactive delay notifications, automate carrier check-ins and POD collection, and schedule dock appointments.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent German review before going live."
+}

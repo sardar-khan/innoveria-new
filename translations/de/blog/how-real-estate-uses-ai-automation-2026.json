@@ -1,0 +1,74 @@
+{
+  "_meta": {
+    "page": "how-real-estate-uses-ai-automation-2026",
+    "sourceFile": "blog/how-real-estate-uses-ai-automation-2026.html",
+    "outputFile": "de/blog/how-real-estate-uses-ai-automation-2026.html",
+    "language": "de",
+    "locale": "de-DE",
+    "dir": "ltr",
+    "status": "DRAFT — needs native/fluent German review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Standard German, informal du.",
+    "note": "no form"
+  },
+  "head": {
+    "title": "Wie Immobilienteams 2026 KI-Automatisierung nutzen",
+    "description": "Die fünf Automatisierungssysteme, die führende Immobilienteams 2026 betreiben: Sofortantworten, KI-Telefonassistenten, Pflege-Sequenzen und CRM-Hygiene.",
+    "keywords": "Immobilien KI-Automatisierung 2026, Immobilien Lead-Automatisierung, KI-Telefonassistent Immobilien, Maklerbüro Automatisierung",
+    "og:title": "Wie Immobilienteams 2026 KI-Automatisierung nutzen",
+    "og:description": "Die fünf Automatisierungssysteme, die führende Maklerbüros heute betreiben, mit realistischen Zahlen.",
+    "og:locale": "de_DE",
+    "twitter:title": "Wie Immobilienteams 2026 KI-Automatisierung nutzen",
+    "twitter:description": "Die fünf Automatisierungssysteme, die führende Maklerbüros heute betreiben, mit realistischen Zahlen."
+  },
+  "headings": {
+    "h1": "Wie Immobilienteams 2026 KI-Automatisierung nutzen",
+    "h2": [
+      "1. Sofortige Antwort auf Portal-Leads",
+      "2. KI-Telefonassistenten",
+      "3. Nachfasssequenzen, die nie vergessen",
+      "4. Inseratsinhalte und Social-Media-Präsenz",
+      "5. CRM-Hygiene, die niemand machen muss",
+      "Was das kostet und wo du anfängst",
+      "Willst du das in deinem Maklerbüro laufen haben innerhalb eines Monats?"
+    ]
+  },
+  "schema": {
+    "breadcrumb": [
+      { "position": 1, "name": "Startseite", "item": "https://innovariatech.space/de" },
+      { "position": 2, "name": "Blog", "item": "https://innovariatech.space/de/blog" },
+      { "position": 3, "name": "Wie Immobilienteams 2026 KI-Automatisierung nutzen", "item": "https://innovariatech.space/de/blog/how-real-estate-uses-ai-automation-2026" }
+    ],
+    "article": {
+      "headline": "Wie Immobilienteams 2026 KI-Automatisierung nutzen"
+    },
+    "faq": []
+  },
+  "targetedKeywords": {
+    "note": "Researched German search terms for German-speaking real-estate teams, not literal translations of the English keywords.",
+    "primary": [
+      "KI-Automatisierung Immobilien",
+      "Immobilien Leads automatisieren",
+      "Makler Automatisierung"
+    ],
+    "secondary": [
+      "Immobilien CRM Automatisierung",
+      "KI-Telefonassistent Makler",
+      "Lead-Antwort automatisieren Immobilien",
+      "Besichtigung automatisch buchen",
+      "Immobilien Nachfassen Automatisierung"
+    ]
+  },
+  "translatorNotes": [
+    "NOTE: This post has NO FAQPage schema (source had only Article, Organization, and BreadcrumbList). No FAQ was invented; schema.faq is an empty array. The source Article node also lacked og:locale, an inLanguage field, a de hreflang, and article:published_time meta; per the pattern the de hreflang, og:locale de_DE, the noindex draft comment, and inLanguage 'de' on the Article node were added, matching the German sibling chrome.",
+    "Glossary terms applied: brokerage -> Maklerbüro; listing -> Inserat (listing content -> Inseratsinhalte); nurture sequences -> Pflege-Sequenzen; phone agent / voice agent -> Telefonassistent / KI-Sprachassistent. Zillow, Follow Up Boss, kvCORE, Real Geeks kept literal per instructions, though none of those brand names actually appear in this post's body.",
+    "Stats and figures kept exact: unter zwei Minuten, über 20 zusätzliche Verkaufsstunden, 90 Sekunden, über 4 Stunden, 34% mehr, 90 Tage, erstes Klingeln.",
+    "Prices kept exact with German thousands separator: '1.000 und 5.000 US-Dollar'.",
+    "No em-dashes used anywhere; commas and rewrites replace the English dashes, including the ' — ' inside the CTA heading (kept as two spans without a dash).",
+    "Internal same-site links repointed to /de (services, case-studies, blog, contact). /privacy, /terms, sitemap, mailto, tel and external URLs (LinkedIn) left unchanged.",
+    "Language switcher rebuilt as three-way with EN + ES links and DE current.",
+    "No lead/audit form on this page, so no window.__i18n form block was added.",
+    "'You own everything we build' rendered as the fixed glossary phrase 'Dir gehört alles, was wir bauen.' Footer brand line about industries served translated in place."
+  ],
+  "suggestedLlmsTxtEntry": "German translation of the real-estate article covering the five AI automation systems top teams run in 2026: instant portal lead response, AI phone agents, nurture sequences, listing content, and CRM hygiene.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent German review before going live."
+}

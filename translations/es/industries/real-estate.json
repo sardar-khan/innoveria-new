@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "page": "Industry — Real Estate",
+    "sourceFile": "/industries/real-estate.html",
+    "outputFile": "/es/industries/real-estate.html",
+    "language": "es", "locale": "es-ES", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú.",
+    "note": "Has a contact form, so window.__i18n form block is embedded (same standard block as Phase 1 service pages). Full copy lives in the rendered page; this file records head/meta, schema strings, keywords, and notes."
+  },
+  "head": {
+    "title": "Automatización con IA para inmobiliarias | Innovaria",
+    "description": "Automatización con IA para agentes inmobiliarios: responde cada lead de portal en 90 segundos, agenda visitas fuera de horario y no pierdas ninguna llamada.",
+    "canonical": "https://innovariatech.space/es/industries/real-estate",
+    "robots": "noindex, follow",
+    "og:title": "Automatización con IA para inmobiliarias | Innovaria",
+    "og:description": "Responde cada lead de portal en 90 segundos, agenda visitas fuera de horario y no pierdas ninguna llamada durante las visitas.",
+    "og:locale": "es_ES"
+  },
+  "headings": {
+    "hero_h1": "Automatización con IA para agentes inmobiliarios que se niegan a perder la carrera de la velocidad",
+    "problems_h2": "Por dónde desaparecen en silencio las comisiones",
+    "solution_h2": "La velocidad de respuesta se vuelve tu ventaja injusta",
+    "outcomes_h2": "Los números tres meses después del arranque",
+    "how_h2": "En marcha en tu agencia en dos a cuatro semanas",
+    "why_h2": "Tu CRM, tus cuentas, tu sistema",
+    "case_h2": "La agencia de 12 agentes que dejó de perder los leads de la tarde",
+    "tech_h2": "Construido sobre las herramientas que tu equipo ya conoce",
+    "faq_h2": "Automatización inmobiliaria, respondida sin rodeos",
+    "final_cta_h2": "¿Cuántos de los leads del mes pasado no recibieron respuesta?",
+    "contact_h2": "Solicita tu auditoría gratis del flujo de leads"
+  },
+  "schema": {
+    "service_name": "Automatización con IA para agentes inmobiliarios",
+    "service_description": "Respuesta instantánea a los leads de los portales, agentes telefónicos con IA para reservar visitas y secuencias de seguimiento automáticas construidas sobre el CRM que los equipos inmobiliarios ya usan, con el cumplimiento de vivienda justa diseñado desde el inicio.",
+    "audienceType": "Agentes, equipos y agencias inmobiliarias",
+    "breadcrumb": ["Inicio", "Sectores", "Inmobiliaria"],
+    "faq": [
+      "¿Por qué importa tanto la velocidad de respuesta a los leads en el sector inmobiliario?",
+      "¿Funciona esto con Follow Up Boss, kvCORE o Real Geeks?",
+      "¿La gestión automática de leads cumple con la ley de vivienda justa?",
+      "¿Cuánto cuesta la automatización inmobiliaria?",
+      "¿Esto reemplazará a mi ISA o a mis agentes?"
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish search terms, not literal translations.",
+    "primary": ["automatización con IA para inmobiliarias", "software de automatización para agentes inmobiliarios", "respuesta automática a leads inmobiliarios"],
+    "secondary": ["CRM inmobiliario con IA", "seguimiento automático de leads inmobiliarios", "agente telefónico con IA inmobiliaria", "captación de leads inmobiliarios"]
+  },
+  "translatorNotes": [
+    "Register: informal tú, consistent with Phase 1.",
+    "'lead' kept as-is (widely used in Spanish real-estate/marketing). 'portal' kept (Zillow/Realtor.com portales). Brand names (Follow Up Boss, kvCORE, Real Geeks, Zillow, Realtor.com, IDX, n8n, Make, Zapier, Twilio, Calendly) unchanged.",
+    "'ISA' (Inside Sales Agent) kept as the acronym — US real-estate role with no clean Spanish equivalent; native reviewer may choose to gloss it.",
+    "'fair housing' -> 'vivienda justa' with 'ley de vivienda justa' in the FAQ. This references the US Fair Housing Act; for a Spain/LatAm audience a reviewer should localize the legal framing (e.g. non-discrimination law) — FLAG for review.",
+    "Prices: '$1,000 and $5,000' -> '1.000 y 5.000 dólares' (currency named, figures unchanged).",
+    "'speed to lead' rendered as 'la velocidad de respuesta'; 'your unfair advantage' -> 'tu ventaja injusta'.",
+    "Blog 'related reading' links point to English blog posts (Phase 3 not started). Nav/footer service + industry links point to /es. Case-studies/about/contact still English.",
+    "Contact-page and /contact CTA links kept to English /contact (shared form endpoint /api/lead unchanged)."
+  ],
+  "suggestedLlmsTxtEntry": "/es/industries/real-estate — Spanish (es). AI automation for real estate agents: instant portal-lead response (~90s), AI phone agent for viewing bookings, and long-run follow-up on the CRM the team already uses (Follow Up Boss, kvCORE, Real Geeks), with fair-housing compliance designed in. Build $1,000–$5,000. DRAFT pending native review.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live."
+}

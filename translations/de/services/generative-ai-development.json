@@ -1,0 +1,79 @@
+{
+  "_meta": {
+    "sourcePage": "services/generative-ai-development.html",
+    "targetPage": "de/services/generative-ai-development.html",
+    "language": "de",
+    "locale": "de-DE",
+    "dir": "ltr",
+    "status": "DRAFT — needs native/fluent German review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Standard German, informal du.",
+    "note": "Service page WITH a lead form. German window.__i18n form block copied from the sibling de/services/ai-automation.html. Assets root-relative. Three-way EN/ES/DE switcher. noindex,follow draft."
+  },
+  "head": {
+    "title": "Generative-KI-Entwicklung, die liefert | Innovaria",
+    "description": "Generative-KI-Entwicklung, verankert in deinen Daten. Antworten entwerfen, Dokumente erzeugen, Anrufe zusammenfassen, Daten extrahieren. Kostenlose Analyse buchen.",
+    "ogLocale": "de_DE",
+    "ogTitle": "Generative-KI-Entwicklung, die liefert | Innovaria",
+    "ogDescription": "Individuelle generative KI, in deine Workflows eingebaut: entworfene Antworten, erzeugte Dokumente, Anrufzusammenfassungen und Datenextraktion, verankert in deinen Daten.",
+    "twitterTitle": "Generative-KI-Entwicklung, die liefert | Innovaria",
+    "twitterDescription": "Individuelle generative KI, in deine Workflows eingebaut: entworfene Antworten, erzeugte Dokumente, Anrufzusammenfassungen und Datenextraktion, verankert in deinen Daten.",
+    "canonical": "https://innovariatech.space/de/services/generative-ai-development",
+    "robots": "noindex, follow",
+    "alternates": {
+      "en": "https://innovariatech.space/services/generative-ai-development",
+      "es": "https://innovariatech.space/es/services/generative-ai-development",
+      "de": "https://innovariatech.space/de/services/generative-ai-development",
+      "x-default": "https://innovariatech.space/services/generative-ai-development"
+    }
+  },
+  "headings": {
+    "h1": "Generative-KI-Entwicklung, verankert in deinen Geschäftsdaten",
+    "h2": [
+      "Dein Team wird fürs Denken bezahlt und verbringt den Tag mit Tippen",
+      "KI erledigt das Schreiben, dein Team das Beurteilen",
+      "Was verankerte generative KI deiner Woche zurückgibt",
+      "Von deinen Dokumenten zur laufenden KI in vier Schritten",
+      "Laufende Systeme, keine KI-Experimente",
+      "Ein Maklerbüro mit 12 Agenten ließ die KI die erste Antwort schreiben",
+      "Spitzenmodelle, verdrahtet mit deinen Daten",
+      "Generative-KI-Entwicklung, direkt beantwortet",
+      "Finde heraus, welche Entwürfe und Dokumente sich selbst schreiben sollten",
+      "Fordere deine kostenlose Automatisierungs-Analyse an",
+      "Entdecke konkrete Systeme und Branchen"
+    ]
+  },
+  "schema": {
+    "serviceName": "Generative-KI-Entwicklung",
+    "serviceType": "Generative-KI-Entwicklung",
+    "serviceDescription": "Individuelle Generative-KI-Entwicklung, eingebaut in Geschäfts-Workflows: Antworten entwerfen, Dokumente und Inhalte erzeugen, Anrufe zusammenfassen und Daten aus unstrukturierten Eingaben extrahieren, verankert in den eigenen Daten des Kunden und mit eingebauter menschlicher Prüfung.",
+    "inLanguage": "de",
+    "breadcrumb": [
+      { "position": 1, "name": "Startseite", "item": "https://innovariatech.space/de" },
+      { "position": 2, "name": "Leistungen", "item": "https://innovariatech.space/de/services" },
+      { "position": 3, "name": "Generative-KI-Entwicklung", "item": "https://innovariatech.space/de/services/generative-ai-development" }
+    ],
+    "faq": [
+      { "q": "Was ist Generative-KI-Entwicklung?", "a": "Generative-KI-Entwicklung baut individuelle KI in deine bestehenden Workflows ein, damit sie echte Arbeit erledigt: Kundenantworten entwerfen, Dokumente und Inhalte erzeugen, Anrufe und Meetings zusammenfassen und strukturierte Daten aus unübersichtlichen E-Mails und PDFs ziehen. Die KI ist in deinen eigenen Dokumenten verankert, und dein Team prüft ihre Ausgabe dort, wo es darauf ankommt." },
+      { "q": "Wie kontrolliert ihr Genauigkeit und Halluzinationen?", "a": "Auf drei Wegen. Erstens Retrieval: Die KI antwortet aus deinen tatsächlichen Dokumenten statt aus ihrem allgemeinen Gedächtnis, also zitiert die Ausgabe deine Preise, Richtlinien und Fakten. Zweitens Prüfschritte: Alles, was kundenseitig oder heikel ist, wartet auf eine menschliche Freigabe, bevor es rausgeht. Drittens Tests: Wir lassen das System vor dem Start gegen deine echten historischen Eingaben laufen und messen, wo es Fehler macht." },
+      { "q": "Was passiert mit unseren Daten?", "a": "Sie bleiben deine. Jedes System läuft in Konten, die auf dein Unternehmen registriert sind, deine Dokumente liegen in deinem eigenen Speicher, und wir nutzen API-Konfigurationen, bei denen Anbieter nicht mit deinen Daten trainieren. Nichts über deine Kunden oder deinen Betrieb fließt in das Modell eines anderen." },
+      { "q": "Was kostet Generative-KI-Entwicklung?", "a": "Ein einzelner Workflow wie entworfene E-Mail-Antworten startet meist im niedrigen dreistelligen Dollarbereich, und ein komplettes System wie Dokumentenerzeugung mit Retrieval über deine Wissensbasis liegt in der Regel zwischen 1.000 und 5.000 US-Dollar beim Bau, plus 50 bis 300 US-Dollar pro Monat an Plattformgebühren. Wir nennen einen Festpreis nach einer kostenlosen Analyse." },
+      { "q": "Wie lange dauert ein Generative-KI-Projekt?", "a": "Ein bis zwei Wochen für einen einzelnen Workflow, zwei bis vier Wochen für ein komplettes System inklusive Retrieval über deine Dokumente und Tests mit deinen echten historischen Daten. Du siehst es mit deinen tatsächlichen Eingaben arbeiten, bevor du die Schlussrechnung bezahlst." },
+      { "q": "Sollten wir individuell bauen oder ein Standard-KI-Tool kaufen?", "a": "Kaufe, wenn ein Tool zu deinem exakten Workflow und deinen Daten passt. Baue, wenn dein Prozess, deine Dokumente oder deine Integrationen spezifisch für dich sind, was meistens der Fall ist, sobald KI dein CRM, deine Vorlagen und deinen Tonfall berühren muss. Individuelle Bauten dauern hier Wochen, nicht Monate, und dir gehört das Ergebnis, statt ein weiteres Abo zu mieten." }
+    ]
+  },
+  "targetedKeywords": {
+    "note": "German search intent for generative-AI development. Not deployed; provided so a native reviewer can confirm terms real German buyers type.",
+    "primary": ["Generative KI Entwicklung", "generative KI für Unternehmen", "individuelle KI-Lösungen"],
+    "secondary": ["KI Dokumentenerstellung", "KI Textentwürfe", "Datenextraktion KI", "Anrufzusammenfassung KI", "KI auf eigenen Daten", "Retrieval Augmented Generation Deutsch"]
+  },
+  "translatorNotes": [
+    "Glossary: Generative AI → Generative KI (page name compound: Generative-KI-Entwicklung); hallucination → Halluzination; roadmap → Fahrplan; audit → Analyse; Book a Free Audit → Kostenlose Analyse buchen.",
+    "'Grounded' → 'verankert' (in deinen Daten); 'retrieval' kept as the English technical term 'Retrieval', standard in German AI copy.",
+    "Currency rule applied: '$1,000 and $5,000' → '1.000 und 5.000 US-Dollar'; '$50 to $300 a month' → '50 bis 300 US-Dollar pro Monat'; 'low hundreds of dollars' → 'niedriger dreistelliger Dollarbereich'.",
+    "'off the shelf AI tool' → 'Standard-KI-Tool'. 'human review' → 'menschliche Prüfung'.",
+    "Blog deep-link (/blog/generative-ai-...) left as the English slug since the German target may not exist yet.",
+    "Numbers, %, brand names (OpenAI, Claude, n8n, Make, Zapier, HubSpot, Twilio, etc.), email, phone, /api/lead kept exact."
+  ],
+  "suggestedLlmsTxtEntry": "German (draft, not indexed) translation of the Generative AI Development services page: custom generative AI built into your workflows to draft replies, generate documents, summarize calls, and extract data, all grounded on your own content with human review.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent German review before going live."
+}

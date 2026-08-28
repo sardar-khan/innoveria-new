@@ -1,0 +1,56 @@
+{
+  "_meta": {
+    "page": "service: Social Automation",
+    "sourceFile": "/services/social-automation.html",
+    "outputFile": "/es/services/social-automation.html",
+    "language": "es", "locale": "es-ES", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú.",
+    "note": "Full translated copy is in the rendered page (includes the extra Veyrais-proof section 7b). This file records head/meta, schema strings, targeted keywords, and reviewer notes."
+  },
+  "head": {
+    "title": "Automatización de redes sociales para LinkedIn | Innovaria",
+    "description": "Servicios de automatización de redes sociales para LinkedIn y X: borradores con tu voz, aprobación humana, publicación programada. Usamos el nuestro.",
+    "canonical": "https://innovariatech.space/es/services/social-automation",
+    "robots": "noindex, follow",
+    "og": { "title": "Automatización de redes sociales para LinkedIn | Innovaria", "description": "Sistemas de publicación en LinkedIn y X: borradores con tu voz, un paso de aprobación, publicación programada, reciclaje de contenido. Usamos el nuestro a diario.", "locale": "es_ES" }
+  },
+  "headings": {
+    "hero_h1": "Servicios de automatización de redes sociales que publican mientras tú diriges el negocio",
+    "problems_h2": "Por qué tus publicaciones siempre mueren el jueves",
+    "solution_h2": "Un sistema de publicación construido sobre tu experiencia real",
+    "outcomes_h2": "Qué cambia cuando tu sistema de publicación entra en marcha",
+    "how_h2": "De una cuenta en silencio a presencia diaria en cuatro pasos",
+    "why_h2": "Somos nuestro propio cliente más antiguo",
+    "proof_h2": "Nuestro propio LinkedIn corre sobre este sistema",
+    "proof2_h2": "Veyrais: el sistema de LinkedIn que construimos y usamos a diario",
+    "tech_h2": "APIs oficiales y una persona en cada botón de publicar",
+    "faq_h2": "Servicios de automatización de redes sociales, respondidos sin rodeos",
+    "finalCta_h2": "Mantente visible cada día sin escribir cada mañana",
+    "contact_h2": "Solicita tu auditoría de contenido gratis"
+  },
+  "schema": {
+    "inLanguage": "es",
+    "serviceName": "Servicios de automatización de redes sociales",
+    "serviceDescription": "Servicios de automatización de redes sociales para LinkedIn y X: borradores de publicaciones generados a partir de tu experiencia y con tu voz, un paso de aprobación humana, publicación programada a través de APIs oficiales y reciclaje de tu mejor contenido.",
+    "breadcrumb": ["Inicio", "Servicios", "Servicios de automatización de redes sociales"],
+    "faqCount": 6
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish search terms, not literal translations.",
+    "primary": ["automatización de redes sociales", "automatizar publicaciones de LinkedIn", "gestión de contenido para LinkedIn"],
+    "secondary": ["programar publicaciones en LinkedIn y X", "crear contenido para LinkedIn con IA", "presencia constante en LinkedIn"],
+    "longTail": ["cómo publicar en LinkedIn todos los días sin escribir", "sistema de publicación con aprobación humana", "alternativa a un redactor fantasma de LinkedIn"]
+  },
+  "translatorNotes": [
+    "Register: informal tú, consistent across the set.",
+    "'ghostwriter' -> 'redactor fantasma' (established term in Spanish). 'retainer' -> 'anticipo mensual'. 'pipeline' kept (common in ES marketing); 'feed' kept (common on social).",
+    "'inspirational mush' -> 'papilla inspiracional' (keeps the disparaging tone; a reviewer may prefer 'palabrería inspiracional'). 'grey area tools' -> 'herramientas de zona gris'.",
+    "Product/brand names kept (LinkedIn, X, Veyrais, n8n, Make, Notion, Buffer, Canva). 'X' left as the platform name.",
+    "Prices unchanged: '1.000 y 5.000 dólares', '50 a 300 dólares'.",
+    "Cross-links: nav/footer point the six translated services to /es; social-automation self-links to /es. generative-ai and ai-consulting still fall back to English, as do the two blog links, the /veyrais case-study page (English), and the finance industry link.",
+    "Note: /veyrais (internal Veyrais case study) is linked in English — it is not a Phase 1 service page; it will be handled with the other non-service pages later.",
+    "Breadcrumb 'Servicios' points to English /services hub (Phase 2 page not yet translated)."
+  ],
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live."
+}

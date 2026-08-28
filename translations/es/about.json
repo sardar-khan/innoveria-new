@@ -1,0 +1,51 @@
+{
+  "_meta": {
+    "page": "About",
+    "sourceFile": "/about.html",
+    "outputFile": "/es/about.html",
+    "language": "es", "locale": "es-ES", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú.",
+    "note": "No contact form on this page, so no window.__i18n block. Full copy is in the rendered page; this file records head/meta, schema, keywords, and notes."
+  },
+  "head": {
+    "title": "Sobre Innovaria Tech: automatización que es tuya del todo",
+    "description": "Una agencia de automatización que construye sistemas que son tuyos del todo. Precios cerrados, en marcha en semanas, documentación incluida, sin ataduras con proveedores.",
+    "keywords": "sobre Innovaria Tech, agencia de automatización, empresa de automatización con IA, automatización sin ataduras con proveedores",
+    "canonical": "https://innovariatech.space/es/about",
+    "robots": "noindex, follow",
+    "og:title": "Sobre Innovaria Tech",
+    "og:description": "Proyectos de automatización a precio cerrado que son tuyos del todo. Así trabajamos y por qué.",
+    "og:locale": "es_ES"
+  },
+  "headings": {
+    "hero_h1": "Construimos automatización que es tuya del todo",
+    "why_h2": "Por qué Innovaria",
+    "lockin_h2": "La promesa de cero ataduras con proveedores",
+    "how_h2": "Cómo trabajamos",
+    "stack_h2": "El stack en el que confiamos",
+    "built_h2": "Veyrais: nuestra propia automatización, funcionando en producción",
+    "numbers_h2": "Cómo es trabajar con nosotros",
+    "cta_h2": "Júzganos por la auditoría. Te cuesta 30 minutos."
+  },
+  "schema": {
+    "breadcrumb": ["Inicio", "Nosotros"]
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish search terms, not literal translations.",
+    "primary": ["agencia de automatización con IA", "empresa de automatización de procesos", "consultora de automatización IA"],
+    "secondary": ["automatización sin permanencia", "proyectos de automatización a precio cerrado", "quién es Innovaria Tech"]
+  },
+  "translatorNotes": [
+    "Register: informal tú, consistent with Phases 1–2.",
+    "'you own outright' -> 'que es tuya del todo' (kept punchy; also 'de tu propiedad' in stats). 'no vendor lock in' -> 'cero ataduras con proveedores' / 'sin ataduras con proveedores' (consistent with service pages). 'hostage infrastructure' -> 'infraestructura que te tiene de rehén'.",
+    "'industry playbooks' -> 'guías por sector' (matches industries hub decision 'guía'). 'leaks' -> 'fugas'. 'fixed scope, fixed price' -> 'alcance cerrado, precio cerrado'. 'ghostwriter' -> 'redactor fantasma'. 'self hosted' -> 'autoalojado'.",
+    "'The keys' (metaphor for handover/ownership) kept literal as 'las llaves'.",
+    "Company legal name 'Innovaria Tech Limited' unchanged. Brand names (n8n, Make, Zapier, Veyrais, LinkedIn) unchanged.",
+    "Internal link to the 'how to choose an AI automation agency' blog post points to /es/blog/how-to-choose-ai-automation-agency (being built this Phase 3 pass). Industries link -> /es/industries.",
+    "'/veyrais' internal case-study page is NOT part of the Phase 3 translate scope; the link points to the English /veyrais for now. FLAG if a Spanish /es/veyrais is later desired.",
+    "Nav/footer point to /es equivalents. lang-switch EN link -> /about."
+  ],
+  "suggestedLlmsTxtEntry": "/es/about — Spanish (es). About Innovaria Tech: an automation agency that builds systems clients own outright (accounts in your name, documentation, no vendor lock-in), at fixed prices, live in 2–4 weeks, 30 days support. Works from eight industry playbooks; runs its own automations (Veyrais). DRAFT pending native review.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live."
+}

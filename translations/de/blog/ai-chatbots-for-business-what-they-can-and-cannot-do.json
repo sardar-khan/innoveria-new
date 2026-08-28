@@ -1,0 +1,37 @@
+{
+  "_meta": {
+    "page": "/blog/ai-chatbots-for-business-what-they-can-and-cannot-do",
+    "sourceFile": "/blog/ai-chatbots-for-business-what-they-can-and-cannot-do.html",
+    "outputFile": "/de/blog/ai-chatbots-for-business-what-they-can-and-cannot-do.html",
+    "language": "de",
+    "locale": "de-DE",
+    "dir": "ltr",
+    "status": "DRAFT — needs native/fluent German review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Standard German, informal du.",
+    "note": "Auto-generated sidecar backfilled from the finished German page after an agent interruption; head/schema captured from the page. A reviewer should add researched German keywords and per-page translator notes."
+  },
+  "head": {
+    "title": "KI-Chatbots für Unternehmen: was sie können und was nicht",
+    "description": "Was KI-Chatbots wirklich gut können, was sie falsch machen und wann ein Chatbot noch nicht das Richtige ist. Ein ehrlicher Überblick für kleine und mittlere Unternehmen.",
+    "canonical": "https://innovariatech.space/de/blog/ai-chatbots-for-business-what-they-can-and-cannot-do",
+    "robots": "noindex, follow",
+    "og:locale": "de_DE"
+  },
+  "schema": {
+    "breadcrumb": [
+      "Startseite",
+      "Blog",
+      "KI-Chatbots für Unternehmen"
+    ]
+  },
+  "targetedKeywords": {
+    "note": "TODO: reviewer to research German search terms (not literal translations).",
+    "primary": [],
+    "secondary": []
+  },
+  "translatorNotes": [
+    "Backfilled sidecar. Register informal du; no em-dashes in body; prices kept exact and named in US-Dollar; brand/tool names and acronyms unchanged; internal links point to /de; /veyrais, /privacy, /terms and externals kept as-is. US-specific frameworks (e.g. HIPAA, fair housing, US legal-ethics) where present need market localization."
+  ],
+  "suggestedLlmsTxtEntry": "/de/blog/ai-chatbots-for-business-what-they-can-and-cannot-do — German (de). KI-Chatbots für Unternehmen: was sie können und was nicht DRAFT pending native review.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent German review before going live."
+}

@@ -1,0 +1,74 @@
+{
+  "_meta": {
+    "page": "Blog post: AI for Real Estate Lead Generation (2026 Guide)",
+    "slug": "ai-real-estate-lead-generation",
+    "sourceFile": "/blog/ai-real-estate-lead-generation.html",
+    "outputFile": "/de/blog/ai-real-estate-lead-generation.html",
+    "language": "de", "locale": "de-DE", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent German review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Standard German, informal du.",
+    "note": "Marketing guide on real estate lead automation. Prose translated for meaning, not word-for-word. Brand/tool names kept (Zillow, Realtor.com, Follow Up Boss, kvCORE, Real Geeks, Facebook, Google, Instagram), acronyms kept (IDX, CRM, SMS, HUD), org name 'National Association of Realtors' kept. This page has NO lead/audit <form> element (had-form: false), so no German window.__i18n form block was added. Article + FAQ + Breadcrumb + Organization JSON-LD localized (Organization block left as-is, brand data). FLAG: 'fair housing' + HUD are US-specific and should be localized per target market before publishing."
+  },
+  "head": {
+    "title": "KI für die Immobilien-Leadgenerierung (Leitfaden 2026)",
+    "description": "Wie die Automatisierung von Immobilien-Leads jede Anfrage in unter 60 Sekunden beantwortet, Käufer qualifiziert und Besichtigungen rund um die Uhr bucht.",
+    "keywords": "KI für Immobilien-Leadgenerierung, Automatisierung von Immobilien-Leads, automatisierte Immobilien-Lead-Antwort, Reaktionsgeschwindigkeit bei Immobilien-Leads, Immobilien-Nachfassen automatisieren, KI Immobilien",
+    "canonical": "https://innovariatech.space/de/blog/ai-real-estate-lead-generation",
+    "robots": "noindex, follow",
+    "og:title": "KI für die Immobilien-Leadgenerierung: jeden Lead in unter einer Minute beantworten (2026)",
+    "og:description": "Wie die KI-Lead-Automatisierung jede Immobilienanfrage in unter 60 Sekunden beantwortet, Käufer qualifiziert und Besichtigungen rund um die Uhr bucht.",
+    "og:locale": "de_DE",
+    "twitter:title": "KI für die Immobilien-Leadgenerierung: jeden Lead in unter einer Minute beantworten",
+    "twitter:description": "Wie die KI-Lead-Automatisierung jede Immobilienanfrage in unter 60 Sekunden beantwortet und Besichtigungen rund um die Uhr bucht."
+  },
+  "headings": {
+    "hero_h1": "KI für die Immobilien-Leadgenerierung: wie du jeden Lead in unter einer Minute beantwortest",
+    "post_meta": "Veröffentlicht am 11. Juli 2026 · von Ahsan Ilyas, Gründer von Innovaria Tech · 8 Min. Lesezeit",
+    "h2_real_problem": "Das eigentliche Problem ist nicht die Lead-Menge. Es ist, was danach passiert",
+    "h2_how_works": "Wie die KI-gestützte Automatisierung von Immobilien-Leads wirklich funktioniert",
+    "h3_step1": "1. Sofortige Erfassung aus jeder Quelle",
+    "h3_step2": "2. Eine personalisierte Antwort in unter 60 Sekunden",
+    "h3_step3": "3. Intelligente Qualifizierung, bevor du eine Sekunde investierst",
+    "h3_step4": "4. Automatische Buchung und Weiterleitung",
+    "h3_step5": "5. Nachfassen, das in dem Moment stoppt, in dem ein Mensch antwortet",
+    "h2_automate_human": "Was du automatisieren und was du menschlich lassen solltest",
+    "h2_results": "Die Ergebnisse, die Makler nach dem Livegang messen",
+    "h2_fair_housing": "Ein Hinweis zu Fair Housing und Compliance",
+    "h2_get_started": "Wie du loslegst, ohne dein Geschäft umzukrempeln",
+    "h2_faq": "Häufig gestellte Fragen",
+    "h2_stop_losing": "Hör auf, Abschlüsse an denjenigen zu verlieren, der zuerst antwortet",
+    "cta_band_h2": "Finde heraus, welche Automatisierung zuerst das meiste Geld zurückholt"
+  },
+  "schema": {
+    "breadcrumb": ["Startseite", "Blog", "KI für die Immobilien-Leadgenerierung"],
+    "article": {
+      "headline": "KI für die Immobilien-Leadgenerierung: wie du jeden Lead in unter einer Minute beantwortest (2026)",
+      "description": "Wie die KI-gestützte Automatisierung von Immobilien-Leads jede Anfrage in unter 60 Sekunden beantwortet, Käufer qualifiziert und Besichtigungen rund um die Uhr bucht.",
+      "inLanguage": "de"
+    },
+    "faq": [
+      "Was ist KI für die Immobilien-Leadgenerierung?",
+      "Wie schnell sollte ich auf einen Immobilien-Lead reagieren?",
+      "Lässt KI mein Nachfassen roboterhaft wirken?",
+      "Was kostet die Automatisierung von Immobilien-Leads?",
+      "Muss ich mein aktuelles CRM ersetzen?"
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched German search terms, not literal translations.",
+    "primary": ["KI Immobilien-Leadgenerierung", "Automatisierung von Immobilien-Leads", "Reaktionsgeschwindigkeit bei Immobilien-Leads"],
+    "secondary": ["Immobilien-Nachfassen automatisieren", "Immobilien-Leads automatisch beantworten", "KI für Immobilienmakler"]
+  },
+  "translatorNotes": [
+    "Register: informal du, consistent with the rest of the German site.",
+    "FLAG: 'fair housing' and HUD are United States law references. Rendered as 'Fair-Housing-Regeln' + 'HUD' but they are US-specific; a real localization should swap them for the equivalent anti-discrimination / fair-housing regulator of the German-speaking target market (e.g. AGG in Germany) before publishing.",
+    "Real-estate glossary: lead generation -> Leadgenerierung; lead -> Lead (kept); viewing/showing -> Besichtigung; buyer -> Käufer; brokerage -> Maklerbüro; portal -> Portal; nurture -> Pflege/pflegen; listing -> Inserat; 'speed to lead' -> Reaktionsgeschwindigkeit; 'phone tag' -> Telefon-Pingpong.",
+    "Brand/tool names kept: Zillow, Realtor.com, Follow Up Boss, kvCORE, Real Geeks, Facebook, Google, Instagram, National Association of Realtors, HUD. Acronyms kept: IDX, CRM, SMS.",
+    "Currency/numbers: 'low thousands' -> 'im niedrigen vierstelligen Bereich'. Read time '8 min read' -> '8 Min. Lesezeit'. Date 'July 11, 2026' -> '11. Juli 2026'. Numbers/percentages/stats (60 seconds, five minutes, 30 days, 12 texts, 20 or more hours, 60 days) kept exact.",
+    "Internal links repointed to /de (brand, nav, services, industries, case-studies, about, blog, contact, in-body links, related reading, footer). Left unchanged: /privacy, /terms, sitemap.xml, mailto, tel, the LinkedIn author URL, and the Unsplash image URLs. External brand/tool references unchanged.",
+    "lang-switch now carries EN + ES links and DE as current: EN -> /blog/ai-real-estate-lead-generation, ES -> /es/blog/ai-real-estate-lead-generation. Head has 4 hreflang alternates (en, es, de, x-default). No <form> present, so no window.__i18n block added.",
+    "Asset paths changed from ../ relative to root-absolute (/assets, /css, /js, /favicon.ico); gtag and og:image kept absolute. aria-labels localized (Menü umschalten, Leistungsmenü anzeigen, Branchenmenü anzeigen, Hauptnavigation, Brotkrümelnavigation, Innovaria Tech Startseite, Innovaria Tech Logo)."
+  ],
+  "suggestedLlmsTxtEntry": "/de/blog/ai-real-estate-lead-generation — German (de). A guide to AI real estate lead automation: instant first response under 60 seconds, lead qualification, automatic booking and routing, what to keep human, and a fair-housing compliance note. DRAFT pending native review.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent German review before going live."
+}

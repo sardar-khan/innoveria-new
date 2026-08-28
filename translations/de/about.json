@@ -1,0 +1,36 @@
+{
+  "_meta": {
+    "page": "/about",
+    "sourceFile": "/about.html",
+    "outputFile": "/de/about.html",
+    "language": "de",
+    "locale": "de-DE",
+    "dir": "ltr",
+    "status": "DRAFT — needs native/fluent German review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Standard German, informal du.",
+    "note": "Auto-generated sidecar backfilled from the finished German page after an agent interruption; head/schema captured from the page. A reviewer should add researched German keywords and per-page translator notes."
+  },
+  "head": {
+    "title": "Über Innovaria Tech: Automatisierung, die dir gehört",
+    "description": "Eine Automatisierungsagentur, die Systeme baut, die dir vollständig gehören. Festpreise, in Wochen live, Dokumentation inklusive, keine Anbieterbindung.",
+    "canonical": "https://innovariatech.space/de/about",
+    "robots": "noindex, follow",
+    "og:locale": "de_DE"
+  },
+  "schema": {
+    "breadcrumb": [
+      "Startseite",
+      "Über uns"
+    ]
+  },
+  "targetedKeywords": {
+    "note": "TODO: reviewer to research German search terms (not literal translations).",
+    "primary": [],
+    "secondary": []
+  },
+  "translatorNotes": [
+    "Backfilled sidecar. Register informal du; no em-dashes in body; prices kept exact and named in US-Dollar; brand/tool names and acronyms unchanged; internal links point to /de; /veyrais, /privacy, /terms and externals kept as-is. US-specific frameworks (e.g. HIPAA, fair housing, US legal-ethics) where present need market localization."
+  ],
+  "suggestedLlmsTxtEntry": "/de/about — German (de). Über Innovaria Tech: Automatisierung, die dir gehört DRAFT pending native review.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent German review before going live."
+}

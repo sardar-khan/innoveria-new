@@ -1,0 +1,60 @@
+{
+  "_meta": {
+    "page": "Blog post: How real estate teams use AI automation in 2026",
+    "sourceFile": "/blog/how-real-estate-uses-ai-automation-2026.html",
+    "outputFile": "/es/blog/how-real-estate-uses-ai-automation-2026.html",
+    "language": "es", "locale": "es-ES", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú.",
+    "note": "Real estate blog post about the five AI automation systems top teams run in 2026 (instant portal lead response, AI phone agents, nurture sequences, listing content, CRM hygiene). All prose, nav, breadcrumbs, headings, CTAs, footer, alt text and aria-labels translated. Brand names (Zillow, Follow Up Boss, kvCORE, Real Geeks etc. not present in this post), acronyms (CRM, SMS, IDX, ISA — kept where used) and figures kept. This post has no FAQ section, so no FAQPage JSON-LD exists. No lead/audit <form> exists on this page, so no window.__i18n form block was added. Article + Organization + Breadcrumb JSON-LD localized."
+  },
+  "head": {
+    "title": "Cómo los equipos inmobiliarios usan la automatización con IA en 2026",
+    "description": "Los cinco sistemas de automatización que usan los mejores equipos inmobiliarios en 2026: respuestas instantáneas, agentes telefónicos con IA, secuencias de cultivo e higiene del CRM.",
+    "keywords": "automatización con IA inmobiliaria 2026, automatización de leads inmobiliarios, agente telefónico con IA inmobiliaria, automatización de agencias inmobiliarias",
+    "canonical": "https://innovariatech.space/es/blog/how-real-estate-uses-ai-automation-2026",
+    "robots": "noindex, follow",
+    "og:title": "Cómo los equipos inmobiliarios usan la automatización con IA en 2026",
+    "og:description": "Los cinco sistemas de automatización que usan hoy las mejores agencias, con cifras realistas.",
+    "og:locale": "es_ES",
+    "twitter:title": "Cómo los equipos inmobiliarios usan la automatización con IA en 2026",
+    "twitter:description": "Los cinco sistemas de automatización que usan hoy las mejores agencias, con cifras realistas."
+  },
+  "headings": {
+    "hero_h1": "Cómo los equipos inmobiliarios usan la automatización con IA en 2026",
+    "breadcrumb_current": "Automatización con IA inmobiliaria en 2026",
+    "h2_1_instant_response": "1. Respuesta instantánea a leads del portal",
+    "h2_2_phone_agents": "2. Agentes telefónicos con IA",
+    "h2_3_follow_up": "3. Secuencias de seguimiento que nunca se olvidan",
+    "h2_4_listing_content": "4. Contenido de anuncios y presencia social",
+    "h2_5_crm_hygiene": "5. Higiene del CRM que nadie tiene que hacer",
+    "h2_cost_start": "Cuánto cuesta esto y por dónde empezar",
+    "cta_band_h2": "¿Quieres esto funcionando en tu agencia en menos de un mes?"
+  },
+  "schema": {
+    "breadcrumb": ["Inicio", "Blog", "Cómo los equipos inmobiliarios usan la automatización con IA en 2026"],
+    "article": {
+      "headline": "Cómo los equipos inmobiliarios usan la automatización con IA en 2026",
+      "description": "Los cinco sistemas de automatización con IA que usan los mejores equipos inmobiliarios en 2026, con cifras realistas.",
+      "inLanguage": "es"
+    },
+    "faq": []
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish search terms, not literal translations. Real estate vocabulary varies by region (see translatorNotes).",
+    "primary": ["automatización con IA inmobiliaria 2026", "automatización de leads inmobiliarios", "agente telefónico con IA inmobiliaria"],
+    "secondary": ["automatización de agencias inmobiliarias", "respuesta instantánea a leads inmobiliarios", "secuencias de seguimiento inmobiliario"]
+  },
+  "translatorNotes": [
+    "Register: informal tú, consistent with the rest of the Spanish site.",
+    "FLAG — real estate vocabulary varies between Spain and Latin America and should be checked by a native reviewer for the target market. Choices used here: brokerage -> agencia; agent -> agente; listing -> anuncio; portal -> portal; nurture sequences -> secuencias de cultivo; CRM hygiene -> higiene del CRM; phone agent -> agente telefónico; viewing -> visita; lead -> lead (kept as-is, common in Spanish marketing). In parts of LatAm 'inmobiliaria/corredora', 'propiedad/inmueble' and 'agendar' vs 'reservar' may read more naturally.",
+    "Acronyms kept as-is: CRM, SMS. IDX and ISA are in the general glossary to keep but do not appear literally in this post's body. If a reviewer introduces them, keep them as acronyms.",
+    "Currency: 'between $1,000 and $5,000' -> 'entre 1.000 y 5.000 dólares'. Stats kept exactly: 90 seconds -> 90 segundos, 4+ hours -> más de 4 horas, 34% -> 34%, 20+ hours -> más de 20 horas, 90 days -> 90 días, 30 minutes -> 30 minutos. Read time '6 min read' -> '6 min de lectura'. Date 'July 11, 2026' -> '11 de julio de 2026'.",
+    "Brand/legal names kept: Innovaria Tech Limited. Email info@innovariatech.space and phone +1 601 860 1258 unchanged.",
+    "Internal links repointed to /es (brand, nav, breadcrumbs, services, industries, case-studies, about, blog, contact, in-body service links, related blog link, footer). Left unchanged: /privacy, /terms, sitemap.xml, mailto, tel, the LinkedIn author URL.",
+    "lang-switch EN link -> /blog/how-real-estate-uses-ai-automation-2026. English source got the 3 hreflang alternates + EN/ES lang-switch (two insertions only).",
+    "This post has no FAQ section and no lead/audit form, so no FAQPage JSON-LD and no window.__i18n form block were added."
+  ],
+  "suggestedLlmsTxtEntry": "/es/blog/how-real-estate-uses-ai-automation-2026 — Spanish (es). The five automation systems top real estate teams run in 2026: instant portal lead response, AI phone agents, nurture sequences, listing content and social, and CRM hygiene, with realistic build costs and where to start. DRAFT pending native review.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live."
+}

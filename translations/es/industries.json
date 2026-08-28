@@ -1,0 +1,53 @@
+{
+  "_meta": {
+    "page": "Industries hub",
+    "sourceFile": "/industries.html",
+    "outputFile": "/es/industries.html",
+    "language": "es", "locale": "es-ES", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú.",
+    "note": "First Phase 2 page. No contact form on this page, so no window.__i18n block. Full copy is in the rendered page; this file records head/meta, schema strings, keywords, and notes."
+  },
+  "head": {
+    "title": "Sectores que automatizamos: ocho guías | Innovaria Tech",
+    "description": "Guías de automatización con IA para inmobiliaria, salud, ecommerce, legal, finanzas, educación, manufactura y logística. Encuentra tu sector.",
+    "canonical": "https://innovariatech.space/es/industries",
+    "robots": "noindex, follow"
+  },
+  "headings": {
+    "hero_h1": "Ya sabemos dónde tu sector pierde dinero",
+    "cards_h2": "Encuentra tu sector, ve tu fuga",
+    "pattern_h2": "Vocabulario distinto, las mismas tres fugas",
+    "closing_h2": "¿Tu sector no aparece? Las fugas suelen ser las mismas."
+  },
+  "schema": {
+    "breadcrumb": ["Inicio", "Sectores"],
+    "itemList": [
+      "Automatización con IA para inmobiliarias",
+      "Agente de IA para el sector salud",
+      "Agentes de IA para ecommerce",
+      "Agente de IA para el sector legal",
+      "Agentes de IA para finanzas y contabilidad",
+      "Agente de IA para educación",
+      "Agentes de IA para manufactura",
+      "Agentes de IA para operaciones de logística"
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish search terms, not literal translations.",
+    "primary": ["automatización con IA por sector", "IA para empresas por industria", "automatización de procesos por sector"],
+    "secondary": ["automatización inmobiliaria", "automatización para clínicas", "automatización ecommerce", "automatización para despachos"],
+    "industryNames": {
+      "real-estate": "Inmobiliaria", "healthcare": "Salud", "ecommerce": "Ecommerce", "legal": "Legal",
+      "finance": "Finanzas y contabilidad", "education": "Educación", "manufacturing": "Manufactura", "logistics": "Logística"
+    }
+  },
+  "translatorNotes": [
+    "Register: informal tú, consistent with Phase 1.",
+    "'Industries' -> 'Sectores' throughout (matches the homepage decision). 'playbook' -> 'guía'. 'leak' (revenue leak) -> 'fuga'.",
+    "'no shows' -> 'ausencias'; 'RFQ' kept as-is (industry acronym); 'ERP' kept; QuickBooks/Xero/HIPAA kept.",
+    "Nav services + industries dropdowns and footer service links all point to /es (Phase 1 complete). The eight industry card links and industries dropdown point to /es/industries/... — those pages are being built in this same Phase 2 pass, so they resolve once the pass completes.",
+    "Case-studies, about, blog, contact still fall back to English (Phase 3)."
+  ],
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live."
+}

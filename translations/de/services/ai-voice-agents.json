@@ -1,0 +1,87 @@
+{
+  "_meta": {
+    "page": "service: AI Voice Agents",
+    "sourceFile": "/services/ai-voice-agents.html",
+    "outputFile": "/de/services/ai-voice-agents.html",
+    "language": "de",
+    "locale": "de-DE",
+    "dir": "ltr",
+    "status": "DRAFT — needs native/fluent German review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Standard German, informal du.",
+    "note": "has form"
+  },
+
+  "head": {
+    "title": "KI-Sprachassistenten: Jeder Anruf beantwortet | Innovaria",
+    "description": "KI-Sprachassistenten, die jeden Anruf beim ersten Klingeln beantworten, rund um die Uhr, in deinen Kalender buchen und verpasste Anrufe per SMS zurückmelden. Kostenlose Analyse buchen.",
+    "keywords": "KI-Sprachassistenten, KI-Telefonassistent, Anrufautomatisierung, KI-Anrufbeantwortung, Telefonassistent für Unternehmen, verpasste Anrufe zurückgewinnen",
+    "canonical": "https://innovariatech.space/de/services/ai-voice-agents",
+    "robots": "noindex, follow",
+    "og": {
+      "title": "KI-Sprachassistenten: Jeder Anruf beantwortet | Innovaria",
+      "description": "Dein Telefon wird beim ersten Klingeln beantwortet, rund um die Uhr. Natürliche Gespräche, Buchungen in deinen Kalender, komplexe Anrufe mit Zusammenfassung weitergeleitet.",
+      "locale": "de_DE"
+    },
+    "twitter": {
+      "title": "KI-Sprachassistenten: Jeder Anruf beantwortet | Innovaria",
+      "description": "Dein Telefon wird beim ersten Klingeln beantwortet, rund um die Uhr. Natürliche Gespräche, Buchungen in deinen Kalender, komplexe Anrufe mit Zusammenfassung weitergeleitet."
+    }
+  },
+
+  "runtime_i18n_form": {
+    "fixFields": "Bitte korrigiere die markierten Felder und versuche es erneut.",
+    "sending": "Wird gesendet...",
+    "thanksConfirmed": "Danke, {name}. Eine Bestätigung ist gerade in deinem Posteingang gelandet. Eine Person meldet sich während der Geschäftszeiten bei dir.",
+    "thanksReceived": "Danke, {name}. Deine Anfrage ist bei uns angekommen und das Team kann sie sehen. Unsere automatische Bestätigungs-E-Mail ist diesmal nicht rausgegangen, also schreib uns direkt an info@innovariatech.space, um sicherzugehen.",
+    "errorSuffix": "Du kannst uns auch direkt an info@innovariatech.space schreiben."
+  },
+
+  "headings": {
+    "hero_h1": "KI-Sprachassistenten, die beim ersten Klingeln beantworten, rund um die Uhr",
+    "problems_h2": "Dein Telefon ist der Ort, an dem Kunden es zuerst und zuletzt versuchen",
+    "solution_h2": "Ein Telefonassistent, der arbeitet wie ein großartiger Empfang",
+    "outcomes_h2": "Was sich ändert, wenn das Telefon immer beantwortet wird",
+    "how_h2": "Von der Analyse zum aktiven Telefonassistenten in vier Schritten",
+    "why_h2": "Gebaut, damit Anrufer bleiben und nicht die Null drücken",
+    "proof_h2": "Eine Klinik verpasste keine Anrufe mehr während der Termine",
+    "tech_h2": "Telefonie, die skaliert, Stimmen, die nicht nerven",
+    "faq_h2": "KI-Sprachassistenten, direkt beantwortet",
+    "finalCta_h2": "Finde heraus, wie viele Anrufe du diese Woche verpasst hast",
+    "contact_h2": "Fordere deine kostenlose Automatisierungs-Analyse an"
+  },
+
+  "schema": {
+    "inLanguage": "de",
+    "service_name": "KI-Sprachassistenten",
+    "service_description": "KI-Sprachassistenten, die Geschäftsleitungen beim ersten Klingeln rund um die Uhr beantworten, natürliche Gespräche führen, Termine in Kalender buchen, komplexe Anrufe mit einer Zusammenfassung an Menschen weiterleiten und jeden verpassten Anruf per SMS zurückmelden.",
+    "breadcrumb": ["Startseite", "Leistungen", "KI-Sprachassistenten"],
+    "faq": [
+      { "q": "Was sind KI-Sprachassistenten?", "a": "KI-Sprachassistenten bauen einen Telefonassistenten, der deine Geschäftsleitung beim ersten Klingeln beantwortet, zu jeder Stunde an jedem Tag. Er führt ein natürliches Gespräch, beantwortet Fragen zu deinem Unternehmen, bucht Termine direkt in deinen Kalender und leitet Anrufe, die einen Menschen brauchen, mit einer schriftlichen Zusammenfassung weiter. Anrufer, die früh auflegen, bekommen sofort eine SMS zurück." },
+      { "q": "Klingt ein KI-Sprachassistent roboterhaft?", "a": "Moderne Sprachassistenten sprechen in natürlichen Stimmen der aktuellen Generation, gehen mit Unterbrechungen um und folgen dem Anrufer, statt ein Menü aufzuzwingen. Wir stimmen Begrüßung, Ton und Wortschatz auf dein Unternehmen ab, und du hörst dir Testanrufe an und gibst die Stimme frei, bevor sie je einen echten Kunden beantwortet." },
+      { "q": "Was passiert, wenn ein Anruf zu komplex für den Assistenten ist?", "a": "Der Assistent leitet ihn weiter. Er erkennt, wenn ein Anrufer Urteilsvermögen braucht, verärgert ist oder nach einer Person fragt, und leitet den Anruf dann mit einer Zusammenfassung von allem bisher Gesagten an das richtige Teammitglied. Außerhalb der Geschäftszeiten nimmt er eine ausführliche Nachricht auf, bucht einen Rückruf und schickt deinem Team das Transkript." },
+      { "q": "Was kosten KI-Sprachassistenten?", "a": "Ein kompletter Sprachassistent, inklusive Anrufabläufen, Kalenderbuchung, Weiterleitungen und SMS-Rückmeldung bei verpassten Anrufen, liegt beim Bau in der Regel zwischen 1.000 und 5.000 US-Dollar, plus 50 bis 300 US-Dollar pro Monat an Plattform- und Anrufgebühren. Wir nennen einen Festpreis nach einer kostenlosen Analyse, es gibt also keine offenen Rechnungen." },
+      { "q": "Wie lange dauert die Einrichtung?", "a": "Ein bis zwei Wochen für einen einfachen Assistenten zum Beantworten und Buchen, zwei bis vier Wochen für ein komplettes System mit Weiterleitungen, CRM-Sync und Rückgewinnung verpasster Anrufe. Du hörst dem Assistenten bei echten Testanrufen zu, bevor du die Schlussrechnung bezahlst." },
+      { "q": "Was ist mit Compliance und der Einwilligung zur Anrufaufzeichnung?", "a": "Wir konfigurieren den Assistenten für deine Rechtsordnung: Hinweise auf die Aufzeichnung in der Begrüßung, wo eine Einwilligung erforderlich ist, Regeln zur Datenspeicherung, die du steuerst, und HIPAA-konforme Plattformen für das Gesundheitswesen. Aufzeichnungen und Transkripte liegen in Konten, die deinem Unternehmen gehören, und du entscheidest, was wie lange aufbewahrt wird." }
+    ]
+  },
+
+  "targetedKeywords": {
+    "note": "Researched German search terms, not literal translations.",
+    "primary": ["KI-Sprachassistenten", "KI-Telefonassistent", "Anrufautomatisierung"],
+    "secondary": ["KI Anrufe automatisch beantworten", "virtueller Telefonassistent für Unternehmen", "verpasste Anrufe automatisch zurückrufen"]
+  },
+
+  "translatorNotes": [
+    "Register: informal du throughout, consistent with the sibling ES pages and the German set. The du/Sie decision (here: du) is the single biggest review call and carries across all German pages.",
+    "Glossary applied: AI Voice Agents -> KI-Sprachassistenten, Call Automation -> Anrufautomatisierung (footer service label), Email Automation -> E-Mail-Automatisierung / here 'Nachfass-Automatisierung' for the 'Follow up automation' card link, Workflow Automation -> Workflow-Automatisierung, AI Chatbots -> KI-Chatbots / KI-Chatbot-Entwicklung, Generative AI -> Generative KI, AI Automation -> KI-Automatisierung. Industries mapped per glossary (Gesundheitswesen etc.).",
+    "'lead' kept in English (standard in German CRM/marketing). 'bottleneck' -> 'Engpass'. 'follow up' -> 'Nachfassen' / 'Nachfass-'. 'roadmap' -> 'Fahrplan'. 'fixed price' -> 'Festpreis'. 'no shows' -> 'Terminausfälle'. 'payback' kept as 'Payback'. 'text back' -> 'SMS-Rückmeldung' / 'SMS zurück'.",
+    "Prices/facts kept exactly: '$1,000 and $5,000' -> '1.000 und 5.000 US-Dollar'; '$50 to $300' -> '50 bis 300 US-Dollar'. Brand/tool names (Twilio, Calendly, n8n, Make, Zapier, HubSpot, WhatsApp Business, Google Workspace, Slack, Stripe, OpenAI, Claude), HIPAA, and stats (100%, 24/7, < 60 sec, 20+ hrs, -31%, 18 hrs, ~0) unchanged. Stat suffixes localized to ' Sek.' and '+ Std.' as in the sibling page. 'Innovaria Tech Limited', email, phone, /api/lead form action unchanged.",
+    "'Built to make callers stay, not press zero' -> 'Gebaut, damit Anrufer bleiben und nicht die Null drücken' keeps the 'press zero to reach a human' idiom; a reviewer may prefer a phrasing more common in German phone menus.",
+    "ALL internal links repointed to /de: brand, nav (both dropdowns), breadcrumbs, hero CTA, in-body card links, the two in-copy blog links, footer service/company links. Cross-language switcher links (EN -> /services/..., ES -> /es/services/...) intentionally NOT repointed. Left unchanged: /privacy, /terms, sitemap, mailto, tel, wa.me, external Unsplash image, and the form action /api/lead.",
+    "Three-way language switcher added (EN + ES + DE, DE current). Head has four hreflang alternates (en, es, de, x-default) and og:locale de_DE. Robots set to noindex, follow with the draft comment above it. Contact-form status messages localized via window.__i18n.form (English fallback preserved for untranslated pages)."
+  ],
+
+  "suggestedLlmsTxtEntry": "German (de) draft of the AI Voice Agents service page: an AI phone agent that answers every call on the first ring 24/7, holds natural conversations, books into your calendar, warm-transfers complex calls with a summary, and texts back missed calls, built at a fixed price you own.",
+
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent German review before going live."
+}

@@ -1,0 +1,94 @@
+{
+  "_meta": {
+    "source": "industries/real-estate.html",
+    "target": "de/industries/real-estate.html",
+    "language": "de",
+    "locale": "de-DE",
+    "dir": "ltr",
+    "status": "DRAFT — needs native/fluent German review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Standard German, informal du.",
+    "note": "has form"
+  },
+  "head": {
+    "title": "KI-Automatisierung für Immobilienmakler | Innovaria",
+    "description": "KI-Automatisierung für Immobilienmakler: Antworte jedem Zillow-Lead in 90 Sekunden, buche Besichtigungen nach Feierabend und verpasse keinen Anruf mehr. Kostenlose Analyse.",
+    "keywords": "KI-Automatisierung für Immobilien, Lead-Automatisierung für Makler, Immobilien-Leads schneller beantworten, KI-Sprachassistent für Besichtigungen, Nachfassen für Makler automatisieren, Kosten für Immobilienautomatisierung, Speed to Lead Immobilien",
+    "og_title": "KI-Automatisierung für Immobilienmakler | Innovaria",
+    "og_description": "Antworte jedem Portal-Lead in 90 Sekunden, buche Besichtigungen nach Feierabend und verpasse keinen Anruf während der Besichtigungen.",
+    "og_locale": "de_DE",
+    "twitter_title": "KI-Automatisierung für Immobilienmakler | Innovaria",
+    "twitter_description": "Antworte jedem Portal-Lead in 90 Sekunden, buche Besichtigungen nach Feierabend und verpasse keinen Anruf während der Besichtigungen.",
+    "canonical": "https://innovariatech.space/de/industries/real-estate"
+  },
+  "headings": {
+    "h1": "KI-Automatisierung für Immobilienmakler, die das Rennen um Geschwindigkeit nicht verlieren wollen",
+    "problems_h2": "Wo Provisionen still und leise verschwinden",
+    "solution_h2": "Geschwindigkeit zum Lead wird zu deinem unfairen Vorteil",
+    "outcomes_h2": "Die Zahlen drei Monate nach dem Livegang",
+    "how_h2": "In deinem Maklerbüro live in zwei bis vier Wochen",
+    "why_h2": "Dein CRM, deine Konten, dein System",
+    "case_h2": "Das Maklerbüro mit 12 Maklern, das keine Abendleads mehr verlor",
+    "tech_h2": "Aufgebaut auf den Tools, die dein Team bereits kennt",
+    "faq_h2": "Immobilienautomatisierung, direkt beantwortet",
+    "cta_h2": "Wie viele der Leads vom letzten Monat bekamen nie eine Antwort?",
+    "contact_h2": "Fordere deine kostenlose Analyse des Lead-Flows an",
+    "related_h2": "Aufgebaut aus diesen Fähigkeiten"
+  },
+  "schema": {
+    "service_name": "KI-Automatisierung für Immobilienmakler",
+    "service_description": "Sofortige Reaktion auf Portal-Leads, KI-Telefonassistenten für Besichtigungsbuchungen und automatisierte Nachfass-Sequenzen, aufgebaut auf dem CRM, das Immobilienteams bereits nutzen, mit eingebauter Einhaltung der US-Fair-Housing-Gesetze.",
+    "audienceType": "Immobilienmakler, Teams und Maklerbüros",
+    "breadcrumb": [
+      { "name": "Startseite", "item": "https://innovariatech.space/de" },
+      { "name": "Branchen", "item": "https://innovariatech.space/de/industries" },
+      { "name": "Immobilien", "item": "https://innovariatech.space/de/industries/real-estate" }
+    ],
+    "faq": [
+      {
+        "q": "Warum ist die Antwortgeschwindigkeit bei Leads in der Immobilienbranche so wichtig?",
+        "a": "Weil die meisten Käufer mit dem Makler zusammenarbeiten, der zuerst antwortet. Die Kontaktchancen brechen schon wenige Minuten nach Eingang einer Anfrage ein, und Portal-Leads kommen am häufigsten am Abend, wenn Makler Objekte zeigen oder Feierabend haben. Die Automatisierung antwortet zu jeder Uhrzeit in etwa 90 Sekunden, sodass du das Rennen gewinnst, ohne dafür wach sein zu müssen."
+      },
+      {
+        "q": "Funktioniert das mit Follow Up Boss, kvCORE oder Real Geeks?",
+        "a": "Ja. Wir bauen auf dem CRM auf, das du bereits nutzt, statt es zu ersetzen. Leads landen als saubere Datensätze, jeder automatisierte Kontakt wird protokolliert, und die Phasen aktualisieren sich, wenn Besichtigungen gebucht werden. Wenn dein CRM eine API hat, können wir es anbinden."
+      },
+      {
+        "q": "Ist die automatisierte Lead-Bearbeitung mit den Fair-Housing-Gesetzen konform?",
+        "a": "Das muss sie sein, und unsere ist genau dafür ausgelegt. Die Qualifizierungs- und Weiterleitungslogik nutzt niemals geschützte Merkmale, und jede Nachrichtenvorlage durchläuft deine Prüfung vor dem Livegang. Automatisiertes Scoring kann auch ohne Absicht diskriminierende Effekte erzeugen, deshalb halten wir geschützte Attribute komplett aus der Logik heraus."
+      },
+      {
+        "q": "Was kostet Immobilienautomatisierung?",
+        "a": "Ein vollständiges Lead-Response-System liegt beim Aufbau in der Regel zwischen 1.000 und 5.000 US-Dollar zuzüglich moderater monatlicher Plattformgebühren. Gegenüber einer einzigen geretteten Provision amortisiert es sich meist schon im ersten oder zweiten Monat. Nach einer kostenlosen Analyse deines Lead-Flows bekommst du ein Festpreisangebot."
+      },
+      {
+        "q": "Ersetzt das meinen ISA oder meine Makler?",
+        "a": "Nein. Die Automatisierung übernimmt den ersten Kontakt, die Qualifizierungsfragen und die Erinnerungen. Dein ISA und deine Makler bekommen Leads, die Fragen zu Zeitplan, Budget und Finanzierung bereits beantwortet haben, mit vollständigem Kontext, und verbringen ihre Zeit mit Gesprächen, die zum Abschluss führen."
+      }
+    ]
+  },
+  "targetedKeywords": {
+    "note": "German keyword equivalents for the real-estate industry page; not machine keyword-researched, review with a native SEO before relying on volumes.",
+    "primary": [
+      "KI-Automatisierung für Immobilien",
+      "Lead-Automatisierung für Makler",
+      "Immobilien-Leads schneller beantworten"
+    ],
+    "secondary": [
+      "KI-Sprachassistent für Besichtigungen",
+      "Nachfassen für Makler automatisieren",
+      "Kosten für Immobilienautomatisierung",
+      "Speed to Lead Immobilien"
+    ]
+  },
+  "translatorNotes": [
+    "FLAG US-specific: 'fair housing' renders as 'US-Fair-Housing-Gesetze' / 'Fair-Housing-Gesetze'. This is US Fair Housing law and has no direct German equivalent; a German-market version should reference AGG (Allgemeines Gleichbehandlungsgesetz) instead. Left as US framing per source.",
+    "Brand and product names kept exact: Follow Up Boss, kvCORE, Real Geeks, Zillow, Realtor.com, IDX, n8n, Make, Zapier, Twilio, WhatsApp Business, Calendly, Google Workspace.",
+    "ISA kept as-is (Inside Sales Agent), a US real-estate role term.",
+    "Currency converted per spec: '$1,000 and $5,000' -> '1.000 und 5.000 US-Dollar'.",
+    "All internal links repointed to /de (nav, breadcrumb, footer, related services, other industries, related blog reading). Related blog anchors translated but slugs kept: /de/blog/ai-real-estate-lead-generation, /de/blog/how-real-estate-uses-ai-automation-2026.",
+    "External links unchanged: mailto, tel, wa.me, sitemap.xml, unsplash image, gtag. /privacy and /terms kept language-neutral. /api/lead unchanged.",
+    "Informal 'du' throughout; no em-dashes used."
+  ],
+  "suggestedLlmsTxtEntry": "German (draft) translation of the real estate industry page: AI automation for real estate agents, with instant portal lead response, AI phone agents for viewings, and follow-up sequences on the CRM teams already use.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent German review before going live."
+}

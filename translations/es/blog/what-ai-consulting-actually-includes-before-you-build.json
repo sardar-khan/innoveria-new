@@ -1,0 +1,74 @@
+{
+  "_meta": {
+    "page": "Blog post — What AI consulting actually includes before you build",
+    "slug": "what-ai-consulting-actually-includes-before-you-build",
+    "sourceFile": "/blog/what-ai-consulting-actually-includes-before-you-build.html",
+    "outputFile": "/es/blog/what-ai-consulting-actually-includes-before-you-build.html",
+    "language": "es", "locale": "es-ES", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú.",
+    "hadForm": false,
+    "note": "Full blog post translated: head/meta, JSON-LD (Article + Organization + Breadcrumb + FAQPage), nav, breadcrumbs, hero, body prose, key takeaways, red flags, cost section, 6-question FAQ, related reading, CTA band, footer. No lead/audit <form> exists on this page, so no window.__i18n form block was added. Asset paths switched from ../ to root-absolute (/assets, /css, /js, /favicon.ico). gtag and og:image kept absolute."
+  },
+  "head": {
+    "title": "Qué incluye de verdad la consultoría de IA antes de construir",
+    "description": "Qué debería incluir un verdadero trabajo de consultoría de IA, las señales de alarma que conviene vigilar, y por qué el diagnóstico no debería ser la parte cara.",
+    "keywords": "consultoría de IA para pequeños negocios, empresa de consultoría de IA, diagnóstico de preparación para IA, costo de consultoría de IA, qué incluye la consultoría de IA, contratar consultor de IA, consultoría de automatización con IA",
+    "canonical": "https://innovariatech.space/es/blog/what-ai-consulting-actually-includes-before-you-build",
+    "robots": "noindex, follow",
+    "article:section": "Consultoría de IA",
+    "og:title": "Qué incluye de verdad la consultoría de IA antes de construir",
+    "og:description": "Algunos consultores de IA cobran miles solo por decirte qué vale la pena automatizar. Esto es lo que un trabajo de consultoría debería incluir de verdad y qué señales de alarma vigilar.",
+    "og:locale": "es_ES",
+    "twitter:description": "Qué debería incluir un verdadero trabajo de consultoría de IA, y las señales de alarma que conviene vigilar antes de firmar nada."
+  },
+  "headings": {
+    "hero_kicker": "Consultoría de IA",
+    "hero_h1": "Qué incluye de verdad la consultoría de IA antes de construir nada",
+    "post_meta": "Publicado el 14 de agosto de 2026 · por Ahsan Ilyas, fundador de Innovaria Tech · 9 min de lectura",
+    "answer_capsule_label": "Respuesta rápida",
+    "key_takeaways": "Puntos clave",
+    "h2_why_skipped": "Por qué esta etapa se salta o se hace mal",
+    "h2_what_includes": "Qué debería incluir de verdad un trabajo real",
+    "h2_red_flags": "Señales de alarma que conviene vigilar",
+    "h2_how_connects": "Cómo se conecta esto con lo que de verdad construimos",
+    "h2_realistic": "Cómo es un trabajo realista",
+    "h2_cost": "Cuánto cuesta de verdad",
+    "h2_faq": "Preguntas frecuentes",
+    "h2_related": "Lecturas relacionadas",
+    "cta_band_h2": "Consigue una respuesta honesta antes de gastar un solo dólar"
+  },
+  "schema": {
+    "breadcrumb": ["Inicio", "Blog", "Consultoría de IA"],
+    "article": {
+      "headline": "Qué incluye de verdad la consultoría de IA antes de construir nada",
+      "inLanguage": "es",
+      "about": ["Consultoría de IA", "Diagnóstico de preparación para IA"]
+    },
+    "faq": [
+      "¿Por qué el diagnóstico es gratis cuando otros cobran miles?",
+      "¿Y si la respuesta es que la automatización no nos vale la pena ahora mismo?",
+      "¿Cuánto dura una conversación de consultoría?",
+      "¿Estamos obligados a construir con Innovaria después de la consulta?",
+      "¿Qué pasa después del diagnóstico si decidimos seguir adelante?",
+      "¿Innovaria se especializa en un solo sector o un solo tipo de automatización?"
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish search terms, not literal translations.",
+    "primary": ["consultoría de IA para pequeños negocios", "qué incluye la consultoría de IA", "diagnóstico de preparación para IA"],
+    "secondary": ["costo de consultoría de IA", "contratar consultor de IA", "consultoría de automatización con IA"]
+  },
+  "translatorNotes": [
+    "Register: informal tú throughout, consistent with the rest of the Spanish site. In FAQ questions (customer addressing the company) the second-person plural 'vosotros' was avoided for neutral international Spanish: two questions were reframed to name 'Innovaria' or drop the possessive ('¿Por qué el diagnóstico es gratis...', '¿Innovaria se especializa...', '¿Estamos obligados a construir con Innovaria...'). Company answers keep tú when addressing the reader ('te decimos', 'recibes', 'contigo').",
+    "Glossary: assessment -> diagnóstico; red flags -> señales de alarma; scope/scoped -> alcance / con un alcance definido; fixed price/quote -> precio cerrado; roadmap term not present. 'engagement' -> 'trabajo (de consultoría)'; 'build' (noun) -> 'construcción'; 'readiness assessment' -> 'diagnóstico de preparación'.",
+    "Currency written out in English rendered numerically per house style: 'one thousand and five thousand dollars' -> '1.000 y 5.000 dólares'; 'two thousand dollar' -> '2.000 dólares'; 'a hundred and fifty thousand dollar' -> '150.000 dólares'; 'ten thousand and fifty thousand dollars' -> '10.000 y 50.000 dólares'; 'two thousand to eight thousand dollars' -> 'entre dos mil y ocho mil dólares' (kept in words in the lede to preserve the conversational opening tone). Read time '9 min read' -> '9 min de lectura'. Date 'August 14, 2026' -> '14 de agosto de 2026'.",
+    "No em-dashes used. Source parenthetical set off with commas ('more volume, more organized documentation, a different priority') rendered with parentheses in Spanish for readability.",
+    "Internal links repointed to /es: brand, nav, breadcrumbs, in-body service and blog links, FAQ links, related-reading links, footer links. English slugs kept unchanged. Some target Spanish posts are drafts being produced in the same batch, so they resolve once complete.",
+    "Left unchanged (per rules): /privacy, /terms, sitemap.xml, mailto:, tel:, Unsplash image URLs, LinkedIn author URL, gtag, og:image absolute URL. lang-switch EN link -> /blog/what-ai-consulting-actually-includes-before-you-build.",
+    "Brand/tool names kept: n8n, Make, Zapier, Innovaria Tech, Innovaria Tech Limited. Acronyms kept: IA (for AI, localized), CRM/ERP/ROI would be kept if present (not present in body).",
+    "Title kept aligned with the existing es/blog/index.html card for this post ('Qué incluye de verdad la consultoría de IA antes de construir nada')."
+  ],
+  "suggestedLlmsTxtEntry": "/es/blog/what-ai-consulting-actually-includes-before-you-build — Spanish (es). What a real AI consulting engagement should include before any build: mapping actual workflows, a specific scoped recommendation, an honest cost-and-return estimate, red flags to watch for, and why the readiness assessment itself should be free rather than the expensive part. DRAFT pending native review.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live."
+}

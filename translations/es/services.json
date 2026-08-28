@@ -1,0 +1,87 @@
+{
+  "_meta": {
+    "page": "Services hub",
+    "sourceFile": "/services.html",
+    "outputFile": "/es/services.html",
+    "language": "es", "locale": "es-ES", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú.",
+    "note": "The Services hub page was missed in the earlier /es passes and is added here to match the 45 existing Spanish pages. No contact form on this page, so no window.__i18n block. Full copy lives in the rendered page; this file records head/meta, schema strings, keywords, and notes."
+  },
+  "head": {
+    "title": "Servicios de IA y automatización: nueve sistemas | Innovaria",
+    "description": "Nueve servicios de automatización: chatbots, agentes de voz, respuesta a leads, email, flujos de trabajo y consultoría. Sistemas a precio cerrado que son tuyos.",
+    "canonical": "https://innovariatech.space/es/services",
+    "robots": "noindex, follow",
+    "ogLocale": "es_ES"
+  },
+  "headings": {
+    "hero_h1": "Nueve sistemas de automatización. Un objetivo: recuperar ingresos.",
+    "leaks_h2": "Cada servicio es su propio sistema, con su propia página",
+    "process_h2": "Auditoría, plano, construcción y entrega",
+    "faq_h2": "Preguntas sobre los servicios, respondidas sin rodeos",
+    "closing_h2": "¿No sabes con qué sistema empezar? Para eso está la auditoría.",
+    "serviceCards": {
+      "lead-automation": "Automatización de leads",
+      "ai-voice-agents": "Agentes de voz con IA",
+      "ai-chatbot-development": "Desarrollo de chatbots con IA",
+      "email-automation": "Automatización de email",
+      "workflow-automation": "Automatización de flujos de trabajo",
+      "social-automation": "Automatización de redes sociales",
+      "generative-ai-development": "Desarrollo de IA generativa",
+      "ai-consulting": "Consultoría de IA",
+      "ai-automation": "Automatización con IA (todo)"
+    },
+    "processSteps": [
+      "Auditoría de automatización gratis",
+      "Plano a precio cerrado",
+      "Construcción y pruebas",
+      "Entrega y soporte"
+    ]
+  },
+  "schema": {
+    "breadcrumb": ["Inicio", "Servicios"],
+    "itemList": [
+      "Servicios de automatización con IA",
+      "Servicios de desarrollo de chatbots con IA",
+      "Servicios de agentes de voz con IA",
+      "Servicios de desarrollo de IA generativa",
+      "Servicios de consultoría de IA",
+      "Servicios de automatización de leads",
+      "Servicios de automatización de email",
+      "Servicios de automatización de flujos de trabajo",
+      "Servicios de automatización de redes sociales"
+    ],
+    "faq": [
+      "¿Pueden trabajar con las herramientas que ya usamos?",
+      "¿Necesitamos los nueve servicios?",
+      "¿Qué pasa si una automatización se rompe?"
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish search terms, not literal translations.",
+    "primary": ["servicios de automatización con IA", "automatización de procesos con IA", "agencia de automatización con IA"],
+    "secondary": ["automatización de leads", "agentes de voz con IA", "desarrollo de chatbots con IA", "automatización de flujos de trabajo", "consultoría de IA"],
+    "serviceNames": {
+      "ai-automation": "Automatización con IA",
+      "lead-automation": "Automatización de leads",
+      "ai-voice-agents": "Agentes de voz con IA",
+      "ai-chatbot-development": "Chatbots con IA / Desarrollo de chatbots con IA",
+      "email-automation": "Automatización de email",
+      "workflow-automation": "Automatización de flujos de trabajo",
+      "social-automation": "Automatización de redes sociales",
+      "generative-ai-development": "IA generativa",
+      "ai-consulting": "Consultoría de IA"
+    }
+  },
+  "translatorNotes": [
+    "Register: informal tú, consistent with the rest of the /es site.",
+    "'Services' -> 'Servicios' throughout. 'leak' (revenue leak) -> 'fuga'. 'build' (deliverable) -> 'construcción'. 'blueprint' -> 'plano'. 'handover' -> 'entrega'. 'speed to lead' rendered as 'rapidez de respuesta al lead'.",
+    "Tool and brand names kept as-is: n8n, Make, Zapier, WhatsApp, LinkedIn, X, CRM, API. 'AI Automation (Everything)' -> 'Automatización con IA (todo)'.",
+    "Unlike the earlier /es pages, the top-level 'Servicios' nav link and the services dropdown hub now point to /es/services, because this hub page now exists. All service, industry, and footer links point to /es.",
+    "JSON-LD ItemList keeps the source's @type Service + provider structure (translated names, /es/services URLs, inLanguage es added). Breadcrumb and FAQPage strings translated; FAQ answers mirror the visible <details> copy verbatim.",
+    "/privacy, /terms, sitemap, mailto, tel and the EN lang-switch link (/services) intentionally left un-prefixed."
+  ],
+  "suggestedLlmsTxtEntry": "Spanish (es) translation of the Services hub listing all nine AI and automation systems Innovaria Tech builds, with the fixed-price audit-to-handover process and service FAQs.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live."
+}

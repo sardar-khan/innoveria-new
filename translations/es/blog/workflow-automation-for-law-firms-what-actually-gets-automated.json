@@ -1,0 +1,76 @@
+{
+  "_meta": {
+    "page": "Blog post — Workflow automation for law firms: what actually gets automated",
+    "sourceFile": "/blog/workflow-automation-for-law-firms-what-actually-gets-automated.html",
+    "outputFile": "/es/blog/workflow-automation-for-law-firms-what-actually-gets-automated.html",
+    "slug": "workflow-automation-for-law-firms-what-actually-gets-automated",
+    "language": "es", "locale": "es-ES", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú.",
+    "hadForm": false,
+    "note": "Full blog post translated: head/meta, JSON-LD (Article, Organization, BreadcrumbList, FAQPage), nav, breadcrumbs, body prose, answer capsule, key takeaways, tables/lists, inline CTAs, FAQ, related reading, CTA band, footer, alt text and aria-labels. No lead/audit <form> in this post, so no window.__i18n block was added. Internal links repointed to /es; externals, mailto, tel, /privacy, /terms, sitemap left unchanged."
+  },
+  "head": {
+    "title": "Automatización de flujos para bufetes: qué se automatiza",
+    "description": "Descubre qué flujos legales se automatizan bien, admisión, revisión de conflictos, plazos y facturación, y cuáles se quedan con tus abogados pase lo que pase.",
+    "keywords": "automatización de flujos de trabajo para bufetes, empresa de automatización para bufetes, automatización de admisión legal, automatización de control de plazos, automatización de documentos legales, software para bufetes, costo de automatización de flujos legales",
+    "canonical": "https://innovariatech.space/es/blog/workflow-automation-for-law-firms-what-actually-gets-automated",
+    "robots": "noindex, follow",
+    "hreflang": ["en → /blog/<slug>", "es → /es/blog/<slug>", "x-default → /blog/<slug>"],
+    "og:title": "Automatización de flujos de trabajo para bufetes: qué se automatiza de verdad",
+    "og:description": "Descubre exactamente qué flujos legales se automatizan, admisión, revisión de conflictos, plazos y facturación, y cuáles se quedan con tus abogados pase lo que pase.",
+    "og:locale": "es_ES",
+    "twitter:title": "Automatización de flujos de trabajo para bufetes: qué se automatiza de verdad",
+    "twitter:description": "Exactamente qué flujos legales se automatizan y cuáles se quedan con tus abogados pase lo que pase."
+  },
+  "headings": {
+    "h1": "Automatización de flujos de trabajo para bufetes: qué se automatiza de verdad",
+    "kicker": "Legal",
+    "post_meta": "Publicado el 20 de agosto de 2026 · por Ahsan Ilyas, fundador de Innovaria Tech · 9 min de lectura",
+    "answer_capsule_label": "Respuesta rápida:",
+    "key_takeaways_h2": "Puntos clave",
+    "h2_why_expensive": "Por qué los traspasos manuales salen tan caros en un bufete concretamente",
+    "h2_what_costs": "Lo que los flujos lentos y manuales le cuestan de verdad a un bufete",
+    "h2_what_automated": "Qué se automatiza de verdad",
+    "h2_never_automated": "Qué no se debería automatizar nunca",
+    "h2_connects": "Con qué se conecta",
+    "h2_realistic_build": "Cómo se ve una implementación realista",
+    "h2_costs": "Cuánto cuesta",
+    "h2_faq": "Preguntas frecuentes",
+    "h2_related": "Lecturas relacionadas",
+    "cta_band_h2": "Descubre lo que las tareas administrativas manuales le están costando de verdad a tu bufete"
+  },
+  "schema": {
+    "breadcrumb": ["Inicio", "Blog", "Automatización de flujos de trabajo para bufetes"],
+    "article": {
+      "headline": "Automatización de flujos de trabajo para bufetes: qué se automatiza de verdad",
+      "inLanguage": "es",
+      "url_id": "https://innovariatech.space/es/blog/workflow-automation-for-law-firms-what-actually-gets-automated"
+    },
+    "faq": [
+      "¿Esto reemplazará a los paralegales o al personal de admisión?",
+      "¿De verdad se puede confiar en la automatización para el control de plazos?",
+      "¿Funciona con nuestro sistema de gestión del despacho actual?",
+      "¿Qué pasa cuando una revisión de conflictos salta una alerta?",
+      "¿Cuánto tarda una implementación como esta?",
+      "¿El sistema es nuestro una vez construido?"
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish search intent for legal-automation buyers, not literal translations. Spanish LATAM/ES both use 'bufete' and 'despacho'; 'automatización de flujos de trabajo' matches the site glossary.",
+    "primary": ["automatización de flujos de trabajo para bufetes", "automatización de admisión legal", "automatización para despachos de abogados"],
+    "secondary": ["control de plazos automatizado", "software de automatización para bufetes", "cuánto cuesta automatizar un bufete", "integración con Clio"]
+  },
+  "translatorNotes": [
+    "FLAG — LEGAL-ETHICS JURISDICTION SENSITIVITY: this post makes claims about what may and may not be automated in legal practice (conflicts screening, deadline/statute-of-limitations tracking, unauthorized practice of law, attorney supervision of automated output, client confidentiality/privilege). These duties differ by jurisdiction (US state bars, EU/LATAM bar rules, etc.). A qualified legal reviewer in the target market must confirm the Spanish wording does not overstate what automation is permitted to do or imply legal advice. Terms rendered conservatively but require native + legal review.",
+    "Legal glossary applied consistently: law firm → bufete (with 'despacho' used for variety where natural); attorney → abogado; matter → asunto; intake → admisión; conflicts screening / conflict checks → revisión de conflictos; engagement letter → hoja de encargo; billing → facturación; deadlines → plazos; statute limitations → plazos de prescripción; practice management system → sistema de gestión del despacho (and 'sistema de gestión de casos' for 'case management system'); malpractice → mala praxis; privilege/confidentiality → secreto profesional/confidencialidad (concept referenced). 'Clio' kept as-is.",
+    "'bufete' vs 'despacho': both used intentionally for natural flow; 'bufete' as the default noun, 'despacho' where repetition would read stiff and in the fixed glossary term 'sistema de gestión del despacho'. A reviewer may standardize to one if house style prefers.",
+    "Register: informal tú throughout, consistent with prior phases. No em-dashes used anywhere.",
+    "Kept exact: numbers, read-time (9 min de lectura), date (20 de agosto de 2026 / Agosto 2026 style), brand/tool names (Clio, n8n, Make, Zapier), acronyms (API, CRM, IA), 'Innovaria Tech Limited', email info@innovariatech.space, phone +1 601 860 1258. Currency: 'between one thousand and five thousand dollars' → 'entre 1.000 y 5.000 dólares'; 'low hundreds of dollars' → 'unos pocos cientos de dólares'.",
+    "Internal links repointed to /es: brand → /es; nav Servicios/Sectores/Casos de éxito/Nosotros/Blog/Contacto and their submenus → /es/...; body links (best-automation-tools-service-businesses, industries/legal, services/workflow-automation, how-much-does-ai-automation-cost, how-to-choose-ai-automation-agency) and all Related-reading links → /es/blog/<slug> or /es/<section>. English blog slugs kept unchanged. Footer company/services links → /es.",
+    "Left unchanged (per rules): /privacy, /terms, sitemap.xml, mailto:, tel:, LinkedIn author URL, Unsplash image URLs, gtag, og:image absolute URL. lang-switch EN link → /blog/<slug> (English source).",
+    "Some referenced Spanish target pages (e.g. /es/blog/how-much-does-ai-automation-cost, /es/blog/ai-client-intake-automation-law-firms) are part of the same in-progress translation batch and resolve once those drafts ship."
+  ],
+  "suggestedLlmsTxtEntry": "/es/blog/workflow-automation-for-law-firms-what-actually-gets-automated — Spanish (es). Innovaria Tech guide to workflow automation for law firms: the five workflows that automate cleanly (intake, conflict checks, deadline tracking, document generation, billing), what must stay with attorneys, what a realistic build and its cost look like. DRAFT pending native + legal review.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live. Legal-ethics wording is jurisdiction-sensitive and additionally requires review by someone familiar with the target market's bar/professional-conduct rules."
+}

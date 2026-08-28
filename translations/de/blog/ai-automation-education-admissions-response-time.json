@@ -1,0 +1,71 @@
+{
+  "_meta": {
+    "page": "Blog post: AI automation for education — cut admissions response time",
+    "sourceFile": "/blog/ai-automation-education-admissions-response-time.html",
+    "outputFile": "/de/blog/ai-automation-education-admissions-response-time.html",
+    "language": "de", "locale": "de-DE", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent German review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Standard German, informal du.",
+    "note": "Education-sector marketing post. Prose, nav, breadcrumbs, headings, key takeaways, FAQ, CTAs, alt text and footer translated. No lead/audit <form> exists on this page, so no window.__i18n form block was added. Article + FAQPage + Breadcrumb JSON-LD localized (inLanguage de on Article + FAQPage; Article url/@id/mainEntityOfPage and Breadcrumb URLs repointed to /de). Organization block kept verbatim."
+  },
+  "head": {
+    "title": "KI-Automatisierung für die Bildung: Reaktionszeit bei Zulassungen verkürzen",
+    "description": "Erfahre, wie KI-Automatisierung die Reaktionszeit bei Zulassungen verkürzt, mit Erinnerungen weniger ausgefallene Besichtigungen verursacht und bei Bewerbern nachfasst, die still werden.",
+    "keywords": "KI-Automatisierung für die Bildung, Automatisierungsunternehmen für Schulen, Reaktionszeit bei Zulassungen, Automatisierung der Einschreibung, KI für Schulen und Akademien, Nichterscheinen bei Besichtigungen reduzieren, Workflow-Automatisierung im Bildungswesen",
+    "canonical": "https://innovariatech.space/de/blog/ai-automation-education-admissions-response-time",
+    "robots": "noindex, follow",
+    "og:title": "KI-Automatisierung für die Bildung: Reaktionszeit bei Zulassungen verkürzen",
+    "og:description": "Erfahre, wie KI-Automatisierung die Reaktionszeit bei Zulassungen verkürzt, Familien an Besichtigungen und Gespräche erinnert und dein Einschreibungsteam auf die Gespräche konzentriert hält, die einen Menschen brauchen.",
+    "og:locale": "de_DE",
+    "twitter:title": "KI-Automatisierung für die Bildung: Reaktionszeit bei Zulassungen verkürzen",
+    "twitter:description": "Interessierte stellen eine Frage und werden still, wenn niemand schnell antwortet. So hält KI-Automatisierung jede Anfrage in Bewegung."
+  },
+  "headings": {
+    "hero_h1": "KI-Automatisierung für die Bildung: Reaktionszeit bei Zulassungen verkürzen und keine Bewerber mehr durch Schweigen verlieren",
+    "kicker": "Bildung",
+    "answer_capsule_label": "Kurze Antwort",
+    "key_takeaways": "Wichtigste Erkenntnisse",
+    "h2_why_inboxes": "Warum Zulassungspostfächer nie aufholen",
+    "h2_what_costs": "Was eine langsame Reaktion eine Schule wirklich kostet",
+    "h2_what_it_does": "Was KI-Automatisierung wirklich macht",
+    "h2_stays_with_team": "Was bei deinem Einschreibungsteam bleiben sollte",
+    "h2_connects": "Womit es sich verbindet",
+    "h2_realistic_build": "Wie ein realistischer Aufbau aussieht",
+    "h2_costs": "Was es kostet",
+    "h2_faq": "Häufig gestellte Fragen",
+    "h2_related": "Weiterführende Lektüre",
+    "cta_band_h2": "Sieh, was eine langsame Reaktion deine Einschreibungszahlen kostet"
+  },
+  "schema": {
+    "breadcrumb": ["Startseite", "Blog", "KI-Automatisierung für die Bildung"],
+    "article": {
+      "headline": "KI-Automatisierung für die Bildung: Reaktionszeit bei Zulassungen verkürzen und keine Bewerber mehr durch Schweigen verlieren",
+      "description": "Interessierte stellen eine Frage und werden still, wenn niemand schnell antwortet. Erfahre, wie KI-Automatisierung die Reaktionszeit bei Zulassungen verkürzt, Familien an Besichtigungen und Gespräche erinnert und dein Einschreibungsteam auf die Gespräche konzentriert hält, die einen Menschen brauchen.",
+      "inLanguage": "de"
+    },
+    "faq": [
+      "Ersetzt das unsere Zulassungsberater?",
+      "Funktioniert es mit unserem aktuellen CRM oder Schülerinformationssystem?",
+      "Was passiert bei einer Frage zur finanziellen Unterstützung oder einer heiklen familiären Situation?",
+      "Kann es wirklich das Nichterscheinen bei Besichtigungen reduzieren, nicht nur E-Mails beantworten?",
+      "Wie lange dauert ein solcher Aufbau?",
+      "Gehört uns das System, sobald es gebaut ist?"
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched German search terms, not literal translations.",
+    "primary": ["KI-Automatisierung für die Bildung", "Reaktionszeit bei Zulassungen", "Automatisierung der Einschreibung"],
+    "secondary": ["Nichterscheinen bei Besichtigungen reduzieren", "KI für Schulen und Akademien", "Zulassungsanfragen automatisch beantworten"]
+  },
+  "translatorNotes": [
+    "Register: informal du, consistent with the rest of the planned German site. No em-dashes used.",
+    "Education glossary applied: enrollment -> Einschreibung; admissions -> Zulassung(en); admissions counselor -> Zulassungsberater; enrollment team -> Einschreibungsteam; inquiry -> Anfrage; family/families -> Familie(n); campus tour -> Besichtigung (des Campus); applicant -> Bewerber; interview (admissions) -> Gespräch; no shows -> Nichterscheinen / Ausfälle; 'X min read' -> 'X Min. Lesezeit'; date 'August 10, 2026' -> '10. August 2026'.",
+    "FLAG for reviewer: 'fees' was rendered as 'Gebühren' ('modest monthly platform fees' -> 'moderate monatliche Plattformgebühren'). Confirm whether 'Gebühren' vs 'Kosten' is preferred in the client's education-market German. Related: 'tuition' was translated as 'Studiengebühren' throughout; 'financial aid' as 'finanzielle Unterstützung'. Reviewer should confirm both terms fit the target audience (schools vs universities).",
+    "Currency: 'between one thousand and five thousand dollars' -> 'zwischen 1.000 und 5.000 US-Dollar'; 'the low hundreds of dollars' -> 'im niedrigen dreistelligen US-Dollar-Bereich'. Kept 'SMS', 'CRM', 'API', 'n8n', 'Make', 'Zapier'.",
+    "Internal links repointed to /de (brand, nav, breadcrumbs, services, industries, case-studies, about, blog, contact, inline CTAs, related-reading, footer). Left unchanged: /privacy, /terms, sitemap.xml, mailto, tel, the LinkedIn author URL, and the Unsplash image URLs.",
+    "No lead/audit <form> on this page, so no window.__i18n form block was added.",
+    "lang-switch shows EN + ES + DE (DE current). EN -> /blog/..., ES -> /es/blog/... ."
+  ],
+  "suggestedLlmsTxtEntry": "/de/blog/ai-automation-education-admissions-response-time — German (de). How AI automation cuts admissions response time for schools: instant answers to routine inquiries, reminders that reduce tour and interview no shows, and automatic follow-up with quiet applicants, while sensitive cases route to a person. DRAFT pending native review.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent German review before going live."
+}

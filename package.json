@@ -1,0 +1,9 @@
+{
+  "name": "innovaria-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Innovaria Tech marketing site. Static pages plus Vercel serverless functions in /api.",
+  "dependencies": {
+    "nodemailer": "^6.10.1"
+  }
+}

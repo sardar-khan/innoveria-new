@@ -1,0 +1,60 @@
+{
+  "_meta": {
+    "page": "service: Email Automation",
+    "sourceFile": "/services/email-automation.html",
+    "outputFile": "/es/services/email-automation.html",
+    "language": "es", "locale": "es-ES", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú.",
+    "note": "Full translated copy is in the rendered page. This file records head/meta, schema strings, FAQ, targeted keywords, and reviewer notes."
+  },
+  "head": {
+    "title": "Automatización de email que responde rápido | Innovaria Tech",
+    "description": "Servicios de automatización de email que clasifican tu bandeja, confirman cada consulta al instante y envían los seguimientos que tu equipo olvida.",
+    "canonical": "https://innovariatech.space/es/services/email-automation",
+    "robots": "noindex, follow",
+    "og": { "title": "Automatización de email que responde rápido | Innovaria Tech", "description": "Clasificación de la bandeja, confirmaciones al instante y secuencias de seguimiento que se detienen cuando responde una persona. A precio cerrado y es tuyo.", "locale": "es_ES" }
+  },
+  "headings": {
+    "hero_h1": "Servicios de automatización de email que vacían la bandeja antes de que te sientes",
+    "problems_h2": "Tu bandeja de entrada es una cola que nadie gestiona",
+    "solution_h2": "Una bandeja que se responde sola, escala lo que importa",
+    "outcomes_h2": "Qué cambia cuando la automatización de email entra en marcha",
+    "how_h2": "De una bandeja desbordada a un resumen diario en cuatro pasos",
+    "why_h2": "El email operativo es lo que usamos nosotros mismos",
+    "proof_h2": "Un despacho de abogados dejó de tener consultas sin leer de un día para otro",
+    "tech_h2": "Construido dentro de la bandeja en la que ya vives",
+    "faq_h2": "Servicios de automatización de email, respondidos sin rodeos",
+    "finalCta_h2": "Descubre lo que te cuesta tu bandeja de entrada cada semana",
+    "contact_h2": "Solicita tu auditoría gratis de la bandeja"
+  },
+  "schema": {
+    "inLanguage": "es",
+    "serviceName": "Servicios de automatización de email",
+    "serviceDescription": "Servicios de automatización de email para el correo operativo: clasificación de la bandeja de entrada, confirmaciones al instante, respuestas redactadas con tu voz, secuencias de varios contactos por email y SMS, y un resumen diario de los mensajes que necesitan a una persona.",
+    "breadcrumb": ["Inicio", "Servicios", "Servicios de automatización de email"],
+    "faq": [
+      { "q": "¿Qué son los servicios de automatización de email?", "a": "Los servicios de automatización de email construyen sistemas que clasifican tu bandeja de entrada, envían confirmaciones al instante, responden preguntas rutinarias con tu voz y ejecutan secuencias de seguimiento de varios contactos por email y SMS. Tu equipo empieza el día con un resumen breve de los mensajes que de verdad necesitan a una persona, en vez de una bandeja llena." },
+      { "q": "¿En qué se diferencia esto de herramientas de newsletter como Mailchimp?", "a": "Las herramientas de newsletter difunden un mismo mensaje a toda una lista. Nosotros construimos email operativo: sistemas que responden consultas individuales, persiguen presupuestos y documentos, y se detienen en cuanto alguien responde. Es automatización de respuesta y seguimiento para tu bandeja del día a día, no marketing masivo." },
+      { "q": "¿Las respuestas automáticas sonarán como nosotros?", "a": "Sí. Entrenamos el sistema con tus respuestas anteriores y tus plantillas aprobadas, así que el tono, la despedida y el nivel de detalle coinciden con cómo ya escribe tu equipo. Cualquier cosa inusual o delicada se redacta para revisión humana en vez de enviarse, así que la voz nunca se desvía." },
+      { "q": "¿Cuánto cuestan los servicios de automatización de email?", "a": "Un sistema completo de automatización de email normalmente cuesta entre 1.000 y 5.000 dólares construirlo, más de 50 a 300 dólares al mes en cuotas de plataforma. Un solo flujo, como las confirmaciones instantáneas en una bandeja, empieza más abajo. Cotizamos un precio cerrado tras una auditoría gratis, así que no hay facturas abiertas." },
+      { "q": "¿Las secuencias se detienen cuando alguien responde?", "a": "De inmediato. Una respuesta, una reserva o una nota manual en tu CRM detiene la secuencia para ese contacto en todos los canales. Nadie recibe un tercer recordatorio después de haber respondido, que es justo el error que comete el seguimiento manual." },
+      { "q": "¿Cuánto tarda la puesta en marcha?", "a": "De una a dos semanas para un solo flujo, como la clasificación de la bandeja o las confirmaciones. De dos a cuatro semanas para un sistema completo con secuencias, SMS y un resumen diario, incluyendo pruebas con tu email real antes de pagar la factura final." }
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish search terms, not literal translations.",
+    "primary": ["automatización de email", "automatización de correo electrónico", "respuestas automáticas de email"],
+    "secondary": ["clasificar la bandeja de entrada automáticamente", "secuencias de seguimiento por email", "email operativo automatizado"],
+    "longTail": ["automatizar respuestas a consultas por correo", "dejar de responder los mismos emails a mano", "seguimiento automático de presupuestos por email"]
+  },
+  "translatorNotes": [
+    "Register: informal tú, consistent across the set.",
+    "'inbox' -> 'bandeja de entrada' / 'bandeja'; 'triage' -> 'clasificación'; 'digest' -> 'resumen (diario)'; 'operational email' -> 'email operativo' (kept 'email', standard in Spanish business use; a reviewer may prefer 'correo').",
+    "'traffic warden' -> 'guardia de tráfico' (metaphor kept). 'chaser' (a follow-up message) -> 'recordatorio'.",
+    "Prices unchanged: '1.000 y 5.000 dólares', '50 a 300 dólares'. Product names kept (Gmail, Outlook, Mailchimp, Twilio, n8n, Make, Zapier).",
+    "Cross-links: nav/footer point ai-automation, lead-automation, email-automation, workflow-automation to /es (all translated). generative-ai, social, ai-voice-agents, ai-consulting, chatbots and the legal industry link still fall back to English until translated.",
+    "Breadcrumb 'Servicios' points to English /services hub (Phase 2 page not yet translated)."
+  ],
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live."
+}

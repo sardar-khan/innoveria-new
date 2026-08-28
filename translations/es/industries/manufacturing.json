@@ -1,0 +1,64 @@
+{
+  "_meta": {
+    "page": "Industry — Manufacturing",
+    "sourceFile": "/industries/manufacturing.html",
+    "outputFile": "/es/industries/manufacturing.html",
+    "language": "es", "locale": "es-ES", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú.",
+    "note": "Has a contact form, so window.__i18n form block is embedded. Full copy lives in the rendered page; this file records head/meta, schema strings, keywords, and notes."
+  },
+  "head": {
+    "title": "Agentes de IA para manufactura: cotiza primero | Innovaria",
+    "description": "Agentes de IA para manufactura: recepción de solicitudes de cotización en minutos, respuestas de estado del pedido desde datos del ERP en vivo, y flujos de seguimiento a proveedores. Reserva una auditoría gratis.",
+    "canonical": "https://innovariatech.space/es/industries/manufacturing",
+    "robots": "noindex, follow",
+    "og:title": "Agentes de IA para manufactura: cotiza primero | Innovaria",
+    "og:description": "Recepción de solicitudes de cotización enrutadas al estimador correcto en minutos, un agente de estado del pedido sobre datos del ERP en vivo, y flujos de seguimiento a proveedores que mantienen la producción en marcha.",
+    "og:locale": "es_ES"
+  },
+  "headings": {
+    "hero_h1": "Agentes de IA para talleres de manufactura que quieren sacar su cotización primero",
+    "problems_h2": "Por dónde se van los pedidos a la competencia",
+    "solution_h2": "La velocidad de cotización se vuelve tu ventaja permanente",
+    "outcomes_h2": "Lo que el sistema entrega tras el arranque",
+    "how_h2": "En marcha en tu taller en dos a cuatro semanas",
+    "why_h2": "Tu ERP, tus cuentas, tu sistema",
+    "case_h2": "Cotizar primero gana, igual que responder primero gana el anuncio",
+    "tech_h2": "Construido sobre las herramientas que tu taller ya usa",
+    "faq_h2": "Automatización para manufactura, respondida sin rodeos",
+    "final_cta_h2": "¿Cuántas RFQ del mes pasado se cotizaron en segundo lugar?",
+    "contact_h2": "Solicita tu auditoría gratis del flujo de cotización"
+  },
+  "schema": {
+    "service_name": "Agentes de IA para manufactura",
+    "service_description": "Recepción de solicitudes de cotización (RFQ) que enruta las especificaciones al estimador correcto en minutos, seguimiento automático de cotizaciones, un agente de estado del pedido que responde a los clientes desde datos del ERP en vivo, y flujos de seguimiento a proveedores para confirmaciones y fechas de entrega.",
+    "audienceType": "Fabricantes y talleres pequeños y medianos",
+    "breadcrumb": ["Inicio", "Sectores", "Manufactura"],
+    "faq": [
+      "¿Qué son los agentes de IA para manufactura?",
+      "¿Puede conectarse a nuestro ERP?",
+      "¿Qué tan rápida puede ser la respuesta a una solicitud de cotización?",
+      "¿Cuánto cuesta la automatización para manufactura?",
+      "¿Funcionará para un taller pequeño sin ERP?"
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish search terms, not literal translations.",
+    "primary": ["automatización para fabricantes", "automatización de cotizaciones industriales", "agentes de IA para manufactura"],
+    "secondary": ["gestión automática de RFQ", "respuesta rápida de cotizaciones", "seguimiento a proveedores automático", "estado del pedido con IA industrial"]
+  },
+  "translatorNotes": [
+    "Register: informal tú, consistent with Phase 1.",
+    "'RFQ' (Request for Quote) kept as the acronym (widely used in ES industrial procurement); glossed as 'solicitud(es) de cotización (RFQ)' on first use in title/schema/FAQ. FLAG: some ES/LatAm buyers say 'pedido de cotización' or 'presupuesto' — reviewer to confirm.",
+    "'quote' -> 'cotización'; 'estimator' -> 'estimador'; 'shop' (machine/fab shop) -> 'taller'; 'shop floor' -> 'planta'; 'front office' -> 'oficina'; 'purchase order' -> 'orden de compra'; 'supplier chase' -> 'seguimiento/persecución a proveedores'; 'lead time'/'delivery date' -> 'fecha de entrega'; 'specs' -> 'especificaciones'; 'drawing' -> 'plano'; 'planners/schedulers' -> 'planificadores/programadores'.",
+    "'where is my order' rendered as '¿dónde está mi pedido?' (matches the ecommerce page). 'ERP' kept.",
+    "Stat chip data-prefix 'under ' -> 'menos de ' and suffix ' sec' -> ' seg'; '20+ hrs' -> '20+ h'; '24/7' unchanged.",
+    "Prices/figures unchanged, currency named: '$1,000 and $5,000' -> '1.000 y 5.000 dólares'; '$50 to $300' -> '50 a 300 dólares'; 'six figure ERP' -> 'ERP de seis cifras'.",
+    "Case study reuses the real-estate brokerage speed story (source does too, framed as speed-to-quote analogy); kept faithful.",
+    "'QuickBooks' kept. Other brands (n8n, Make, Zapier, Twilio, Google Workspace, Slack) unchanged.",
+    "Blog 'related reading' links point to English blog posts (Phase 3 not started); anchor text translated. Nav/footer service + industry links point to /es."
+  ],
+  "suggestedLlmsTxtEntry": "/es/industries/manufacturing — Spanish (es). AI agents for small/mid manufacturers: RFQ intake acknowledged in <60s and routed to the right estimator in minutes, automated quote follow-up, an order-status agent answering from live ERP data, and supplier-chase workflows for confirmations/delivery dates. Works with or without an ERP. Build $1,000–$5,000 + $50–$300/mo. DRAFT pending native review.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live. Confirm 'RFQ' vs 'pedido de cotización'/'presupuesto' and industrial terminology for the target market."
+}

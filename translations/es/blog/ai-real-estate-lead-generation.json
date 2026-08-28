@@ -1,0 +1,73 @@
+{
+  "_meta": {
+    "page": "Blog post: AI for Real Estate Lead Generation (2026 Guide)",
+    "sourceFile": "/blog/ai-real-estate-lead-generation.html",
+    "outputFile": "/es/blog/ai-real-estate-lead-generation.html",
+    "language": "es", "locale": "es-ES", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú.",
+    "note": "Marketing guide on real estate lead automation. Prose translated for meaning, not word-for-word. Brand/tool names kept (Zillow, Realtor.com, Follow Up Boss, kvCORE, Real Geeks, Facebook, Google, Instagram), acronyms kept (IDX, CRM, SMS, HUD), org name 'National Association of Realtors' kept. No lead/audit <form> on this page, so no window.__i18n form block was added. Article + FAQ + Breadcrumb + Organization JSON-LD localized (Organization left as-is, brand data). FLAG: 'fair housing' + HUD are US-specific and should be localized per target market before publishing."
+  },
+  "head": {
+    "title": "IA para generación de leads inmobiliarios (Guía 2026)",
+    "description": "Cómo la automatización de leads inmobiliarios responde cada consulta en menos de 60 segundos, califica compradores y agenda visitas a cualquier hora.",
+    "keywords": "IA para generación de leads inmobiliarios, automatización de leads inmobiliarios, automatización de respuesta a leads inmobiliarios, velocidad de respuesta a leads inmobiliaria, automatizar el seguimiento inmobiliario, IA inmobiliaria",
+    "canonical": "https://innovariatech.space/es/blog/ai-real-estate-lead-generation",
+    "robots": "noindex, follow",
+    "og:title": "IA para generación de leads inmobiliarios: responde cada lead en menos de un minuto (2026)",
+    "og:description": "Cómo la automatización con IA responde cada consulta inmobiliaria en menos de 60 segundos, califica compradores y agenda visitas a cualquier hora.",
+    "og:locale": "es_ES",
+    "twitter:title": "IA para generación de leads inmobiliarios: responde cada lead en menos de un minuto",
+    "twitter:description": "Cómo la automatización con IA responde cada consulta inmobiliaria en menos de 60 segundos y agenda visitas a cualquier hora."
+  },
+  "headings": {
+    "hero_h1": "IA para generación de leads inmobiliarios: cómo responder cada lead en menos de un minuto",
+    "post_meta": "Publicado el 11 de julio de 2026 · por Ahsan Ilyas, fundador de Innovaria Tech · 8 min de lectura",
+    "h2_real_problem": "El problema real no es el volumen de leads. Es lo que pasa después",
+    "h2_how_works": "Cómo funciona de verdad la automatización de leads inmobiliarios con IA",
+    "h3_step1": "1. Captura instantánea desde cada fuente",
+    "h3_step2": "2. Una respuesta personalizada en menos de 60 segundos",
+    "h3_step3": "3. Calificación inteligente antes de que dediques un segundo",
+    "h3_step4": "4. Agendamiento y derivación automáticos",
+    "h3_step5": "5. Un seguimiento que se detiene en cuanto responde una persona",
+    "h2_automate_human": "Qué automatizar y qué mantener humano",
+    "h2_results": "Los resultados que los agentes miden tras poner el sistema en marcha",
+    "h2_fair_housing": "Una nota sobre vivienda justa y cumplimiento",
+    "h2_get_started": "Cómo empezar sin transformar todo tu negocio",
+    "h2_faq": "Preguntas frecuentes",
+    "h2_stop_losing": "Deja de perder tratos ante quien responde primero",
+    "cta_band_h2": "Descubre qué automatización recupera más dinero primero"
+  },
+  "schema": {
+    "breadcrumb": ["Inicio", "Blog", "IA para generación de leads inmobiliarios"],
+    "article": {
+      "headline": "IA para generación de leads inmobiliarios: cómo responder cada lead en menos de un minuto (2026)",
+      "description": "Cómo la automatización de leads inmobiliarios con IA responde cada consulta en menos de 60 segundos, califica compradores y agenda visitas a cualquier hora.",
+      "inLanguage": "es"
+    },
+    "faq": [
+      "¿Qué es la IA para generación de leads inmobiliarios?",
+      "¿Con qué rapidez debo responder a un lead inmobiliario?",
+      "¿La IA hará que mi seguimiento se sienta robótico?",
+      "¿Cuánto cuesta la automatización de leads inmobiliarios?",
+      "¿Necesito reemplazar mi CRM actual?"
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish search terms, not literal translations.",
+    "primary": ["generación de leads inmobiliarios con IA", "automatización de leads inmobiliarios", "velocidad de respuesta a leads inmobiliaria"],
+    "secondary": ["automatizar seguimiento de leads inmobiliarios", "responder leads inmobiliarios automáticamente", "IA para agentes inmobiliarios"]
+  },
+  "translatorNotes": [
+    "Register: informal tú, consistent with the rest of the Spanish site.",
+    "FLAG: 'fair housing' and HUD are United States law references. Kept as 'vivienda justa' + 'HUD' but they are US-specific; a real localization should swap them for the equivalent anti-discrimination / fair-housing regulator of the target market (e.g. Spain/LatAm) before publishing.",
+    "Real-estate glossary: lead generation -> generación de leads; lead -> lead (kept); viewing/showing -> visita; buyer -> comprador; brokerage -> agencia; portal -> portal; nurture -> cultivo/cultivar; fair housing -> vivienda justa; 'speed to lead' -> velocidad de respuesta a leads.",
+    "Brand/tool names kept: Zillow, Realtor.com, Follow Up Boss, kvCORE, Real Geeks, Facebook, Google, Instagram, National Association of Realtors, HUD. Acronyms kept: IDX, CRM, SMS.",
+    "Currency: 'low thousands' -> 'los miles bajos'. Read time '8 min read' -> '8 min de lectura'. Date 'July 11, 2026' -> '11 de julio de 2026'. Numbers/percentages/stats (60 seconds, five minutes, 30 days, 12 texts, 20 or more hours, 60 days) kept exact.",
+    "Internal links repointed to /es (brand, nav, services, industries, case-studies, about, blog, contact, in-body links, related reading, footer). Left unchanged: /privacy, /terms, sitemap.xml, mailto, tel, the LinkedIn author URL, and the Unsplash image URLs.",
+    "lang-switch EN link -> /blog/ai-real-estate-lead-generation. English source got the 3 hreflang alternates + EN/ES lang-switch. No <form> present, so no window.__i18n block added.",
+    "Asset paths changed from ../ relative to root-absolute (/assets, /css, /js, /favicon.ico); gtag and og:image kept absolute."
+  ],
+  "suggestedLlmsTxtEntry": "/es/blog/ai-real-estate-lead-generation — Spanish (es). A guide to AI real estate lead automation: instant first response under 60 seconds, lead qualification, automatic booking and routing, what to keep human, and a fair-housing compliance note. DRAFT pending native review.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live."
+}

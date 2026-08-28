@@ -1,0 +1,81 @@
+{
+  "_meta": {
+    "page": "Generative AI for small business: what it is actually good for (blog post)",
+    "sourceFile": "blog/generative-ai-for-small-business-what-it-is-actually-good-for.html",
+    "outputFile": "de/blog/generative-ai-for-small-business-what-it-is-actually-good-for.html",
+    "language": "de",
+    "locale": "de-DE",
+    "dir": "ltr",
+    "status": "DRAFT — needs native/fluent German review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Standard German, informal du.",
+    "note": "No lead/audit form present in this post, so the window.__i18n form-strings script was NOT added."
+  },
+  "head": {
+    "title": "Generative KI für kleine Unternehmen: wofür sie taugt",
+    "description": "Wofür generative KI in einem kleinen Unternehmen wirklich taugt, was weiterhin einen Menschen braucht und wie sie sich von echter Automatisierung unterscheidet.",
+    "keywords": "generative KI für kleine Unternehmen, Anbieter generative KI, KI-Content-Erstellung Unternehmen, Anwendungsfälle generative KI, KI-Schreibtools kleine Unternehmen, Risiko generative KI, KI-Automatisierung vs generative KI",
+    "canonical": "https://innovariatech.space/de/blog/generative-ai-for-small-business-what-it-is-actually-good-for",
+    "robots": "noindex, follow",
+    "ogTitle": "Generative KI für kleine Unternehmen: wofür sie wirklich taugt",
+    "ogDescription": "Generative KI schreibt in Sekunden einen ersten Entwurf und erfindet genauso schnell eine Tatsache. Hier steht, wofür sie wirklich taugt und was weiterhin einen Menschen braucht.",
+    "ogLocale": "de_DE"
+  },
+  "headings": {
+    "h1": "Generative KI für kleine Unternehmen: wofür sie wirklich taugt",
+    "h2": [
+      "Wofür generative KI tatsächlich gut ist",
+      "Wo sie tatsächlich Dinge falsch macht",
+      "Generative KI im Vergleich zur KI-Automatisierung",
+      "Wo ein Mensch eingebunden bleiben muss",
+      "Wie ein realistisches Setup aussieht",
+      "Was es kostet",
+      "Häufig gestellte Fragen",
+      "Weiterführende Lektüre"
+    ]
+  },
+  "schema": {
+    "breadcrumb": [
+      "Startseite",
+      "Blog",
+      "Generative KI für kleine Unternehmen"
+    ],
+    "articleHeadline": "Generative KI für kleine Unternehmen: wofür sie wirklich taugt",
+    "faq": [
+      "Ist generative KI dasselbe wie KI-Automatisierung?",
+      "Wie hindere ich sie daran, Dinge zu erfinden?",
+      "Schadet generative KI meiner SEO, wenn ich sie für Blog-Inhalte nutze?",
+      "Was sollte niemals ohne menschliche Prüfung veröffentlicht werden?",
+      "Brauche ich für jeden Anwendungsfall ein anderes Tool?",
+      "Wie hängt das mit dem zusammen, was Innovaria tatsächlich baut?"
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched German-market search terms for generative AI in small business, not literal translations of the English keywords.",
+    "primary": [
+      "generative KI für kleine Unternehmen",
+      "generative KI Anwendungsfälle Unternehmen",
+      "KI-Texterstellung für Unternehmen"
+    ],
+    "secondary": [
+      "generative KI vs KI-Automatisierung",
+      "KI-Schreibtools kleine Unternehmen",
+      "Risiken generative KI",
+      "ChatGPT für kleine Unternehmen",
+      "KI-Content für Website"
+    ]
+  },
+  "translatorNotes": [
+    "Informal du used throughout, standard German.",
+    "No em-dashes used anywhere; the source's comma-spliced appositive style was rendered with commas and colons in German.",
+    "Key requested terms: hallucination -> Halluzination; 'human in the loop' / 'where a person has to stay in the loop' -> 'ein Mensch bleibt eingebunden' ('Wo ein Mensch eingebunden bleiben muss').",
+    "Brand/entity names kept as-is: Innovaria, Innovaria Tech. Acronyms kept: SEO, CRM, KI, FAQ, SMS.",
+    "Currency localized in prose: '$1,000 and $5,000' -> '1.000 und 5.000 US-Dollar'; 'low hundreds of dollars' -> 'im niedrigen dreistelligen Dollarbereich'.",
+    "Terminology: generative AI -> generative KI, AI automation -> KI-Automatisierung, review step -> Prüfschritt, draft -> Entwurf, 'X min read' -> 'X Min. Lesezeit', 'August 12, 2026' -> '12. August 2026'.",
+    "Internal same-site links repointed to /de (nav, breadcrumbs, footer, in-body /de/blog and /de/services links, /de/contact). Left unchanged: /privacy, /terms, sitemap.xml, mailto:, tel:, and external URLs (unsplash images, LinkedIn author profile, googletagmanager).",
+    "Language switcher added to nav (EN + ES links, DE current). Four hreflang alternates present (en, es, de, x-default).",
+    "Article and FAQPage JSON-LD carry inLanguage 'de'; Article mainEntityOfPage @id and breadcrumb item URLs repointed to /de. author/publisher/image/dates/about labels left unchanged (about names kept in English as entity identifiers).",
+    "Asset paths changed from ../assets, ../css, ../js, ../favicon.ico to absolute /assets, /css, /js, /favicon.ico. gtag and og:image kept absolute."
+  ],
+  "suggestedLlmsTxtEntry": "German translation of the generative AI explainer for small business: what it does well (drafting, summarizing, brainstorming), where it fails (hallucination), and how it differs from real automation.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent German review before going live."
+}

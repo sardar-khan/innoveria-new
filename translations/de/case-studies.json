@@ -1,0 +1,121 @@
+{
+  "_meta": {
+    "page": "case-studies",
+    "sourceFile": "case-studies.html",
+    "outputFile": "de/case-studies.html",
+    "language": "de",
+    "locale": "de-DE",
+    "dir": "ltr",
+    "status": "DRAFT — needs native/fluent German review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Standard German, informal du.",
+    "note": "no form"
+  },
+  "head": {
+    "title": "Automatisierungs-Fallstudien: Echte Ergebnisse | Innovaria Tech",
+    "description": "Wie Automatisierung die Lead-Antwortzeit auf 90 Sekunden senkte, Terminausfälle um 31% reduzierte und $11k pro Monat zurückholte. Vier Branchen, echte Zahlen.",
+    "keywords": "KI-Automatisierung Fallstudien, Ergebnisse Immobilienautomatisierung, Fallstudie Praxisautomatisierung, Ergebnisse E-Commerce-Automatisierung, Automatisierung der Mandatsannahme, Fallstudie Lead-Antwortzeit",
+    "canonical": "https://innovariatech.space/de/case-studies",
+    "robots": "noindex, follow",
+    "ogLocale": "de_DE",
+    "ogTitle": "Automatisierungs-Fallstudien: Echte Ergebnisse aus vier Branchen",
+    "ogDescription": "Wie KI-Automatisierung Antwortzeiten senkte, Terminausfälle reduzierte, Warenkörbe zurückholte und verpasste Anrufe rettete, für echte Unternehmen.",
+    "twitterTitle": "Automatisierungs-Fallstudien: Echte Ergebnisse aus vier Branchen",
+    "twitterDescription": "Wie KI-Automatisierung Antwortzeiten senkte, Terminausfälle reduzierte, Warenkörbe zurückholte und verpasste Anrufe rettete.",
+    "alternates": {
+      "en": "https://innovariatech.space/case-studies",
+      "es": "https://innovariatech.space/es/case-studies",
+      "de": "https://innovariatech.space/de/case-studies",
+      "x-default": "https://innovariatech.space/case-studies"
+    }
+  },
+  "headings": {
+    "h1": "Was Automatisierung tatsächlich für ein Unternehmen wie deins tut",
+    "lede": "Jedes Unternehmen unten hatte dasselbe Problem, das du wahrscheinlich hast: Leads und Anrufe gingen verloren, während das Team beschäftigt blieb. Hier ist, was sich änderte, nachdem wir das Leck automatisiert hatten, die konkreten Zahlen und die Systeme dahinter. Vier Branchen, ein Muster: schneller antworten, nichts verpassen, deinem Team seine Zeit zurückgeben.",
+    "honestyDisclaimer": "Ein Hinweis zur Ehrlichkeit: Die Studien unten sind repräsentative Beispiele, aufgebaut aus den echten Ergebnisspannen, auf die wir hinarbeiten und die in unserer Branche typisch sind. Kundennamen werden aus Datenschutzgründen zurückgehalten oder anonymisiert. Sobald wir mit Erlaubnis benannte Kundenergebnisse veröffentlichen, ersetzen sie diese Beispiele. Wir zeigen dir lieber realistische als aufgeblähte Zahlen.",
+    "cases": [
+      {
+        "kicker": "Immobilien",
+        "h2": "Ein Maklerbüro verlor keine Abendleads mehr an schnellere Wettbewerber",
+        "meta": "Wohnimmobilien-Maklerbüro mit 12 Maklern · Großraum Dallas · ~200 Portal-Leads im Monat",
+        "metrics": ["90 sec durchschnittliche Antwort, von über 4 Stunden", "+34% mehr gebuchte Besichtigungen pro Monat", "25 hrs weniger Verwaltung pro Woche"],
+        "deepLink": "/de/industries/real-estate"
+      },
+      {
+        "kicker": "Gesundheitspraxis",
+        "h2": "Eine Praxis senkte Terminausfälle und verpasste während Terminen keine Anrufe mehr",
+        "meta": "Ambulante Praxis mit mehreren Behandlern · 3 Empfangskräfte · ~15% Ausfallquote",
+        "metrics": ["-31% weniger Terminausfälle", "~0 verpasste Anrufe nach dem Livegang", "18 hrs Empfangszeit pro Woche gespart"],
+        "deepLink": "/de/industries/healthcare"
+      },
+      {
+        "kicker": "E-Commerce-Marke",
+        "h2": "Eine Marke holte abgebrochene Warenkörbe zurück und halbierte die Support-Tickets",
+        "meta": "Direct-to-Consumer-Marke · ~60 US-Dollar durchschnittlicher Bestellwert · hohe Warenkorbabbruchrate",
+        "metrics": ["$11k zusätzlicher monatlicher Umsatz zurückgeholt", "-48% Support-Tickets zum Bestellstatus", "24/7 sofortige Kundenantworten"],
+        "deepLink": "/de/industries/ecommerce"
+      },
+      {
+        "kicker": "Kanzlei",
+        "h2": "Eine Kanzlei rettete Anrufe nach Feierabend und steigerte die Mandatsannahme ohne Neueinstellungen",
+        "meta": "Kleine Prozesskanzlei · 2 Mitarbeitende in der Mandatsannahme · verpasste Anrufe während der Gerichtszeiten",
+        "metrics": ["+42% mehr gebuchte Beratungstermine", "0 verpasste Anrufe nach Feierabend", "Gleiche Personalstärke, höhere Mandatsannahme"],
+        "deepLink": "/de/industries/legal"
+      },
+      {
+        "kicker": "Interne Entwicklung",
+        "h2": "Veyrais: die Automatisierung, die wir für uns selbst gebaut haben",
+        "meta": "Unser eigenes LinkedIn-Content-System · im Produktivbetrieb · vollständig überprüfbar",
+        "metrics": ["Täglich LinkedIn-Präsenz, kein Schreiben am Morgen", "21 Posts pro Woche maximale Taktung", "1 Einrichtung, dann Autopilot"],
+        "deepLink": "/veyrais"
+      }
+    ],
+    "cta": "Dein Unternehmen ist die nächste Fallstudie",
+    "faqSection": "Fragen zu Ergebnissen — Was du erwarten kannst, ehrlich gesagt"
+  },
+  "schema": {
+    "breadcrumb": [
+      { "position": 1, "name": "Startseite", "item": "https://innovariatech.space/de" },
+      { "position": 2, "name": "Fallstudien", "item": "https://innovariatech.space/de/case-studies" }
+    ],
+    "faq": [
+      {
+        "question": "Wie schnell darf ich Ergebnisse durch Automatisierung erwarten?",
+        "answer": "Eine einzelne Automatisierung wie die Lead-Antwort oder ein KI-Telefonassistent geht oft in ein bis zwei Wochen live, und die meisten Unternehmen sehen messbare Ergebnisse schon im ersten Monat, meist durch zurückgewonnene Leads und Anrufe, die zuvor verpasst wurden."
+      },
+      {
+        "question": "Welche Rendite ist realistisch?",
+        "answer": "Die meisten fokussierten Umsetzungen amortisieren sich schon im ersten Quartal. Die Rendite kommt aus zurückgewonnenem Umsatz: schnellere Lead-Antworten, die mehr Abschlüsse bringen, weniger Terminausfälle, gerettete verpasste Anrufe und Stunden an Verwaltungszeit, die dem Team zurückgegeben werden."
+      },
+      {
+        "question": "Ersetzt die Automatisierung mein Team?",
+        "answer": "Nein. In jedem Projekt übernimmt die Automatisierung die sich wiederholende, zeitkritische Arbeit und übergibt alles, was menschliches Urteilsvermögen braucht. Teams behalten dieselbe Personalstärke und verbringen ihre Zeit mit höherwertiger Arbeit statt mit Verwaltung."
+      }
+    ]
+  },
+  "targetedKeywords": {
+    "note": "German keyword targets for the case-studies page. Not verified against search-volume data; needs a native/SEO review before publishing.",
+    "primary": [
+      "KI-Automatisierung Fallstudien",
+      "Automatisierung Ergebnisse Unternehmen",
+      "Fallstudie Lead-Antwortzeit"
+    ],
+    "secondary": [
+      "Ergebnisse Immobilienautomatisierung",
+      "Fallstudie Praxisautomatisierung",
+      "Ergebnisse E-Commerce-Automatisierung",
+      "Automatisierung der Mandatsannahme",
+      "Warenkorb-Rückgewinnung Ergebnisse"
+    ]
+  },
+  "translatorNotes": [
+    "The Veyrais case study deep-link (/veyrais) is kept in English (no German counterpart), as required.",
+    "Honesty disclaimer kept accurate: rendered as representative/anonymized examples built from realistic, not inflated, outcome ranges; 'We would rather show you realistic numbers than inflated ones' preserved.",
+    "HIPAA is US-specific (Health Insurance Portability and Accountability Act). Kept as 'HIPAA-konformer KI-Telefonassistent' in the healthcare case as in the English source; flagged for reviewers because it does not map to EU/German law (GDPR/DSGVO).",
+    "Numbers, prices, %, stats and dates kept exact: 90 sec, +34%, 25 hrs, ~15%, -31%, 18 hrs, $11k, -48%, 24/7, +42%, 21, ~200. Compact '$11k' kept as-is. '~$60 average order value' rendered as '~60 US-Dollar durchschnittlicher Bestellwert'.",
+    "Terms: 'no shows' → 'Terminausfälle'; 'intake' → 'Mandatsannahme'; 'ghostwriter' → 'Ghostwriter'; 'revenue leak' rendered around 'wo Umsatz verloren geht'; 'You own everything we build' → 'Dir gehört alles, was wir bauen'.",
+    "Industry deep-links point to /de/industries/<slug>. Brands kept exact: Zillow, IDX, Shopify, WhatsApp, LinkedIn, Dallas. Company name, email and phone unchanged.",
+    "No form on this page, so no window.__i18n form block was added."
+  ],
+  "suggestedLlmsTxtEntry": "German (draft) case-studies page with five representative, anonymized automation results across real estate, healthcare, ecommerce, and law, plus the internal Veyrais LinkedIn system, each with concrete metrics and an honesty disclaimer that the figures are realistic rather than inflated.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent German review before going live."
+}

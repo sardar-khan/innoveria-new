@@ -1,0 +1,46 @@
+{
+  "_meta": {
+    "page": "Contact",
+    "sourceFile": "/contact.html",
+    "outputFile": "/es/contact.html",
+    "language": "es", "locale": "es-ES", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú.",
+    "note": "First Phase 3 page. Has the audit form, so window.__i18n form block is embedded (same standard block as Phase 1/2). Full copy is in the rendered page; this file records head/meta, schema, keywords, and notes."
+  },
+  "head": {
+    "title": "Reserva una auditoría de automatización gratis | Innovaria Tech",
+    "description": "Reserva una auditoría de automatización gratis de 30 minutos. Mapeamos tu flujo de leads y tu trabajo administrativo, y te entregamos una hoja de ruta de automatización por escrito que te quedas nos contrates o no.",
+    "keywords": "auditoría de automatización gratis, reservar consultoría de automatización, contacto agencia de automatización, contacto Innovaria Tech",
+    "canonical": "https://innovariatech.space/es/contact",
+    "robots": "noindex, follow",
+    "og:title": "Reserva una auditoría de automatización gratis | Innovaria Tech",
+    "og:description": "30 minutos. Una hoja de ruta de automatización por escrito. Cero compromiso. Reserva tu auditoría gratis.",
+    "og:locale": "es_ES"
+  },
+  "headings": {
+    "hero_h1": "30 minutos ahora. 20 horas de vuelta, cada semana.",
+    "form_h2": "Solicita tu auditoría",
+    "card_book_h3": "¿Prefieres elegir una hora ahora mismo?",
+    "card_lines_h3": "Líneas directas",
+    "card_call_h3": "Qué pasa en la llamada"
+  },
+  "schema": {
+    "breadcrumb": ["Inicio", "Contacto"]
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish search terms, not literal translations.",
+    "primary": ["auditoría de automatización gratis", "consultoría de automatización con IA", "contacto agencia de automatización"],
+    "secondary": ["reservar auditoría de automatización", "diagnóstico de automatización empresarial", "cómo automatizar mi negocio"]
+  },
+  "translatorNotes": [
+    "Register: informal tú, consistent with Phases 1–2.",
+    "'automation audit' -> 'auditoría de automatización'; 'roadmap' -> 'hoja de ruta'; 'lead flow' -> 'flujo de leads'; 'admin' -> 'parte administrativa / trabajo administrativo'; 'fastest payback' -> 'recuperación más rápida'; 'fixed price' -> 'precio cerrado'; 'no slideware' -> 'sin diapositivas de relleno'.",
+    "Calendly WhatsApp prefilled text translated and re-URL-encoded ('Hola Innovaria Tech, me gustaría reservar una auditoría de automatización gratis.').",
+    "Calendly booking URL, phone, email, and the /api/lead endpoint unchanged.",
+    "Footer brand blurb localized (real estate teams, healthcare clinics, ecommerce brands, law firms -> equipos inmobiliarios, clínicas de salud, marcas de ecommerce y bufetes).",
+    "Nav/footer links point to /es equivalents including /es/about, /es/case-studies, /es/blog — those Spanish pages are being built in this same Phase 3 pass, so they resolve once the pass completes. lang-switch EN link -> /contact."
+  ],
+  "suggestedLlmsTxtEntry": "/es/contact — Spanish (es). Contact and free automation audit booking for Innovaria Tech: a 30-minute call that maps lead flow and admin work and delivers a written automation roadmap (yours to keep) with fixed-price recommendations. Form, Calendly booking, WhatsApp, email, phone. DRAFT pending native review.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live."
+}

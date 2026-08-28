@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "page": "WISMO automation: how AI order tracking cuts ecommerce support tickets by 60% (blog post)",
+    "sourceFile": "blog/wismo-ai-order-tracking-automation-ecommerce.html",
+    "outputFile": "es/blog/wismo-ai-order-tracking-automation-ecommerce.html",
+    "language": "es",
+    "locale": "es-ES",
+    "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú.",
+    "note": "No lead/audit form present in this post, so the window.__i18n form-strings script was NOT added."
+  },
+  "head": {
+    "title": "Automatización WISMO: reduce un 60% los tickets de soporte",
+    "description": "Los tickets tipo \"¿dónde está mi pedido?\" se llevan del 40 al 60% del soporte en ecommerce. Mira cómo la automatización de seguimiento con IA los reduce, conectada a tu tienda Shopify y a tu servicio de ayuda.",
+    "keywords": "automatización WISMO, automatización de atención al cliente ecommerce, seguimiento de pedidos con IA, reducir tickets de soporte Shopify, automatización dónde está mi pedido, automatización de soporte ecommerce, reducir costes de atención al cliente ecommerce",
+    "canonical": "https://innovariatech.space/es/blog/wismo-ai-order-tracking-automation-ecommerce",
+    "robots": "noindex, follow",
+    "ogTitle": "Automatización WISMO: reduce un 60% los tickets de soporte en ecommerce (2026)",
+    "ogDescription": "El \"¿dónde está mi pedido?\" se lleva del 40 al 60 por ciento del soporte en ecommerce. Mira cómo la automatización de seguimiento con IA lo reduce, conectada a tu tienda Shopify y a tu servicio de ayuda, sin facturación por ticket.",
+    "ogLocale": "es_ES"
+  },
+  "headings": {
+    "h1": "Automatización WISMO: cómo el seguimiento de pedidos con IA reduce un 60% los tickets de soporte en ecommerce",
+    "h2": [
+      "Qué es WISMO y por qué domina tu cola",
+      "El coste real, en dólares",
+      "Las dos mitades de una solución WISMO",
+      "Cómo es una buena respuesta WISMO automatizada",
+      "App o construcción a medida: dónde encaja cada una",
+      "Cómo empezar sin alterar el soporte",
+      "Preguntas frecuentes",
+      "Lecturas relacionadas"
+    ],
+    "h3": [
+      "Prevención: responde la pregunta antes de que la hagan",
+      "Desvío: responde los tickets que aun así llegan"
+    ]
+  },
+  "schema": {
+    "breadcrumb": [
+      "Inicio",
+      "Blog",
+      "Automatización WISMO para ecommerce"
+    ],
+    "articleHeadline": "Automatización WISMO: cómo el seguimiento de pedidos con IA reduce un 60% los tickets de soporte en ecommerce (2026)",
+    "faq": [
+      "¿Qué es WISMO en ecommerce?",
+      "¿Cómo reduce la automatización de seguimiento de pedidos con IA los tickets de \"¿dónde está mi pedido?\"?",
+      "¿Cuánto le cuestan los tickets de \"¿dónde está mi pedido?\" a una tienda ecommerce?",
+      "¿Es mejor una automatización WISMO a medida que una app de Shopify?",
+      "¿Funciona la automatización WISMO con Shopify y con mi servicio de ayuda?"
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish-market search terms for order-tracking / WISMO ecommerce support automation, not literal translations of the English keywords.",
+    "primary": [
+      "automatización de atención al cliente ecommerce",
+      "reducir tickets de soporte Shopify",
+      "seguimiento de pedidos con IA"
+    ],
+    "secondary": [
+      "automatización WISMO",
+      "dónde está mi pedido automatización",
+      "chatbot de soporte para Shopify",
+      "desvío de tickets con IA ecommerce",
+      "notificaciones de envío automáticas"
+    ]
+  },
+  "translatorNotes": [
+    "WISMO handling: the acronym has no Spanish equivalent, so the natural phrase '¿dónde está mi pedido?' is used throughout as the primary rendering. The acronym 'WISMO' is kept where the source leans on it (title, headings, quick-answer capsule, first FAQ) with an inline gloss the first few times ('WISMO, del inglés \"Where Is My Order\", es decir \"¿dónde está mi pedido?\"'). English brand/URL slug and the article:section value kept unchanged.",
+    "Informal tú used throughout, neutral international Spanish. No em-dashes anywhere; the source's comma-spliced appositive style kept with commas/colons.",
+    "Ecommerce glossary: order status -> estado del pedido, support ticket -> ticket de soporte, deflection -> desvío, helpdesk -> servicio de ayuda, carrier -> transportista, fulfillment -> preparación de envíos, self service -> autoservicio. Brand names kept: Shopify, Gorgias, Zendesk, ShippyPro, eDesk.",
+    "Currency and numbers localized in prose while keeping figures exact: '$5 and $12' -> '5 y 12 dólares', '$5 to $22' -> '5 a 22 dólares', '$15,000 to $60,000' -> '15.000 y 60.000 dólares', '3,000' -> '3.000', '$8 each' -> '8 dólares cada uno', '$24,000 a month' -> '24.000 dólares al mes', '$1.84' -> '1,84 dólares'. Table costs '~$3,000' -> '~3.000 dólares' etc. Percentages kept: '40 to 60 percent' -> 'del 40 al 60 por ciento', '60%' -> '60%'. 'X min read' -> 'X min de lectura'. 'July 31, 2026' -> '31 de julio de 2026'.",
+    "Internal same-site links repointed to /es (nav, breadcrumbs, footer, in-body /es/blog, /es/services and /es/industries links, /es/contact). Left unchanged: /privacy, /terms, sitemap.xml, mailto:, tel:, and external URLs (Unsplash images, LinkedIn author profile, googletagmanager). og:image and gtag kept absolute.",
+    "Language switcher added to nav (ES current, EN link to English post). English source received reciprocal EN/ES switcher and 3 hreflang alternates.",
+    "Article and FAQPage JSON-LD carry inLanguage 'es'; Article mainEntityOfPage @id, breadcrumb item URLs and headline repointed/translated to /es. author/publisher/image/dates and about/mentions entity names left unchanged as identifiers.",
+    "Asset paths changed from ../assets, ../css, ../js, ../favicon.ico to absolute /assets, /css, /js, /favicon.ico."
+  ],
+  "suggestedLlmsTxtEntry": "Spanish translation of the WISMO automation explainer: how AI order-tracking prevention and ticket deflection cut the 40 to 60 percent of ecommerce support tickets asking where an order is, wired into Shopify and the store's helpdesk.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live."
+}

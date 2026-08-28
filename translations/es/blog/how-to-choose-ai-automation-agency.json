@@ -1,0 +1,74 @@
+{
+  "_meta": {
+    "page": "Blog post — How to Choose an AI Automation Agency (Buyer's Guide)",
+    "sourceFile": "/blog/how-to-choose-ai-automation-agency.html",
+    "outputFile": "/es/blog/how-to-choose-ai-automation-agency.html",
+    "language": "es", "locale": "es-ES", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú.",
+    "note": "Full blog post translated: head/meta, 4 JSON-LD blocks, nav, breadcrumbs, hero, lede, answer capsule, key takeaways, body sections, two data tables (agency types, red vs green flags), seven-question section, inline CTAs, FAQ, related reading, CTA band, footer, alt text and aria-labels. No lead/audit form on this page, so no window.__i18n block was added. Internal links repointed to /es; external links, /privacy, /terms, sitemap, mailto, tel unchanged."
+  },
+  "head": {
+    "title": "Cómo elegir una agencia de automatización con IA (2026)",
+    "description": "El mercado de agencias llegó a 12.000 en 2026 y la mayoría no tiene resultados probados. Las 7 preguntas, las señales de alarma y las claves de precio que revelan al socio de automatización con IA adecuado.",
+    "keywords": "cómo elegir una agencia de automatización con IA, agencia de automatización con IA, preguntas para una agencia de automatización con IA, señales de alarma de una agencia de automatización con IA, mejor agencia de automatización con IA para negocios pequeños, contratar una agencia de automatización",
+    "canonical": "https://innovariatech.space/es/blog/how-to-choose-ai-automation-agency",
+    "robots": "noindex, follow",
+    "og:title": "Cómo elegir una agencia de automatización con IA: 7 preguntas que revelan el encaje correcto (2026)",
+    "og:description": "12.000 agencias, la mayoría sin resultados probados. Las siete preguntas, las señales de alarma y las claves de precio que distinguen a un socio de desarrollo real de una tienda de demos.",
+    "og:locale": "es_ES",
+    "twitter:title": "Cómo elegir una agencia de automatización con IA (2026)",
+    "twitter:description": "12.000 agencias, la mayoría sin resultados probados. Siete preguntas y las señales de alarma que revelan el encaje correcto."
+  },
+  "headings": {
+    "hero_h1": "Cómo elegir una agencia de automatización con IA: 7 preguntas que revelan el encaje correcto",
+    "h2_harder": "Por qué elegir es más difícil que antes",
+    "h2_match_type": "Paso uno: ajusta el tipo de agencia a tu trabajo",
+    "h2_seven_questions": "Las siete preguntas que revelan el encaje correcto",
+    "h3_q1_ownership": "1. ¿Quién es dueño de las cuentas y de los flujos de trabajo?",
+    "h3_q2_integration": "2. ¿Cómo se va a integrar esto con lo que ya usamos?",
+    "h3_q3_price": "3. ¿Cuál es el precio y cuáles son las partidas?",
+    "h3_q4_timeline": "4. ¿Cuánto tarda el primer resultado funcionando?",
+    "h3_q5_support": "5. ¿Cómo es el soporte tras el lanzamiento?",
+    "h3_q6_data": "6. ¿Cómo tratan nuestros datos y nuestra privacidad?",
+    "h3_q7_proof": "7. ¿Puedes enseñarme un proyecto real como el nuestro?",
+    "h2_red_flags": "Las señales de alarma por las que vale la pena marcharse",
+    "h2_no_agency": "La parte honesta: cuándo no necesitas una agencia",
+    "h2_our_approach": "Cómo encaja nuestro enfoque con estos criterios",
+    "h2_faq": "Preguntas frecuentes",
+    "h2_related": "Lecturas relacionadas",
+    "h2_takeaways": "Puntos clave",
+    "cta_band_h2": "La forma más rápida de juzgar a una agencia es verla trabajar"
+  },
+  "schema": {
+    "breadcrumb": ["Inicio", "Blog", "Cómo elegir una agencia de automatización con IA"],
+    "article": {
+      "headline": "Cómo elegir una agencia de automatización con IA: 7 preguntas que revelan el encaje correcto (2026)",
+      "inLanguage": "es"
+    },
+    "faq": [
+      "¿Cómo elijo una agencia de automatización con IA?",
+      "¿Qué preguntas debería hacerle a una agencia de automatización con IA antes de contratar?",
+      "¿Cuáles son las señales de alarma al contratar una agencia de automatización?",
+      "¿Cuánto debería costar una agencia de automatización con IA?",
+      "¿De verdad necesito una agencia de automatización o puedo hacerlo yo mismo?"
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish search terms, not literal translations.",
+    "primary": ["cómo elegir una agencia de automatización con IA", "agencia de automatización con IA", "contratar agencia de automatización"],
+    "secondary": ["preguntas para contratar una agencia de IA", "señales de alarma agencia de automatización", "cuánto cuesta una agencia de automatización con IA"]
+  },
+  "translatorNotes": [
+    "Register: informal tú throughout, consistent with the rest of the es effort.",
+    "Two data TABLES translated in full (captions, headers, all cells): 'Types of AI automation partner' and 'Red flags vs green flags'. The scoped .data-table CSS and its English code comment left unchanged (non-visible).",
+    "'agency' -> 'agencia'; 'red flags' -> 'señales de alarma'; 'green flag' -> 'señal positiva'; 'build partner' -> 'socio de desarrollo'; 'no vendor lock in' -> 'cero ataduras' / 'no hay ataduras'; 'line items' -> 'partidas detalladas'; 'lump sum' -> 'a tanto alzado'; 'fixed quote' -> 'presupuesto cerrado'; 'judgment' -> 'criterio'; 'scope' (verb) -> 'definir el alcance'; 'handover' -> 'entrega'; 'shortlist' -> 'lista de candidatos'; 'demo shop' -> 'tienda de demos'.",
+    "Numbers use ES thousands dot: '2,000' -> '2.000', '12,000' -> '12.000'. Prices: '$1,000 to $8,000' -> '1.000 a 8.000 dólares'. Read-time '11 min read' -> '11 min de lectura'. Date 'August 5, 2026' -> '5 de agosto de 2026' (published_time timestamp kept 2026-08-05).",
+    "Brand/legal names kept exact: Innovaria Tech, Innovaria Tech Limited, Ahsan Ilyas; tool names Zapier, Make, n8n, CRM kept as-is.",
+    "Internal links repointed to /es equivalents (blog cross-links to how-much-does-ai-automation-cost, best-automation-tools-service-businesses, cost-of-automating-lead-follow-up, ai-automation-accounting-firms-client-onboarding; /es/services/*, /es/industries, /es/contact, footer, breadcrumbs, brand). English slugs kept in paths. lang-switch EN link -> /blog/how-to-choose-ai-automation-agency.",
+    "External links unchanged: Unsplash images, LinkedIn author, sitemap. /privacy and /terms left as-is. No /veyrais link present on this page.",
+    "No lead/audit <form> exists on this post, so no window.__i18n form block was inserted."
+  ],
+  "suggestedLlmsTxtEntry": "/es/blog/how-to-choose-ai-automation-agency — Spanish (es). A buyer's guide to choosing an AI automation agency: matching the agency type to the job, the seven questions that reveal the right fit, the red flags to walk away from, and when you do not need an agency at all. DRAFT pending native review.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live."
+}

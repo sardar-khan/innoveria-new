@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "page": "Industry — Finance & Accounting",
+    "sourceFile": "/industries/finance.html",
+    "outputFile": "/es/industries/finance.html",
+    "language": "es", "locale": "es-ES", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú.",
+    "note": "Has a contact form, so window.__i18n form block is embedded. Full copy lives in the rendered page; this file records head/meta, schema strings, keywords, and notes."
+  },
+  "head": {
+    "title": "Agentes de IA para firmas de finanzas y contabilidad | Innovaria",
+    "description": "Agentes de IA para finanzas y contabilidad: recopilación automática de documentos, incorporación que se ejecuta sola, y respuestas a clientes 24/7. Reserva una auditoría gratis.",
+    "canonical": "https://innovariatech.space/es/industries/finance",
+    "robots": "noindex, follow",
+    "og:title": "Agentes de IA para firmas de finanzas y contabilidad | Innovaria",
+    "og:description": "Recopilación automática de documentos, incorporación de clientes que se ejecuta sola, y un agente de consultas que responde preguntas de honorarios y plazos 24/7.",
+    "og:locale": "es_ES"
+  },
+  "headings": {
+    "hero_h1": "Agentes de IA para firmas de finanzas y contabilidad que dejaron de perseguir documentos",
+    "problems_h2": "Por dónde se fugan en silencio las horas facturables",
+    "solution_h2": "La administración se ejecuta sola, tu equipo revisa y aprueba",
+    "outcomes_h2": "Lo que el sistema entrega tras el arranque",
+    "how_h2": "En marcha en tu firma en dos a cuatro semanas",
+    "why_h2": "Tu libro contable, tus cuentas, tus controles",
+    "case_h2": "El mismo problema de persecución, en otro sector",
+    "tech_h2": "Construido sobre las herramientas que tu firma ya conoce",
+    "faq_h2": "Automatización contable, respondida sin rodeos",
+    "final_cta_h2": "¿Cuántas horas perdió el cierre del mes pasado persiguiendo documentos?",
+    "contact_h2": "Solicita tu auditoría gratis de flujos de trabajo"
+  },
+  "schema": {
+    "service_name": "Agentes de IA para finanzas y contabilidad",
+    "service_description": "Recopilación automática de documentos con recordatorios corteses e insistentes, flujos de incorporación de clientes que se ejecutan solos, un agente de consultas 24/7 para preguntas de honorarios y plazos, y extracción de datos a QuickBooks o Xero con revisión humana antes de que nada se registre.",
+    "audienceType": "Firmas de teneduría de libros, despachos contables y asesores financieros",
+    "breadcrumb": ["Inicio", "Sectores", "Finanzas y contabilidad"],
+    "faq": [
+      "¿Qué son los agentes de IA para finanzas y contabilidad?",
+      "¿Están seguros los datos financieros del cliente con la automatización?",
+      "¿Puede perseguir a los clientes por documentos sin ser grosero?",
+      "¿Cuánto cuesta la automatización contable?",
+      "¿Funciona con QuickBooks y Xero?"
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish search terms, not literal translations.",
+    "primary": ["automatización para despachos contables", "agentes de IA para contabilidad", "automatización de contabilidad"],
+    "secondary": ["recopilación automática de documentos contables", "incorporación de clientes contable", "automatizar cierre de mes", "extracción de datos de facturas IA"]
+  },
+  "translatorNotes": [
+    "Register: informal tú, consistent with Phase 1.",
+    "'document chasing' -> 'persecución de documentos' / 'perseguir documentos'. 'onboarding' -> 'incorporación'. 'engagement letter' -> 'hoja de encargo'. 'month end close' -> 'cierre de mes'. 'ledger' -> 'libro contable'. 'draft entries' -> 'asientos en borrador'. 'chart of accounts' -> 'plan de cuentas'. 'reconciliation' -> 'conciliación'. 'bookkeeper'/'accountant' -> 'contable'; 'bookkeeping firm' -> 'firma de teneduría de libros'.",
+    "'fee questions' -> 'preguntas de honorarios'; 'filing deadline' -> 'plazo de presentación'; 'tax season' -> 'temporada de impuestos'; 'return' (tax return) -> 'declaración'.",
+    "'QuickBooks', 'Xero' kept (product names). Other brands (n8n, Make, Zapier, Google Workspace, Slack, Calendly) unchanged.",
+    "Stat chip with data-prefix 'under ' -> 'menos de ' and suffix ' sec' -> ' seg'; '20+ hrs' -> '20+ h'; '24/7' unchanged.",
+    "Prices/figures unchanged, currency named: '$1,000 and $5,000' -> '1.000 y 5.000 dólares'; '$50 to $300' -> '50 a 300 dólares'.",
+    "Case study reuses the real-estate brokerage story deliberately (the source does too) to show the same follow-up mechanics; kept faithful.",
+    "Blog 'related reading' links point to English blog posts (Phase 3 not started); anchor text translated. Nav/footer service + industry links point to /es."
+  ],
+  "suggestedLlmsTxtEntry": "/es/industries/finance — Spanish (es). AI agents for accounting/bookkeeping firms: polite persistent document collection, self-running client onboarding, a 24/7 enquiry agent for fee/deadline questions, and receipt/statement data extraction into QuickBooks or Xero as draft entries with human review before posting. Build $1,000–$5,000 + $50–$300/mo. DRAFT pending native review.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live. Accounting terminology varies by country (ES vs LatAm) — reviewer should confirm 'libro contable', 'asientos', 'plan de cuentas', 'hoja de encargo' fit the target market."
+}

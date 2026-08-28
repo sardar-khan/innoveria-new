@@ -1,0 +1,77 @@
+{
+  "_meta": {
+    "page": "Blog post — AI automation for accounting firms: cut client onboarding from weeks to days",
+    "sourceFile": "/blog/ai-automation-accounting-firms-client-onboarding.html",
+    "outputFile": "/es/blog/ai-automation-accounting-firms-client-onboarding.html",
+    "slug": "ai-automation-accounting-firms-client-onboarding",
+    "language": "es", "locale": "es-ES", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú.",
+    "hadForm": false,
+    "note": "Full blog post translated: head/meta, JSON-LD (Article, Organization, BreadcrumbList, FAQPage), nav, breadcrumbs, body prose, answer capsule, key takeaways, tables/lists, inline CTAs, FAQ, related reading, CTA band, footer, alt text and aria-labels. No lead/audit <form> in this post, so no window.__i18n block was added. Internal links repointed to /es; externals, mailto, tel, /privacy, /terms, sitemap left unchanged."
+  },
+  "head": {
+    "title": "Automatización con IA para despachos contables (2026)",
+    "description": "El 65% de los despachos contables pequeños todavía hace la incorporación por email. Mira cómo la automatización con IA reduce la incorporación de semanas a días y el tiempo de documentos un 70%.",
+    "keywords": "automatización con IA para despachos contables, automatización de incorporación de clientes contables, IA para despachos de contabilidad, automatizar incorporación de clientes contabilidad, automatización de recopilación de documentos, automatización de flujos de trabajo para despachos contables",
+    "canonical": "https://innovariatech.space/es/blog/ai-automation-accounting-firms-client-onboarding",
+    "robots": "noindex, follow",
+    "hreflang": ["en → /blog/<slug>", "es → /es/blog/<slug>", "x-default → /blog/<slug>"],
+    "og:title": "Automatización con IA para despachos contables: reduce la incorporación de clientes a días (2026)",
+    "og:description": "La mayoría de los despachos pequeños todavía incorpora por email. Mira cómo la automatización con IA reduce la incorporación de semanas a días, integrada en tu software de gestión y sin ataduras.",
+    "og:locale": "es_ES",
+    "twitter:title": "Automatización con IA para despachos contables: reduce la incorporación a días (2026)",
+    "twitter:description": "Reduce la incorporación de clientes de semanas a días y la recopilación de documentos un 70%, integrada en tu software de gestión."
+  },
+  "headings": {
+    "h1": "Automatización con IA para despachos contables: reduce la incorporación de clientes de semanas a días",
+    "kicker": "Finanzas y contabilidad",
+    "post_meta": "Publicado el 4 de agosto de 2026 · por Ahsan Ilyas, fundador de Innovaria Tech · 10 min de lectura",
+    "answer_capsule_label": "Respuesta rápida:",
+    "key_takeaways_h2": "Puntos clave",
+    "h2_first_30_days": "Los primeros 30 días deciden todo el encargo",
+    "h2_where_leaks": "Dónde se fuga de verdad el tiempo en la incorporación",
+    "h2_what_it_does": "Qué hace la automatización con IA de la incorporación, paso a paso",
+    "h3_collects_docs": "Recopila documentos sin la persecución",
+    "h3_reads_docs": "Lee los documentos y rellena tus sistemas",
+    "h3_provisions": "Da de alta al cliente automáticamente",
+    "h3_schedules": "Agenda la llamada inicial y hace el relevo sin fricción",
+    "h2_line_not_cross": "La línea que la automatización no debe cruzar",
+    "h2_app_or_custom": "App o implementación a medida: qué encaja con tu despacho",
+    "h2_costs": "Cuánto cuesta y con qué rapidez se amortiza",
+    "h2_how_to_start": "Cómo empezar sin trastocar la campaña fiscal",
+    "h2_faq": "Preguntas frecuentes",
+    "h2_related": "Lecturas relacionadas",
+    "cta_band_h2": "¿Cuántas horas pierde tu despacho en la incorporación cada mes?"
+  },
+  "schema": {
+    "breadcrumb": ["Inicio", "Blog", "Automatización con IA para despachos contables"],
+    "article": {
+      "headline": "Automatización con IA para despachos contables: reduce la incorporación de clientes de semanas a días (2026)",
+      "inLanguage": "es",
+      "url_id": "https://innovariatech.space/es/blog/ai-automation-accounting-firms-client-onboarding"
+    },
+    "faq": [
+      "¿Qué es la automatización con IA de la incorporación de clientes para despachos contables?",
+      "¿Cuánto tiempo le ahorra la automatización de la incorporación a un despacho contable?",
+      "¿La automatización con IA reemplaza el criterio del contable?",
+      "¿La automatización de la incorporación funciona con QuickBooks, Xero y mi software de gestión?",
+      "¿Los datos financieros del cliente se mantienen seguros durante la incorporación automatizada?"
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish search intent for accounting-automation buyers, not literal translations. Accounting terminology varies between Spain and Latin America (see translatorNotes); primary terms chosen as neutral international Spanish.",
+    "primary": ["automatización con IA para despachos contables", "automatización de incorporación de clientes contables", "automatizar incorporación de clientes contabilidad"],
+    "secondary": ["IA para despachos de contabilidad", "automatización de recopilación de documentos", "software de gestión para despachos contables", "cuánto cuesta automatizar la incorporación de clientes"]
+  },
+  "translatorNotes": [
+    "FLAG — ACCOUNTING TERMINOLOGY VARIES ES (Spain) vs LATAM: several core terms have regional variants that a native reviewer should standardize to the target market. Choices made here (neutral international Spanish): onboarding → incorporación; document collection → recopilación de documentos; ledger/chart of accounts → plan de cuentas (LATAM often 'catálogo de cuentas'); month-end close → cierre de mes; engagement letter → hoja de encargo (a Spain/ES term; LATAM may prefer 'carta compromiso' / 'carta de encargo'); bookkeeper/accountant → contable (Spain; LATAM commonly 'contador'); practice software / practice management → software de gestión (LATAM may say 'software de gestión de despachos' or use the English term); intake form → formulario de admisión; tax returns → declaraciones; payroll → nóminas (LATAM often 'nómina'/'planilla'); bank feed → fuente/conexión bancaria. Reviewer must confirm the regional register.",
+    "Register: informal tú throughout, consistent with the rest of the ES site. No em-dashes used anywhere.",
+    "Kept exact: numbers, read-time (10 min de lectura), date (4 de agosto de 2026), percentages (65 por ciento, 70 por ciento, 15 a 20 por ciento), hours (2 a 4 horas, 48 horas), brand/tool names (QuickBooks, Xero, Karbon), acronyms (API, CRM, IA), 'Innovaria Tech Limited', email info@innovariatech.space, phone +1 601 860 1258. Currency: 'between $3,000 and $8,000' → 'entre 3.000 y 8.000 dólares'.",
+    "Internal links repointed to /es: brand → /es; nav Servicios/Sectores/Casos de éxito/Nosotros/Blog/Contacto and all submenu items → /es/...; body links (services/generative-ai-development, services/workflow-automation, industries/finance, contact) and Related-reading blog slugs (how-much-does-ai-automation-cost, ai-client-intake-automation-law-firms, best-automation-tools-service-businesses, cost-of-automating-lead-follow-up) → /es/... English blog slugs kept unchanged.",
+    "Left unchanged (per rules): /privacy, /terms, sitemap.xml, mailto:, tel:, LinkedIn author URL, Unsplash image URLs, gtag, og:image absolute URL. lang-switch EN link → /blog/<slug> (English source).",
+    "Some referenced Spanish target pages (e.g. /es/blog/how-much-does-ai-automation-cost, /es/blog/ai-client-intake-automation-law-firms) are part of the same in-progress translation batch and resolve once those drafts ship."
+  ],
+  "suggestedLlmsTxtEntry": "/es/blog/ai-automation-accounting-firms-client-onboarding — Spanish (es). Innovaria Tech guide to AI automation for accounting firms: how a connected onboarding workflow cuts document collection time by ~70% and compresses onboarding from weeks to days, wired into QuickBooks, Xero or Karbon, with human review kept over the accountant's judgment. DRAFT pending native review.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live. Accounting terminology is region-sensitive (Spain vs LATAM) and should be standardized to the target market before publishing."
+}

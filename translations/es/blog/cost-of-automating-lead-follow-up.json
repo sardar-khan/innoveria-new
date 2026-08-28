@@ -1,0 +1,61 @@
+{
+  "_meta": {
+    "page": "Blog post — What Automating Lead Follow Up Actually Costs in 2026 (Pricing)",
+    "sourceFile": "/blog/cost-of-automating-lead-follow-up.html",
+    "outputFile": "/es/blog/cost-of-automating-lead-follow-up.html",
+    "language": "es", "locale": "es-ES", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú.",
+    "note": "Full blog post translated: head/meta, 3 JSON-LD blocks (Article, Organization, BreadcrumbList), nav, breadcrumbs, hero, lede, body sections, bulleted lists, inline links, CTA band, footer, alt text and aria-labels. No FAQPage on this page. No lead/audit form on this page, so no window.__i18n block was added. Internal links repointed to /es; external links, /privacy, /terms, sitemap, mailto, tel unchanged. All prices, percentages, dates, read-time and n8n/CRM/SMS/WhatsApp/API names kept exact."
+  },
+  "head": {
+    "title": "Lo que cuesta automatizar el seguimiento de leads en 2026",
+    "description": "Números reales de 2026: de 1.000 a 5.000 dólares para construirlo y de 50 a 300 dólares al mes para mantenerlo, más las cuentas del punto de equilibrio frente a un solo trato perdido.",
+    "keywords": "costo de automatización de leads, precios de automatización 2026, costo de un sistema de seguimiento de leads, costo de construir con n8n",
+    "canonical": "https://innovariatech.space/es/blog/cost-of-automating-lead-follow-up",
+    "robots": "noindex, follow",
+    "og:title": "Lo que cuesta de verdad automatizar el seguimiento de leads en 2026",
+    "og:description": "Costo de desarrollo, cuotas mensuales y las cuentas del punto de equilibrio frente a un solo trato perdido al mes.",
+    "og:locale": "es_ES",
+    "twitter:title": "Lo que cuesta de verdad automatizar el seguimiento de leads en 2026",
+    "twitter:description": "Costo de desarrollo, cuotas mensuales y las cuentas del punto de equilibrio frente a un solo trato perdido al mes."
+  },
+  "headings": {
+    "hero_h1": "Lo que cuesta de verdad automatizar el seguimiento de leads",
+    "h2_three_costs": "Los tres costos que forman el precio",
+    "h3_build": "1. El desarrollo",
+    "h3_platform": "2. Cuotas de plataforma",
+    "h3_maintenance": "3. Mantenimiento",
+    "h2_break_even": "Las cuentas del punto de equilibrio",
+    "h2_moves_up": "Lo que sube el precio",
+    "h2_keeps_cheap": "Lo que lo mantiene barato",
+    "h2_hiring": "La comparación honesta: contratar en su lugar",
+    "cta_band_h2": "Consigue tu número exacto, no un rango."
+  },
+  "schema": {
+    "breadcrumb": ["Inicio", "Blog", "Lo que cuesta de verdad automatizar el seguimiento de leads"],
+    "article": {
+      "headline": "Lo que cuesta de verdad automatizar el seguimiento de leads en 2026",
+      "inLanguage": "es"
+    },
+    "faq": []
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish search terms, not literal translations.",
+    "primary": ["costo de automatización de leads", "cuánto cuesta automatizar el seguimiento de leads", "precio de un sistema de seguimiento de leads"],
+    "secondary": ["precios de automatización con IA 2026", "costo de construir con n8n", "punto de equilibrio de la automatización de leads"]
+  },
+  "translatorNotes": [
+    "Register: informal tú throughout, consistent with the rest of the es effort. No em-dashes used.",
+    "Pricing post handled meticulously: every figure kept exact. '$1,000 to $5,000' -> 'de 1.000 a 5.000 dólares'; '$50 to $300' -> 'de 50 a 300 dólares'; '$20 to $100' -> 'de 20 a 100 dólares'; '$10 to $100' -> 'de 10 a 100 dólares'; '$50 to $150' -> 'de 50 a 150 dólares'; '30 days' -> '30 días'; '400 monthly enquiries' -> '400 consultas al mes'; 'three weeks' -> 'tres semanas'; '10 pm on a Sunday' -> 'las 10 de la noche de un domingo'; '5 min read' -> '5 min de lectura'. Period used as thousands separator.",
+    "Terms: 'lead follow up' -> 'seguimiento de leads'; 'build cost' / 'the build' -> 'costo de desarrollo' / 'el desarrollo'; 'monthly platform fees' -> 'cuotas mensuales de plataforma'; 'break even' -> 'punto de equilibrio'; 'lead response system' -> 'sistema de respuesta a leads'; 'fixed quote' -> 'presupuesto cerrado'; 'routing' -> 'enrutamiento'; 'round robin with caps' -> 'reparto rotativo con topes'; 'self hosted n8n' -> 'n8n autoalojado'; 'close rate' -> 'tasa de cierre'; 'brokerage' -> 'correduría'.",
+    "'July 11, 2026' -> '11 de julio de 2026'; 'July 2026' pattern respected.",
+    "Brand/tool/acronym names kept exact: Innovaria Tech, Innovaria Tech Limited, Ahsan Ilyas, n8n, CRM, API, SMS, WhatsApp.",
+    "Internal links repointed to /es equivalents (brand, nav, breadcrumbs, /es/about, /es/case-studies, /es/services/ai-voice-agents, /es/services/lead-automation, /es/blog/how-much-does-ai-automation-cost, /es/contact, footer). English slugs kept in paths. lang-switch EN link -> /blog/cost-of-automating-lead-follow-up.",
+    "External links unchanged: LinkedIn author URL, sitemap. /privacy and /terms left as-is. mailto and tel unchanged. No /veyrais link present on this page.",
+    "No FAQPage block on this post (faq empty). No lead/audit <form> exists on this post, so no window.__i18n form block was inserted.",
+    "Asset paths changed from ../ to root-absolute (/assets, /css, /js, /favicon.ico); gtag and og:image kept absolute."
+  ],
+  "suggestedLlmsTxtEntry": "/es/blog/cost-of-automating-lead-follow-up — Spanish (es). Real 2026 numbers for a lead follow up system: build cost of 1,000 to 5,000 dollars, monthly platform fees of 50 to 300 dollars, plus the break even math against one lost deal a month. DRAFT pending native review.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live."
+}

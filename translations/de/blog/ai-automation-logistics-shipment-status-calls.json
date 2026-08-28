@@ -1,0 +1,37 @@
+{
+  "_meta": {
+    "page": "/blog/ai-automation-logistics-shipment-status-calls",
+    "sourceFile": "/blog/ai-automation-logistics-shipment-status-calls.html",
+    "outputFile": "/de/blog/ai-automation-logistics-shipment-status-calls.html",
+    "language": "de",
+    "locale": "de-DE",
+    "dir": "ltr",
+    "status": "DRAFT — needs native/fluent German review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Standard German, informal du.",
+    "note": "Auto-generated sidecar backfilled from the finished German page after an agent interruption; head/schema captured from the page. A reviewer should add researched German keywords and per-page translator notes."
+  },
+  "head": {
+    "title": "KI-Automatisierung für die Logistik: Sendungsstatus-Anrufe reduzieren",
+    "description": "Dispositionsteams verlieren täglich Stunden an Sendungsstatus-Anrufe. Erfahre, wie KI-Automatisierung die Frage Wo ist meine Sendung beantwortet und Verzögerungswarnungen aus deinem TMS versendet.",
+    "canonical": "https://innovariatech.space/de/blog/ai-automation-logistics-shipment-status-calls",
+    "robots": "noindex, follow",
+    "og:locale": "de_DE"
+  },
+  "schema": {
+    "breadcrumb": [
+      "Startseite",
+      "Blog",
+      "KI-Automatisierung für die Logistik"
+    ]
+  },
+  "targetedKeywords": {
+    "note": "TODO: reviewer to research German search terms (not literal translations).",
+    "primary": [],
+    "secondary": []
+  },
+  "translatorNotes": [
+    "Backfilled sidecar. Register informal du; no em-dashes in body; prices kept exact and named in US-Dollar; brand/tool names and acronyms unchanged; internal links point to /de; /veyrais, /privacy, /terms and externals kept as-is. US-specific frameworks (e.g. HIPAA, fair housing, US legal-ethics) where present need market localization."
+  ],
+  "suggestedLlmsTxtEntry": "/de/blog/ai-automation-logistics-shipment-status-calls — German (de). KI-Automatisierung für die Logistik: Sendungsstatus-Anrufe reduzieren DRAFT pending native review.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent German review before going live."
+}

@@ -1,0 +1,83 @@
+{
+  "_meta": {
+    "page": "Veyrais: the LinkedIn AI content tool, how it works (blog post)",
+    "sourceFile": "blog/veyrais-linkedin-ai-content-tool-how-it-works.html",
+    "outputFile": "es/blog/veyrais-linkedin-ai-content-tool-how-it-works.html",
+    "language": "es",
+    "locale": "es-ES",
+    "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú.",
+    "note": "No lead/audit form present in this post, so the window.__i18n form-strings script was NOT added."
+  },
+  "head": {
+    "title": "Veyrais: la herramienta de contenido con IA para LinkedIn, explicada",
+    "description": "Veyrais es la herramienta de contenido para LinkedIn que creamos para nosotros mismos y seguimos usando a diario. Mira cómo funciona, cuánto cuesta y cómo se compara con Taplio y MagicPost.",
+    "keywords": "Veyrais IA, herramienta de contenido con IA para LinkedIn, generador de posts para LinkedIn, herramienta de automatización de LinkedIn, redactor fantasma con IA para LinkedIn, precios de Veyrais, mejor herramienta de IA para LinkedIn 2026",
+    "canonical": "https://innovariatech.space/es/blog/veyrais-linkedin-ai-content-tool-how-it-works",
+    "robots": "noindex, follow",
+    "ogTitle": "Veyrais: la herramienta de contenido con IA para LinkedIn, explicada",
+    "ogDescription": "La herramienta de contenido para LinkedIn que creamos para nosotros mismos. Mira exactamente cómo funciona, cuánto cuesta y cómo se compara con el resto del mercado.",
+    "ogLocale": "es_ES"
+  },
+  "headings": {
+    "h1": "Veyrais: la herramienta de contenido con IA para LinkedIn que creamos para nosotros mismos, ahora abierta a todos",
+    "h2": [
+      "Puntos clave",
+      "Por qué lo creamos en primer lugar",
+      "Qué hace en realidad",
+      "Qué no hace",
+      "Planes y precios",
+      "Cómo se compara Veyrais con el resto del mercado",
+      "Cómo empezar",
+      "Si necesitas algo más que una herramienta personal para LinkedIn",
+      "Preguntas frecuentes",
+      "Lecturas relacionadas"
+    ]
+  },
+  "schema": {
+    "breadcrumb": [
+      "Inicio",
+      "Blog",
+      "Veyrais: cómo funciona"
+    ],
+    "articleHeadline": "Veyrais: la herramienta de contenido con IA para LinkedIn que creamos para nosotros mismos, ahora abierta a todos",
+    "faq": [
+      "¿Veyrais es la misma herramienta que Innovaria Tech usa para su propia presencia en LinkedIn?",
+      "¿En qué se diferencia Veyrais de Taplio o MagicPost?",
+      "¿Veyrais publica de forma automática sin que yo revise nada?",
+      "¿Qué incluye realmente cada plan de precios?",
+      "¿Puedo cancelar o cambiar de plan con facilidad?",
+      "¿Es lo mismo que los sistemas de automatización a medida que Innovaria Tech crea para sus clientes?"
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish-market search terms for LinkedIn AI content tools, not literal translations of the English keywords.",
+    "primary": [
+      "herramienta de IA para LinkedIn",
+      "generador de posts para LinkedIn con IA",
+      "crear contenido para LinkedIn automáticamente"
+    ],
+    "secondary": [
+      "redactor fantasma con IA para LinkedIn",
+      "programar publicaciones en LinkedIn",
+      "alternativa a Taplio",
+      "precios Veyrais",
+      "carruseles para LinkedIn con IA"
+    ]
+  },
+  "translatorNotes": [
+    "Informal tú used throughout, neutral international Spanish.",
+    "No em-dashes used anywhere; the source's comma-spliced appositive style was kept with commas/colons in Spanish.",
+    "Brand/product names kept as-is: Veyrais, Taplio, MagicPost, Kleo, Jasper, Buffer, Hootsuite, PostEverywhere, LinkedIn, Reddit, Medium, Google. Plan names Starter/Growth/Ultimate kept in English (as displayed in-product).",
+    "Prices localized in prose to spelled-out 'X dólares al mes'; table headers use compact '15 $/mes' etc. Table numeric values unchanged.",
+    "'ghostwriter' -> 'redactor fantasma'; the product feature label 'GhostWriter' in the image alt text kept as-is since it is a UI element name.",
+    "'dashboard' -> 'panel'; 'carousel(s)' -> 'carrusel/carruseles'; 'batch generation' -> 'generación por lotes'; 'review step' -> 'paso de revisión'.",
+    "Internal same-site links repointed to /es (nav, breadcrumbs, footer, in-body /es/services and /es/blog links, /es/contact). Left unchanged: /veyrais (English case study), /privacy, /terms, sitemap.xml, mailto:, tel:, and external URLs (veyrais.innovariatech.space, LinkedIn author profile, googletagmanager).",
+    "Language switcher added to nav (ES current, EN link to English post). English source received reciprocal EN/ES switcher and 3 hreflang alternates.",
+    "Article and FAQPage JSON-LD carry inLanguage 'es'; Article mainEntityOfPage @id and breadcrumb item URLs repointed to /es. author/publisher/image/dates/Product offers left unchanged.",
+    "Flag for reviewer: '10 tone styles' rendered as 'diez estilos de tono'; confirm the in-product Spanish UI wording if it exists."
+  ],
+  "suggestedLlmsTxtEntry": "Spanish translation of the Veyrais explainer: how our in-house LinkedIn AI content tool works, what it costs, and how it compares to Taplio, MagicPost, and Kleo.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live."
+}

@@ -1,0 +1,94 @@
+{
+  "_meta": {
+    "source": "industries/legal.html",
+    "target": "de/industries/legal.html",
+    "language": "de",
+    "locale": "de-DE",
+    "dir": "ltr",
+    "status": "DRAFT — needs native/fluent German review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Standard German, informal du.",
+    "note": "has form"
+  },
+  "head": {
+    "title": "KI-Agent für Kanzleien: keine Mandatsannahme verpassen | Innovaria",
+    "description": "Ein KI-Agent für die Mandatsannahme in Kanzleien, der jeden Anruf annimmt, eine Konfliktprüfung durchführt und Beratungsgespräche bucht, während du im Gericht bist. Kostenlose Analyse buchen.",
+    "keywords": "KI-Agent für Kanzleien, Mandatsannahme automatisieren, KI-Anrufannahme Kanzlei, Konfliktprüfung, Beratungsgespräche buchen, Kanzleimanagement Clio, KI-Client-Intake",
+    "og_title": "KI-Agent für Kanzleien: keine Mandatsannahme verpassen | Innovaria",
+    "og_description": "Jeder Anruf angenommen, Falldetails einmal erfasst, Konflikte geprüft und qualifizierte Beratungsgespräche gebucht, während du Stunden abrechnest.",
+    "og_locale": "de_DE",
+    "twitter_title": "KI-Agent für Kanzleien: keine Mandatsannahme verpassen | Innovaria",
+    "twitter_description": "Jeder Anruf angenommen, Falldetails einmal erfasst, Konflikte geprüft und qualifizierte Beratungsgespräche gebucht, während du Stunden abrechnest.",
+    "canonical": "https://innovariatech.space/de/industries/legal"
+  },
+  "headings": {
+    "h1": "Der KI-Agent für die Mandatsannahme, der antwortet, während du im Gericht bist",
+    "problems_h2": "Wo Mandate still und leise verschwinden",
+    "solution_h2": "Mandatsannahme, die läuft, während du Stunden abrechnest",
+    "outcomes_h2": "Die Zahlen drei Monate nach dem Livegang",
+    "how_h2": "In deiner Kanzlei live in zwei bis vier Wochen",
+    "why_h2": "Verschwiegenheit zuerst, Beratung niemals",
+    "case_h2": "Die Prozesskanzlei, die aufhörte, Anrufer an die Gerichtszeiten zu verlieren",
+    "tech_h2": "Aufgebaut auf den Tools, die deine Kanzlei bereits nutzt",
+    "faq_h2": "Automatisierung der Mandatsannahme, direkt beantwortet",
+    "cta_h2": "Wie viele Anrufer haben aufgelegt, während du im Gericht warst?",
+    "contact_h2": "Fordere deine kostenlose Analyse der Mandatsannahme an",
+    "related_h2": "Aufgebaut aus diesen Fähigkeiten"
+  },
+  "schema": {
+    "service_name": "KI-Agent für Kanzleien",
+    "service_description": "Ein KI-Agent für die Mandatsannahme, der jeden Anruf annimmt, Falldetails einmal erfasst, eine Konfliktprüfung und Eignungsprüfung durchführt, qualifizierte Beratungsgespräche in Anwaltskalender bucht und jedem verpassten Anrufer zurückschreibt, mit eingebauter Verschwiegenheit und ohne Rechtsberatung.",
+    "audienceType": "Kanzleien, Einzelanwälte und Rechtsberatungen",
+    "breadcrumb": [
+      { "name": "Startseite", "item": "https://innovariatech.space/de" },
+      { "name": "Branchen", "item": "https://innovariatech.space/de/industries" },
+      { "name": "Kanzleien", "item": "https://innovariatech.space/de/industries/legal" }
+    ],
+    "faq": [
+      {
+        "q": "Was ist ein KI-Agent für Kanzleien?",
+        "a": "Ein KI-Agent für Kanzleien ist Software, die Mandatsannahme und Terminierung übernimmt: Er nimmt jeden Anruf an, erfasst Falldetails in einem strukturierten Gespräch, führt eine Konfliktprüfung und Eignungsprüfung anhand deiner Kriterien durch und bucht qualifizierte Beratungsgespräche in Anwaltskalender. Er arbeitet um deine Gerichtszeiten herum, und alles Sensible wird an einen Menschen in deiner Kanzlei weitergeleitet."
+      },
+      {
+        "q": "Gibt er Rechtsberatung?",
+        "a": "Nein. Der Agent ist strikt auf Mandatsannahme und Terminierung beschränkt. Er sammelt Fakten, prüft die Eignung anhand der von deiner Kanzlei definierten Kriterien und bucht Beratungsgespräche. Jede Frage, die in Richtung Beratung geht, erhält eine klare Antwort, dass sich ein Anwalt darum kümmert, und das Gespräch wird an dein Team weitergeleitet. Diese Grenzen sind eingebaut und werden vor dem Livegang getestet."
+      },
+      {
+        "q": "Wie wird die Verschwiegenheit gegenüber Mandanten geschützt?",
+        "a": "Jedes Mandatsannahme-Gespräch liegt in Konten, die deine Kanzlei kontrolliert, nicht wir. Daten sind bei der Übertragung und im Ruhezustand verschlüsselt, der Zugriff ist auf die von dir benannten Personen beschränkt, und alles Sensible wird von einem Menschen geprüft, bevor es irgendwohin weitergeht. Du prüfst die gesamte Anbieterkette und jeden Workflow, bevor das System seinen ersten Anruf annimmt."
+      },
+      {
+        "q": "Was kostet ein KI-Agent für Kanzleien?",
+        "a": "Ein vollständiges Mandatsannahme-System liegt beim Aufbau in der Regel zwischen 1.000 und 5.000 US-Dollar zuzüglich 50 bis 300 US-Dollar an monatlichen Plattformgebühren, je nach Anrufvolumen und Integrationen. Setzt man das gegen den Wert eines einzigen gewonnenen Mandanten, ist die Amortisationsrechnung kurz. Nach einer kostenlosen Analyse deiner Mandatsannahme bekommst du ein Festpreisangebot."
+      },
+      {
+        "q": "Lässt es sich in Clio oder unser Kanzleimanagement-System integrieren?",
+        "a": "Ja. Neue Mandate, Kontaktdatensätze und Buchungen von Beratungsgesprächen landen in Clio oder dem Kanzleimanagement-System, das du bereits nutzt, mit angehängter Zusammenfassung der Mandatsannahme. Wenn deine Plattform eine API hat, binden wir sie direkt an; nichts wird abgetippt und nichts lebt in einer Tabelle nebenher."
+      }
+    ]
+  },
+  "targetedKeywords": {
+    "note": "German keyword equivalents for the legal industry page; not machine keyword-researched, review with a native SEO before relying on volumes.",
+    "primary": [
+      "KI-Agent für Kanzleien",
+      "Mandatsannahme automatisieren",
+      "KI-Anrufannahme Kanzlei"
+    ],
+    "secondary": [
+      "Konfliktprüfung",
+      "Beratungsgespräche buchen",
+      "Kanzleimanagement Clio",
+      "KI-Client-Intake"
+    ]
+  },
+  "translatorNotes": [
+    "FLAG legal-ethics jurisdiction sensitivity: this page describes intake automation, conflicts screening, confidentiality/privilege, and a strict no-legal-advice boundary in US-attorney framing. German legal-ethics rules differ substantially (BRAO, the Berufsordnung/BORA, Verschwiegenheitspflicht under sec. 43a BRAO, and the Rechtsdienstleistungsgesetz on who may give legal advice). A German-market version must be reviewed by a German lawyer for professional-conduct compliance before publishing; terminology like 'Mandat', 'Mandatsannahme', 'Verschwiegenheit', and 'keine Rechtsberatung' is used in the German legal sense but the underlying claims were written for a US audience.",
+    "Term choices per spec: 'intake' -> 'Mandatsannahme'; 'attorney' -> 'Anwalt'; 'matter' -> 'Mandat' (with 'Fall'/'Falldetails' used where the source says 'case'); 'conflicts' -> 'Konfliktprüfung'; 'consultation' -> 'Beratungsgespräch'; 'confidentiality/privilege' -> 'Verschwiegenheit'/'Berufsgeheimnis'; 'no legal advice' -> 'keine Rechtsberatung'.",
+    "Brand and product names kept exact: Clio, Twilio, Calendly, n8n, Make. Marquee 'Practice management systems' rendered 'Kanzleimanagement-Systeme'.",
+    "Currency converted per spec: '$1,000 and $5,000' -> '1.000 und 5.000 US-Dollar'; '$50 to $300' -> '50 bis 300 US-Dollar'.",
+    "All internal links repointed to /de (nav, breadcrumb, footer, related services, other industries, related blog reading). Related blog anchors translated but slugs kept: /de/blog/workflow-automation-for-law-firms-what-actually-gets-automated, /de/blog/ai-client-intake-automation-law-firms, /de/blog/best-automation-tools-service-businesses.",
+    "External links unchanged: mailto, tel, wa.me, sitemap.xml, unsplash image, gtag. /privacy and /terms kept language-neutral. /api/lead unchanged.",
+    "Informal 'du' throughout; no em-dashes used."
+  ],
+  "suggestedLlmsTxtEntry": "German (draft) translation of the legal industry page: an AI intake agent that answers every call, captures case details once, screens for conflicts and fit, books qualified consultations into attorney calendars, and texts missed callers back, with confidentiality designed in and no legal advice given.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent German review before going live."
+}

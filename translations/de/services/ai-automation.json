@@ -1,0 +1,88 @@
+{
+  "_meta": {
+    "page": "service: AI Automation",
+    "sourceFile": "/services/ai-automation.html",
+    "outputFile": "/de/services/ai-automation.html",
+    "language": "de",
+    "locale": "de-DE",
+    "dir": "ltr",
+    "status": "DRAFT — needs native/fluent German review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Standard German, informal du.",
+    "note": "has form"
+  },
+
+  "head": {
+    "title": "KI-Automatisierung für wachsende Teams | Innovaria Tech",
+    "description": "KI-Automatisierung, die jeden Lead in unter einer Minute beantwortet und wöchentlich mehr als 20 Stunden Admin-Arbeit spart. Zum Festpreis, dir gehört alles. Kostenlose Analyse buchen.",
+    "keywords": "KI-Automatisierung, KI-Automatisierung Agentur, Geschäftsprozesse automatisieren, Lead-Automatisierung, Workflow-Automatisierung, n8n Make Zapier",
+    "canonical": "https://innovariatech.space/de/services/ai-automation",
+    "robots": "noindex, follow",
+    "og": {
+      "title": "KI-Automatisierung für wachsende Teams | Innovaria Tech",
+      "description": "Beantworte jeden Lead in unter einer Minute und spare wöchentlich mehr als 20 Stunden Admin-Arbeit. Automatisierung zum Festpreis, die dir gehört.",
+      "locale": "de_DE"
+    },
+    "twitter": {
+      "title": "KI-Automatisierung für wachsende Teams | Innovaria Tech",
+      "description": "Beantworte jeden Lead in unter einer Minute und spare wöchentlich mehr als 20 Stunden Admin-Arbeit. Automatisierung zum Festpreis, die dir gehört."
+    }
+  },
+
+  "runtime_i18n_form": {
+    "fixFields": "Bitte korrigiere die markierten Felder und versuche es erneut.",
+    "sending": "Wird gesendet...",
+    "thanksConfirmed": "Danke, {name}. Eine Bestätigung ist gerade in deinem Posteingang gelandet. Eine Person meldet sich während der Geschäftszeiten bei dir.",
+    "thanksReceived": "Danke, {name}. Deine Anfrage ist bei uns angekommen und das Team kann sie sehen. Unsere automatische Bestätigungs-E-Mail ist diesmal nicht rausgegangen, also schreib uns direkt an info@innovariatech.space, um sicherzugehen.",
+    "errorSuffix": "Du kannst uns auch direkt an info@innovariatech.space schreiben."
+  },
+
+  "headings": {
+    "hero_h1": "KI-Automatisierung, die dir mehr als 20 Stunden pro Woche zurückgibt",
+    "problems_h2": "Wo dir gerade jetzt Umsatz wegläuft",
+    "solution_h2": "Ein zusammenhängendes System, sechs Fähigkeiten",
+    "outcomes_h2": "Was Kunden nach dem Start messen",
+    "how_h2": "Von der Analyse zur laufenden Automatisierung in vier Schritten",
+    "why_h2": "Aufgebaut wie Partner, nicht wie Vermieter",
+    "proof_h2": "Ein Maklerbüro mit 12 Agenten verlor keine Abend-Leads mehr",
+    "tech_h2": "Dein Stack entscheidet über die Tools, nicht umgekehrt",
+    "faq_h2": "KI-Automatisierung, direkt beantwortet",
+    "finalCta_h2": "Finde heraus, welche Automatisierung sich bei dir am schnellsten rechnet",
+    "contact_h2": "Fordere deine kostenlose Automatisierungs-Analyse an"
+  },
+
+  "schema": {
+    "inLanguage": "de",
+    "service_name": "KI-Automatisierung",
+    "service_description": "Durchgängige KI-Automatisierung: sofortige Lead-Antwort, KI-Sprachassistenten, Chatbots, E-Mail-Sequenzen und individuelle Workflows in n8n, Make und Zapier. Zum Festpreis gebaut, dem Kunden gehört alles komplett.",
+    "breadcrumb": ["Startseite", "Leistungen", "KI-Automatisierung"],
+    "faq": [
+      { "q": "Was ist KI-Automatisierung?", "a": "KI-Automatisierung entwirft und baut Systeme, die wiederkehrende Aufgaben im Unternehmen automatisch erledigen: Leads beantworten, Anrufe entgegennehmen, Nachfassen, Daten zwischen Tools bewegen und Inhalte veröffentlichen. Du beschreibst das Ergebnis, wir bauen das System, und dein Team gewinnt die Stunden zurück, die es bisher in Admin-Arbeit gesteckt hat." },
+      { "q": "Was kostet KI-Automatisierung?", "a": "Ein einzelner Workflow startet meist im niedrigen dreistelligen Dollarbereich, und ein komplettes System wie eine vollständige Lead-Antwort liegt in der Regel zwischen 1.000 und 5.000 US-Dollar beim Bau, plus 50 bis 300 US-Dollar pro Monat an Plattformgebühren. Wir nennen einen Festpreis nach einer kostenlosen Analyse, es gibt also keine offenen Rechnungen." },
+      { "q": "Wie lange dauert ein KI-Automatisierungsprojekt?", "a": "Ein bis zwei Wochen für einen einzelnen Workflow, zwei bis vier Wochen für ein komplettes System inklusive Tests mit deinen echten Daten. Du siehst die Automatisierung laufen, bevor du die Schlussrechnung bezahlst." },
+      { "q": "Müssen wir unsere aktuelle Software ersetzen?", "a": "Fast nie. Wir bauen auf dem CRM, dem Kalender, der Telefonanlage und dem Postfach auf, die du schon nutzt. Wenn ein Tool eine API hat, können wir es anbinden. Software zu ersetzen ist der letzte Ausweg, nicht der Ausgangspunkt." },
+      { "q": "Wem gehört die Automatisierung nach dem Projekt?", "a": "Dir. Jeder Workflow läuft in Konten, die auf dein Unternehmen registriert sind, und jeder Bau wird mit Dokumentation ausgeliefert. Wenn du morgen aufhörst, mit uns zu arbeiten, läuft alles weiter und jede kompetente Fachkraft kann es warten." },
+      { "q": "Ersetzt die Automatisierung unser Personal?", "a": "Nein. Die Automatisierung übernimmt die wiederkehrende, zeitkritische Arbeit: erste Antworten, Erinnerungen, Dateneingabe, Weiterleitung. Dein Team behält die Aufgaben, die Urteilsvermögen brauchen, und gewinnt 20 oder mehr Stunden pro Woche zurück, um sie für Kunden statt für Admin-Arbeit einzusetzen." }
+    ]
+  },
+
+  "targetedKeywords": {
+    "note": "Researched German search terms, not literal translations.",
+    "primary": ["KI-Automatisierung", "Geschäftsprozesse mit KI automatisieren", "KI-Automatisierung Agentur"],
+    "secondary": ["wiederkehrende Aufgaben im Unternehmen automatisieren", "Prozessautomatisierung mit künstlicher Intelligenz", "automatische Lead-Antwort einrichten"]
+  },
+
+  "translatorNotes": [
+    "Register: informal du throughout, consistent with the sibling ES pages and the planned German set. The tu/Sie decision (here: du) is the single biggest review call and carries across all German pages.",
+    "Glossary applied: AI Automation -> KI-Automatisierung, Lead Automation -> Lead-Automatisierung, AI Voice Agents -> KI-Sprachassistenten, Call Automation -> Anrufautomatisierung, AI Chatbots -> KI-Chatbots, Email Automation -> E-Mail-Automatisierung, Workflow Automation -> Workflow-Automatisierung, Social Automation -> Social-Media-Automatisierung, Generative AI -> Generative KI, AI Consulting -> KI-Beratung. Industries mapped per glossary (Immobilien, Gesundheitswesen, E-Commerce, Kanzleien, Finanzen & Buchhaltung, Bildung, Fertigung, Logistik).",
+    "'lead' kept in English (standard in German CRM/marketing). 'bottleneck' -> 'Engpass'. 'nurture/follow up' -> 'Nachfassen'. 'roadmap' -> 'Fahrplan'. 'fixed price' -> 'Festpreis'. 'payback' kept as 'Payback' (common in German business usage).",
+    "'you own everything we build' -> 'Dir gehört alles, was wir bauen' (fixed glossary phrasing).",
+    "Prices/facts kept exactly: '$1,000 and $5,000' -> '1.000 und 5.000 US-Dollar'; '$50 to $300' -> '50 bis 300 US-Dollar'. Brand/tool names (n8n, Make, Zapier, Twilio, Calendly, WhatsApp, HubSpot, Stripe, Slack, OpenAI, Claude, Google Workspace) and stats (60 sec, 20+ hrs, 24/7, 100%, 90 sec, +34%, 25 hrs) unchanged. 'Innovaria Tech Limited', email, phone, /api/lead form action unchanged.",
+    "'Built like partners, not landlords' -> 'Aufgebaut wie Partner, nicht wie Vermieter' keeps the ownership metaphor; a reviewer may prefer a softer image if 'Vermieter' reads too literal.",
+    "ALL internal links repointed to /de: brand, nav (both dropdowns), breadcrumbs, hero CTA, in-body card links, footer service/company links. Cross-language switcher links (EN -> /services/..., ES -> /es/services/...) intentionally NOT repointed. Left unchanged: /privacy, /terms, sitemap, mailto, tel, wa.me, external Unsplash image, and the form action /api/lead.",
+    "Three-way language switcher added (EN + ES + DE, DE current). Head has four hreflang alternates (en, es, de, x-default) and og:locale de_DE. Robots set to noindex, follow with the draft comment above it. Contact-form status messages localized via window.__i18n.form (English fallback preserved for untranslated pages)."
+  ],
+
+  "suggestedLlmsTxtEntry": "German (de) draft of the AI Automation service page: end-to-end automation (instant lead response, AI voice agents, chatbots, email sequences, custom n8n/Make/Zapier workflows) built at a fixed price that the client owns outright.",
+
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent German review before going live."
+}

@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-JWXS939G3J"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-JWXS939G3J');
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Voice Agents: Never Miss Another Call | Innovaria Tech</title>
+  <meta name="description" content="An AI voice agent that answers every call on the first ring, books appointments into your calendar, and texts back missed callers. Get a free audit.">
+  <meta name="author" content="Innovaria Tech">
+  <!-- Ad landing page: stays noindex permanently so it never competes with organic pages -->
+  <meta name="robots" content="noindex">
+  <link rel="canonical" href="https://innovariatech.space/lp/ai-voice-agents">
+  <link rel="icon" href="../favicon.ico" sizes="48x48">
+  <link rel="icon" type="image/png" sizes="32x32" href="../assets/favicon-32.png">
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <main id="main">
+
+    <section class="page-hero" style="padding-bottom:1rem;">
+      <div class="container" style="display:flex;justify-content:center;padding-top:0.5rem;">
+        <img src="../assets/logo-innovaria.png" alt="Innovaria Tech logo" width="188" height="64" style="filter:brightness(0) invert(1);">
+      </div>
+    </section>
+
+    <section class="page-hero" style="padding-top:1.5rem;">
+      <div class="container split" style="align-items:start;">
+        <div>
+          <span class="kicker">AI voice agents</span>
+          <h1>Your phone answered on the first ring, <span class="grad-text">24 hours a day</span></h1>
+          <p class="lede"><strong>An AI voice agent answers every inbound call, handles common questions in natural conversation, books appointments straight into your calendar, and passes complex calls to your team with a summary.</strong> Callers stop reaching voicemail. You stop losing them to whoever answers next.</p>
+          <ul style="color:var(--muted);line-height:2;">
+            <li>Every call answered, including nights and weekends</li>
+            <li>Bookings land in the right calendar automatically</li>
+            <li>Missed call text back within seconds</li>
+            <li>Complex or sensitive calls reach a human with context</li>
+          </ul>
+          <p class="hero-note" style="margin-top:1rem;"><strong>Hear it live:</strong> request the audit and we will play you a real call on the spot.</p>
+        </div>
+        <div class="card" id="form" style="box-shadow:0 24px 60px rgba(0,0,0,0.35);">
+          <h2 style="font-size:1.4rem;">Get your free audit</h2>
+          <p style="color:var(--muted);font-size:0.95rem;">We map your call flow and quote a fixed price. 30 seconds to request.</p>
+          <form id="audit-form" class="form-grid" action="/api/lead" method="POST" novalidate>
+            <div style="position:absolute;left:-5000px;top:auto;" aria-hidden="true">
+              <label for="f-website">Website</label>
+              <input id="f-website" name="website" type="text" tabindex="-1" autocomplete="off">
+            </div>
+            <div class="form-field">
+              <label for="f-name">Your name</label>
+              <input id="f-name" name="name" type="text" autocomplete="name" required>
+              <p class="field-error">Please enter your name.</p>
+            </div>
+            <div class="form-field">
+              <label for="f-email">Work email</label>
+              <input id="f-email" name="email" type="email" autocomplete="email" required>
+              <p class="field-error">Please enter a valid email address.</p>
+            </div>
+            <div class="form-field">
+              <label for="f-company">Company</label>
+              <input id="f-company" name="company" type="text" autocomplete="organization" required>
+              <p class="field-error">Please enter your company name.</p>
+            </div>
+            <div class="form-field">
+              <label for="f-bottleneck">How many calls do you miss in a week?</label>
+              <textarea id="f-bottleneck" name="bottleneck" rows="3" placeholder="Example: we miss maybe 15 calls a week during appointments" required></textarea>
+              <p class="field-error">A rough guess is fine.</p>
+            </div>
+            <div>
+              <button class="btn btn-primary" type="submit" style="width:100%;">Get My Free Audit</button>
+            </div>
+            <p id="form-status" class="form-status" role="status" aria-live="polite"></p>
+          </form>
+        </div>
+      </div>
+    </section>
+
+    <!-- Proof strip -->
+    <section class="section-tight section stats-band">
+      <div class="container">
+        <div class="stats">
+          <div>
+            <div class="stat-num">1st ring</div>
+            <div class="stat-label">every call answered, day or night</div>
+          </div>
+          <div>
+            <div class="stat-num">0</div>
+            <div class="stat-label">calls sent to voicemail after go live</div>
+          </div>
+          <div>
+            <div class="stat-num">24/7</div>
+            <div class="stat-label">booking coverage, weekends included</div>
+          </div>
+          <div>
+            <div class="stat-num">2-4 wks</div>
+            <div class="stat-label">from audit to answering your line</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- How it handles calls -->
+    <section class="section">
+      <div class="container">
+        <div class="center">
+          <span class="kicker">How it handles your calls</span>
+          <h2>Natural conversation, <span class="grad-text">not a phone tree</span></h2>
+        </div>
+        <div class="grid grid-3 mt-2">
+          <div class="card">
+            <h3>Books and reschedules</h3>
+            <p>The agent checks real availability and books straight into the right calendar, then sends the caller a confirmation text.</p>
+          </div>
+          <div class="card">
+            <h3>Answers the common questions</h3>
+            <p>Hours, pricing basics, directions, what to bring: trained on your business, it answers what your team repeats all day.</p>
+          </div>
+          <div class="card">
+            <h3>Hands off when it matters</h3>
+            <p>Anything complex, urgent, or sensitive transfers to your team with a summary, so the caller never repeats themselves.</p>
+          </div>
+        </div>
+        <p class="center mt-2">
+          <a class="btn btn-primary" href="#form">Get My Free Audit</a>
+        </p>
+      </div>
+    </section>
+
+    <!-- Closing CTA -->
+    <section class="cta-band">
+      <div class="container">
+        <h2>Most callers never leave a voicemail. <span class="grad-text">They just dial your competitor.</span></h2>
+        <a class="btn btn-primary" href="#form">Get My Free Audit</a>
+        <p class="cta-sub">30 minutes. A fixed price quote. A live call demo included.</p>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="site-footer" style="text-align:center;">
+    <div class="container">
+      <p style="margin:0;">Innovaria Tech Limited &middot; info@innovariatech.space &middot; +1 601 860 1258 &middot; <a href="/privacy">Privacy</a> &middot; <a href="/terms">Terms</a></p>
+    </div>
+  </footer>
+
+  <script src="../js/main.js" defer></script>
+</body>
+</html>

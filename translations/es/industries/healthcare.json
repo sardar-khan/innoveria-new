@@ -1,0 +1,62 @@
+{
+  "_meta": {
+    "page": "Industry — Healthcare",
+    "sourceFile": "/industries/healthcare.html",
+    "outputFile": "/es/industries/healthcare.html",
+    "language": "es", "locale": "es-ES", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú.",
+    "note": "Has a contact form, so window.__i18n form block is embedded. Full copy lives in the rendered page; this file records head/meta, schema strings, keywords, and notes."
+  },
+  "head": {
+    "title": "Agente de IA para el sector salud: menos ausencias | Innovaria",
+    "description": "Un agente de IA para el sector salud que atiende cada llamada, reduce las ausencias y completa el registro antes de la visita, con HIPAA diseñado desde el inicio. Reserva una auditoría gratis.",
+    "canonical": "https://innovariatech.space/es/industries/healthcare",
+    "robots": "noindex, follow",
+    "og:title": "Agente de IA para el sector salud: menos ausencias | Innovaria",
+    "og:description": "Atiende cada llamada de pacientes 24/7, reduce las ausencias con recordatorios de dos toques y completa el registro antes de la visita. HIPAA diseñado desde el inicio.",
+    "og:locale": "es_ES"
+  },
+  "headings": {
+    "hero_h1": "El agente de IA para el sector salud que mantiene los teléfonos atendidos y las agendas llenas",
+    "problems_h2": "Por dónde desaparecen en silencio los ingresos de la clínica",
+    "solution_h2": "Una recepción que nunca deja a nadie en espera",
+    "outcomes_h2": "Los números tres meses después del arranque",
+    "how_h2": "En marcha en tu consulta en dos a cuatro semanas",
+    "why_h2": "Tu historial, tus cuentas, HIPAA diseñado desde el inicio",
+    "case_h2": "La clínica ambulatoria que dejó de pagar a los profesionales por esperar",
+    "tech_h2": "Construido sobre las herramientas que tu consulta ya conoce",
+    "faq_h2": "Automatización para el sector salud, respondida sin rodeos",
+    "final_cta_h2": "¿Cuántos huecos quedaron vacíos solo la semana pasada?",
+    "contact_h2": "Solicita tu auditoría gratis de recepción"
+  },
+  "schema": {
+    "service_name": "Agente de IA para el sector salud",
+    "service_description": "Una recepcionista de IA 24/7 para reservar y reprogramar, recordatorios de dos toques con confirmación de un toque, relleno automático de la lista de espera y registro digital antes de la visita, construido con el cumplimiento de HIPAA diseñado desde el inicio y todo lo clínico derivado al personal.",
+    "audienceType": "Clínicas, consultas médicas y proveedores de salud",
+    "breadcrumb": ["Inicio", "Sectores", "Salud"],
+    "faq": [
+      "¿Qué es un agente de IA para el sector salud?",
+      "¿Un agente de IA para el sector salud cumple con HIPAA?",
+      "¿Cuánto puede reducir las ausencias?",
+      "¿Cuánto cuesta un agente de IA para el sector salud?",
+      "¿Reemplazará a nuestro personal de recepción?"
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish search terms, not literal translations.",
+    "primary": ["agente de IA para clínicas", "automatización para consultas médicas", "recepcionista virtual con IA salud"],
+    "secondary": ["reducir ausencias de pacientes", "recordatorios de citas automáticos", "agenda automática para clínicas", "software para reducir inasistencias médicas"]
+  },
+  "translatorNotes": [
+    "Register: informal tú, consistent with Phase 1.",
+    "'no shows' -> 'ausencias' (also common: 'inasistencias' — used once in a secondary keyword). 'front desk' -> 'recepción'. 'intake' -> 'registro' (patient intake). 'provider' (clinician) -> 'profesional'. 'practice' -> 'consulta'; 'clinic' -> 'clínica'.",
+    "'EHR' rendered as 'historial' / 'historial clínico' in prose and 'Sistemas de historial clínico' in the tech marquee. Native reviewer may prefer 'HCE' (historia clínica electrónica) for a Spain/LatAm medical audience — FLAG.",
+    "'HIPAA', 'BAA', 'PHI' kept as acronyms (US healthcare-privacy framework). PHI glossed once as 'información médica protegida (PHI)'. For a non-US audience these frameworks differ (e.g. GDPR/RGPD, LOPDGDD in Spain) — FLAG for the reviewer to localize the compliance framing.",
+    "Prices: '$1,000 and $5,000' -> '1.000 y 5.000 dólares'; '$50 to $300' -> '50 a 300 dólares' (figures unchanged, currency named). '25 to 38 percent' -> 'entre un 25 y un 38 por ciento'.",
+    "Brand names (Twilio, WhatsApp Business, n8n, Make, Calendly, Google Workspace) unchanged.",
+    "Blog 'related reading' links point to English blog posts (Phase 3 not started); anchor text translated. Nav/footer service + industry links point to /es. Case-studies/about/contact still English."
+  ],
+  "suggestedLlmsTxtEntry": "/es/industries/healthcare — Spanish (es). AI agent for healthcare front desks: 24/7 booking and rescheduling, two-touch reminders with one-tap confirm, automatic waitlist backfill, and digital intake before the visit; anything clinical routes to staff, HIPAA/BAA/PHI designed in. Build $1,000–$5,000 + $50–$300/mo. DRAFT pending native review.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live. Compliance framing (HIPAA/BAA/PHI) is US-specific and should be localized for the target market."
+}

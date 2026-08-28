@@ -1,0 +1,81 @@
+{
+  "_meta": {
+    "page": "AI social automation: reply to every comment and DM without hiring someone (blog post)",
+    "sourceFile": "blog/ai-social-automation-reply-comments-dms-without-hiring.html",
+    "outputFile": "de/blog/ai-social-automation-reply-comments-dms-without-hiring.html",
+    "language": "de",
+    "locale": "de-DE",
+    "dir": "ltr",
+    "status": "DRAFT — needs native/fluent German review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Standard German, informal du.",
+    "note": "No lead/audit form present in this post, so the window.__i18n form-strings script was NOT added."
+  },
+  "head": {
+    "title": "Social-Media-Automatisierung mit KI: jeden Kommentar und jede DM beantworten",
+    "description": "Sieh dir an, wie KI-gestützte Social-Media-Automatisierung Kommentare und DMs beantwortet, Leads qualifiziert und die Plattformregeln einhält, ohne dass du jemanden einstellen musst.",
+    "keywords": "KI-Social-Media-Automatisierung, Agentur für Social-Media-Automatisierung, Instagram-DM-Automatisierung, Kommentare mit KI beantworten, DMs automatisieren kleine Unternehmen, Kosten Social-Media-Automatisierung, KI-Agent für Social Media",
+    "canonical": "https://innovariatech.space/de/blog/ai-social-automation-reply-comments-dms-without-hiring",
+    "robots": "noindex, follow",
+    "ogTitle": "Social-Media-Automatisierung mit KI: jeden Kommentar und jede DM beantworten",
+    "ogDescription": "Sieh dir an, wie KI-gestützte Social-Media-Automatisierung Kommentare und DMs beantwortet, Leads qualifiziert und die Plattformregeln einhält, ohne dass du jemanden einstellen musst.",
+    "ogLocale": "de_DE"
+  },
+  "headings": {
+    "h1": "Social-Media-Automatisierung mit KI: auf jeden Kommentar und jede DM antworten, ohne jemanden einzustellen",
+    "h2": [
+      "Warum das Postfach nie wirklich leer wird",
+      "Was eine langsame Antwort ein Unternehmen in den sozialen Medien tatsächlich kostet",
+      "Was KI-gestützte Social-Media-Automatisierung tatsächlich macht",
+      "Was bei einem echten Menschen bleiben sollte",
+      "Womit es sich verbindet",
+      "Wie ein realistischer Aufbau aussieht",
+      "Was es kostet",
+      "Häufig gestellte Fragen",
+      "Weiterführende Lektüre"
+    ]
+  },
+  "schema": {
+    "breadcrumb": [
+      "Startseite",
+      "Blog",
+      "Social-Media-Automatisierung mit KI"
+    ],
+    "articleHeadline": "Social-Media-Automatisierung mit KI: auf jeden Kommentar und jede DM antworten, ohne jemanden einzustellen",
+    "faq": [
+      "Wird mein Account dadurch markiert oder gesperrt?",
+      "Werden die Leute wissen, dass sie mit einem Bot reden?",
+      "Ersetzt das die Content-Erstellung oder einen Social-Media-Manager?",
+      "Was passiert bei einer Beschwerde oder einem negativen Kommentar?",
+      "Wie lange dauert so ein Aufbau?",
+      "Gehört uns das System, sobald es gebaut ist?"
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched German-market search terms for social media DM/comment automation, not literal translations of the English keywords.",
+    "primary": [
+      "Social-Media-Automatisierung mit KI",
+      "Instagram-DMs automatisch beantworten",
+      "Kommentare und Direktnachrichten automatisieren"
+    ],
+    "secondary": [
+      "Instagram-DM-Automatisierung",
+      "Kommentare mit KI beantworten",
+      "Chatbot für Social Media kleine Unternehmen",
+      "Leads über Social Media qualifizieren",
+      "WhatsApp-Automatisierung für Unternehmen"
+    ]
+  },
+  "translatorNotes": [
+    "Informal du used throughout, standard German.",
+    "No em-dashes used anywhere; the source's comma-spliced appositive style was rendered with commas and colons in German.",
+    "Meta platform/policy names kept literal: 'Meta', 'Business Partner', 'Meta-Business-Partner-Programm', 'Meta-Business-Partner-Messaging-Tools'. Brand/platform names kept as-is: Meta, Instagram, Facebook, WhatsApp, n8n, Make, Zapier. Acronyms kept: DM, CRM, API, KI.",
+    "Currency localized in prose: '$1,000 and $5,000' -> '1.000 und 5.000 US-Dollar'; 'low hundreds of dollars' -> 'im niedrigen dreistelligen Dollarbereich'.",
+    "Terminology: comment -> Kommentar, DM -> DM (Direktnachricht), keyword -> Keyword, flagged/banned -> markiert/gesperrt, lead -> Lead, 'social media manager' -> 'Social-Media-Manager', 'X min read' -> 'X Min. Lesezeit', 'August 13, 2026' -> '13. August 2026'.",
+    "Internal same-site links repointed to /de (nav, breadcrumbs, footer, in-body /de/blog and /de/services links, /de/contact). Left unchanged: /privacy, /terms, sitemap.xml, mailto:, tel:, and external URLs (unsplash images, LinkedIn author profile, googletagmanager).",
+    "Language switcher added to nav (EN + ES links, DE current). Reciprocal EN/ES switcher and four hreflang alternates (en, es, de, x-default) apply across the locale set.",
+    "Article and FAQPage JSON-LD carry inLanguage 'de'; Article mainEntityOfPage @id and breadcrumb item URLs repointed to /de. author/publisher/image/dates/about labels left unchanged (about names kept in English as entity identifiers).",
+    "Asset paths changed from ../assets, ../css, ../js, ../favicon.ico to absolute /assets, /css, /js, /favicon.ico. gtag and og:image kept absolute."
+  ],
+  "suggestedLlmsTxtEntry": "German translation of the AI social automation explainer: how automated replies to comments and DMs qualify leads and stay inside Meta platform rules without hiring extra staff.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent German review before going live."
+}

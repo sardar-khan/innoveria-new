@@ -1,0 +1,71 @@
+{
+  "_meta": {
+    "page": "Blog post: AI automation for logistics — stop losing hours to shipment status calls",
+    "sourceFile": "/blog/ai-automation-logistics-shipment-status-calls.html",
+    "outputFile": "/es/blog/ai-automation-logistics-shipment-status-calls.html",
+    "language": "es", "locale": "es-ES", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú.",
+    "note": "Logistics blog post about AI automation for shipment status calls, delay alerts and driver coordination. All prose, nav, breadcrumbs, headings, lists, FAQ, CTAs, footer, alt text and aria-labels translated. Brand/tool names (Twilio, n8n, Make, Zapier), acronyms (TMS, WMS, SMS, API) and figures kept. No lead/audit <form> exists on this page, so no window.__i18n form block was added. Article + FAQ + Breadcrumb JSON-LD localized."
+  },
+  "head": {
+    "title": "Automatización con IA para logística: reduce las llamadas de estado",
+    "description": "Los equipos de central pierden horas al día en llamadas sobre el estado de los envíos. Mira cómo la automatización con IA responde ¿dónde está mi envío? y envía avisos de retraso desde tu TMS.",
+    "keywords": "automatización con IA para logística, empresa de automatización logística, automatización de seguimiento de envíos, automatización de central, IA para empresas de carga, reducir llamadas de estado de envíos, automatización de flujos de trabajo logísticos",
+    "canonical": "https://innovariatech.space/es/blog/ai-automation-logistics-shipment-status-calls",
+    "robots": "noindex, follow",
+    "og:title": "Automatización con IA para logística: reduce las llamadas de estado de envíos",
+    "og:description": "Mira cómo la automatización con IA responde ¿dónde está mi envío?, envía avisos de retraso y coordina a los conductores desde los datos de tu propio TMS en lugar de una cola de llamadas.",
+    "og:locale": "es_ES",
+    "twitter:title": "Automatización con IA para logística: reduce las llamadas de estado de envíos",
+    "twitter:description": "Los equipos de central pierden horas al día en llamadas sobre el estado de los envíos. Así responde la automatización con IA la mayoría por su cuenta."
+  },
+  "headings": {
+    "hero_h1": "Automatización con IA para logística: deja de perder horas en llamadas de estado de envíos",
+    "kicker": "Logística",
+    "answer_capsule_label": "Respuesta rápida",
+    "key_takeaways": "Puntos clave",
+    "h2_phone_ringing": "Por qué el teléfono no deja de sonar",
+    "h2_slow_costs": "Lo que de verdad le cuesta a una empresa de logística responder despacio",
+    "h2_what_it_does": "Qué hace en realidad la automatización con IA",
+    "h2_stay_dispatcher": "Qué debe quedarse con tu operador",
+    "h2_connects_to": "Con qué se conecta",
+    "h2_realistic_build": "Cómo es un proyecto realista",
+    "h2_what_costs": "Cuánto cuesta",
+    "h2_faq": "Preguntas frecuentes",
+    "h2_related": "Lecturas relacionadas",
+    "cta_band_h2": "Mira lo que tu cola de llamadas te está costando en realidad"
+  },
+  "schema": {
+    "breadcrumb": ["Inicio", "Blog", "Automatización con IA para logística"],
+    "article": {
+      "headline": "Automatización con IA para logística: deja de perder horas en llamadas de estado de envíos",
+      "description": "Los equipos de central y de soporte pierden horas al día en llamadas sobre el estado de los envíos. Mira cómo la automatización con IA responde ¿dónde está mi envío?, envía avisos de retraso y coordina a los conductores desde los datos de tu propio TMS.",
+      "inLanguage": "es"
+    },
+    "faq": [
+      "¿Esto va a reemplazar a nuestro equipo de central y de soporte?",
+      "¿Funciona con nuestro TMS o WMS?",
+      "¿Qué pasa con un envío dañado o una disputa?",
+      "¿De verdad puede contactar con los conductores, no solo con los clientes?",
+      "¿Cuánto tarda un proyecto así?",
+      "¿El sistema es nuestro una vez construido?"
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish search terms, not literal translations. Trucking vocabulary varies by region (see translatorNotes).",
+    "primary": ["automatización con IA para logística", "reducir llamadas de estado de envíos", "automatización de seguimiento de envíos"],
+    "secondary": ["IA para empresas de transporte", "avisos de retraso automáticos", "automatización de central de carga"]
+  },
+  "translatorNotes": [
+    "Register: informal tú, consistent with the rest of the Spanish site.",
+    "FLAG — trucking/logistics vocabulary varies between Spain and Latin America and should be checked by a native reviewer for the target market. Choices used here: shipment -> envío; load/freight -> carga; dispatch (the desk/function) -> central; dispatcher(s)/operator -> operador(es); carrier -> transportista; broker -> bróker (plural brókeres); driver -> conductor; delivery -> entrega; check calls -> llamadas de control (concept not used verbatim in this post); 'where is my shipment' -> '¿dónde está mi envío?'. In parts of LatAm 'despacho/despachador', 'camionero/chofer', and 'corredor de carga' may read more naturally than central/operador/conductor/bróker.",
+    "Acronyms kept as-is: TMS, WMS, SMS, API. This post does not use the acronyms POD or ETA literally in the body (source says 'expected delivery window', rendered 'ventana de entrega prevista'), so the one-time glosses 'comprobante de entrega (POD)' and 'hora estimada de llegada (ETA)' were not needed. If a reviewer introduces those acronyms, gloss each once on first use.",
+    "Currency: 'between one thousand and five thousand dollars' -> 'entre 1.000 y 5.000 dólares'. 'low hundreds of dollars' -> 'los cientos bajos de dólares'. Read time '9 min read' -> '9 min de lectura'. Date 'August 8, 2026' -> '8 de agosto de 2026'. article:section 'Logistics' -> 'Logística'.",
+    "Brand/tool names kept: Twilio, n8n, Make, Zapier, Innovaria Tech Limited. Email info@innovariatech.space and phone +1 601 860 1258 unchanged.",
+    "Internal links repointed to /es (brand, nav, breadcrumbs, services, industries, case-studies, about, blog, contact, related-reading, inline CTAs, footer). Left unchanged: /privacy, /terms, sitemap.xml, mailto, tel, the LinkedIn author URL and the Unsplash image URLs.",
+    "lang-switch EN link -> /blog/ai-automation-logistics-shipment-status-calls. English source got the 3 hreflang alternates + EN/ES lang-switch (two insertions only)."
+  ],
+  "suggestedLlmsTxtEntry": "/es/blog/ai-automation-logistics-shipment-status-calls — Spanish (es). How AI automation answers shipment status calls and emails from TMS/WMS data, sends proactive delay alerts, and reaches drivers about route changes, while routing damaged-freight claims and exceptions to a person. DRAFT pending native review.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live."
+}

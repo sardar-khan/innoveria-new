@@ -1,0 +1,79 @@
+{
+  "_meta": {
+    "page": "blog post: AI answering service for home service businesses",
+    "slug": "ai-answering-service-home-services",
+    "sourceFile": "/blog/ai-answering-service-home-services.html",
+    "outputFile": "/es/blog/ai-answering-service-home-services.html",
+    "language": "es", "locale": "es-ES", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú.",
+    "note": "Full translated copy lives in the rendered page. This file records head/meta, headings, schema strings (breadcrumb, article headline, FAQ), targeted keywords, and reviewer notes. Post has no lead/audit form, so no window.__i18n block was added."
+  },
+  "head": {
+    "title": "Servicio de contestación con IA para servicios a domicilio (2026)",
+    "description": "Los contratistas pierden el 62% de las llamadas y dejan escapar entre 45.000 y 120.000 dólares al año por el buzón de voz. Mira cómo un servicio de contestación con IA a medida reserva cada trabajo, conectado a tu CRM.",
+    "keywords": "servicio de contestación con IA para servicios a domicilio, recepcionista con IA para contratistas, contestación telefónica con IA para climatización y fontanería, automatización de llamadas perdidas para contratistas, agente de voz con IA para oficios, servicio de contestación para pequeñas empresas",
+    "canonical": "https://innovariatech.space/es/blog/ai-answering-service-home-services",
+    "robots": "noindex, follow",
+    "articleSection": "Automatización de servicios a domicilio",
+    "og:title": "Servicio de contestación con IA para servicios a domicilio: deja de perder trabajos por el buzón de voz",
+    "og:description": "Los contratistas pierden el 62 por ciento de las llamadas y dejan escapar entre 45.000 y 120.000 dólares al año por el buzón de voz. Así es como un servicio de contestación con IA a medida reserva cada trabajo, conectado a tu CRM.",
+    "og:locale": "es_ES",
+    "twitter:title": "Servicio de contestación con IA para servicios a domicilio (2026)",
+    "twitter:description": "¿Pierdes el 62 por ciento de las llamadas? Así es como un servicio de contestación con IA a medida reserva cada trabajo, conectado a tu CRM."
+  },
+  "headings": {
+    "h1": "Servicio de contestación con IA para negocios de servicios a domicilio: deja de perder trabajos por el buzón de voz",
+    "postMeta": "Publicado el 29 de julio de 2026 · por Ahsan Ilyas, fundador de Innovaria Tech · 10 min de lectura",
+    "answerCapsuleLabel": "Respuesta rápida:",
+    "keyTakeaways_h2": "Puntos clave",
+    "s1_h2": "Las cuentas de las que nadie en los oficios habla",
+    "s2_h2": "Por qué el buzón de voz y los servicios de contestación con personas se quedan cortos",
+    "s3_h2": "Qué hace de verdad un servicio de contestación con IA en una llamada",
+    "s3_h3_a": "Atiende al primer timbre, 24/7",
+    "s3_h3_b": "Cualifica a quien llama y recoge el trabajo",
+    "s3_h3_c": "Reserva la cita en tu calendario",
+    "s3_h3_d": "Deriva las verdaderas emergencias a una persona",
+    "s3_h3_e": "Le envía a tu equipo un resumen por mensaje",
+    "s4_h2": "App estándar o una solución a medida conectada a tu CRM",
+    "s5_h2": "Cuánto cuesta y qué tan rápido se paga solo",
+    "s6_h2": "Cómo empezar sin arrancar tu sistema telefónico",
+    "faq_h2": "Preguntas frecuentes",
+    "related_h2": "Lecturas relacionadas",
+    "ctaBand_h2": "¿Cuántos trabajos perdiste por el buzón de voz esta semana?"
+  },
+  "schema": {
+    "inLanguage": "es",
+    "breadcrumb": ["Inicio", "Blog", "Servicio de contestación con IA para negocios de servicios a domicilio"],
+    "article": {
+      "headline": "Servicio de contestación con IA para negocios de servicios a domicilio: deja de perder trabajos por el buzón de voz (2026)",
+      "description": "Los negocios de servicios a domicilio pierden el 62 por ciento de las llamadas y dejan escapar decenas de miles de dólares al año por el buzón de voz. Así es como un servicio de contestación con IA a medida reserva cada trabajo, conectado a tu CRM.",
+      "about": ["Servicio de contestación con IA para negocios de servicios a domicilio", "Recepcionista con IA para contratistas"]
+    },
+    "faq": [
+      { "q": "¿Qué es un servicio de contestación con IA para negocios de servicios a domicilio?", "a": "Es un agente de voz que atiende el teléfono de tu negocio al primer timbre, mantiene una conversación natural, recoge los detalles del trabajo, reserva la cita en tu software de agenda y le envía a tu equipo un resumen por mensaje. Funciona las 24 horas del día, deriva las verdaderas emergencias a una persona y trabaja lo mismo si estás en un tejado, debajo de un fregadero o durmiendo. Una solución a medida se conecta directamente a tu CRM de servicios en campo para que no haya que reescribir nada." },
+      { "q": "¿Cuánto cuesta un servicio de contestación con IA para un contratista?", "a": "Las herramientas estándar cuestan alrededor de 50 a 500 dólares al mes según el volumen de llamadas. Un agente a medida que construimos y conectamos a tu CRM suele costar entre 1.000 y 5.000 dólares de configuración, más 50 a 300 dólares al mes en tarifas de plataforma. Ponlo frente a un solo trabajo captado que vale entre 250 y 2.000 dólares o más, y el sistema normalmente se paga solo en el primer mes." },
+      { "q": "¿Se darán cuenta las personas que llaman de que hablan con una IA?", "a": "Los agentes de voz modernos suenan naturales, gestionan interrupciones y siguen tu guion, así que la mayoría de las personas que llaman no lo notan. La intención no es engañar a nadie. Es asegurarse de que la llamada se atienda y el trabajo se reserve en lugar de acabar en el buzón de voz, donde la mayoría simplemente cuelga y marca al siguiente contratista. El agente pasa la llamada a una persona siempre que la situación de verdad lo pide." },
+      { "q": "¿Funciona con ServiceTitan, Jobber o Housecall Pro?", "a": "Sí. Una solución a medida se conecta a la plataforma de servicios en campo que ya uses, para que las reservas caigan en tu calendario real y los detalles del trabajo fluyan a tu CRM de forma automática. Si la plataforma expone una API, el agente habla con ella directamente. Tú conservas cada cuenta y todo el sistema funciona a tu nombre." },
+      { "q": "¿En qué se diferencia una solución a medida de una app estándar?", "a": "Una app te da un bot genérico en la cuenta del proveedor y con los límites del proveedor. Una solución a medida se entrena con tus servicios, tus reglas de precios y tu zona de cobertura, se conecta a tu CRM y tu número de teléfono actuales, y te pertenece. Si te vas, todo sigue funcionando. No hay dependencia del proveedor ni una cuota mensual que te tenga secuestrado." }
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish search terms, not literal translations.",
+    "primary": ["servicio de contestación con IA para servicios a domicilio", "recepcionista con IA para contratistas", "no perder llamadas de clientes"],
+    "secondary": ["contestación telefónica automatizada para contratistas", "agente de voz con IA para oficios", "agendar trabajos con IA para fontanería y climatización", "servicio de contestación para pequeñas empresas"]
+  },
+  "translatorNotes": [
+    "Register: informal tú, consistent with the rest of the Spanish set.",
+    "GLOSSARY / WORDING FLAG: 'home service business' rendered as 'negocio de servicios a domicilio' throughout, and 'home services' as 'servicios a domicilio'. A native reviewer may prefer 'servicios para el hogar' or 'oficios' depending on target market; the term is consistent across the page but should be confirmed for the intended Spanish-speaking audience.",
+    "Home-services glossary applied: 'contractor' -> 'contratista'; 'answering service' -> 'servicio de contestación'; 'voicemail' -> 'buzón de voz'; 'job' -> 'trabajo'; 'booking' -> 'reserva'; 'dispatch' -> 'despacho / despachar'; 'trades' -> 'oficios'; 'intake' -> 'registro'; 'field service CRM/platform' -> 'CRM / plataforma de servicios en campo'; 'on call tech' -> 'técnico de guardia'.",
+    "Trade names in the cost table localized: Roofing -> Tejados, HVAC -> Climatización, Plumbing -> Fontanería, Electrical -> Electricidad, Pest control -> Control de plagas, Landscaping -> Jardinería.",
+    "Brand / product names kept verbatim as instructed: ServiceTitan, Jobber, Housecall Pro, Invoca, Google Ads, Local Service Ads. 'Innovaria Tech Limited' kept. Author 'Ahsan Ilyas' and LinkedIn URL unchanged.",
+    "Numbers, percentages and prices kept exact per rules: '62 percent' -> '62 por ciento', '86 percent' -> '86 por ciento', '85 percent' -> '85 por ciento', '35 percent' -> '35 por ciento'; '$45,000 to $120,000' -> '45.000 a 120.000 dólares'; '$1,000 and $5,000' -> '1.000 y 5.000 dólares'; '$50 to $500' -> '50 a 500 dólares'; '$50 to $300' -> '50 a 300 dólares'; '$250 to $2,000' -> '250 a 2.000 dólares'; table ticket ranges converted to 'X a Y dólares'. Date 'July 29, 2026' -> '29 de julio de 2026'; read-time '10 min read' -> '10 min de lectura'.",
+    "Internal links repointed to /es: brand and nav (Home/Services/Industries/Case Studies/About/Blog/Contact + submenus), all body cross-links (ai-voice-agents, lead-automation, workflow-automation services; cost-of-automating-lead-follow-up; contact), Related reading list, footer links, CTAs. English slugs kept on /es paths; those Spanish targets resolve as the wider translation effort completes.",
+    "Unchanged / left as-is per rules: /privacy, /terms, sitemap.xml, mailto, tel, Unsplash image URLs, gtag, LinkedIn author URL, og:image absolute URL. Asset/css/js paths switched from '../' to root-absolute ('/assets', '/css', '/js', '/favicon.ico'). lang-switch EN link points to the English post /blog/ai-answering-service-home-services.",
+    "aria-labels localized: 'Toggle menu' -> 'Abrir menú', 'Show services menu' -> 'Mostrar menú de servicios', 'Show industries menu' -> 'Mostrar menú de sectores', 'Main' -> 'Principal', 'Breadcrumb' -> 'Ruta de navegación', brand/home label -> 'Inicio de Innovaria Tech', logo alt -> 'Logotipo de Innovaria Tech'. 'Skip to content' -> 'Saltar al contenido'."
+  ],
+  "suggestedLlmsTxtEntry": "/es/blog/ai-answering-service-home-services — Spanish (es). How a custom AI answering service for home service businesses picks up every call, qualifies the caller, books the job into the field service CRM, routes true emergencies to a person, and texts the team a summary — with the real cost of missed calls, off-the-shelf app vs custom build, pricing and payback math. DRAFT pending native review.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live. Reviewer should confirm the 'servicios a domicilio' vs 'servicios para el hogar / oficios' wording for the target market and check consistency of the home-services glossary."
+}

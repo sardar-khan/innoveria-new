@@ -1,0 +1,64 @@
+{
+  "_meta": {
+    "page": "Industry — Education",
+    "sourceFile": "/industries/education.html",
+    "outputFile": "/es/industries/education.html",
+    "language": "es", "locale": "es-ES", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú.",
+    "note": "Has a contact form, so window.__i18n form block is embedded. Full copy lives in the rendered page; this file records head/meta, schema strings, keywords, and notes."
+  },
+  "head": {
+    "title": "Agente de IA para educación: matrículas más rápidas | Innovaria",
+    "description": "Un agente de IA para educación que responde consultas de matrícula 24/7, agenda visitas al campus y da seguimiento al instante a cada familia. Reserva una auditoría gratis.",
+    "canonical": "https://innovariatech.space/es/industries/education",
+    "robots": "noindex, follow",
+    "og:title": "Agente de IA para educación: matrículas más rápidas | Innovaria",
+    "og:description": "Responde preguntas de programas, precios y horarios 24/7, da seguimiento a cada consulta al instante, y agenda visitas al campus automáticamente.",
+    "og:locale": "es_ES"
+  },
+  "headings": {
+    "hero_h1": "El agente de IA para educación que responde a las familias antes de que preseleccionen otro centro",
+    "problems_h2": "Por dónde desaparecen en silencio las matrículas",
+    "solution_h2": "Unas admisiones que responden a la velocidad a la que deciden las familias",
+    "outcomes_h2": "Los números de velocidad de respuesta detrás de este desarrollo",
+    "how_h2": "En marcha en tu institución en dos a cuatro semanas",
+    "why_h2": "Tus cuentas, tus datos, tu sistema",
+    "case_h2": "El sistema de velocidad de respuesta, aplicado a las admisiones",
+    "tech_h2": "Construido sobre las herramientas que tu personal ya conoce",
+    "faq_h2": "Automatización para educación, respondida sin rodeos",
+    "final_cta_h2": "¿Cuántas familias consultaron y nunca recibieron respuesta?",
+    "contact_h2": "Solicita tu auditoría gratis del flujo de consultas"
+  },
+  "schema": {
+    "service_name": "Agente de IA para educación",
+    "service_description": "Un agente de consultas que responde preguntas de programas, precios y horarios 24/7 en la web y WhatsApp, da seguimiento al instante a cada familia interesada, agenda visitas al campus y llamadas con orientadores, y automatiza la comunicación rutinaria con las familias, con los datos de los alumnos guardados en cuentas controladas por el centro.",
+    "audienceType": "Colegios, academias, centros de refuerzo y creadores de cursos",
+    "breadcrumb": ["Inicio", "Sectores", "Educación"],
+    "faq": [
+      "¿Qué es un agente de IA para educación?",
+      "¿Puede responder preguntas de programas y precios con precisión?",
+      "¿Cómo se mantiene privada la información de los alumnos?",
+      "¿Cuánto cuesta un agente de IA para educación?",
+      "¿Funciona también para centros de refuerzo y creadores de cursos?"
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish search terms, not literal translations.",
+    "primary": ["automatización de admisiones educativas", "agente de IA para colegios", "chatbot de matrícula para centros educativos"],
+    "secondary": ["responder consultas de matrícula 24/7", "seguimiento de leads educativos", "automatización para academias", "captación de alumnos"]
+  },
+  "translatorNotes": [
+    "Register: informal tú, consistent with Phase 1.",
+    "'enrollment' -> 'matrícula'; 'admissions' -> 'admisiones'; 'enquiry' -> 'consulta'; 'family/families' -> 'familia(s)'; 'counselor' -> 'orientador'; 'campus tour' -> 'visita al campus'; 'shortlist' -> 'preseleccionar/preselección'; 'open day' -> 'jornada de puertas abiertas'; 'term' -> 'curso'/'fechas del curso'.",
+    "'fees' -> 'precios' (chose 'precios' over 'tasas'/'cuotas' for broad appeal incl. private schools/course creators; a reviewer targeting universities may prefer 'tasas'). 'tuition' folded into 'precios'. FLAG.",
+    "'safeguarding' -> 'protección del menor' (UK-origin term; standard ES equivalent). 'special needs' -> 'necesidades especiales'.",
+    "'tutoring centers' -> 'centros de refuerzo'; 'course creators' -> 'creadores de cursos'; 'language schools' -> 'escuelas de idiomas'; 'trial lessons' -> 'clases de prueba'; 'LMS' kept.",
+    "Brand names (WhatsApp Business, Twilio, Calendly, n8n, Make, Google Workspace) unchanged.",
+    "Prices/figures unchanged, currency named: '$1,000 and $5,000' -> '1.000 y 5.000 dólares'; '$50 to $300' -> '50 a 300 dólares'.",
+    "Case study reuses the real-estate brokerage speed-to-lead story (source does too); kept faithful.",
+    "Blog 'related reading' links point to English blog posts (Phase 3 not started); anchor text translated. Nav/footer service + industry links point to /es."
+  ],
+  "suggestedLlmsTxtEntry": "/es/industries/education — Spanish (es). AI agent for education/admissions: answers program, fee and schedule questions 24/7 on web and WhatsApp, follows up with every family instantly, books campus tours and counselor calls, automates routine parent comms; sensitive matters route to staff, student data stays in school-controlled accounts. Fits schools, tutoring centers, course creators. Build $1,000–$5,000 + $50–$300/mo. DRAFT pending native review.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live. 'precios' vs 'tasas'/'cuotas' and 'protección del menor' framing should be confirmed for the target education segment/market."
+}

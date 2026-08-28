@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "page": "Industry — Ecommerce",
+    "sourceFile": "/industries/ecommerce.html",
+    "outputFile": "/es/industries/ecommerce.html",
+    "language": "es", "locale": "es-ES", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú.",
+    "note": "Has a contact form, so window.__i18n form block is embedded. Full copy lives in the rendered page; this file records head/meta, schema strings, keywords, and notes."
+  },
+  "head": {
+    "title": "Agentes de IA para ecommerce: recupera carritos | Innovaria",
+    "description": "Agentes de IA para ecommerce que recuperan carritos abandonados, responden al instante sobre el estado del pedido y mantienen el soporte 24/7 en Shopify. Reserva una auditoría gratis.",
+    "canonical": "https://innovariatech.space/es/industries/ecommerce",
+    "robots": "noindex, follow",
+    "og:title": "Agentes de IA para ecommerce: recupera carritos | Innovaria",
+    "og:description": "Recuperación de carritos por conversación, un bot de soporte sobre datos de pedidos en vivo, y avisos de envío proactivos que vacían la cola de '¿dónde está mi pedido?'.",
+    "og:locale": "es_ES"
+  },
+  "headings": {
+    "hero_h1": "Agentes de IA para ecommerce que recuperan carritos y vacían la cola",
+    "problems_h2": "Por dónde desaparecen en silencio los ingresos de la tienda",
+    "solution_h2": "Agentes que venden, responden y avisan mientras duermes",
+    "outcomes_h2": "Los números tres meses después del arranque",
+    "how_h2": "En marcha en tu tienda en dos a cuatro semanas",
+    "why_h2": "Tu tienda, tus cuentas, tu sistema",
+    "case_h2": "La marca DTC que dejó de dar por perdidos los carritos abandonados",
+    "tech_h2": "Construido sobre las herramientas que tu tienda ya usa",
+    "faq_h2": "Automatización para ecommerce, respondida sin rodeos",
+    "final_cta_h2": "¿Cuánto te costaron los carritos abandonados el mes pasado?",
+    "contact_h2": "Solicita tu auditoría gratis de la tienda"
+  },
+  "schema": {
+    "service_name": "Agentes de IA para ecommerce",
+    "service_description": "Recuperación de carritos por conversación en email y WhatsApp, un chatbot de soporte entrenado con tus políticas y datos de pedidos en vivo, avisos de envío proactivos, y automatización de redes sociales que aguanta la temporada alta, construido sobre Shopify y Klaviyo.",
+    "audienceType": "Tiendas de ecommerce, marcas DTC y minoristas online",
+    "breadcrumb": ["Inicio", "Sectores", "Ecommerce"],
+    "faq": [
+      "¿Qué son los agentes de IA para ecommerce?",
+      "¿Se integra con Shopify?",
+      "¿Cuántos ingresos puede sumar la recuperación de carritos?",
+      "¿Cuánto cuestan los agentes de IA para ecommerce?",
+      "¿El bot molestará a mis clientes?"
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish search terms, not literal translations.",
+    "primary": ["recuperación de carritos abandonados", "automatización para ecommerce", "chatbot de atención al cliente ecommerce"],
+    "secondary": ["recuperar ventas Shopify", "atención al cliente 24/7 tienda online", "automatizar soporte ecommerce", "avisos de envío automáticos"]
+  },
+  "translatorNotes": [
+    "Register: informal tú, consistent with Phase 1.",
+    "'WISMO' (Where Is My Order) has no Spanish acronym; rendered throughout as the natural-language phrase '¿dónde está mi pedido?' (in quotes). Meta/OG use the same. FLAG: reviewer may prefer to keep 'WISMO' once with a gloss for SEO.",
+    "'cart' -> 'carrito'; 'abandoned cart' -> 'carrito abandonado'. 'ticket' kept (support ticket, widely used). 'DTC' kept (direct-to-consumer, standard in the trade). '3PL' glossed as 'operador logístico (3PL)' first use, then 'operador logístico'.",
+    "'AOV' (average order value) -> 'ticket medio' (standard ES ecommerce term).",
+    "'peak season' -> 'temporada alta'; 'Q4' -> 'cuarto trimestre'. 'replatforming' -> 'cambiar de plataforma'.",
+    "Prices/figures unchanged, currency named: '$11k' kept as-is in stat chips (compact display) but glossed as '11.000 dólares' in prose/FAQ; '$1,000 and $5,000' -> '1.000 y 5.000 dólares'; '$50 to $300' -> '50 a 300 dólares'.",
+    "Brand names (Shopify, Klaviyo, WhatsApp Business, n8n, Make, Zapier, Stripe, Slack) unchanged.",
+    "Blog 'related reading' links point to English blog posts (Phase 3 not started); anchor text translated. Nav/footer service + industry links point to /es."
+  ],
+  "suggestedLlmsTxtEntry": "/es/industries/ecommerce — Spanish (es). AI agents for ecommerce: conversational abandoned-cart recovery on email and WhatsApp, a support chatbot on live Shopify order data, proactive shipping updates that clear the WISMO queue, and social automation through peak season. Built on Shopify + Klaviyo. Build $1,000–$5,000 + $50–$300/mo. DRAFT pending native review.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live."
+}

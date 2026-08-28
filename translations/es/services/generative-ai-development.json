@@ -1,0 +1,53 @@
+{
+  "_meta": {
+    "page": "service: Generative AI Development",
+    "sourceFile": "/services/generative-ai-development.html",
+    "outputFile": "/es/services/generative-ai-development.html",
+    "language": "es", "locale": "es-ES", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú.",
+    "note": "Full translated copy is in the rendered page. This file records head/meta, schema strings, targeted keywords, and reviewer notes."
+  },
+  "head": {
+    "title": "Desarrollo de IA generativa que entrega | Innovaria",
+    "description": "Servicios de desarrollo de IA generativa anclados en tus datos. Redacta respuestas, genera documentos, resume llamadas y extrae datos.",
+    "canonical": "https://innovariatech.space/es/services/generative-ai-development",
+    "robots": "noindex, follow",
+    "og": { "title": "Servicios de desarrollo de IA generativa que entregan | Innovaria", "description": "IA generativa a medida integrada en tus flujos: respuestas redactadas, documentos generados, resúmenes de llamadas y extracción de datos, anclados en tus datos.", "locale": "es_ES" }
+  },
+  "headings": {
+    "hero_h1": "Servicios de desarrollo de IA generativa anclados en los datos de tu negocio",
+    "problems_h2": "A tu equipo le pagan por pensar, y se pasa el día tecleando",
+    "solution_h2": "IA que hace la escritura, tu equipo hace el criterio",
+    "outcomes_h2": "Lo que la IA generativa anclada le devuelve a tu semana",
+    "how_h2": "De tus documentos a una IA funcionando en cuatro pasos",
+    "why_h2": "Sistemas que funcionan, no experimentos de IA",
+    "proof_h2": "Una inmobiliaria de 12 agentes dejó que la IA escribiera la primera respuesta",
+    "tech_h2": "Modelos de frontera, conectados a tus datos",
+    "faq_h2": "Servicios de desarrollo de IA generativa, respondidos sin rodeos",
+    "finalCta_h2": "Descubre qué borradores y documentos deberían escribirse solos",
+    "contact_h2": "Solicita tu auditoría de automatización gratis"
+  },
+  "schema": {
+    "inLanguage": "es",
+    "serviceName": "Servicios de desarrollo de IA generativa",
+    "serviceDescription": "Servicios de desarrollo de IA generativa a medida integrados en los flujos de trabajo del negocio: redactar respuestas, generar documentos y contenido, resumir llamadas y extraer datos de entradas desordenadas, anclados en los propios datos del cliente y con revisión humana integrada.",
+    "breadcrumb": ["Inicio", "Servicios", "Servicios de desarrollo de IA generativa"],
+    "faqCount": 6
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish search terms, not literal translations.",
+    "primary": ["desarrollo de IA generativa", "IA generativa para empresas", "soluciones de IA generativa a medida"],
+    "secondary": ["generar documentos con IA", "extracción de datos con IA", "resumen de llamadas con IA"],
+    "longTail": ["IA generativa anclada en mis documentos", "construir o comprar una herramienta de IA", "IA que redacta respuestas a partir de mis datos"]
+  },
+  "translatorNotes": [
+    "Register: informal tú, consistent across the set.",
+    "'grounded / grounding' -> 'anclado / anclaje' (chose 'anclar' over the calque 'fundamentar'; reviewer to confirm which reads better in ES AI writing). 'retrieval' -> 'recuperación'. 'hallucinations' -> 'alucinaciones' (established AI term in ES).",
+    "'frontier models' -> 'modelos de frontera'. 'off the shelf' -> 'ya hecha'. 'retype' -> 'reteclear'.",
+    "Prices unchanged: '1.000 y 5.000 dólares', '50 a 300 dólares'. Product names kept (OpenAI, Claude, n8n, etc.).",
+    "Cross-links: nav/footer point the eight translated services (all but AI Consulting) to /es; this page self-links to /es. The AI Consulting links (nav, footer, related card) still fall back to English until that page is translated (it is the last Phase 1 page). The one blog link and the legal industry link also fall back to English.",
+    "Breadcrumb 'Servicios' points to English /services hub (Phase 2 page not yet translated)."
+  ],
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live."
+}

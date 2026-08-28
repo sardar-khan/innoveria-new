@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "page": "AI chatbots for business: what they can and cannot do (blog post)",
+    "sourceFile": "blog/ai-chatbots-for-business-what-they-can-and-cannot-do.html",
+    "outputFile": "es/blog/ai-chatbots-for-business-what-they-can-and-cannot-do.html",
+    "language": "es",
+    "locale": "es-ES",
+    "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú.",
+    "note": "No lead/audit form present in this post (CTAs are plain links to /es/contact), so the window.__i18n form-strings script was NOT added."
+  },
+  "head": {
+    "title": "Chatbots con IA para empresas: qué pueden y qué no pueden hacer",
+    "description": "Qué hacen bien de verdad los chatbots con IA, en qué se equivocan y cuándo todavía no son la opción adecuada. Una lectura honesta para pequeñas y medianas empresas.",
+    "keywords": "chatbot con IA para empresas, empresa de chatbots para negocios, chatbot con IA pequeña empresa, calificación de leads con chatbot, qué pueden hacer los chatbots con IA, coste de un chatbot con IA, traspaso de chatbot con IA a una persona",
+    "canonical": "https://innovariatech.space/es/blog/ai-chatbots-for-business-what-they-can-and-cannot-do",
+    "robots": "noindex, follow",
+    "ogTitle": "Chatbots con IA para empresas: qué pueden y qué no pueden hacer",
+    "ogDescription": "Los chatbots con IA responden las mismas diez preguntas una y otra vez, califican leads a medianoche y agendan citas sin que intervenga una persona. Esto es lo que hacen bien de verdad y en qué se equivocan.",
+    "ogLocale": "es_ES"
+  },
+  "headings": {
+    "h1": "Chatbots con IA para empresas: qué pueden reemplazar de verdad y qué no",
+    "h2": [
+      "Puntos clave",
+      "Qué hace bien de verdad un chatbot",
+      "En qué se equivoca un chatbot, y por qué eso importa",
+      "Cuándo un chatbot todavía no vale la pena",
+      "Qué se queda con una persona",
+      "Con qué se conecta",
+      "Cómo es una construcción realista",
+      "Cuánto cuesta",
+      "Preguntas frecuentes",
+      "Lecturas relacionadas"
+    ]
+  },
+  "schema": {
+    "breadcrumb": [
+      "Inicio",
+      "Blog",
+      "Chatbots con IA para empresas"
+    ],
+    "articleHeadline": "Chatbots con IA para empresas: qué pueden reemplazar de verdad y qué no",
+    "faq": [
+      "¿Un chatbot reemplazará a nuestro equipo de atención al cliente?",
+      "¿Cómo evitáis que el chatbot se invente las cosas?",
+      "¿Qué provoca de verdad un traspaso a una persona?",
+      "¿Funciona con nuestro sitio web y CRM actuales?",
+      "¿Cuánto tarda la construcción de un chatbot?",
+      "¿El chatbot es nuestro una vez construido?"
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish-market search terms for business AI chatbots, not literal translations of the English keywords.",
+    "primary": [
+      "chatbot con IA para empresas",
+      "chatbot para atención al cliente",
+      "chatbot para calificar leads"
+    ],
+    "secondary": [
+      "cuánto cuesta un chatbot con IA",
+      "chatbot para pequeñas empresas",
+      "chatbot que agenda citas",
+      "traspaso de chatbot a una persona",
+      "chatbot para sitio web"
+    ]
+  },
+  "translatorNotes": [
+    "Informal tú used throughout, neutral international Spanish.",
+    "No em-dashes used anywhere; the source's comma-spliced appositive style was rendered with commas and colons in Spanish.",
+    "Kept as-is: brand/tool names (Innovaria Tech, InnovariaTech, n8n, Make, Zapier), acronyms (CRM, IA, SMS), email/phone, dates, read-time (9 min de lectura), and 'Innovaria Tech Limited'.",
+    "Currency localized: 'between one thousand and five thousand dollars' -> 'entre 1.000 y 5.000 dólares'; 'low hundreds of dollars' -> 'unos pocos cientos de dólares'; 'a dollar' -> 'un dólar'. 'five figure contract' -> 'contrato de cinco cifras'.",
+    "Term choices: chatbot -> chatbot; hallucination -> alucinación; handoff -> traspaso; 'lead qualification' -> 'calificación de leads'; 'lead(s)' kept as 'lead(s)' per site convention; 'to triage' -> 'triar'.",
+    "Internal same-site links repointed to /es (brand '/', nav, breadcrumbs, footer, in-body /es/services and /es/blog links, /es/contact). Left unchanged: /privacy, /terms, sitemap.xml, mailto:, tel:, external Unsplash image URLs, LinkedIn author profile, googletagmanager.",
+    "Language switcher added to nav (ES current, EN link to English post). English source received reciprocal EN/ES switcher and 3 hreflang alternates.",
+    "Article and FAQPage JSON-LD carry inLanguage 'es'; Article mainEntityOfPage @id and breadcrumb item URLs repointed to /es. author/publisher/image/dates left unchanged; about[] Thing names left in English (topic identifiers, not visible copy).",
+    "og:locale es_ES added after og:site_name; asset paths changed from ../assets, ../css, ../js, ../favicon.ico to absolute /assets, /css, /js, /favicon.ico; gtag and og:image kept absolute."
+  ],
+  "suggestedLlmsTxtEntry": "Spanish translation of the honest guide to business AI chatbots: what they do well, what they get wrong, when they are not worth it yet, and what a build costs.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live."
+}

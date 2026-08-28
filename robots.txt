@@ -1,0 +1,42 @@
+# Default: all crawlers allowed except private and non-indexable paths
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /admin.html
+Disallow: /api/
+Disallow: /lp/
+
+# AI assistants and answer engines are explicitly welcome to read the site.
+# Each is its own group, so the same private-path exclusions are repeated:
+# a named user-agent ignores the * group entirely.
+User-agent: GPTBot
+Allow: /
+Disallow: /admin
+Disallow: /admin.html
+Disallow: /api/
+Disallow: /lp/
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /admin
+Disallow: /admin.html
+Disallow: /api/
+Disallow: /lp/
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /admin
+Disallow: /admin.html
+Disallow: /api/
+Disallow: /lp/
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /admin
+Disallow: /admin.html
+Disallow: /api/
+Disallow: /lp/
+
+Sitemap: https://innovariatech.space/sitemap.xml
+
+# Plain text site summary for AI assistants: https://innovariatech.space/llms.txt

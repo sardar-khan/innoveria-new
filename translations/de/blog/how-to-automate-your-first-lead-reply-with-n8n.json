@@ -1,0 +1,95 @@
+{
+  "_meta": {
+    "page": "how-to-automate-your-first-lead-reply-with-n8n",
+    "sourceFile": "blog/how-to-automate-your-first-lead-reply-with-n8n.html",
+    "outputFile": "de/blog/how-to-automate-your-first-lead-reply-with-n8n.html",
+    "language": "de",
+    "locale": "de-DE",
+    "dir": "ltr",
+    "status": "DRAFT — needs native/fluent German review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Standard German, informal du.",
+    "note": "Technical n8n tutorial. Had-form: no (no lead/audit form on this page, so no window.__i18n block added). All n8n node names, UI labels, HTTP methods and field/JSON keys kept literal (Webhook-Node, Set-Node, AI-Node, POST, Production, name/email/message/source). Only surrounding prose translated."
+  },
+  "head": {
+    "title": "Deine erste automatische Lead-Antwort mit n8n erstellen",
+    "description": "Eine echte, nummerierte Anleitung, um deine erste automatische Lead-Antwort in n8n zu bauen, vom Webhook-Trigger bis zur sofortigen E-Mail-Antwort. Kein Coding nötig.",
+    "keywords": "n8n Lead-Antwort Tutorial, Lead-Antwort automatisieren, n8n Webhook Tutorial, E-Mail-Antwort automatisieren n8n, n8n Anleitung Einsteiger, No-Code Lead-Automatisierung, n8n Workflow Schritt für Schritt",
+    "og:title": "Deine erste automatische Lead-Antwort mit n8n erstellen",
+    "og:description": "Eine echte, nummerierte Anleitung, um deine erste automatische Lead-Antwort in n8n zu bauen, vom Webhook-Trigger bis zur sofortigen E-Mail-Antwort.",
+    "og:locale": "de_DE",
+    "twitter:title": "Deine erste automatische Lead-Antwort mit n8n erstellen",
+    "twitter:description": "Eine echte, nummerierte Anleitung, um deine erste automatische Lead-Antwort in n8n zu bauen."
+  },
+  "headings": {
+    "h1": "Deine erste automatische Lead-Antwort mit n8n erstellen: eine Schritt-für-Schritt-Anleitung",
+    "h2": [
+      "Die wichtigsten Punkte",
+      "Was du brauchst, bevor du anfängst",
+      "Schritt 1: Den Webhook-Trigger erstellen",
+      "Schritt 2: Die eingehenden Daten strukturieren",
+      "Schritt 3: Eine Antwort mit deinen eigenen Informationen verfassen",
+      "Schritt 4: Die Antwort automatisch senden",
+      "Schritt 5: Den Lead irgendwo protokollieren, wo dein Team ihn sieht",
+      "Schritt 6: Auf den Produktions-Webhook umstellen und erneut testen",
+      "Wo diese einfache Version aufhört zu reichen",
+      "Was eine vollständig gebaute Version typischerweise enthält",
+      "Häufig gestellte Fragen",
+      "Weiterführende Beiträge",
+      "Willst du das ordentlich gebaut haben statt selbst gewartet?"
+    ]
+  },
+  "schema": {
+    "breadcrumb": [
+      { "position": 1, "name": "Startseite", "item": "https://innovariatech.space/de" },
+      { "position": 2, "name": "Blog", "item": "https://innovariatech.space/de/blog" },
+      { "position": 3, "name": "Deine erste automatische Lead-Antwort mit n8n erstellen", "item": "https://innovariatech.space/de/blog/how-to-automate-your-first-lead-reply-with-n8n" }
+    ],
+    "article": {
+      "headline": "Deine erste automatische Lead-Antwort mit n8n erstellen: eine Schritt-für-Schritt-Anleitung"
+    },
+    "howTo": [
+      "Den Webhook-Trigger erstellen",
+      "Die eingehenden Daten strukturieren",
+      "Eine Antwort mit deinen eigenen Informationen verfassen",
+      "Die Antwort automatisch senden",
+      "Den Lead irgendwo protokollieren, wo dein Team ihn sieht",
+      "Auf den Produktions-Webhook umstellen und erneut testen"
+    ],
+    "faq": [
+      "Muss ich programmieren können, um das zu bauen?",
+      "Wie lange dauert es tatsächlich, das beim ersten Mal zu bauen?",
+      "Kann das eine komplexe oder ungewöhnliche Frage von einem Lead bewältigen?",
+      "Was ist der Unterschied zwischen der Test- und der Produktions-Webhook-URL?",
+      "Warum sollte ich jemanden dafür bezahlen, das zu bauen, wenn ich dieser Anleitung selbst folgen kann?",
+      "Funktioniert das mit jedem Website-Kontaktformular?"
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched German search terms for a German audience, not literal translations of the English keywords.",
+    "primary": [
+      "n8n Tutorial deutsch",
+      "Lead-Antwort automatisieren",
+      "n8n Webhook Formular"
+    ],
+    "secondary": [
+      "Kontaktformular automatisch beantworten",
+      "n8n Workflow Anleitung",
+      "No-Code Automatisierung n8n",
+      "automatische E-Mail-Antwort Formular",
+      "n8n Make Zapier Vergleich"
+    ]
+  },
+  "translatorNotes": [
+    "Informal du (duzen) used throughout.",
+    "Technical terms kept literal per instructions: all n8n node names (Webhook-Node, Set-Node, AI-Node, E-Mail-Versand-Node), the HTTP method POST, the Production setting label, and the JSON/field keys name, email, message, source. Only the surrounding prose is translated.",
+    "Tool/brand names kept literal: n8n, Typeform, Webflow, Gmail, Make, Zapier, CRM.",
+    "Prices kept exact; '$1,000 and $5,000' rendered as '1.000 und 5.000 US-Dollar' per glossary (German thousands separator).",
+    "No em-dashes used; English dashes replaced with commas or rewrites.",
+    "Internal same-site links repointed to /de. The external n8n docs link (docs.n8n.io) and Unsplash image URLs left unchanged. /privacy, /terms, sitemap, mailto, tel left unchanged.",
+    "Language switcher rebuilt as three-way with EN + ES links and DE current.",
+    "No lead/audit form on this page, so no window.__i18n form block was added.",
+    "'You own everything we build' rendered as the fixed glossary phrase 'Dir gehört alles, was wir bauen.'"
+  ],
+  "suggestedLlmsTxtEntry": "German translation of the step-by-step n8n tutorial for building your first automated lead reply, from webhook trigger to instant email response.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent German review before going live."
+}

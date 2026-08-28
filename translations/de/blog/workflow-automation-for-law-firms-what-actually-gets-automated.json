@@ -1,0 +1,75 @@
+{
+  "_meta": {
+    "page": "blog post: Workflow automation for law firms (what actually gets automated)",
+    "slug": "workflow-automation-for-law-firms-what-actually-gets-automated",
+    "sourceFile": "/blog/workflow-automation-for-law-firms-what-actually-gets-automated.html",
+    "outputFile": "/de/blog/workflow-automation-for-law-firms-what-actually-gets-automated.html",
+    "language": "de", "locale": "de-DE", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent German review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Standard German, informal du.",
+    "note": "Full translated copy lives in the rendered page. This file records head/meta, headings, schema strings (breadcrumb, article headline, FAQ), targeted keywords, and reviewer notes. Post has no lead/audit form, so no window.__i18n block was added."
+  },
+  "head": {
+    "title": "Workflow-Automatisierung für Kanzleien: was automatisiert wird",
+    "description": "Sieh, welche juristischen Workflows sich sauber automatisieren lassen, Mandatsannahme, Konfliktprüfungen, Fristen und Abrechnung, und welche bei deinen Anwälten bleiben, egal was passiert.",
+    "keywords": "Workflow-Automatisierung für Kanzleien, Automatisierungsagentur für Kanzleien, Mandatsannahme automatisieren, Fristenüberwachung automatisieren, Dokumentenautomatisierung für Kanzleien, Kanzleisoftware, Kosten für Workflow-Automatisierung in Kanzleien",
+    "canonical": "https://innovariatech.space/de/blog/workflow-automation-for-law-firms-what-actually-gets-automated",
+    "robots": "noindex, follow",
+    "articleSection": "Kanzleien",
+    "og:title": "Workflow-Automatisierung für Kanzleien: was tatsächlich automatisiert wird",
+    "og:description": "Sieh genau, welche juristischen Workflows automatisiert werden, Mandatsannahme, Konfliktprüfungen, Fristen, Abrechnung, und welche bei deinen Anwälten bleiben, egal was passiert.",
+    "og:locale": "de_DE",
+    "twitter:title": "Workflow-Automatisierung für Kanzleien: was tatsächlich automatisiert wird",
+    "twitter:description": "Genau, welche juristischen Workflows automatisiert werden und welche bei deinen Anwälten bleiben, egal was passiert."
+  },
+  "headings": {
+    "h1": "Workflow-Automatisierung für Kanzleien: was tatsächlich automatisiert wird",
+    "postMeta": "Veröffentlicht am 20. August 2026 · von Ahsan Ilyas, Gründer von Innovaria Tech · 9 Min. Lesezeit",
+    "answerCapsuleLabel": "Kurze Antwort:",
+    "keyTakeaways_h2": "Die wichtigsten Erkenntnisse",
+    "s1_h2": "Warum manuelle Übergaben ausgerechnet in einer Kanzlei so teuer sind",
+    "s2_h2": "Was langsame, manuelle Workflows eine Kanzlei tatsächlich kosten",
+    "s3_h2": "Was tatsächlich automatisiert wird",
+    "s4_h2": "Was niemals automatisiert werden sollte",
+    "s5_h2": "Womit es sich verbindet",
+    "s6_h2": "Wie eine realistische Umsetzung aussieht",
+    "s7_h2": "Was es kostet",
+    "faq_h2": "Häufig gestellte Fragen",
+    "related_h2": "Weiterführende Artikel",
+    "ctaBand_h2": "Sieh, was manuelle Verwaltung deine Kanzlei tatsächlich kostet"
+  },
+  "schema": {
+    "inLanguage": "de",
+    "breadcrumb": ["Startseite", "Blog", "Workflow-Automatisierung für Kanzleien"],
+    "article": {
+      "headline": "Workflow-Automatisierung für Kanzleien: was tatsächlich automatisiert wird",
+      "description": "Eine versäumte Frist in einer Kanzlei ist kein kleiner Fehler, sie kann einen Fall beenden. Sieh genau, welche juristischen Workflows automatisiert werden, Mandatsannahme, Konfliktprüfungen, Fristen, Abrechnung, und welche bei deinen Anwälten bleiben, egal was passiert.",
+      "about": ["Workflow-Automatisierung für Kanzleien", "Automatisierung von Mandatsannahme und Fristen"]
+    },
+    "faq": [
+      { "q": "Ersetzt das unsere juristischen Assistenzen oder das Aufnahmepersonal?", "a": "Nein. Das Ziel ist, das Abtippen, die Erinnerungen und das sich wiederholende Nachverfolgen abzugeben, damit dein Team Zeit für echte Fallbetreuung und Mandantenbeziehungen hat. Kanzleien, mit denen wir arbeiten, behalten ihr Personal und müssen bei steigendem Aufkommen an Mandatsannahmen keine zusätzlichen Kräfte einstellen." },
+      { "q": "Kann man der Automatisierung die Fristenüberwachung wirklich anvertrauen?", "a": "Die Berechnung und Nachverfolgung lassen sich zuverlässig automatisieren, sobald die zugrunde liegende Regel korrekt eingestellt ist, aber jede Frist sollte weiterhin für einen Menschen sichtbar sein und von ihm geprüft werden, nicht als vollständig selbstlaufend behandelt werden. Die Automatisierung nimmt die Abhängigkeit vom Gedächtnis, sie nimmt nicht die Notwendigkeit der Aufsicht." },
+      { "q": "Funktioniert das mit unserer bestehenden Kanzleisoftware?", "a": "In den meisten Fällen ja. Wir binden uns an die Plattform an, die deine Kanzlei bereits nutzt, Clio oder eine andere, statt dich zu einem Systemwechsel zu drängen. Die genaue Integration hängt von deinem Setup ab, und wir bestätigen sie während der kostenlosen Analyse." },
+      { "q": "Was passiert bei einer markierten Konfliktprüfung?", "a": "Sie geht direkt an einen Menschen. Das System markiert einen möglichen Konflikt zur Prüfung, es trifft die endgültige Entscheidung nicht von allein. Diese Entscheidung liegt immer bei deiner Kanzlei." },
+      { "q": "Wie lange dauert so eine Umsetzung?", "a": "Ein einzelner Workflow, etwa die automatisierte Mandatsannahme, ist in der Regel innerhalb von ein bis zwei Wochen fertig. Ein komplettes System aus Mandatsannahme, Konfliktprüfungen, Fristen und Abrechnung dauert typischerweise zwei bis vier Wochen, inklusive Tests gegen echte Mandate." },
+      { "q": "Gehört uns das System, sobald es gebaut ist?", "a": "Ja. Alles läuft in Konten, die auf deine Kanzlei registriert sind, und du bekommst eine Dokumentation für jeden Workflow. Falls du dich je von uns trennst, läuft das System weiter und jeder kompetente Dienstleister kann es warten." }
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched German search terms, not literal translations.",
+    "primary": ["Workflow-Automatisierung für Kanzleien", "Kanzleiabläufe automatisieren", "Mandatsannahme automatisieren"],
+    "secondary": ["Fristenüberwachung automatisieren", "Dokumentenautomatisierung Kanzlei", "Konfliktprüfung automatisieren", "Legal-Tech-Automatisierung für kleine Kanzleien"]
+  },
+  "translatorNotes": [
+    "Register: informal du, consistent with the rest of the German set.",
+    "LEGAL-ETHICS / JURISDICTION FLAG: The post's framing of professional conduct (attorney judgment kept in-house, conflict checks, confidentiality, malpractice/liability exposure) reflects a US law-firm context. In German-speaking jurisdictions the equivalents differ: German 'Rechtsanwälte' are bound by the BRAO and BORA, conflict-of-interest rules under sect. 43a BRAO / sect. 3 BORA (Interessenkonflikt / Verbot der Vertretung widerstreitender Interessen), the confidentiality duty is the Verschwiegenheitspflicht / anwaltliches Berufsgeheimnis (sect. 203 StGB), and 'malpractice exposure' maps to Berufshaftung/Haftungsrisiko rather than a direct US 'malpractice' concept. A German-qualified reviewer should confirm terminology and whether any professional-conduct or advertising-rule caveats are needed before publishing. 'Malpractice exposure' rendered as 'Haftungsrisiko' (kept neutral, not 'Kunstfehler').",
+    "Legal glossary applied: 'law firm' -> 'Kanzlei'; 'attorney' -> 'Anwalt/Anwältin' (plural 'Anwälte'); 'intake (legal)' -> 'Mandatsannahme'; 'matter' -> 'Mandat/Fall'; 'conflicts screening / conflict check' -> 'Konfliktprüfung' (with 'Interessenkonflikt-Prüfung' on first section-head use); 'deadlines' -> 'Fristen'; 'billing' -> 'Abrechnung'; 'confidentiality/privilege' -> 'Verschwiegenheit/Berufsgeheimnis' (concept not surfaced verbatim in body but noted); 'paralegal' -> 'juristische Assistenz'; 'practice management software' -> 'Kanzleisoftware'; 'red flags' -> 'Warnsignale' (not used in this post).",
+    "Prices kept exact per rules: '$1,000 and $5,000' -> '1.000 und 5.000 US-Dollar'; 'low hundreds of dollars' -> 'niedriger dreistelliger Dollarbereich'. Date 'August 20, 2026' -> '20. August 2026'; read-time '9 min read' -> '9 Min. Lesezeit'.",
+    "Brand/tool names kept: Clio, n8n, Make, Zapier. 'Innovaria Tech Limited' kept. Author 'Ahsan Ilyas' and LinkedIn URL unchanged.",
+    "Internal links repointed to /de: brand and nav (Startseite/Leistungen/Branchen/Fallstudien/Über uns/Blog/Kontakt), all body cross-links (best-automation-tools-service-businesses, legal industry, workflow-automation service, how-much-does-ai-automation-cost, how-to-choose-ai-automation-agency), Related reading (incl. ai-client-intake-automation-law-firms, ai-voice-agents-for-healthcare-clinics-fewer-no-shows), footer, CTAs. English slugs kept on /de paths; those German targets resolve as the wider translation effort completes.",
+    "Unchanged / left as-is per rules: /privacy, /terms, sitemap.xml, mailto, tel, Unsplash image URLs, gtag, LinkedIn author URL, og:image absolute URL. lang-switch: EN -> /blog/<slug>, ES -> /es/blog/<slug>, DE current.",
+    "aria-labels localized: 'Toggle menu' -> 'Menü umschalten', 'Show services menu' -> 'Leistungsmenü anzeigen', 'Show industries menu' -> 'Branchenmenü anzeigen', 'Main' -> 'Hauptnavigation', 'Breadcrumb' -> 'Brotkrümelnavigation', brand/home label -> 'Innovaria Tech Startseite', logo alt -> 'Innovaria Tech Logo', 'Change language' -> 'Sprache wechseln'."
+  ],
+  "suggestedLlmsTxtEntry": "/de/blog/workflow-automation-for-law-firms-what-actually-gets-automated — German (de). Which legal workflows automate cleanly (intake, conflict checks, deadline tracking, document generation, billing) and which stay with attorneys no matter what — plus what slow manual handoffs cost a firm, what a build connects to (Clio and others), a realistic build, and cost. DRAFT pending native review.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent German review before going live. Reviewer (ideally German-qualified) should confirm legal-ethics terminology and jurisdiction framing (BRAO/BORA, Verschwiegenheitspflicht, Haftungsrisiko) and consistency of the legal glossary."
+}

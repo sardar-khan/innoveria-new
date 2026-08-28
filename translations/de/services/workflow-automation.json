@@ -1,0 +1,87 @@
+{
+  "_meta": {
+    "page": "service: Workflow Automation",
+    "sourceFile": "/services/workflow-automation.html",
+    "outputFile": "/de/services/workflow-automation.html",
+    "language": "de",
+    "locale": "de-DE",
+    "dir": "ltr",
+    "status": "DRAFT — needs native/fluent German review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Standard German, informal du.",
+    "note": "has form"
+  },
+
+  "head": {
+    "title": "Workflow-Automatisierung: n8n, Make, Zapier | Innovaria",
+    "description": "Workflow-Automatisierung auf n8n, Make und Zapier. Verbinde dein CRM, deinen Kalender und deine Rechnungsstellung, damit sich Daten von selbst bewegen. Kostenlose Analyse buchen.",
+    "keywords": "Workflow-Automatisierung, n8n, Make, Zapier, Geschäftsprozesse verbinden, Systemintegration, Daten automatisch übertragen",
+    "canonical": "https://innovariatech.space/de/services/workflow-automation",
+    "robots": "noindex, follow",
+    "og": {
+      "title": "Workflow-Automatisierung: n8n, Make, Zapier | Innovaria",
+      "description": "Individuelle Bauten in n8n, Make und Zapier, die dein CRM, deinen Kalender, deine Rechnungsstellung und deine Tabellen verbinden, damit sich Daten von selbst bewegen.",
+      "locale": "de_DE"
+    },
+    "twitter": {
+      "title": "Workflow-Automatisierung: n8n, Make, Zapier | Innovaria",
+      "description": "Individuelle Bauten in n8n, Make und Zapier, die dein CRM, deinen Kalender, deine Rechnungsstellung und deine Tabellen verbinden, damit sich Daten von selbst bewegen."
+    }
+  },
+
+  "runtime_i18n_form": {
+    "fixFields": "Bitte korrigiere die markierten Felder und versuche es erneut.",
+    "sending": "Wird gesendet...",
+    "thanksConfirmed": "Danke, {name}. Eine Bestätigung ist gerade in deinem Posteingang gelandet. Eine Person meldet sich während der Geschäftszeiten bei dir.",
+    "thanksReceived": "Danke, {name}. Deine Anfrage ist bei uns angekommen und das Team kann sie sehen. Unsere automatische Bestätigungs-E-Mail ist diesmal nicht rausgegangen, also schreib uns direkt an info@innovariatech.space, um sicherzugehen.",
+    "errorSuffix": "Du kannst uns auch direkt an info@innovariatech.space schreiben."
+  },
+
+  "headings": {
+    "hero_h1": "Workflow-Automatisierung, die deine Daten sich selbst bewegen lässt",
+    "problems_h2": "Deine Tools reden nicht miteinander, also übersetzen deine Leute",
+    "solution_h2": "Individuelle Bauten auf n8n, Make und Zapier",
+    "outcomes_h2": "Was sich ändert, wenn deine Workflows live gehen",
+    "how_h2": "Von Kopieren und Einfügen zu verbunden in vier Schritten",
+    "why_h2": "Ehrliche Plattformberatung, keine Anbieterbindung, bewusst so gebaut",
+    "proof_h2": "Eine E-Commerce-Marke feuerte ihre Kopieren-und-Einfügen-Routine",
+    "tech_h2": "Drei Plattformen, ausgewählt für dein Volumen und Budget",
+    "faq_h2": "Workflow-Automatisierung, direkt beantwortet",
+    "finalCta_h2": "Zähl die Stunden, die dein Team damit verbringt, die Integration zu sein",
+    "contact_h2": "Fordere deine kostenlose Workflow-Analyse an"
+  },
+
+  "schema": {
+    "inLanguage": "de",
+    "service_name": "Workflow-Automatisierung",
+    "service_description": "Individuelle Workflow-Automatisierung auf n8n, Make und Zapier: verbindet CRM, Kalender, Rechnungsstellung, Telefon und Tabellen, damit sich Daten von selbst bewegen, mit Fehlerwarnungen, Dokumentation und selbst gehosteten n8n-Optionen, die Plattformgebühren nahe null halten.",
+    "breadcrumb": ["Startseite", "Leistungen", "Workflow-Automatisierung"],
+    "faq": [
+      { "q": "Was ist Workflow-Automatisierung?", "a": "Workflow-Automatisierung entwirft und baut die Verbindungen zwischen deinen Geschäftstools, damit sich Daten von selbst bewegen: Ein neuer Abschluss im CRM erstellt die Rechnung, bucht das Auftakt-Gespräch und aktualisiert die Tabelle, ohne dass jemand irgendetwas neu eintippt. Du beschreibst, wie die Arbeit fließen soll, wir bauen es auf n8n, Make oder Zapier, und dir gehört das Ergebnis." },
+      { "q": "n8n vs. Make vs. Zapier: Was brauche ich?", "a": "Das hängt von Komplexität, Volumen und Budget ab. n8n eignet sich für komplexe Logik und hohes Volumen, und selbst gehostet hält es die Plattformgebühren nahe null. Make ist der visuelle Mittelweg mit starkem Nutzen für mäßig komplexe Arbeit. Zapier passt zu winzigen Teams, die schnell ein paar einfache Übergaben brauchen. Wir empfehlen nach der Analyse, und keines davon zahlt uns eine Provision." },
+      { "q": "Was passiert, wenn eine Automatisierung ausfällt?", "a": "Du bekommst eine Fehlerwarnung in dem Moment, in dem ein Schritt fehlschlägt, sodass nichts stillschweigend versagt. Jeder Bau wird mit Dokumentation für jeden Workflow und 30 Tagen inklusivem Support nach der Übergabe ausgeliefert. Weil alles in Konten läuft, die dir gehören, kann jede kompetente Fachkraft das System noch lange nach Projektende warten." },
+      { "q": "Was kostet Workflow-Automatisierung?", "a": "Ein einzelner Workflow startet meist im niedrigen dreistelligen Dollarbereich, und ein komplettes System, das mehrere Tools verbindet, liegt beim Bau in der Regel zwischen 1.000 und 5.000 US-Dollar, plus 50 bis 300 US-Dollar pro Monat an Plattformgebühren. Bei selbst gehostetem n8n sinken die monatlichen Plattformkosten auf nahe null. Wir nennen einen Festpreis nach einer kostenlosen Analyse." },
+      { "q": "Brauchen wir neue Software?", "a": "Fast nie. Workflow-Automatisierung gibt es, um das CRM, den Kalender, die Rechnungsstellung, die Telefonanlage und die Tabellen zu verbinden, die du schon nutzt. Wenn ein Tool eine API hat, können wir es anbinden. Software zu ersetzen ist der letzte Ausweg, nicht der Ausgangspunkt." },
+      { "q": "Wem gehören die Workflows nach dem Projekt?", "a": "Dir. Jeder Workflow läuft in Konten, die auf dein Unternehmen registriert sind, und jeder Bau wird mit verständlicher Dokumentation ausgeliefert. Wenn du morgen aufhörst, mit uns zu arbeiten, läuft alles weiter und deine nächste Fachkraft kann anhand der Dokumentation übernehmen." }
+    ]
+  },
+
+  "targetedKeywords": {
+    "note": "Researched German search terms, not literal translations.",
+    "primary": ["Workflow-Automatisierung", "n8n Automatisierung", "Prozesse mit Zapier automatisieren"],
+    "secondary": ["Systeme und Tools verbinden", "Daten automatisch zwischen Tools übertragen", "selbst gehostetes n8n einrichten"]
+  },
+
+  "translatorNotes": [
+    "Register: informal du throughout, consistent with the sibling ES pages and the German set. The du/Sie decision (here: du) is the single biggest review call and carries across all German pages.",
+    "Glossary applied: Workflow Automation -> Workflow-Automatisierung, Lead Automation -> Lead-Automatisierung, AI Voice Agents -> KI-Sprachassistenten (footer as Anrufautomatisierung), Email Automation -> E-Mail-Automatisierung, AI Automation -> KI-Automatisierung, Generative AI -> Generative KI, AI Consulting -> KI-Beratung. Industry 'Ecommerce' -> 'E-Commerce'.",
+    "'lead' kept in English (standard in German CRM/marketing). 'bottleneck' -> 'Engpass'. 'roadmap' -> 'Fahrplan'. 'fixed price' -> 'Festpreis'. 'payback' kept as 'Payback'. 'spreadsheets' -> 'Tabellen'. 'human API' -> 'menschliche API'. 'error alerts' -> 'Fehlerwarnungen'. 'self hosted' -> 'selbst gehostet'. 'handoffs' -> 'Übergaben'.",
+    "Prices/facts kept exactly: '$1,000 and $5,000' -> '1.000 und 5.000 US-Dollar'; '$50 to $300' -> '50 bis 300 US-Dollar'; '$11k' -> '$11k' (kept verbatim per instruction). Brand/tool names (n8n, Make, Zapier, HubSpot, QuickBooks, Xero, Airtable, Google Sheets, Stripe, Twilio, Slack, Google Workspace) and stats (20+ hrs, 100%, 24/7, 30 days, -48%) unchanged. Stat suffixes localized to '+ Std.' and ' Tage' as in the sibling page. 'Innovaria Tech Limited', email, phone, /api/lead form action unchanged.",
+    "'no lock in by design' -> 'keine Anbieterbindung, bewusst so gebaut' expands the compressed English; a reviewer may tighten it. 'fired its copy and paste routine' -> 'feuerte ihre Kopieren-und-Einfügen-Routine' keeps the playful English image; may read colloquial in German.",
+    "ALL internal links repointed to /de: brand, nav (both dropdowns), breadcrumbs, hero CTA, in-body card links, the two in-copy blog links, footer service/company links. Cross-language switcher links (EN -> /services/..., ES -> /es/services/...) intentionally NOT repointed. Left unchanged: /privacy, /terms, sitemap, mailto, tel, wa.me, external Unsplash image, and the form action /api/lead.",
+    "Three-way language switcher added (EN + ES + DE, DE current). Head has four hreflang alternates (en, es, de, x-default) and og:locale de_DE. Robots set to noindex, follow with the draft comment above it. Contact-form status messages localized via window.__i18n.form (English fallback preserved for untranslated pages)."
+  ],
+
+  "suggestedLlmsTxtEntry": "German (de) draft of the Workflow Automation service page: custom n8n, Make, and Zapier builds that connect the CRM, calendar, invoicing, phone, and spreadsheets so data moves itself, with error alerts, documentation, and self-hosted n8n options that keep platform fees near zero, at a fixed price you own.",
+
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent German review before going live."
+}

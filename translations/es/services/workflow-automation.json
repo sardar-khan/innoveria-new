@@ -1,0 +1,61 @@
+{
+  "_meta": {
+    "page": "service: Workflow Automation",
+    "sourceFile": "/services/workflow-automation.html",
+    "outputFile": "/es/services/workflow-automation.html",
+    "language": "es", "locale": "es-ES", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú.",
+    "note": "Full translated copy is in the rendered page. This file records head/meta, schema strings, FAQ, targeted keywords, and reviewer notes."
+  },
+  "head": {
+    "title": "Automatización de flujos: n8n, Make, Zapier | Innovaria",
+    "description": "Servicios de automatización de flujos de trabajo en n8n, Make y Zapier. Conecta tu CRM, calendario y facturación para que los datos se muevan solos.",
+    "canonical": "https://innovariatech.space/es/services/workflow-automation",
+    "robots": "noindex, follow",
+    "og": { "title": "Automatización de flujos de trabajo: n8n, Make, Zapier | Innovaria", "description": "Desarrollos a medida en n8n, Make y Zapier que conectan tu CRM, calendario, facturación y hojas de cálculo para que los datos se muevan solos.", "locale": "es_ES" }
+  },
+  "headings": {
+    "hero_h1": "Servicios de automatización de flujos de trabajo que hacen que tus datos se muevan solos",
+    "problems_h2": "Tus herramientas no se hablan, así que tu gente traduce",
+    "solution_h2": "Desarrollos a medida en n8n, Make y Zapier",
+    "outcomes_h2": "Qué cambia cuando tus flujos entran en marcha",
+    "how_h2": "De copiar y pegar a estar conectado en cuatro pasos",
+    "why_h2": "Consejo honesto sobre plataformas, sin ataduras por diseño",
+    "proof_h2": "Una marca de ecommerce despidió su rutina de copiar y pegar",
+    "tech_h2": "Tres plataformas, elegidas para tu volumen y presupuesto",
+    "faq_h2": "Servicios de automatización de flujos de trabajo, respondidos sin rodeos",
+    "finalCta_h2": "Cuenta las horas que tu equipo pasa siendo la integración",
+    "contact_h2": "Solicita tu auditoría gratis de flujos"
+  },
+  "schema": {
+    "inLanguage": "es",
+    "serviceName": "Servicios de automatización de flujos de trabajo",
+    "serviceDescription": "Servicios de automatización de flujos de trabajo a medida en n8n, Make y Zapier: conectan CRM, calendario, facturación, teléfono y hojas de cálculo para que los datos se muevan solos, con alertas de errores, documentación y opciones de n8n autohospedado que mantienen las cuotas de plataforma cerca de cero.",
+    "breadcrumb": ["Inicio", "Servicios", "Servicios de automatización de flujos de trabajo"],
+    "faq": [
+      { "q": "¿Qué son los servicios de automatización de flujos de trabajo?", "a": "Los servicios de automatización de flujos de trabajo diseñan y construyen las conexiones entre las herramientas de tu negocio para que los datos se muevan solos: un trato nuevo en el CRM crea la factura, agenda la llamada de arranque y actualiza la hoja de cálculo sin que nadie vuelva a teclear nada. Tú describes cómo debe fluir el trabajo, nosotros lo construimos en n8n, Make o Zapier, y el resultado es tuyo." },
+      { "q": "n8n vs Make vs Zapier: ¿cuál necesito?", "a": "Depende de la complejidad, el volumen y el presupuesto. n8n encaja con lógica compleja y alto volumen, y autohospedarlo mantiene las cuotas de plataforma cerca de cero. Make es el punto intermedio visual, con muy buena relación valor para trabajo de complejidad media. Zapier encaja con equipos pequeños que necesitan unos pocos traspasos simples rápido. Recomendamos tras la auditoría, y ninguno nos paga comisión." },
+      { "q": "¿Qué pasa si una automatización falla?", "a": "Recibes una alerta de error en cuanto un paso falla, así que nada falla en silencio. Cada desarrollo se entrega con documentación de cada flujo y 30 días de soporte incluido tras la entrega. Como todo funciona en cuentas que son tuyas, cualquier operador competente puede mantener el sistema mucho después de que termine el proyecto." },
+      { "q": "¿Cuánto cuestan los servicios de automatización de flujos de trabajo?", "a": "Un solo flujo suele empezar en unos pocos cientos de dólares, y un sistema completo que conecta varias herramientas normalmente cuesta entre 1.000 y 5.000 dólares construirlo, más de 50 a 300 dólares al mes en cuotas de plataforma. Con n8n autohospedado el coste mensual de plataforma baja casi a cero. Cotizamos un precio cerrado tras una auditoría gratis." },
+      { "q": "¿Necesitamos software nuevo?", "a": "Casi nunca. La automatización de flujos existe para conectar el CRM, el calendario, la facturación, el teléfono y las hojas de cálculo que ya usas. Si una herramienta tiene API, podemos conectarla. Cambiar de software es el último recurso, no el punto de partida." },
+      { "q": "¿Quién es dueño de los flujos cuando termina el proyecto?", "a": "Tú. Cada flujo funciona en cuentas registradas a nombre de tu negocio, y cada desarrollo se entrega con documentación en lenguaje claro. Si dejas de trabajar con nosotros mañana, todo sigue funcionando y tu siguiente operador puede retomarlo desde la documentación." }
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish search terms, not literal translations.",
+    "primary": ["automatización de flujos de trabajo", "automatización de procesos", "agencia n8n"],
+    "secondary": ["conectar CRM con facturación", "integrar herramientas de negocio", "automatizar tareas entre aplicaciones"],
+    "longTail": ["automatizar el traspaso de datos entre CRM y contabilidad", "n8n autohospedado para empresas", "cómo dejar de copiar y pegar entre aplicaciones"]
+  },
+  "translatorNotes": [
+    "Register: informal tú, consistent across the set.",
+    "'workflow' -> 'flujo de trabajo' / 'flujo'; 'self hosted' -> 'autohospedado'; 'human API' kept as 'API humana' (deliberate, matches the English metaphor).",
+    "'stale' report -> 'desactualizado'; 'boringly reliable' -> 'aburridamente fiable' (keeps the intended dry tone).",
+    "Prices unchanged: '1.000 y 5.000 dólares', '50 a 300 dólares', '$11k' kept as-is in the case metric.",
+    "'quote turnaround' -> 'tiempo de cotización'. Product names kept (n8n, Make, Zapier, QuickBooks, Xero, Slack).",
+    "Cross-links: nav/footer now point ai-automation, lead-automation, and workflow-automation to /es (all translated). The two blog links in the 'Los flujos son tuyos' card point to the English blog posts (fallback; those posts are Phase 3). Other service/industry links still fall back to English.",
+    "Breadcrumb 'Servicios' points to English /services hub (Phase 2 page not yet translated)."
+  ],
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live."
+}

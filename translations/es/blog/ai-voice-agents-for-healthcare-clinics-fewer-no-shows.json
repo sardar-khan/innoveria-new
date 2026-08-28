@@ -1,0 +1,76 @@
+{
+  "_meta": {
+    "page": "blog post: AI voice agents for healthcare clinics (fewer no shows)",
+    "slug": "ai-voice-agents-for-healthcare-clinics-fewer-no-shows",
+    "sourceFile": "/blog/ai-voice-agents-for-healthcare-clinics-fewer-no-shows.html",
+    "outputFile": "/es/blog/ai-voice-agents-for-healthcare-clinics-fewer-no-shows.html",
+    "language": "es", "locale": "es-ES", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú.",
+    "note": "Full translated copy lives in the rendered page. This file records head/meta, headings, schema strings (breadcrumb, article headline, FAQ), targeted keywords, and reviewer notes. Post has no lead/audit form, so no window.__i18n block was added."
+  },
+  "head": {
+    "title": "Agentes de voz con IA para clínicas: menos ausencias",
+    "description": "Cómo los agentes de voz con IA atienden cada llamada de la clínica, reducen las ausencias con recordatorios que los pacientes sí pueden usar y saben exactamente cuándo pasar la llamada a tu equipo.",
+    "keywords": "agentes de voz con IA para salud, servicio de contestación médica con IA, reducir ausencias de pacientes, llamadas perdidas en clínicas, agendar citas con IA, costo de IA de voz para salud, automatización de recepción para clínicas",
+    "canonical": "https://innovariatech.space/es/blog/ai-voice-agents-for-healthcare-clinics-fewer-no-shows",
+    "robots": "noindex, follow",
+    "articleSection": "Salud",
+    "og:title": "Agentes de voz con IA para clínicas: menos ausencias",
+    "og:description": "Descubre cómo los agentes de voz con IA atienden cada llamada de la clínica, reducen las ausencias con recordatorios de verdad y saben exactamente cuándo pasar la llamada a una persona.",
+    "og:locale": "es_ES",
+    "twitter:title": "Agentes de voz con IA para clínicas: menos ausencias",
+    "twitter:description": "Cómo los agentes de voz con IA atienden cada llamada de la clínica, reducen las ausencias y saben cuándo pasar la llamada a una persona."
+  },
+  "headings": {
+    "h1": "Agentes de voz con IA para clínicas: menos ausencias, ninguna llamada perdida",
+    "postMeta": "Publicado el 21 de agosto de 2026 · por Ahsan Ilyas, fundador de Innovaria Tech · 9 min de lectura",
+    "answerCapsuleLabel": "Respuesta rápida:",
+    "keyTakeaways_h2": "Puntos clave",
+    "s1_h2": "Por qué el teléfono de recepción es un problema tan difícil",
+    "s2_h2": "Lo que las llamadas perdidas y las ausencias le cuestan de verdad a una clínica",
+    "s3_h2": "Qué hace realmente un agente de voz con IA",
+    "s4_h2": "Qué nunca debería automatizarse en un entorno clínico",
+    "s5_h2": "Con qué se conecta",
+    "s6_h2": "Cómo es una implementación realista",
+    "s7_h2": "Cuánto cuesta",
+    "faq_h2": "Preguntas frecuentes",
+    "related_h2": "Lecturas relacionadas",
+    "ctaBand_h2": "Descubre lo que las llamadas perdidas le están costando de verdad a tu clínica"
+  },
+  "schema": {
+    "inLanguage": "es",
+    "breadcrumb": ["Inicio", "Blog", "Agentes de voz con IA para clínicas de salud"],
+    "article": {
+      "headline": "Agentes de voz con IA para clínicas: menos ausencias, ninguna llamada perdida",
+      "description": "Un paciente llama a tu clínica mientras tu recepción está en otra línea, no recibe respuesta y reserva en otro sitio. Descubre cómo los agentes de voz con IA atienden cada llamada, reducen las ausencias con recordatorios de verdad y saben exactamente cuándo pasar la llamada a una persona.",
+      "about": ["Agentes de voz con IA para clínicas de salud", "Agendamiento de pacientes y reducción de ausencias"]
+    },
+    "faq": [
+      { "q": "¿Esto reemplazará a nuestro personal de recepción?", "a": "No. El objetivo es descargar las llamadas rutinarias de agenda para que tu personal pueda concentrarse en los pacientes que tiene físicamente delante y en todo lo que requiere criterio real. Las clínicas con las que trabajamos conservan su equipo de recepción y dejan de necesitar más gente a medida que crece el volumen de llamadas." },
+      { "q": "¿El agente de voz puede atender a un paciente que describe síntomas?", "a": "No, y no debería intentarlo. El sistema está construido para reconocer cuándo una llamada entra en cualquier terreno clínico y derivarla directamente a tu personal de inmediato. Nunca evalúa síntomas ni ofrece orientación médica bajo ninguna circunstancia." },
+      { "q": "¿Esto cumple con HIPAA?", "a": "Cualquier sistema que toque llamadas de pacientes o datos de agenda debe construirse con ese requisito abordado de forma directa durante la planificación, no darlo por hecho. Confirmamos tus necesidades específicas de cumplimiento como parte de la auditoría gratis, y no somos un sustituto de tu propio asesor de cumplimiento si tu consulta tiene uno." },
+      { "q": "¿Funciona con nuestro sistema de agenda o historial (EHR) actual?", "a": "En la mayoría de los casos, sí. Nos conectamos a través del sistema que tu clínica ya usa en vez de pedirte que cambies de plataforma. La integración exacta depende de tu configuración, y lo confirmamos durante la auditoría gratis." },
+      { "q": "¿Cuánto tarda una implementación como esta?", "a": "Un solo flujo de trabajo, como la atención de llamadas y la reserva automáticas, suele quedar listo en una o dos semanas. Un sistema completo que cubre reserva, recordatorios y registro normalmente lleva de dos a cuatro semanas, incluyendo las pruebas con el volumen de llamadas real." },
+      { "q": "¿El sistema es nuestro una vez construido?", "a": "Sí. Todo funciona dentro de cuentas registradas a nombre de tu consulta, y recibes documentación de cada flujo de trabajo. Si algún día dejas de trabajar con nosotros, el sistema sigue funcionando y cualquier operador competente puede mantenerlo." }
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish search terms, not literal translations.",
+    "primary": ["agentes de voz con IA para clínicas", "recepcionista virtual con IA para consultas médicas", "reducir ausencias de pacientes"],
+    "secondary": ["atención telefónica automatizada para clínicas", "agendar citas médicas con IA", "no perder llamadas de pacientes", "recordatorios de citas para reducir ausencias"]
+  },
+  "translatorNotes": [
+    "Register: informal tú, consistent with the rest of the Spanish set.",
+    "HIPAA / BAA / PHI FLAG: HIPAA is a US legal framework and its framing here is US-specific; it does not map to Spanish-speaking jurisdictions (EU/LatAm patients would fall under GDPR, LGPD, etc.). Kept HIPAA verbatim as in source. This post mentions HIPAA but not BAA or PHI; the sibling healthcare industry page glosses PHI once as 'información médica protegida (PHI)'. A native/legal reviewer for the target market should confirm whether HIPAA references need a local-compliance note.",
+    "Healthcare glossary applied: 'no shows' -> 'ausencias'; 'front desk' -> 'recepción'; 'intake' -> 'registro'; 'provider (clinician)' -> 'profesional'; 'practice' -> 'consulta'; 'clinic' -> 'clínica'; 'EHR' -> 'historial (EHR)' / 'historial clínico'; 'waitlist' -> 'lista de espera' (not needed in this post); 'reminders' -> 'recordatorios'.",
+    "EHR note: rendered as 'sistema de agenda o historial (EHR)' on first use to keep the acronym recognizable, then 'historial (EHR)'.",
+    "Prices kept exact per rules: '$1,000 and $5,000' -> '1.000 y 5.000 dólares'; '$50 to $300' style not present; 'low hundreds of dollars' -> 'unos pocos cientos de dólares'. Date 'August 21, 2026' -> '21 de agosto de 2026'; read-time '9 min read' -> '9 min de lectura'.",
+    "Brand/tool names kept: n8n, Make, Zapier, HIPAA, EHR. 'Innovaria Tech Limited' kept. Author 'Ahsan Ilyas' and LinkedIn URL unchanged.",
+    "Internal links repointed to /es: brand and nav (Home/Services/Industries/Case Studies/About/Blog/Contact), all body cross-links (best-automation-tools-service-businesses, ai-voice-agents service, healthcare industry, how-much-does-ai-automation-cost, how-to-choose-ai-automation-agency), Related reading, footer, CTAs. English slugs kept on /es paths; those Spanish targets resolve as the wider translation effort completes.",
+    "Unchanged / left as-is per rules: /privacy, /terms, sitemap.xml, mailto, tel, Unsplash image URLs, gtag, LinkedIn author URL, og:image absolute URL. lang-switch EN link points to the English post /blog/ai-voice-agents-for-healthcare-clinics-fewer-no-shows.",
+    "aria-labels localized: 'Toggle menu' -> 'Abrir menú', 'Show services menu' -> 'Mostrar menú de servicios', 'Show industries menu' -> 'Mostrar menú de sectores', 'Main' -> 'Principal', 'Breadcrumb' -> 'Ruta de navegación', brand/home label -> 'Inicio de Innovaria Tech'."
+  ],
+  "suggestedLlmsTxtEntry": "/es/blog/ai-voice-agents-for-healthcare-clinics-fewer-no-shows — Spanish (es). How AI voice agents for healthcare clinics answer every call, cut no shows with reminders patients can act on in the moment, collect intake before the visit, and route anything clinical straight to staff — plus what to never automate, HIPAA/privacy scoping, what it connects to, and realistic build cost. DRAFT pending native review.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live. Reviewer should confirm HIPAA framing for the target market (US-specific) and consistency of healthcare glossary terms."
+}

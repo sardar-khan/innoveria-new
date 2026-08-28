@@ -1,0 +1,94 @@
+{
+  "_meta": {
+    "source": "industries/finance.html",
+    "target": "de/industries/finance.html",
+    "language": "de",
+    "locale": "de-DE",
+    "dir": "ltr",
+    "status": "DRAFT — needs native/fluent German review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Standard German, informal du.",
+    "note": "has form"
+  },
+  "head": {
+    "title": "KI-Agenten für Finanz- und Buchhaltungskanzleien | Innovaria",
+    "description": "KI-Agenten für Finanzen und Buchhaltung: automatisierte Dokumentenerfassung, Onboarding, das sich selbst erledigt, und rund um die Uhr Antworten für Mandanten. Kostenlose Analyse buchen.",
+    "keywords": "KI-Agenten für Buchhaltung, Automatisierung für Steuerberater, Dokumentenerfassung automatisieren, Mandanten-Onboarding automatisieren, Monatsabschluss automatisieren, Kosten für Buchhaltungsautomatisierung, KI für Finanzkanzleien",
+    "og_title": "KI-Agenten für Finanz- und Buchhaltungskanzleien | Innovaria",
+    "og_description": "Automatisierte Dokumentenerfassung, Mandanten-Onboarding, das sich selbst erledigt, und ein Anfrage-Agent, der Fragen zu Gebühren und Fristen rund um die Uhr beantwortet.",
+    "og_locale": "de_DE",
+    "twitter_title": "KI-Agenten für Finanz- und Buchhaltungskanzleien | Innovaria",
+    "twitter_description": "Automatisierte Dokumentenerfassung, Mandanten-Onboarding, das sich selbst erledigt, und ein Anfrage-Agent, der Fragen zu Gebühren und Fristen rund um die Uhr beantwortet.",
+    "canonical": "https://innovariatech.space/de/industries/finance"
+  },
+  "headings": {
+    "h1": "KI-Agenten für Finanz- und Buchhaltungskanzleien, die genug vom Nachlaufen nach Dokumenten haben",
+    "problems_h2": "Wo abrechenbare Stunden still und leise verloren gehen",
+    "solution_h2": "Die Verwaltung erledigt sich selbst, dein Team prüft und gibt frei",
+    "outcomes_h2": "Was das System nach dem Livegang liefert",
+    "how_h2": "In deiner Kanzlei live in zwei bis vier Wochen",
+    "why_h2": "Deine Buchhaltung, deine Konten, deine Kontrollen",
+    "case_h2": "Dasselbe Nachlauf-Problem, eine andere Branche",
+    "tech_h2": "Aufgebaut auf den Tools, die deine Kanzlei bereits kennt",
+    "faq_h2": "Buchhaltungsautomatisierung, direkt beantwortet",
+    "cta_h2": "Wie viele Stunden hat der Abschluss vom letzten Monat an das Nachlaufen nach Dokumenten verloren?",
+    "contact_h2": "Fordere deine kostenlose Workflow-Analyse an",
+    "related_h2": "Aufgebaut aus diesen Fähigkeiten"
+  },
+  "schema": {
+    "service_name": "KI-Agenten für Finanzen und Buchhaltung",
+    "service_description": "Automatisierte Dokumentenerfassung mit höflichen, beharrlichen Erinnerungen, Onboarding-Workflows für Mandanten, die sich selbst erledigen, ein Anfrage-Agent rund um die Uhr für Fragen zu Gebühren und Fristen und Datenextraktion in QuickBooks oder Xero mit menschlicher Prüfung, bevor etwas gebucht wird.",
+    "audienceType": "Buchhaltungsbüros, Steuerkanzleien und Finanzberater",
+    "breadcrumb": [
+      { "name": "Startseite", "item": "https://innovariatech.space/de" },
+      { "name": "Branchen", "item": "https://innovariatech.space/de/industries" },
+      { "name": "Finanzen und Buchhaltung", "item": "https://innovariatech.space/de/industries/finance" }
+    ],
+    "faq": [
+      {
+        "q": "Was sind KI-Agenten für Finanzen und Buchhaltung?",
+        "a": "Software-Assistenten, die die wiederkehrende Mandantenarbeit rund um deine Kanzlei übernehmen: Dokumente mit höflichen, beharrlichen Erinnerungen einsammeln, Onboarding-Checklisten abarbeiten, Fragen zu Gebühren und Fristen rund um die Uhr beantworten und Daten aus Belegen und Kontoauszügen in deine Buchhaltung extrahieren. Dein Team prüft alles, bevor es gebucht wird, sodass die Agenten das Nachhaken und Tippen übernehmen, während deine Buchhalter buchhalten."
+      },
+      {
+        "q": "Sind die Finanzdaten der Mandanten mit Automatisierung sicher?",
+        "a": "Jeder Workflow läuft in Konten, die deine Kanzlei kontrolliert, nicht wir. Dokumente bewegen sich über verschlüsselte Verbindungen, der Zugriff folgt denselben rollenbasierten Kontrollen, die du heute festlegst, und nichts wird in die Bücher gebucht, ohne dass eine Person aus deinem Team es freigibt. Wir übernehmen niemals die Verwahrung von Mandantendaten, und du kannst unseren Zugriff an dem Tag entziehen, an dem der Aufbau fertig ist."
+      },
+      {
+        "q": "Kann es Mandanten für Dokumente nachfassen, ohne unhöflich zu sein?",
+        "a": "Ja, und genau das ist der Sinn. Die Erinnerungen nutzen deine Formulierung und deinen Ton, verteilen sich sinnvoll über die Zeit, benennen genau, welche Dokumente noch fehlen, und stoppen in dem Moment, in dem der Mandant hochlädt. Beharrlich schlägt aufdringlich: Mandanten bekommen eine klare Liste und einen einfachen Upload-Link statt einer genervten E-Mail von einem Partner in Woche drei."
+      },
+      {
+        "q": "Was kostet Buchhaltungsautomatisierung?",
+        "a": "Ein vollständiges System liegt beim Aufbau in der Regel zwischen 1.000 und 5.000 US-Dollar zuzüglich 50 bis 300 US-Dollar monatlicher Plattformgebühren. Die meisten Kanzleien decken das mit den eingesparten Verwaltungsstunden beim ersten Monatsabschluss. Nach einer kostenlosen Analyse deiner Mandanten-Workflows bekommst du ein Festpreisangebot, und es gibt keine Abrechnung nach Stunden."
+      },
+      {
+        "q": "Funktioniert es mit QuickBooks und Xero?",
+        "a": "Ja. Beide haben solide APIs, sodass extrahierte Daten aus Belegen, Rechnungen und Kontoauszügen als Buchungsentwürfe zur Prüfung in den richtigen Konten landen. Wir bauen auf der Buchhaltung auf, die du bereits nutzt, statt sie zu ersetzen, und dasselbe gilt für deine Kanzlei-Management- und Portal-Tools, wenn sie eine API oder Exporte anbieten."
+      }
+    ]
+  },
+  "targetedKeywords": {
+    "note": "German keyword equivalents for the finance and accounting industry page; not machine keyword-researched, review with a native SEO before relying on volumes.",
+    "primary": [
+      "KI-Agenten für Buchhaltung",
+      "Automatisierung für Steuerberater",
+      "Dokumentenerfassung automatisieren"
+    ],
+    "secondary": [
+      "Mandanten-Onboarding automatisieren",
+      "Monatsabschluss automatisieren",
+      "Kosten für Buchhaltungsautomatisierung",
+      "KI für Finanzkanzleien"
+    ]
+  },
+  "translatorNotes": [
+    "FLAG accounting terminology varies by market (DE/AT/CH). 'ledger' rendered as 'Buchhaltung'; a stricter accounting register sense would be 'Hauptbuch'. 'month end close' -> 'Monatsabschluss'. 'draft entries' -> 'Buchungsentwürfe'. 'chart of accounts' -> 'Kontenplan' (DE SKR-based; AT uses Einheitskontenrahmen, CH differs). 'engagement letter' -> 'Mandatsschreiben' (DE/AT usage; CH may differ). A native reviewer in the target country (Germany vs Austria vs Switzerland) should confirm the exact accounting vocabulary and any register naming.",
+    "Brand and product names kept exact: QuickBooks, Xero, n8n, Make, Zapier, Google Workspace, Slack, Calendly.",
+    "'AI agents' rendered as 'KI-Agenten' throughout; 'onboarding' kept as 'Onboarding' (common German business usage).",
+    "Currency converted per spec: '$1,000 and $5,000' -> '1.000 und 5.000 US-Dollar'; '$50 to $300' -> '50 bis 300 US-Dollar'.",
+    "All internal links repointed to /de (nav, breadcrumb, footer, related services, other industries, related reading). Related blog slug kept: /de/blog/ai-automation-accounting-firms-client-onboarding.",
+    "External links unchanged: mailto, tel, wa.me, sitemap.xml, unsplash image, gtag. /privacy and /terms kept language-neutral. /api/lead unchanged.",
+    "Informal 'du' throughout; no em-dashes used."
+  ],
+  "suggestedLlmsTxtEntry": "German (draft) translation of the finance and accounting industry page: AI agents for finance and accounting firms, with automated document collection, self-running client onboarding, a 24/7 enquiry agent for fee and deadline questions, and data extraction into QuickBooks or Xero with human review before anything posts.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent German review before going live."
+}

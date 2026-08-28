@@ -1,0 +1,62 @@
+{
+  "_meta": {
+    "page": "Blog post — What Automating Lead Follow Up Actually Costs in 2026 (Pricing)",
+    "sourceFile": "/blog/cost-of-automating-lead-follow-up.html",
+    "outputFile": "/de/blog/cost-of-automating-lead-follow-up.html",
+    "language": "de", "locale": "de-DE", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent German review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Standard German, informal du.",
+    "note": "Full blog post translated: head/meta, 3 JSON-LD blocks (Article, Organization, BreadcrumbList), nav, breadcrumbs, hero, lede, body sections, bulleted lists, inline links, CTA band, footer, alt text and aria-labels. No FAQPage on this page. No lead/audit form exists on this page, so no German form (window.__i18n) block was added. Internal links repointed to /de; external links, /privacy, /terms, sitemap, mailto, tel unchanged. Every price, percentage, date, read-time and n8n/CRM/SMS/WhatsApp/API name kept exact."
+  },
+  "head": {
+    "title": "Was die Automatisierung der Lead-Nachverfolgung 2026 kostet",
+    "description": "Echte Zahlen für 2026: 1.000 bis 5.000 US-Dollar für die Umsetzung, 50 bis 300 US-Dollar im Monat für den Betrieb, plus die Break-even-Rechnung gegen einen verlorenen Deal.",
+    "keywords": "Kosten Lead-Automatisierung, Automatisierung Preise 2026, Kosten System Lead-Nachverfolgung, n8n Umsetzungskosten",
+    "canonical": "https://innovariatech.space/de/blog/cost-of-automating-lead-follow-up",
+    "robots": "noindex, follow",
+    "og:title": "Was die Automatisierung der Lead-Nachverfolgung 2026 wirklich kostet",
+    "og:description": "Umsetzungskosten, monatliche Gebühren und die Break-even-Rechnung gegen einen verlorenen Deal pro Monat.",
+    "og:locale": "de_DE",
+    "twitter:title": "Was die Automatisierung der Lead-Nachverfolgung 2026 wirklich kostet",
+    "twitter:description": "Umsetzungskosten, monatliche Gebühren und die Break-even-Rechnung gegen einen verlorenen Deal pro Monat."
+  },
+  "headings": {
+    "hero_h1": "Was die Automatisierung der Lead-Nachverfolgung wirklich kostet",
+    "h2_three_costs": "Die drei Kosten, aus denen sich der Preis zusammensetzt",
+    "h3_build": "1. Die Umsetzung",
+    "h3_platform": "2. Plattformgebühren",
+    "h3_maintenance": "3. Wartung",
+    "h2_break_even": "Die Break-even-Rechnung",
+    "h2_moves_up": "Was den Preis nach oben treibt",
+    "h2_keeps_cheap": "Was es günstig hält",
+    "h2_hiring": "Der ehrliche Vergleich: stattdessen einstellen",
+    "cta_band_h2": "Hol dir deine genaue Zahl, keine Spanne."
+  },
+  "schema": {
+    "breadcrumb": ["Startseite", "Blog", "Was die Automatisierung der Lead-Nachverfolgung wirklich kostet"],
+    "article": {
+      "headline": "Was die Automatisierung der Lead-Nachverfolgung 2026 wirklich kostet",
+      "inLanguage": "de"
+    },
+    "faq": []
+  },
+  "targetedKeywords": {
+    "note": "Researched German search terms, not literal translations.",
+    "primary": ["Kosten Lead-Automatisierung", "was kostet Lead-Nachverfolgung automatisieren", "Preis System zur Lead-Nachverfolgung"],
+    "secondary": ["KI-Automatisierung Preise 2026", "n8n Umsetzungskosten", "Break-even Lead-Automatisierung"]
+  },
+  "translatorNotes": [
+    "Register: informal du throughout, Standard German, consistent with the existing de effort. No em-dashes used anywhere.",
+    "Pricing post handled meticulously: every figure kept exact. '$1,000 to $5,000' -> '1.000 bis 5.000 US-Dollar'; '$50 to $300' -> '50 bis 300 US-Dollar'; '$20 to $100' -> '20 bis 100 US-Dollar'; '$10 to $100' -> '10 bis 100 US-Dollar'; '$50 to $150' -> '50 bis 150 US-Dollar'; '30 days of support' -> '30 Tage Support'; '400 monthly enquiries' -> '400 Anfragen im Monat'; 'three weeks' -> 'drei Wochen'; '10 pm on a Sunday' -> '10 Uhr abends an einem Sonntag' (kept the numeral 10); '5 min read' -> '5 Min. Lesezeit'. German thousands separator (period) used: 1.000, 5.000.",
+    "Glossary terms applied: 'lead follow up' -> 'Lead-Nachverfolgung'; 'the build' / 'build cost' -> 'die Umsetzung' / 'Umsetzungskosten'; 'monthly platform fees' -> 'monatliche Plattformgebühren'; 'break even' -> 'Break-even' (heading 'Die Break-even-Rechnung'); 'self hosted n8n' -> 'selbst gehostetes n8n'; 'routing' -> 'Routing'; 'round robin with caps' -> 'Rundlauf-Verteilung mit Obergrenzen'; 'close rate' -> 'Abschlussquote'; 'brokerage' -> 'Maklerbüro'; 'lead response system' -> 'Lead-Antwortsystem'; 'fixed quote' -> 'festes Angebot'.",
+    "'July 11, 2026' -> '11. Juli 2026'. datePublished/dateModified timestamp kept as 2026-07-11.",
+    "Brand/tool/acronym names kept exact: Innovaria Tech, Innovaria Tech Limited, Ahsan Ilyas, n8n, CRM, API, SMS, WhatsApp.",
+    "Internal links repointed to /de equivalents (brand, nav, breadcrumbs, /de/about, /de/case-studies, /de/services/ai-voice-agents, /de/services/lead-automation, /de/blog/how-much-does-ai-automation-cost, /de/contact, footer). English slugs kept in the paths. lang-switch now EN + ES + DE with DE current; EN link -> /blog/cost-of-automating-lead-follow-up, ES link -> /es/blog/cost-of-automating-lead-follow-up.",
+    "External links unchanged: LinkedIn author URL, sitemap. /privacy and /terms left as-is. mailto and tel unchanged. No /veyrais link present on this page.",
+    "Footer 'Call Automation' label rendered as 'Anrufautomatisierung' per the supplied glossary (note: the earlier de/veyrais page used 'KI-Sprachassistenten' for the same footer link; flagged for the native reviewer to standardise site-wide).",
+    "No FAQPage block on this post (faq empty). No lead/audit <form> exists on this post, so no German form block was inserted.",
+    "Asset paths changed from ../ to root-absolute (/assets, /css, /js, /favicon.ico); gtag and og:image kept absolute. <html lang=\"de\">, og:locale de_DE added after og:site_name, robots noindex,follow with the DRAFT comment line above it, and a de hreflang alternate added (4 alternates total)."
+  ],
+  "suggestedLlmsTxtEntry": "/de/blog/cost-of-automating-lead-follow-up — German (de). Real 2026 numbers for a lead follow up system: build cost of 1,000 to 5,000 dollars, monthly platform fees of 50 to 300 dollars, plus the break even math against one lost deal a month. DRAFT pending native review.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent German review before going live."
+}

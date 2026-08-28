@@ -1,0 +1,78 @@
+{
+  "_meta": {
+    "page": "Blog post — AI client intake automation for law firms: capture every case in under a minute",
+    "sourceFile": "/blog/ai-client-intake-automation-law-firms.html",
+    "outputFile": "/es/blog/ai-client-intake-automation-law-firms.html",
+    "slug": "ai-client-intake-automation-law-firms",
+    "language": "es", "locale": "es-ES", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú.",
+    "hadForm": false,
+    "note": "Full blog post translated: head/meta, JSON-LD (Article, Organization, BreadcrumbList, FAQPage), nav, breadcrumbs, body prose, answer capsules, key takeaways, data table, FAQ, related reading, CTA band, footer, alt text and aria-labels. No lead/audit <form> in this post, so no window.__i18n block was added. Internal links repointed to /es; externals, mailto, tel, /privacy, /terms, sitemap left unchanged."
+  },
+  "head": {
+    "title": "Automatización de admisión de clientes con IA para bufetes (2026)",
+    "description": "Cómo la IA de admisión atiende cada llamada, revisa conflictos y agenda consultas en menos de 60 segundos. Cifras reales de 2026 y un plan de implementación.",
+    "keywords": "automatización de admisión de clientes para bufetes, IA de admisión para bufetes, automatizar admisión de clientes, tiempo de respuesta a leads legales, agente de admisión con IA para abogados, automatización de admisión en derecho de familia, automatización de admisión en lesiones personales",
+    "canonical": "https://innovariatech.space/es/blog/ai-client-intake-automation-law-firms",
+    "robots": "noindex, follow",
+    "hreflang": ["en → /blog/<slug>", "es → /es/blog/<slug>", "x-default → /blog/<slug>"],
+    "og:title": "Automatización de admisión de clientes con IA para bufetes: captura cada caso en menos de un minuto",
+    "og:description": "La mayoría de los bufetes responde solo a un tercio de los correos de posibles clientes. Así es como la IA de admisión captura cada caso, revisa conflictos y agenda consultas en torno a los horarios de audiencia.",
+    "og:locale": "es_ES",
+    "twitter:title": "Automatización de admisión de clientes con IA para bufetes (2026)",
+    "twitter:description": "Cómo la IA de admisión captura cada caso, revisa conflictos y agenda consultas en menos de 60 segundos."
+  },
+  "headings": {
+    "h1": "Automatización de admisión de clientes con IA para bufetes: captura cada caso en menos de un minuto",
+    "kicker": "Legal",
+    "post_meta": "Publicado el 27 de julio de 2026 · por Ahsan Ilyas, fundador de Innovaria Tech · 9 min de lectura",
+    "answer_capsule_label": "Respuesta rápida:",
+    "key_takeaways_h2": "Puntos clave",
+    "h2_intake_problem": "El problema de admisión que está a la vista de todos",
+    "h2_what_it_does": "Qué hace en realidad la automatización de admisión de clientes con IA",
+    "h3_answers": "Atiende cada llamada y consulta, de día y de noche",
+    "h3_captures": "Captura el asunto en una sola conversación estructurada",
+    "h3_screens": "Revisa conflictos y encaje antes de agendar",
+    "h3_books": "Agenda consultas cualificadas de forma automática",
+    "h2_line_never_cross": "El límite que la IA de admisión no debe cruzar nunca",
+    "h2_numbers": "Los números que ven los bufetes tras arrancar",
+    "h2_cost": "Cuánto cuesta y en cuánto se paga solo",
+    "h2_stack": "La pila tecnológica detrás de una implementación de admisión",
+    "h2_how_to_start": "Cómo empezar sin construir de más",
+    "h2_faq": "Preguntas frecuentes",
+    "h2_related": "Lecturas relacionadas",
+    "cta_band_h2": "¿Cuántas personas colgaron mientras estabas en los tribunales?"
+  },
+  "schema": {
+    "breadcrumb": ["Inicio", "Blog", "Automatización de admisión de clientes con IA para bufetes"],
+    "article": {
+      "headline": "Automatización de admisión de clientes con IA para bufetes: captura cada caso en menos de un minuto (2026)",
+      "inLanguage": "es",
+      "url_id": "https://innovariatech.space/es/blog/ai-client-intake-automation-law-firms"
+    },
+    "faq": [
+      "¿Qué es la automatización de admisión de clientes con IA para bufetes?",
+      "¿La IA de admisión da asesoría legal?",
+      "¿Cuánto cuesta la automatización de admisión de clientes con IA?",
+      "¿Se integra con Clio o con nuestro sistema de gestión del despacho?",
+      "¿Los datos de admisión de clientes se mantienen confidenciales?"
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish search intent for legal-automation buyers, not literal translations. 'admisión de clientes' matches the legal glossary; both 'bufete' and 'despacho' are common across ES/LATAM.",
+    "primary": ["automatización de admisión de clientes para bufetes", "IA de admisión para bufetes", "automatizar admisión de clientes"],
+    "secondary": ["agente de admisión con IA para abogados", "tiempo de respuesta a leads legales", "integración de admisión con Clio", "cuánto cuesta la automatización de admisión legal"]
+  },
+  "translatorNotes": [
+    "FLAG — LEGAL-ETHICS JURISDICTION SENSITIVITY: this post draws the line between what an intake agent may do (gather facts, confirm matter types, schedule consultations) and what it must not do (give legal advice, assess case strength). It references unauthorized practice of law, attorney handoff/escalation, and client confidentiality/privilege. These duties differ by jurisdiction (US state bars, EU/LATAM bar rules). A qualified legal reviewer in the target market must confirm the Spanish wording does not overstate what automation may do or imply legal advice. 'Unauthorized practice of law' rendered as 'ejercicio no autorizado de la abogacía'; 'privilege/confidentiality' rendered as 'secreto profesional/confidencialidad' — both concepts are jurisdiction-sensitive and require legal review.",
+    "Legal glossary applied consistently: client intake → admisión de clientes / admisión; law firm → bufete (with 'despacho' used where natural, and in the fixed term 'sistema de gestión del despacho'); attorney → abogado; matter/case → asunto/caso; conflicts → conflictos / revisión de conflictos; consultation → consulta; legal advice → asesoría legal; confidentiality → confidencialidad; retainer/retained client → encargo / cliente contratado. 'Clio' kept as-is.",
+    "Register: informal tú throughout. No em-dashes used anywhere (mdash entities kept only inside the data table as en-dash-style placeholders matching the English source's &mdash; empty cells).",
+    "Kept exact: numbers/percentages (33%, 40%, 48%, 56%, 73%, 42 por ciento), read-time (9 min de lectura), date (27 de julio de 2026 / Julio 2026 style), brand/tool names (Clio, Twilio, Calendly, n8n, Make, Clio Legal Trends Report), acronym API, 'Innovaria Tech Limited', email info@innovariatech.space, phone +1 601 860 1258. Currency: '$1,000 and $5,000' → '1.000 y 5.000 dólares'; '$50 to $300' → '50 a 300 dólares'.",
+    "Internal links repointed to /es: brand → /es; nav Servicios/Sectores/Casos de éxito/Nosotros/Blog/Contacto and their submenus → /es/...; body links (industries/legal, case-studies, cost-of-automating-lead-follow-up, best-automation-tools-service-businesses, services/ai-voice-agents, services/lead-automation, services/workflow-automation, contact) and all Related-reading links → /es/... or /es/blog/<slug>. English blog slugs kept unchanged. Footer company/services links → /es.",
+    "Left unchanged (per rules): /privacy, /terms, sitemap.xml, mailto:, tel:, LinkedIn author URL, Unsplash image URLs, gtag, og:image absolute URL. lang-switch EN link → /blog/<slug> (English source).",
+    "Some referenced Spanish target pages (e.g. /es/blog/cost-of-automating-lead-follow-up, /es/blog/ai-real-estate-lead-generation) are part of the same in-progress translation batch and resolve once those drafts ship."
+  ],
+  "suggestedLlmsTxtEntry": "/es/blog/ai-client-intake-automation-law-firms — Spanish (es). Innovaria Tech guide to AI client intake automation for law firms: how an intake agent answers every call and web enquiry, captures the matter once, screens for conflicts and fit, and books consultations in under a minute, plus what it costs, the tool stack, and the legal-ethics line it must never cross. DRAFT pending native + legal review.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live. Legal-ethics wording is jurisdiction-sensitive and additionally requires review by someone familiar with the target market's bar/professional-conduct rules."
+}

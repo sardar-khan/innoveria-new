@@ -1,0 +1,123 @@
+{
+  "_meta": {
+    "sourcePage": "services/social-automation.html",
+    "targetPage": "de/services/social-automation.html",
+    "language": "de",
+    "locale": "de-DE",
+    "dir": "ltr",
+    "status": "DRAFT — needs native/fluent German review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Standard German, informal du.",
+    "note": "has form"
+  },
+  "head": {
+    "title": "Social-Media-Automatisierung für LinkedIn | Innovaria",
+    "description": "Social-Media-Automatisierung für LinkedIn und X: Entwürfe in deiner Stimme, menschliche Freigabe, geplante Veröffentlichung. Wir nutzen es selbst. Kostenlose Analyse buchen.",
+    "ogTitle": "Social-Media-Automatisierung für LinkedIn | Innovaria",
+    "ogDescription": "Posting-Systeme für LinkedIn und X: Entwürfe in deiner Stimme, ein Freigabeschritt, geplante Veröffentlichung, Wiederverwendung von Inhalten. Wir nutzen es täglich selbst.",
+    "ogLocale": "de_DE",
+    "twitterTitle": "Social-Media-Automatisierung für LinkedIn | Innovaria",
+    "twitterDescription": "Posting-Systeme für LinkedIn und X: Entwürfe in deiner Stimme, ein Freigabeschritt, geplante Veröffentlichung, Wiederverwendung von Inhalten. Wir nutzen es täglich selbst.",
+    "canonical": "https://innovariatech.space/de/services/social-automation"
+  },
+  "headings": {
+    "h1": "Social-Media-Automatisierung, die postet, während du das Geschäft führst",
+    "hero_lede": "Social-Media-Automatisierung macht aus deinem Fachwissen einen stetigen Strom an LinkedIn- und X-Posts: Entwürfe in deiner Stimme, ein menschlicher Freigabeschritt, geplante Veröffentlichung und die Wiederverwendung deiner besten Inhalte. Du bist jeden Tag präsent, ohne jeden Morgen zu schreiben. Wir wissen, dass es funktioniert, weil unser eigenes LinkedIn auf demselben System läuft.",
+    "sections": [
+      "Warum dein Posten immer am Donnerstag einschläft",
+      "Ein Posting-System, gebaut auf deinem echten Fachwissen",
+      "Was sich ändert, wenn dein Posting-System live geht",
+      "Vom stillen Konto zur täglichen Präsenz in vier Schritten",
+      "Wir sind unser eigener am längsten laufender Kunde",
+      "Unser eigenes LinkedIn läuft auf diesem System",
+      "Veyrais: das LinkedIn-System, das wir gebaut haben und täglich nutzen",
+      "Offizielle APIs und ein Mensch an jedem Veröffentlichen-Knopf",
+      "Social-Media-Automatisierung, direkt beantwortet",
+      "Bleib jeden Tag sichtbar, ohne jeden Morgen zu schreiben",
+      "Fordere deine kostenlose Content-Analyse an",
+      "Erkunde bestimmte Systeme und Branchen"
+    ]
+  },
+  "schema": {
+    "service_name": "Social-Media-Automatisierung",
+    "service_description": "Social-Media-Automatisierung für LinkedIn und X: Post-Entwürfe, die aus deinem Fachwissen und in deiner Stimme entstehen, ein menschlicher Freigabeschritt, geplante Veröffentlichung über offizielle APIs und die Wiederverwendung deiner besten Inhalte.",
+    "breadcrumb": [
+      { "position": 1, "name": "Startseite", "item": "https://innovariatech.space/de/" },
+      { "position": 2, "name": "Leistungen", "item": "https://innovariatech.space/de/services" },
+      { "position": 3, "name": "Social-Media-Automatisierung", "item": "https://innovariatech.space/de/services/social-automation" }
+    ],
+    "faq": [
+      {
+        "q": "Was ist Social-Media-Automatisierung?",
+        "a": "Social-Media-Automatisierung baut ein Posting-System rund um dein Fachwissen: Entwürfe, die aus deinen Ideen und deinem Material in deiner Stimme entstehen, ein menschlicher Freigabeschritt, geplante Veröffentlichung auf LinkedIn und X und die Wiederverwendung deiner besten Inhalte. Du bleibst jeden Tag sichtbar, ohne jeden Morgen zu schreiben."
+      },
+      {
+        "q": "Klingen die Posts wie ich?",
+        "a": "Ja. Das System wird auf deinen eigenen Posts, Gesprächen und Notizen trainiert, damit die Entwürfe deinen Wortschatz, deine Meinungen und deine Art, Dinge zu erklären, verwenden. Du gibst jeden Post frei oder bearbeitest ihn, bevor er veröffentlicht wird, also geht nichts raus, was du nicht wirklich sagen würdest."
+      },
+      {
+        "q": "Welche Plattformen deckt ihr ab?",
+        "a": "LinkedIn und X sind die Kern-Builds, weil dort Gründer und Dienstleistungsunternehmen Kunden gewinnen. Dieselbe Pipeline lässt sich auf eine Facebook-Seite oder Instagram erweitern, wenn diese Kanäle für dein Publikum wichtig sind."
+      },
+      {
+        "q": "Gebe ich Posts frei, bevor sie veröffentlicht werden?",
+        "a": "Immer. Entwürfe landen in einer Prüf-Warteschlange, in der du jeden einzelnen in ein bis zwei Minuten freigibst, bearbeitest oder ablehnst. Nichts wird ohne menschliche Entscheidung veröffentlicht, und du kannst die gesamte Pipeline jederzeit pausieren."
+      },
+      {
+        "q": "Was kostet Social-Media-Automatisierung?",
+        "a": "Ein komplettes Posting-System kostet in der Regel zwischen 1.000 und 5.000 US-Dollar im Aufbau, plus 50 bis 300 US-Dollar pro Monat an Plattformgebühren. Das ist ein Bruchteil des Honorars eines Ghostwriters, und das System gehört dir. Wir nennen einen Festpreis nach einer kostenlosen Analyse."
+      },
+      {
+        "q": "Ist automatisiertes Posten bei LinkedIn erlaubt?",
+        "a": "Ja, wenn es richtig gemacht wird. Wir planen über offizielle APIs und zugelassene Publishing-Tools, behalten bei jedem Post einen menschlichen Prüfschritt und automatisieren niemals Verbindungs-Spam oder Massennachrichten. Das hält dein Konto sicher und konform mit den Plattformregeln."
+      }
+    ]
+  },
+  "form": {
+    "name_label": "Dein Name",
+    "email_label": "Geschäftliche E-Mail",
+    "company_label": "Unternehmen",
+    "bottleneck_label": "Dein größter Engpass gerade jetzt",
+    "bottleneck_placeholder": "Beispiel: Ich poste zwei Wochen lang, dann übernimmt die Kundenarbeit und das Konto wird still",
+    "submit": "Kostenlose Analyse anfordern",
+    "errors": {
+      "name": "Bitte gib deinen Namen ein.",
+      "email": "Bitte gib eine gültige E-Mail-Adresse ein.",
+      "company": "Bitte gib den Namen deines Unternehmens ein.",
+      "bottleneck": "Gib uns ein, zwei Sätze, damit das Analyse-Gespräch gleich nützlich startet."
+    },
+    "i18n": {
+      "fixFields": "Bitte korrigiere die markierten Felder und versuche es erneut.",
+      "sending": "Wird gesendet...",
+      "thanksConfirmed": "Danke, {name}. Eine Bestätigung ist gerade in deinem Posteingang gelandet. Eine Person meldet sich während der Geschäftszeiten bei dir.",
+      "thanksReceived": "Danke, {name}. Deine Anfrage ist bei uns angekommen und das Team kann sie sehen. Unsere automatische Bestätigungs-E-Mail ist diesmal nicht rausgegangen, also schreib uns direkt an info@innovariatech.space, um sicherzugehen.",
+      "errorSuffix": "Du kannst uns auch direkt an info@innovariatech.space schreiben."
+    }
+  },
+  "targetedKeywords": {
+    "note": "German-market keyword guidance for a native reviewer; not a literal translation of the English page.",
+    "primary": [
+      "Social-Media-Automatisierung",
+      "LinkedIn-Automatisierung",
+      "Social-Media-Automatisierung LinkedIn"
+    ],
+    "secondary": [
+      "LinkedIn-Posts automatisieren",
+      "Content-Automatisierung LinkedIn",
+      "geplante Veröffentlichung LinkedIn",
+      "Ghostwriter Alternative LinkedIn",
+      "Posting-System LinkedIn und X"
+    ]
+  },
+  "translatorNotes": [
+    "Informal du used throughout, matching the rest of the /de site.",
+    "'Social media automation services' rendered as 'Social-Media-Automatisierung' per glossary; the English plural 'services' is dropped in the German noun.",
+    "Currency converted: '$1,000 and $5,000' -> '1.000 und 5.000 US-Dollar'; '$50 to $300' -> '50 bis 300 US-Dollar'.",
+    "Brand and product names kept as-is: LinkedIn, X, Meta context, Veyrais, n8n, Make, OpenAI, Claude.",
+    "'you own everything we build' -> 'Dir gehört alles, was wir bauen' per glossary.",
+    "'roadmap' -> 'Fahrplan', 'fixed price' -> 'Festpreis', 'audit' (the offering) -> 'Analyse'.",
+    "'Ghostwriter' kept as the established German loanword.",
+    "No em-dashes used anywhere; commas or restructured sentences instead."
+  ],
+  "suggestedLlmsTxtEntry": "German (draft) translation of the Social Media Automation service page: a LinkedIn and X posting system that drafts posts in your voice, holds each for human approval, publishes on schedule through official APIs, and recycles your best content.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent German review before going live."
+}

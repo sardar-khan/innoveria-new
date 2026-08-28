@@ -1,0 +1,74 @@
+{
+  "_meta": {
+    "page": "Blog post — How to Choose an AI Automation Agency (Buyer's Guide)",
+    "sourceFile": "/blog/how-to-choose-ai-automation-agency.html",
+    "outputFile": "/de/blog/how-to-choose-ai-automation-agency.html",
+    "language": "de", "locale": "de-DE", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent German review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Standard German, informal du.",
+    "note": "Full blog post translated: head/meta, 4 JSON-LD blocks, nav, breadcrumbs, hero, lede, answer capsule, key takeaways, body sections, two data tables (agency types, red vs green flags), seven-question section, inline CTAs, FAQ, related reading, CTA band, footer, alt text and aria-labels. Had-form: no lead/audit form exists on this page, so no window.__i18n form block was added. Internal links repointed to /de; external links, /privacy, /terms, sitemap, mailto, tel unchanged."
+  },
+  "head": {
+    "title": "Wie du eine KI-Automatisierungsagentur auswählst (2026)",
+    "description": "Der Agenturmarkt erreichte 2026 12.000 Anbieter, und die meisten sind unbewährt. Die 7 Fragen, Warnsignale und Preissignale, die den richtigen KI-Automatisierungspartner verraten.",
+    "keywords": "wie man eine KI-Automatisierungsagentur auswählt, KI-Automatisierungsagentur, Fragen an eine KI-Automatisierungsagentur, Warnsignale KI-Automatisierungsagentur, beste KI-Automatisierungsagentur für kleine Unternehmen, Automatisierungsagentur beauftragen",
+    "canonical": "https://innovariatech.space/de/blog/how-to-choose-ai-automation-agency",
+    "robots": "noindex, follow",
+    "og:title": "Wie du eine KI-Automatisierungsagentur auswählst: 7 Fragen, die den richtigen Partner verraten (2026)",
+    "og:description": "12.000 Agenturen, die meisten unbewährt. Die sieben Fragen, Warnsignale und Preissignale, die einen echten Umsetzungspartner von einer Demo-Bude unterscheiden.",
+    "og:locale": "de_DE",
+    "twitter:title": "Wie du eine KI-Automatisierungsagentur auswählst (2026)",
+    "twitter:description": "12.000 Agenturen, die meisten unbewährt. Sieben Fragen und die Warnsignale, die den richtigen Partner verraten."
+  },
+  "headings": {
+    "hero_h1": "Wie du eine KI-Automatisierungsagentur auswählst: 7 Fragen, die den richtigen Partner verraten",
+    "h2_harder": "Warum die Auswahl schwerer ist als früher",
+    "h2_match_type": "Schritt eins: Passe den Agenturtyp zu deiner Aufgabe an",
+    "h2_seven_questions": "Die sieben Fragen, die den richtigen Partner verraten",
+    "h3_q1_ownership": "1. Wem gehören die Konten und die Workflows?",
+    "h3_q2_integration": "2. Wie wird das in das integriert, was wir schon nutzen?",
+    "h3_q3_price": "3. Wie hoch ist der Preis, und was sind die einzelnen Posten?",
+    "h3_q4_timeline": "4. Wie lange bis zum ersten funktionierenden Ergebnis?",
+    "h3_q5_support": "5. Wie sieht der Support nach dem Launch aus?",
+    "h3_q6_data": "6. Wie geht ihr mit unseren Daten und unserer Privatsphäre um?",
+    "h3_q7_proof": "7. Kannst du mir ein echtes Projekt wie unseres zeigen?",
+    "h2_red_flags": "Die Warnsignale, bei denen sich das Weggehen lohnt",
+    "h2_no_agency": "Der ehrliche Teil: wann du keine Agentur brauchst",
+    "h2_our_approach": "Wie unser Ansatz zu diesen Kriterien passt",
+    "h2_faq": "Häufig gestellte Fragen",
+    "h2_related": "Verwandte Beiträge",
+    "h2_takeaways": "Wichtige Erkenntnisse",
+    "cta_band_h2": "Der schnellste Weg, eine Agentur zu beurteilen, ist es, ihr bei der Arbeit zuzusehen"
+  },
+  "schema": {
+    "breadcrumb": ["Startseite", "Blog", "Wie du eine KI-Automatisierungsagentur auswählst"],
+    "article": {
+      "headline": "Wie du eine KI-Automatisierungsagentur auswählst: 7 Fragen, die den richtigen Partner verraten (2026)",
+      "inLanguage": "de"
+    },
+    "faq": [
+      "Wie wähle ich eine KI-Automatisierungsagentur aus?",
+      "Welche Fragen sollte ich einer KI-Automatisierungsagentur vor der Beauftragung stellen?",
+      "Was sind die Warnsignale bei der Beauftragung einer Automatisierungsagentur?",
+      "Wie viel sollte eine KI-Automatisierungsagentur kosten?",
+      "Brauche ich überhaupt eine Automatisierungsagentur, oder kann ich es selbst machen?"
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched German search terms, not literal translations.",
+    "primary": ["KI-Automatisierungsagentur auswählen", "KI-Automatisierungsagentur", "Automatisierungsagentur beauftragen"],
+    "secondary": ["Fragen an eine KI-Agentur vor der Beauftragung", "Warnsignale Automatisierungsagentur", "was kostet eine KI-Automatisierungsagentur"]
+  },
+  "translatorNotes": [
+    "Register: informal du throughout, consistent Standard German.",
+    "Two data TABLES translated in full (captions, headers, all cells): 'Types of AI automation partner' and 'Red flags vs green flags'. The scoped .data-table CSS and its English code comment left unchanged (non-visible).",
+    "'agency' -> 'Agentur'; 'red flags' -> 'Warnsignale'; 'green flag' -> 'positives Signal'; 'build partner' -> 'Umsetzungspartner'; 'vendor lock in' -> 'Anbieterbindung', 'no vendor lock in' -> 'keine Anbieterbindung'; 'line items' -> 'einzelne Posten'; 'lump sum' -> 'Pauschalsumme/Pauschalpreis'; 'fixed quote' -> 'Festangebot'; 'scope (verb)' -> 'den Umfang festlegen'; 'handover' -> 'Übergabe'; 'shortlist' -> 'Auswahlliste'; 'demo shop' -> 'Demo-Bude'; 'payback' -> 'Amortisation'.",
+    "Numbers use German thousands dot: '2,000' -> '2.000', '12,000' -> '12.000'. Prices: '$1,000 to $8,000' -> '1.000 bis 8.000 US-Dollar'. Read-time '11 min read' -> '11 Min. Lesezeit'. Date 'August 5, 2026' -> '5. August 2026' (published_time timestamp kept 2026-08-05).",
+    "Brand/legal names kept exact: Innovaria Tech, Innovaria Tech Limited, Ahsan Ilyas; tool names Zapier, Make, n8n, CRM, ROI kept as-is.",
+    "Internal links repointed to /de equivalents (blog cross-links to how-much-does-ai-automation-cost, best-automation-tools-service-businesses, cost-of-automating-lead-follow-up, ai-automation-accounting-firms-client-onboarding; /de/services/*, /de/industries, /de/contact, footer, breadcrumbs, brand). English slugs kept in paths. lang-switch: EN -> /blog/..., ES -> /es/blog/..., DE current.",
+    "External links unchanged: Unsplash images, LinkedIn author, sitemap. /privacy and /terms left as-is (footer labels translated to Datenschutz / AGB). No /veyrais link present on this page.",
+    "No lead/audit <form> exists on this post, so no window.__i18n form block was inserted (had-form: no)."
+  ],
+  "suggestedLlmsTxtEntry": "/de/blog/how-to-choose-ai-automation-agency — German (de). A buyer's guide to choosing an AI automation agency: matching the agency type to the job, the seven questions that reveal the right fit, the red flags to walk away from, and when you do not need an agency at all. DRAFT pending native review.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent German review before going live."
+}

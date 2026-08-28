@@ -1,0 +1,75 @@
+# Innovaria Tech
+
+> Innovaria Tech Limited is an AI and automation agency. We design, build, and hand over automation systems that answer business leads in under 60 seconds, answer phone calls 24/7 with AI voice agents, run chatbots trained on the client's own content, automate email follow up, and connect business tools with custom n8n, Make, and Zapier workflows. Clients own every account and workflow we build: fixed prices, no vendor lock in, documentation included, 30 days of support with every build.
+
+Site: https://innovariatech.space
+Contact: info@innovariatech.space, +1 601 860 1258 (phone and WhatsApp)
+Primary conversion: free 30 minute automation audit with a written roadmap the prospect keeps, https://innovariatech.space/contact
+
+## Services
+
+- [AI Automation Services](https://innovariatech.space/services/ai-automation): the umbrella system connecting lead response, calls, email, and workflows
+- [AI Chatbot Development](https://innovariatech.space/services/ai-chatbot-development): website and WhatsApp bots trained on the client's real content
+- [AI Voice Agents](https://innovariatech.space/services/ai-voice-agents): phones answered on the first ring 24/7, bookings into calendars, human handoff with summaries
+- [Generative AI Development](https://innovariatech.space/services/generative-ai-development): custom AI drafting, document generation, and data extraction grounded on client data
+- [AI Consulting](https://innovariatech.space/services/ai-consulting): vendor neutral roadmaps ranking automation opportunities by payback
+- [Lead Automation](https://innovariatech.space/services/lead-automation): capture, qualification, routing, and replies within 60 seconds on every channel
+- [Email Automation](https://innovariatech.space/services/email-automation): inbox triage, instant acknowledgements, follow up sequences that stop when a human replies
+- [Workflow Automation](https://innovariatech.space/services/workflow-automation): custom n8n, Make, and Zapier builds; self hosted n8n for near zero platform fees
+- [Social Media Automation](https://innovariatech.space/services/social-automation): LinkedIn and X posting systems with an approval step; we run our own (Veyrais)
+
+## Industries
+
+- [Real Estate](https://innovariatech.space/industries/real-estate): instant portal lead replies, AI phone agents for viewings, fair housing aware
+- [Healthcare](https://innovariatech.space/industries/healthcare): AI receptionist, no show reduction, digital intake, HIPAA aware with BAAs
+- [Ecommerce](https://innovariatech.space/industries/ecommerce): cart recovery, order status bots, proactive shipping updates, Shopify integrations
+- [Legal](https://innovariatech.space/industries/legal): AI intake agents, conflict screening questions, consultation booking, confidentiality first
+- [Finance & Accounting](https://innovariatech.space/industries/finance): document collection, client onboarding, QuickBooks and Xero workflows
+- [Education](https://innovariatech.space/industries/education): enrollment enquiry agents, tour booking, family follow up
+- [Manufacturing](https://innovariatech.space/industries/manufacturing): RFQ intake and routing, quote follow up, ERP order status answers
+- [Logistics](https://innovariatech.space/industries/logistics): shipment tracking agents, proactive delay alerts, carrier chase workflows
+
+## Proof
+
+- [Case Studies](https://innovariatech.space/case-studies): anonymized representative results including a 12 agent brokerage cutting lead response from 4+ hours to 90 seconds (+34% viewings), a clinic cutting no shows 31%, an ecommerce brand recovering $11k monthly, and a law firm booking 42% more consultations
+- [Veyrais](https://innovariatech.space/veyrais): our own LinkedIn automation, built in house and running in production; proof of capability, not a product for sale
+
+## Content
+
+- [Blog](https://innovariatech.space/blog): practical automation guides with real cost numbers, written by founder Ahsan Ilyas
+
+### Buyer guides
+
+- [How much does AI automation cost in 2026](https://innovariatech.space/blog/how-much-does-ai-automation-cost): real prices by tier and by workflow, monthly fees, payback math, and the data cleanup line item most quotes leave out
+- [How to choose an AI automation agency](https://innovariatech.space/blog/how-to-choose-ai-automation-agency): seven questions on ownership, integration, pricing, timeline, support, data handling, and proof, plus the red flags worth walking away from
+- [What automating lead follow up actually costs](https://innovariatech.space/blog/cost-of-automating-lead-follow-up): build cost, monthly platform fees, and the break even math against one lost deal a month
+- [Best automation tools for service businesses in 2026](https://innovariatech.space/blog/best-automation-tools-service-businesses): n8n versus Make versus Zapier, plus the voice and chatbot platforms we deploy, with no affiliate links
+- [AI chatbots for business: what they can and cannot do](https://innovariatech.space/blog/ai-chatbots-for-business-what-they-can-and-cannot-do): an honest read on what chatbots do well, failure modes like hallucination and missing handoff, and when a chatbot is not worth building yet
+- [Generative AI for small business: what it is actually good for](https://innovariatech.space/blog/generative-ai-for-small-business-what-it-is-actually-good-for): genuine use cases like drafting and summarizing, the hallucination risk, the real difference between generative AI and AI automation, and where a human must stay in the loop
+- [AI social automation: reply to every comment and DM](https://innovariatech.space/blog/ai-social-automation-reply-comments-dms-without-hiring): automating comment and DM replies, lead qualification through social messaging, Meta platform compliance and account safety, AI disclosure practice, and pricing
+- [What AI consulting actually includes before you build](https://innovariatech.space/blog/what-ai-consulting-actually-includes-before-you-build): what a real AI consulting engagement should cover, red flags that signal a sales driven recommendation, and why the assessment stage should not be the expensive part
+- [Workflow automation for law firms: what actually gets automated](https://innovariatech.space/blog/workflow-automation-for-law-firms-what-actually-gets-automated): the five legal workflows that automate cleanly, intake, conflict checks, deadline tracking, document generation, and billing, plus an explicit list of what must stay with attorneys
+- [AI voice agents for healthcare clinics: fewer no shows, no missed calls](https://innovariatech.space/blog/ai-voice-agents-for-healthcare-clinics-fewer-no-shows): how AI voice agents answer every clinic call, book against real availability, send confirmable reminders, and collect intake, with a hard boundary around never assessing symptoms and HIPAA treated as a scoping requirement
+- [AI automation versus hiring a virtual assistant: an honest comparison](https://innovariatech.space/blog/ai-automation-vs-hiring-a-virtual-assistant): a grounded, line by line comparison of AI automation and hiring a virtual assistant, covering true cost structure, speed, consistency, and where judgment still requires a person, with a side by side table and why most small businesses end up combining both
+- [How to automate your first lead reply with n8n: a step by step tutorial](https://innovariatech.space/blog/how-to-automate-your-first-lead-reply-with-n8n): a hands on, numbered walkthrough for building a basic automated lead reply in n8n, covering webhook setup, data structuring, an AI drafted reply grounded in real business information, automatic sending, lead logging, and moving from test to production, with explicit limits on what a simple version should not attempt
+- [Veyrais: the LinkedIn AI content tool we built for ourselves](https://innovariatech.space/blog/veyrais-linkedin-ai-content-tool-how-it-works): product overview of Veyrais, the LinkedIn content tool Innovaria Tech built and runs in production, covering voice tuned drafting, trend sourcing from Reddit, Medium, Google and LinkedIn, batch scheduling, image and carousel generation, a review step, and real pricing at 15, 25, and 40 dollars a month across Starter, Growth, and Ultimate, compared against Taplio, MagicPost, and Kleo
+
+### Industry guides
+
+- [AI automation for education](https://innovariatech.space/blog/ai-automation-education-admissions-response-time): cutting admissions response time, reducing tour no shows with reminders, and following up with applicants who go quiet
+- [AI automation for logistics](https://innovariatech.space/blog/ai-automation-logistics-shipment-status-calls): answering shipment status calls from live TMS data, proactive delay alerts, and driver dispatch
+- [AI automation for manufacturers](https://innovariatech.space/blog/ai-automation-manufacturers-cut-quote-turnaround): reading incoming RFQs, pricing repeat parts from ERP data, and routing exceptions to the estimator
+- [AI automation for accounting firms](https://innovariatech.space/blog/ai-automation-accounting-firms-client-onboarding): cutting client onboarding from weeks to days and document collection time by about 70 percent
+- [WISMO automation for ecommerce](https://innovariatech.space/blog/wismo-ai-order-tracking-automation-ecommerce): removing the 40 to 60 percent of support tickets that ask where is my order
+- [AI answering service for home services](https://innovariatech.space/blog/ai-answering-service-home-services): capturing the calls contractors miss and booking jobs into ServiceTitan, Jobber, or Housecall Pro
+- [AI client intake automation for law firms](https://innovariatech.space/blog/ai-client-intake-automation-law-firms): answering every call, screening conflicts, and booking consultations without giving legal advice
+- [AI automation for medical clinics](https://innovariatech.space/blog/ai-automation-medical-clinics): cutting patient no shows, ending phone tag, and filling cancellations while staying HIPAA compliant
+- [AI for real estate lead generation](https://innovariatech.space/blog/ai-real-estate-lead-generation): replying to every enquiry in under 60 seconds, qualifying buyers, and booking viewings around the clock
+- [How real estate teams use AI automation in 2026](https://innovariatech.space/blog/how-real-estate-uses-ai-automation-2026): the five systems top teams run, with realistic numbers
+
+## Key facts
+
+- A single workflow ships in 1 to 2 weeks; a complete system in 2 to 4 weeks
+- Typical full system build: $1,000 to $5,000 plus $50 to $300 monthly platform fees
+- Clients see the automation working on their real data before final payment
+- Everything runs in client owned accounts with handover documentation

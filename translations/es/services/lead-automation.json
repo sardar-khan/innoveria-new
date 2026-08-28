@@ -1,0 +1,61 @@
+{
+  "_meta": {
+    "page": "service: Lead Automation",
+    "sourceFile": "/services/lead-automation.html",
+    "outputFile": "/es/services/lead-automation.html",
+    "language": "es", "locale": "es-ES", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú (same register as the rest of the set).",
+    "note": "Full translated copy is in the rendered page. This file records head/meta, schema strings, FAQ, targeted keywords, and reviewer notes."
+  },
+  "head": {
+    "title": "Automatización de leads: responde en 60 segundos | Innovaria",
+    "description": "Servicios de automatización de leads que responden cada consulta en menos de 60 segundos, la califican y la derivan a la persona indicada. A precio cerrado.",
+    "canonical": "https://innovariatech.space/es/services/lead-automation",
+    "robots": "noindex, follow",
+    "og": { "title": "Automatización de leads: responde en 60 segundos | Innovaria", "description": "Cada consulta respondida en menos de 60 segundos, calificada y derivada a la persona indicada. Automatización de leads a precio cerrado que es tuya.", "locale": "es_ES" }
+  },
+  "headings": {
+    "hero_h1": "Servicios de automatización de leads que responden mientras tu competencia duerme",
+    "problems_h2": "Por qué los buenos leads le compran a otro",
+    "solution_h2": "Un sistema que trata cada lead como lo haría tu mejor vendedor",
+    "outcomes_h2": "Qué cambia cuando la automatización de leads entra en marcha",
+    "how_h2": "De un pipeline con fugas a un sistema en vivo en cuatro pasos",
+    "why_h2": "Velocidad que puedes probar antes de firmar nada",
+    "proof_h2": "Una inmobiliaria de 12 agentes dejó de perder los leads de la tarde",
+    "tech_h2": "Construido sobre el CRM y los canales que ya pagas",
+    "faq_h2": "Servicios de automatización de leads, respondidos sin rodeos",
+    "finalCta_h2": "Descubre cuántos leads perdiste en los últimos 30 días",
+    "contact_h2": "Solicita tu auditoría gratis del flujo de leads"
+  },
+  "schema": {
+    "inLanguage": "es",
+    "serviceName": "Servicios de automatización de leads",
+    "serviceDescription": "Servicios de automatización de leads que capturan las consultas de cada canal, envían una respuesta personalizada en menos de 60 segundos a cualquier hora, hacen tus preguntas de calificación, derivan cada lead a la persona indicada y hacen seguimiento hasta que una persona toma el relevo.",
+    "breadcrumb": ["Inicio", "Servicios", "Servicios de automatización de leads"],
+    "faq": [
+      { "q": "¿Qué son los servicios de automatización de leads?", "a": "Los servicios de automatización de leads construyen sistemas que capturan cada consulta, responden en menos de 60 segundos a cualquier hora, hacen tus preguntas de calificación, derivan cada lead a la persona indicada y siguen haciendo seguimiento hasta que alguien reserva o responde. Configuras las reglas una vez y el sistema las aplica a cada lead, siempre." },
+      { "q": "¿Qué tan rápida es la primera respuesta?", "a": "Menos de 60 segundos, a toda hora. La respuesta va personalizada con el nombre del lead, lo que preguntó y un siguiente paso claro, así que se lee como una persona rápida y no como una respuesta automática. Las consultas del fin de semana o de las 2 de la mañana reciben la misma velocidad que las del martes por la mañana." },
+      { "q": "¿La automatización de leads funciona con nuestro CRM?", "a": "En casi todos los casos, sí. Construimos sobre HubSpot, Pipedrive, Salesforce, GoHighLevel y la mayoría de los CRM del sector. Si tu CRM tiene API, podemos conectarlo. Cada respuesta, respuesta de calificación y traspaso queda registrado automáticamente en el contacto, así que tu pipeline sigue siendo la única fuente de verdad." },
+      { "q": "¿Cuánto cuestan los servicios de automatización de leads?", "a": "Un sistema completo de automatización de leads normalmente cuesta entre 1.000 y 5.000 dólares construirlo, más de 50 a 300 dólares al mes en cuotas de plataforma. Un solo flujo, como respuestas instantáneas en un canal, empieza más abajo. Cotizamos un precio cerrado tras una auditoría gratis, así que no hay contadores por hora ni facturas sorpresa." },
+      { "q": "¿La automatización se siente robótica para los leads?", "a": "No. Cada mensaje está escrito con tu voz, usa los datos del propio lead y pasa a una persona en cuanto empieza una conversación real. La mayoría de los leads nunca se dan cuenta de que la primera respuesta fue automática. Solo notan que respondiste más rápido que todos los demás a los que contactaron." },
+      { "q": "¿Qué canales cubre la automatización de leads?", "a": "Formularios web, consultas de portales de anuncios, email, WhatsApp, mensajes de Facebook e Instagram, SMS y llamadas perdidas. Si un lead puede contactarte por un canal, podemos capturar la consulta ahí y responder por el mismo canal en menos de 60 segundos." }
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish search terms, not literal translations.",
+    "primary": ["automatización de leads", "gestión automática de leads", "respuesta automática a leads"],
+    "secondary": ["responder leads al instante", "calificación de leads automática", "seguimiento automático de clientes potenciales"],
+    "longTail": ["cómo responder leads en menos de un minuto", "automatizar la captación de leads con el CRM", "sistema para no perder leads del portal"]
+  },
+  "translatorNotes": [
+    "Register: informal tú, consistent across the set (tú vs usted is the key global review decision).",
+    "'lead' kept in English (standard). 'pipeline' kept (common in Spanish sales/CRM); reviewer may prefer 'embudo' in places.",
+    "Prices unchanged: '1.000 y 5.000 dólares', '50 a 300 dólares'. Spanish thousands separator.",
+    "'single source of truth' -> 'la única fuente de verdad' (established calque in Spanish tech). 'browser' (a curious, non-buyer) -> 'curioso'.",
+    "Form status messages localized via window.__i18n.form; field labels/placeholder translated in page.",
+    "Cross-links: nav + footer now point ai-automation and lead-automation to their /es versions (both translated); all other service/industry/company links still fall back to English until translated. Final cross-link pass will repoint the rest.",
+    "Breadcrumb 'Servicios' points to English /services hub (Phase 2 page not yet translated)."
+  ],
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live."
+}

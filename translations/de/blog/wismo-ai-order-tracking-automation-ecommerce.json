@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "page": "WISMO automation: how AI order tracking cuts ecommerce support tickets by 60% (blog post)",
+    "sourceFile": "blog/wismo-ai-order-tracking-automation-ecommerce.html",
+    "outputFile": "de/blog/wismo-ai-order-tracking-automation-ecommerce.html",
+    "language": "de",
+    "locale": "de-DE",
+    "dir": "ltr",
+    "status": "DRAFT — needs native/fluent German review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Standard German, informal du.",
+    "note": "No lead/audit form present in this post, so the window.__i18n form-strings script was NOT added."
+  },
+  "head": {
+    "title": "WISMO-Automatisierung: 60% weniger Support-Tickets",
+    "description": "WISMO-Tickets machen 40 bis 60% des E-Commerce-Supports aus. So senkt KI-gestützte Sendungsverfolgung sie, angebunden an deinen Shopify-Store und Helpdesk.",
+    "keywords": "WISMO-Automatisierung, Kundenservice-Automatisierung E-Commerce, KI-Sendungsverfolgung, Shopify Support-Tickets reduzieren, Wo ist meine Bestellung Automatisierung, Support-Automatisierung E-Commerce, Kundenservice-Kosten senken E-Commerce",
+    "canonical": "https://innovariatech.space/de/blog/wismo-ai-order-tracking-automation-ecommerce",
+    "robots": "noindex, follow",
+    "ogTitle": "WISMO-Automatisierung: 60% weniger Support-Tickets im E-Commerce (2026)",
+    "ogDescription": "WISMO macht 40 bis 60 Prozent des E-Commerce-Supports aus. So senkt KI-gestützte Sendungsverfolgung das Volumen, angebunden an deinen Shopify-Store und Helpdesk, ohne Abrechnung pro Ticket.",
+    "ogLocale": "de_DE"
+  },
+  "headings": {
+    "h1": "WISMO-Automatisierung: wie KI-Sendungsverfolgung E-Commerce-Support-Tickets um 60% senkt",
+    "h2": [
+      "Was WISMO ist und warum es deine Warteschlange dominiert",
+      "Der reale Kostenfaktor, in Dollar",
+      "Die zwei Hälften einer WISMO-Lösung",
+      "Wie eine gute automatisierte WISMO-Antwort aussieht",
+      "App oder maßgeschneiderte Lösung: wo jede hinpasst",
+      "Wie du startest, ohne den Support zu stören",
+      "Häufig gestellte Fragen",
+      "Weiterführende Artikel"
+    ],
+    "h3": [
+      "Prävention: beantworte die Frage, bevor sie gestellt wird",
+      "Vermeidung: beantworte die Tickets, die trotzdem eingehen"
+    ]
+  },
+  "schema": {
+    "breadcrumb": [
+      "Startseite",
+      "Blog",
+      "WISMO-Automatisierung für E-Commerce"
+    ],
+    "articleHeadline": "WISMO-Automatisierung: Wie KI-Sendungsverfolgung E-Commerce-Support-Tickets um 60% senkt (2026)",
+    "faq": [
+      "Was bedeutet WISMO im E-Commerce?",
+      "Wie reduziert KI-gestützte Sendungsverfolgung WISMO-Tickets?",
+      "Wie viel kosten WISMO-Tickets einen E-Commerce-Shop?",
+      "Ist eine maßgeschneiderte WISMO-Automatisierung besser als eine Shopify-App?",
+      "Funktioniert WISMO-Automatisierung mit Shopify und meinem Helpdesk?"
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched German-market search terms for order-tracking / WISMO ecommerce support automation, not literal translations of the English keywords.",
+    "primary": [
+      "Kundenservice-Automatisierung E-Commerce",
+      "Shopify Support-Tickets reduzieren",
+      "KI-Sendungsverfolgung"
+    ],
+    "secondary": [
+      "WISMO-Automatisierung",
+      "Wo ist meine Bestellung Automatisierung",
+      "Support-Chatbot für Shopify",
+      "Ticket-Vermeidung mit KI E-Commerce",
+      "automatische Versandbenachrichtigungen"
+    ]
+  },
+  "translatorNotes": [
+    "WISMO handling: the acronym has no German equivalent, so the natural phrase 'Wo ist meine Bestellung?' is used as the primary rendering. The acronym 'WISMO' is kept where the source leans on it (title, headings, quick-answer capsule, FAQ) with an inline gloss the first times it appears ('WISMO (von \"Where Is My Order\", also \"Wo ist meine Bestellung?\")'). English brand/URL slug and the article:section value kept unchanged.",
+    "Informal du used throughout, Standard German. No em-dashes anywhere; the source's comma-spliced appositive style kept with commas/colons.",
+    "Ecommerce glossary: order status -> Bestellstatus, support ticket -> Support-Ticket, deflection -> Vermeidung, helpdesk -> Helpdesk, carrier -> Zusteller, fulfillment -> Fulfillment, self service -> Self-Service, tracking -> Sendungsverfolgung. Brand names kept: Shopify, Gorgias, Zendesk, ShippyPro, eDesk.",
+    "Currency and numbers localized in prose while keeping figures exact: '$5 and $12' -> '5 und 12 US-Dollar', '$5 to $22' -> '5 bis 22 US-Dollar', '$15,000 to $60,000' -> '15.000 bis 60.000 US-Dollar', '3,000' -> '3.000', '$8 each' -> '8 US-Dollar', '$24,000 a month' -> '24.000 US-Dollar im Monat', '$1.84' -> '1,84 US-Dollar'. Table costs '~$3,000' -> '~3.000 US-Dollar' etc. Percentages kept: '40 to 60 percent' -> '40 bis 60 Prozent', '60%' -> '60%'. 'X min read' -> 'X Min. Lesezeit'. 'July 31, 2026' -> '31. Juli 2026'.",
+    "Internal same-site links repointed to /de (nav, breadcrumbs, footer, in-body /de/blog, /de/services and /de/industries links, /de/contact). Left unchanged: /privacy, /terms, sitemap.xml, mailto:, tel:, and external URLs (Unsplash images, LinkedIn author profile, googletagmanager). og:image and gtag kept absolute.",
+    "Language switcher added to nav with EN + ES + DE (DE current). Order of switcher entries: EN, ES, then DE current.",
+    "Article and FAQPage JSON-LD carry inLanguage 'de'; Article mainEntityOfPage @id, breadcrumb item URLs and headline repointed/translated to /de. author/publisher/image/dates and about/mentions entity names left unchanged as identifiers.",
+    "Asset paths changed from ../assets, ../css, ../js, ../favicon.ico to absolute /assets, /css, /js, /favicon.ico."
+  ],
+  "suggestedLlmsTxtEntry": "German translation of the WISMO automation explainer: how AI order-tracking prevention and ticket deflection cut the 40 to 60 percent of ecommerce support tickets asking where an order is, wired into Shopify and the store's helpdesk.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent German review before going live."
+}

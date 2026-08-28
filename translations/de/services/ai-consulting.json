@@ -1,0 +1,80 @@
+{
+  "_meta": {
+    "sourcePage": "services/ai-consulting.html",
+    "targetPage": "de/services/ai-consulting.html",
+    "language": "de",
+    "locale": "de-DE",
+    "dir": "ltr",
+    "status": "DRAFT — needs native/fluent German review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Standard German, informal du.",
+    "note": "Service page WITH a lead form. German window.__i18n form block copied from the sibling de/services/ai-automation.html. Assets root-relative. Three-way EN/ES/DE switcher. noindex,follow draft."
+  },
+  "head": {
+    "title": "KI-Beratung: Erst planen, dann bauen | Innovaria",
+    "description": "KI-Beratung, die deine Workflows abbildet, Automatisierungen nach Payback sortiert und dir einen Festpreis-Fahrplan übergibt. Kostenlose Analyse buchen.",
+    "ogLocale": "de_DE",
+    "ogTitle": "KI-Beratung: Erst planen, dann bauen | Innovaria",
+    "ogDescription": "Wir analysieren deine Workflows, sortieren KI-Chancen nach Payback und übergeben dir einen Festpreis-Fahrplan. Anbieterneutral, keine Bindung.",
+    "twitterTitle": "KI-Beratung: Erst planen, dann bauen | Innovaria",
+    "twitterDescription": "Wir analysieren deine Workflows, sortieren KI-Chancen nach Payback und übergeben dir einen Festpreis-Fahrplan. Anbieterneutral, keine Bindung.",
+    "canonical": "https://innovariatech.space/de/services/ai-consulting",
+    "robots": "noindex, follow",
+    "alternates": {
+      "en": "https://innovariatech.space/services/ai-consulting",
+      "es": "https://innovariatech.space/es/services/ai-consulting",
+      "de": "https://innovariatech.space/de/services/ai-consulting",
+      "x-default": "https://innovariatech.space/services/ai-consulting"
+    }
+  },
+  "headings": {
+    "h1": "KI-Beratung, die dir sagt, was du zuerst automatisieren solltest",
+    "h2": [
+      "Alle sagen: Mach KI. Niemand sagt, was, oder in welcher Reihenfolge",
+      "Ein sortierter Plan, bepreist, bevor du dich festlegst",
+      "Was ein echter Plan verändert",
+      "Vom ersten Gespräch zum finanzierten Fahrplan in vier Schritten",
+      "Rat von Menschen, die diese Systeme wöchentlich bauen",
+      "Die Analyse, die das Leck eines Maklerbüros mit 12 Agenten fand",
+      "Wir empfehlen aus dem gesamten Markt, nicht aus einer Partnerliste",
+      "KI-Beratung, direkt beantwortet",
+      "Starte mit der kostenlosen Version genau dieses Prozesses",
+      "Fordere deine kostenlose Automatisierungs-Analyse an",
+      "Entdecke konkrete Systeme und Branchen"
+    ]
+  },
+  "schema": {
+    "serviceName": "KI-Beratung",
+    "serviceType": "KI-Beratung",
+    "serviceDescription": "Anbieterneutrale KI-Beratung: Workflow-Analysen über den gesamten Betrieb, nach Payback sortierte Chancen, ein Festpreis-Fahrplan für die Automatisierung und optionale Umsetzung ohne Bindung.",
+    "inLanguage": "de",
+    "breadcrumb": [
+      { "position": 1, "name": "Startseite", "item": "https://innovariatech.space/de" },
+      { "position": 2, "name": "Leistungen", "item": "https://innovariatech.space/de/services" },
+      { "position": 3, "name": "KI-Beratung", "item": "https://innovariatech.space/de/services/ai-consulting" }
+    ],
+    "faq": [
+      { "q": "Was umfasst KI-Beratung?", "a": "KI-Beratung beantwortet die Frage, die jedem Führungsteam gestellt wird: Was sollten wir eigentlich automatisieren? Wir bilden deine Workflows von Anfang bis Ende ab, messen, wo Stunden und Umsatz verloren gehen, sortieren jede KI-Chance nach Payback und übergeben dir einen Festpreis-Fahrplan. Danach kannst du mit uns bauen, mit deinem eigenen Team oder mit einem anderen Anbieter." },
+      { "q": "Wie unterscheidet sich das von eurer kostenlosen Analyse?", "a": "Die kostenlose Analyse ist ein 30-minütiges Gespräch, das einen schriftlichen Fahrplan mit deinen zwei oder drei schnellsten Erfolgen liefert. Bezahlte Beratung ist ein tieferes Engagement: Wir bilden deinen gesamten Betrieb über Teams hinweg ab, sprechen mit den Menschen, die die Arbeit machen, beziffern jede Chance und liefern einen priorisierten Plan für das nächste Jahr, nicht nur für den ersten Monat." },
+      { "q": "Welche Ergebnisse erhalten wir?", "a": "Eine Workflow-Karte, wie die Arbeit tatsächlich durch dein Unternehmen läuft, eine Chancenliste mit den geschätzten Auswirkungen jeder Automatisierung auf Stunden und Umsatz, einen nach Payback sortierten Fahrplan mit einem Festpreis für den Bau jedes Punkts und Tool-Empfehlungen mit Begründung. Alles kommt schriftlich, in klarer Sprache, die dein ganzes Team lesen kann." },
+      { "q": "Wie berechnet ihr die Beratung?", "a": "Ein Festpreis für das gesamte Engagement, vorab nach dem kostenlosen Analysegespräch genannt und auf die Größe deines Betriebs skaliert. Keine Tagessätze, keine offenen Retainer, keine Discovery-Phase, die sich still verdoppelt. Du kennst die vollen Kosten, bevor wir starten." },
+      { "q": "Setzt ihr den Fahrplan auch um?", "a": "Wenn du willst. Viele Kunden lassen uns die obersten Punkte bauen, da ein einzelner Workflow ein bis zwei Wochen dauert und ein komplettes System zwei bis vier Wochen, jeweils zum Festpreis mit 30 Tagen Support. Aber der Fahrplan ist so geschrieben, dass jede kompetente Fachkraft ihn umsetzen kann. Uns zweimal zu beauftragen ist bewusst optional." },
+      { "q": "Seid ihr an bestimmte Anbieter oder Tools gebunden?", "a": "Nein. Wir nehmen keine Wiederverkäufer-Provisionen und verkaufen keine eigene Software, deshalb ist die Empfehlung das, was sich für dich am schnellsten rechnet, egal ob n8n, Make, Zapier, eine KI-Sprachplattform oder eine Funktion, die schon in einem Tool steckt, für das du zahlst. Alles, was wir empfehlen, läuft in Konten, die dir gehören, es gibt also auch keine Bindung an uns." }
+    ]
+  },
+  "targetedKeywords": {
+    "note": "German search intent for AI-consulting. Not deployed; provided so a native reviewer can confirm terms real German buyers type.",
+    "primary": ["KI-Beratung", "KI-Beratung Unternehmen", "KI-Automatisierung Beratung"],
+    "secondary": ["KI-Strategie", "Automatisierung Fahrplan", "anbieterneutrale KI-Beratung", "was zuerst automatisieren", "KI-Potenzialanalyse", "Payback KI-Automatisierung"]
+  },
+  "translatorNotes": [
+    "Glossary: AI Consulting → KI-Beratung; audit → Analyse; roadmap → Fahrplan; Book a Free Audit → Kostenlose Analyse buchen; Generative AI → Generative KI; AI Voice Agents → KI-Sprachassistenten.",
+    "'Payback' kept as an English loanword (common in German business usage); a reviewer may prefer 'Amortisation' in some spots.",
+    "'Vendor neutral' → 'anbieterneutral'. 'Lock in' → 'Bindung'.",
+    "'Discovery phase' and 'Scope creep' and 'Retainer' left as English business loanwords, as is common in German agency copy.",
+    "Currency and price ranges are not present in this page's body; the $1,000–$5,000 rule was not triggered here.",
+    "Blog deep-links (/blog/...) left as English slugs since the target German blog posts may not exist yet; repointed only the locale-prefix internal links to /de.",
+    "Numbers, %, brand names (n8n, Make, Zapier, OpenAI, Claude, Twilio, HubSpot, etc.), email, phone, /api/lead kept exact."
+  ],
+  "suggestedLlmsTxtEntry": "German (draft, not indexed) translation of the AI Consulting services page: vendor-neutral consulting that audits workflows, ranks automation opportunities by payback, and delivers a fixed-price roadmap you can execute with anyone.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent German review before going live."
+}

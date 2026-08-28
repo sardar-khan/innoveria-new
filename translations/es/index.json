@@ -1,0 +1,250 @@
+{
+  "_meta": {
+    "page": "homepage",
+    "sourceFile": "/index.html",
+    "outputFile": "/es/index.html",
+    "language": "es",
+    "locale": "es-ES",
+    "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, second person informal (tú). See notes."
+  },
+
+  "head": {
+    "title": "Agencia de IA y automatización: responde cada lead | Innovaria",
+    "description": "Automatización con IA que responde cada lead en menos de un minuto y le devuelve a tu equipo más de 20 horas a la semana. Reserva una auditoría gratis.",
+    "keywords": "agencia de automatización con IA, automatización de leads, automatización de flujos de trabajo, agencia n8n, agentes de voz con IA, chatbots para empresas, automatización inmobiliaria, automatización para clínicas, automatización para ecommerce, automatización para despachos de abogados, automatización industrial, automatización logística, automatización educativa, automatización financiera",
+    "canonical": "https://innovariatech.space/es",
+    "robots": "noindex, follow",
+    "og": {
+      "title": "Agencia de IA y automatización | Innovaria Tech",
+      "description": "Sistemas de automatización que responden a tus leads en minutos y le ahorran a tu equipo más de 20 horas por semana. Reserva una auditoría gratis.",
+      "locale": "es_ES"
+    },
+    "twitter": {
+      "title": "Agencia de IA y automatización | Innovaria Tech",
+      "description": "Sistemas de automatización que responden a tus leads en minutos y le ahorran a tu equipo más de 20 horas por semana."
+    }
+  },
+
+  "runtime_i18n": {
+    "rotatorWords": ["inmobiliaria", "clínica", "tienda online", "despacho legal"],
+    "feed": [
+      ["t-info", "nuevo lead capturado", "consulta del portal, propiedad de 3 habitaciones"],
+      ["t-ok", "registro creado en el CRM", "origen etiquetado, agente asignado"],
+      ["t-ok", "respuesta instantánea enviada", "SMS + email en 41 segundos"],
+      ["t-info", "llamada atendida por IA", "pidieron una visita"],
+      ["t-ok", "visita agendada", "sábado 11:00, calendario sincronizado"],
+      ["t-ok", "recordatorio programado", "24 h y 1 h antes de la visita"],
+      ["t-warn", "sin respuesta tras 2 días", "secuencia de seguimiento, paso 2 enviado"],
+      ["t-ok", "el lead respondió", "pasado a una persona con todo el contexto"]
+    ]
+  },
+
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "industries": "Sectores",
+    "caseStudies": "Casos de éxito",
+    "about": "Nosotros",
+    "blog": "Blog",
+    "bookAudit": "Reserva una auditoría gratis",
+    "servicesHub": "Los nueve servicios",
+    "servicesHubSub": "qué hace cada sistema y cómo lo planteamos",
+    "industriesHub": "Los ocho sectores",
+    "industriesHubSub": "la fuga que más vemos en cada uno, y cómo se corrige",
+    "serviceNames": {
+      "ai-automation": "Automatización con IA",
+      "lead-automation": "Automatización de leads",
+      "ai-voice-agents": "Agentes de voz con IA",
+      "ai-chatbot-development": "Chatbots con IA",
+      "email-automation": "Automatización de email",
+      "workflow-automation": "Automatización de flujos de trabajo",
+      "social-automation": "Automatización de redes sociales",
+      "generative-ai-development": "IA generativa",
+      "ai-consulting": "Consultoría de IA"
+    },
+    "industryNames": {
+      "real-estate": "Inmobiliaria",
+      "healthcare": "Salud",
+      "ecommerce": "Ecommerce",
+      "legal": "Legal",
+      "finance": "Finanzas y contabilidad",
+      "education": "Educación",
+      "manufacturing": "Manufactura",
+      "logistics": "Logística"
+    }
+  },
+
+  "hero": {
+    "h1_before": "Sistemas de IA que responden los leads de tu ",
+    "h1_rotator": "inmobiliaria",
+    "h1_after": " en segundos",
+    "lede": "Innovaria Tech crea automatizaciones que responden cada consulta al instante, agendan citas a cualquier hora y le devuelven a tu equipo más de 20 horas a la semana. Hecho para inmobiliarias, clínicas, marcas de ecommerce, despachos de abogados, asesorías contables, colegios, fabricantes y empresas de logística.",
+    "ctaPrimary": "Reserva una auditoría gratis",
+    "ctaGhost": "Mira lo que automatizamos",
+    "note": "Practicamos lo que vendemos: escríbenos y un sistema automático te lo confirma en segundos, y una persona te responde en horario laboral.",
+    "noteLead": "Practicamos lo que vendemos:",
+    "terminalAria": "Ejemplo de flujo de automatización en vivo",
+    "terminalTitle": "innovaria · motor de respuesta a leads"
+  },
+
+  "problem": {
+    "kicker": "El problema",
+    "h2_before": "El seguimiento lento te drena ingresos en silencio, ",
+    "h2_grad": "todos los días",
+    "lede": "La mayoría de los negocios pierden tratos que nunca llegan a ver. La consulta entró a las 9 de la noche, nadie escuchó el buzón de voz, el tercer seguimiento nunca se envió. Nada de eso aparece en un informe, pero todo aparece en tu cuenta bancaria.",
+    "cards": [
+      { "h3": "Los leads se enfrían en minutos", "p": "Las probabilidades de contactar a un lead nuevo caen en picado después de los primeros cinco minutos. Si tu respuesta tarda horas, el comprador ya habló con alguien más rápido." },
+      { "h3": "Las llamadas perdidas se vuelven clientes perdidos", "p": "Cada llamada sin responder durante visitas, consultas o temporada alta es un cliente que elige a quien conteste después. Casi nadie deja un mensaje de voz. Simplemente siguen adelante." },
+      { "h3": "Tu equipo se ahoga en tareas administrativas", "p": "Entrada de datos, recordatorios de citas, actualizaciones de estado, copiar y pegar entre herramientas. Gente cualificada pasa horas en trabajo que una máquina debería hacer de noche." }
+    ]
+  },
+
+  "services": {
+    "kicker": "Lo que automatizamos",
+    "h2_before": "Nueve sistemas que ",
+    "h2_grad": "se pagan solos",
+    "lede": "Cada uno ataca una fuga concreta de tu embudo. Empieza por la auditoría y te diremos cuál recupera más dinero primero.",
+    "cards": [
+      { "h3": "Automatización de email y correo", "p": "Clasificación de la bandeja de entrada, respuestas automáticas al instante y secuencias de seguimiento que persiguen cada consulta hasta que responde. Ningún lead se queda sin leer de un día para otro.", "link": "Ver automatización de email", "href": "/services/email-automation" },
+      { "h3": "Automatización de llamadas", "p": "Agentes de voz con IA que atienden llamadas entrantes, agendan citas y envían recordatorios. Tu teléfono se responde al primer tono, las 24 horas.", "link": "Ver automatización de llamadas", "href": "/services/ai-voice-agents" },
+      { "h3": "Automatización de leads", "p": "Captura desde cada canal, califica automáticamente, deriva a la persona indicada y haz seguimiento en menos de 60 segundos. La velocidad de respuesta se vuelve tu ventaja.", "link": "Ver automatización de leads", "href": "/services/lead-automation" },
+      { "h3": "Automatización de flujos de trabajo", "p": "Desarrollos a medida en n8n, Make y Zapier que conectan tu CRM, calendario, facturación y teléfono para que los datos se muevan solos y nada se vuelva a teclear.", "link": "Ver automatización de flujos", "href": "/services/workflow-automation" },
+      { "h3": "Chatbots", "p": "Bots para tu web y WhatsApp entrenados con tu negocio que responden preguntas, califican visitantes y agendan llamadas mientras duermes.", "link": "Ver chatbots", "href": "/services/ai-chatbot-development" },
+      { "h3": "Automatización de redes sociales", "p": "Sistemas de publicación en LinkedIn y X que mantienen tu perfil activo cada día sin que escribas una palabra a las 7 de la mañana. Presencia constante, cero esfuerzo diario.", "link": "Ver automatización de redes", "href": "/services/social-automation" },
+      { "h3": "Desarrollo de IA generativa", "p": "IA a medida que redacta respuestas, genera documentos y extrae datos de entradas desordenadas, basada en tu propio contenido y con revisión humana.", "link": "Ver IA generativa", "href": "/services/generative-ai-development" },
+      { "h3": "Consultoría de IA", "p": "Ayuda sin vender una marca concreta para decidir qué automatizar primero: mapeamos tu operación, ordenamos las oportunidades por retorno y te entregamos el plan.", "link": "Ver consultoría de IA", "href": "/services/ai-consulting" },
+      { "h3": "Automatización con IA, de principio a fin", "p": "El sistema paraguas: respuesta a leads, llamadas, email y flujos construidos como una sola máquina conectada. Empieza aquí si no lo tienes claro.", "link": "Ver automatización con IA", "href": "/services/ai-automation" }
+    ]
+  },
+
+  "industries": {
+    "kicker": "Para quién lo construimos",
+    "h2_before": "Ocho sectores. ",
+    "h2_grad": "Una obsesión: la velocidad.",
+    "lede": "Sabemos dónde están las fugas en cada uno de estos negocios porque ya las hemos tapado.",
+    "seePlaybook": "Ver la guía",
+    "cards": [
+      { "h3": "Inmobiliaria", "p": "Respuestas instantáneas del portal, reserva de visitas, derivación a agentes.", "href": "/industries/real-estate", "alt": "Agente inmobiliario entregando las llaves de una casa a un comprador" },
+      { "h3": "Clínicas de salud", "p": "Reservas, recordatorios, formularios de admisión, menos ausencias.", "href": "/industries/healthcare", "alt": "Médico revisando la información de un paciente en una tablet" },
+      { "h3": "Marcas de ecommerce", "p": "Recuperación de carritos, bots de soporte, automatización del estado del pedido.", "href": "/industries/ecommerce", "alt": "Cliente pagando en línea con una tarjeta bancaria en un portátil" },
+      { "h3": "Despachos de abogados", "p": "Admisión de clientes, reserva de consultas, rescate de llamadas perdidas.", "href": "/industries/legal", "alt": "Mazo y balanza sobre el escritorio de un abogado" }
+    ],
+    "alsoLine": "También: [Finanzas y contabilidad] · [Educación] · [Manufactura] · [Logística] · o [ve las ocho guías]."
+  },
+
+  "howItWorks": {
+    "kicker": "Cómo funciona",
+    "h2_before": "De la auditoría a la automatización en vivo en ",
+    "h2_grad": "semanas, no meses",
+    "steps": [
+      { "h3": "Auditoría de automatización gratis", "p": "Una llamada de 30 minutos donde mapeamos tu flujo de leads y tu trabajo administrativo, y luego identificamos las dos o tres automatizaciones con el retorno más rápido. Te entregamos los hallazgos por escrito." },
+      { "h3": "Plan a precio cerrado", "p": "Definimos exactamente qué vamos a construir, qué herramientas conecta y cuánto cuesta. Un solo número, sin sorpresas por hora, sin contratos indefinidos." },
+      { "h3": "Construcción y pruebas con tus datos", "p": "Construimos en cuentas que son tuyas, probamos con tus consultas y llamadas reales, y afinamos hasta que el traspaso entre la automatización y tu equipo se sienta natural." },
+      { "h3": "Entrega y soporte", "p": "Recibes documentación de cada flujo más 30 días de soporte incluido. Sin dependencia de proveedor: todo sigue funcionando aunque nos separemos." }
+    ]
+  },
+
+  "stats": {
+    "kicker": "Resultados, no herramientas",
+    "h2": "Lo que miden los clientes tras el arranque",
+    "items": [
+      { "num": "< 60 seg", "suffix": " seg", "label": "tiempo típico de respuesta a un lead tras automatizar" },
+      { "num": "20+ h", "suffix": "+ h", "label": "horas de administración devueltas por equipo, por semana" },
+      { "num": "24/7", "suffix": "/7", "label": "cobertura de consultas y reservas, incluidos fines de semana" },
+      { "num": "100%", "suffix": "%", "label": "de las consultas reciben una primera respuesta automática" }
+    ]
+  },
+
+  "caseStudy": {
+    "kicker": "Caso de éxito",
+    "imgAlt": "Agente inmobiliario reuniéndose con clientes frente a una propiedad en venta",
+    "h2": "Cómo una inmobiliaria de 12 agentes dejó de perder los leads de la tarde",
+    "lede": "Las consultas del portal que llegaban después de las 6 de la tarde se quedaban sin responder hasta la mañana siguiente, y los agentes pasaban su primera hora poniéndose al día en vez de vender. Construimos respuestas instantáneas a las consultas, un agente telefónico con IA para reservar visitas y secuencias de seguimiento automáticas en su CRM.",
+    "metrics": [
+      { "value": "90 seg", "label": "tiempo medio de respuesta, antes más de 4 horas" },
+      { "value": "+34%", "label": "más visitas reservadas al mes" },
+      { "value": "25 h", "label": "de administración eliminadas por semana" }
+    ],
+    "cta": "Lee el caso completo"
+  },
+
+  "faq": {
+    "kicker": "Preguntas",
+    "h2": "Preguntas frecuentes",
+    "items": [
+      { "q": "¿Qué es una auditoría de automatización gratis?", "a": "Una llamada de 30 minutos donde mapeamos cómo fluyen los leads, las llamadas y el trabajo administrativo por tu negocio, encontramos las tareas que más tiempo y dinero te cuestan, y te damos una hoja de ruta de automatización por escrito. La hoja de ruta es tuya, nos contrates o no." },
+      { "q": "¿Cuánto cuesta automatizar un negocio?", "a": "La mayoría de los desarrollos de un solo flujo empiezan en unos pocos cientos de dólares, y un sistema completo de respuesta a leads suele situarse entre 1.000 y 5.000 dólares según cuántas herramientas conectemos. Cada proyecto arranca con un precio cerrado tras tu auditoría gratis, así que nunca recibes una factura abierta." },
+      { "q": "¿Con qué herramientas construyen?", "a": "Construimos en n8n, Make y Zapier para los flujos, más plataformas de voz y chat con IA para llamadas y mensajería. Elegimos el stack que encaja con tu presupuesto y con tu CRM, calendario y teléfono actuales. Tú eres dueño de cada cuenta y cada flujo que construimos." },
+      { "q": "¿Cuánto tarda un desarrollo de automatización?", "a": "Un solo flujo suele estar listo en una o dos semanas. Un sistema completo de respuesta a leads o de admisión tarda de dos a cuatro semanas, incluyendo pruebas con tus datos reales. Ves la automatización funcionando antes de pagar la factura final." },
+      { "q": "¿Somos dueños de los sistemas que construyen?", "a": "Sí. Todo funciona en cuentas registradas a nombre de tu negocio, y te entregamos documentación de cada flujo. No hay dependencia de proveedor: si nos dejas mañana, todo sigue funcionando y cualquier operador competente puede mantenerlo." }
+    ]
+  },
+
+  "closingCta": {
+    "h2_before": "Descubre lo que te cuesta el seguimiento lento. ",
+    "h2_grad": "Tarda 30 minutos.",
+    "cta": "Reserva tu auditoría gratis",
+    "sub": "Sin compromiso. La hoja de ruta es tuya de todas formas."
+  },
+
+  "footer": {
+    "brand": "Sistemas de IA y automatización para equipos de inmobiliaria, salud, ecommerce, legal, finanzas, educación, manufactura y logística. Tú eres dueño de todo lo que construimos.",
+    "bookAudit": "Reserva una auditoría gratis",
+    "servicesHeading": "Servicios",
+    "companyHeading": "Empresa",
+    "contactHeading": "Contacto",
+    "footerServiceLabels": {
+      "ai-automation": "Automatización con IA",
+      "email-automation": "Automatización de email",
+      "ai-voice-agents": "Automatización de llamadas",
+      "lead-automation": "Automatización de leads",
+      "workflow-automation": "Automatización de flujos de trabajo",
+      "ai-chatbot-development": "Chatbots",
+      "social-automation": "Automatización de redes sociales",
+      "generative-ai-development": "IA generativa",
+      "ai-consulting": "Consultoría de IA"
+    },
+    "companyLinks": { "industries": "Sectores", "caseStudies": "Casos de éxito", "about": "Nosotros", "blog": "Blog", "contact": "Contacto" },
+    "rights": "© 2026 Innovaria Tech Limited. Todos los derechos reservados.",
+    "privacy": "Privacidad",
+    "terms": "Términos",
+    "sitemap": "Mapa del sitio"
+  },
+
+  "langSwitcher": { "current": "ES", "otherLabel": "EN", "otherHref": "/", "ariaLabel": "Cambiar idioma" },
+
+  "schema": {
+    "inLanguage": "es",
+    "organizationDescription": "Agencia de IA y automatización. Creamos sistemas de respuesta a leads, llamadas, email, flujos de trabajo, chatbots y redes sociales para inmobiliarias, clínicas, marcas de ecommerce, despachos de abogados, asesorías contables, colegios, fabricantes y empresas de logística.",
+    "faq": [
+      { "q": "¿Qué es una auditoría de automatización gratis?", "a": "Una llamada de 30 minutos donde mapeamos cómo fluyen los leads, las llamadas y el trabajo administrativo por tu negocio, encontramos las tareas que más tiempo y dinero te cuestan, y te damos una hoja de ruta de automatización por escrito. La hoja de ruta es tuya, nos contrates o no." },
+      { "q": "¿Cuánto cuesta automatizar un negocio?", "a": "La mayoría de los desarrollos de un solo flujo empiezan en unos pocos cientos de dólares, y un sistema completo de respuesta a leads suele situarse entre 1.000 y 5.000 dólares según cuántas herramientas conectemos. Cada proyecto arranca con un precio cerrado tras tu auditoría gratis, así que nunca recibes una factura abierta." },
+      { "q": "¿Con qué herramientas construyen?", "a": "Construimos en n8n, Make y Zapier para los flujos, más plataformas de voz y chat con IA para llamadas y mensajería. Elegimos el stack que encaja con tu presupuesto y con tu CRM, calendario y teléfono actuales. Tú eres dueño de cada cuenta y cada flujo que construimos." },
+      { "q": "¿Cuánto tarda un desarrollo de automatización?", "a": "Un solo flujo suele estar listo en una o dos semanas. Un sistema completo de respuesta a leads o de admisión tarda de dos a cuatro semanas, incluyendo pruebas con tus datos reales. Ves la automatización funcionando antes de pagar la factura final." },
+      { "q": "¿Somos dueños de los sistemas que construyen?", "a": "Sí. Todo funciona en cuentas registradas a nombre de tu negocio, y te entregamos documentación de cada flujo. No hay dependencia de proveedor: si nos dejas mañana, todo sigue funcionando y cualquier operador competente puede mantenerlo." }
+    ]
+  },
+
+  "targetedKeywords": {
+    "note": "Researched Spanish search terms, NOT literal translations of the English keyword list. For a native reviewer to sanity check.",
+    "primary": ["agencia de automatización con IA", "automatización de leads", "automatización de procesos con IA", "agencia n8n"],
+    "secondary": ["agentes de voz con IA", "chatbots para empresas", "automatización de flujos de trabajo", "respuesta automática a leads"],
+    "industryLongTail": ["automatización para inmobiliarias", "automatización para clínicas", "automatización para ecommerce", "automatización para despachos de abogados"]
+  },
+
+  "translatorNotes": [
+    "REGISTER: Drafted in informal second person (tú), which matches the direct, modern tone of the English and is common in Spanish-language B2B/SaaS marketing. If the target market skews Spain-corporate or broad LatAm formal, a reviewer may prefer usted throughout. This is the single biggest review decision and affects every sentence.",
+    "'lead' kept in English: standard in Spanish marketing/CRM vocabulary. Alternative 'prospecto' (LatAm) or 'cliente potencial' exists but reads heavier; kept 'lead'. Confirm preference.",
+    "Prices: '$1,000 and $5,000' rendered as '1.000 y 5.000 dólares' using the Spanish thousands separator (period) and the word 'dólares'. Fact unchanged. If the audience is a euro market, a reviewer may localize the currency label, but the doc says keep the fact exact, so USD kept.",
+    "'Industries' translated as 'Sectores' (more natural than 'Industrias' for business verticals). Manufacturing = 'Manufactura'; a reviewer in Spain might prefer 'Industria/Fabricación'.",
+    "Real-estate feed/case-study detail '3 bed listing' rendered neutrally as 'propiedad de 3 habitaciones' to avoid Spain-only 'piso' vs LatAm 'depto'. Confirm regional wording.",
+    "Rotator words and the animated terminal feed are localized via window.__i18n injected inline before main.js (English fallback preserved for all other pages).",
+    "Nav links for Services, Industries, Case Studies, About, Blog, Contact currently point to the ENGLISH pages (fallback) because only the homepage is translated in this slice. They are NOT broken, just not yet localized. Update destinations to /es/... as those pages are translated.",
+    "Idioms adapted rather than translated literally: 'pay for themselves' -> 'se pagan solos'; 'drowns in admin' -> 'se ahoga en tareas administrativas'; 'no vendor lock in' -> 'sin dependencia de proveedor'.",
+    "Avoided Spanish AI-filler equivalents (soluciones innovadoras, potenciar, sin fisuras, revolucionar, de vanguardia, llevar al siguiente nivel). Flag any phrase that still reads as translated filler."
+  ],
+
+  "reviewFlag": "NOT PUBLISH READY. This is a machine-produced first draft and requires review by a native or fluent Spanish speaker before it goes live, regardless of apparent quality."
+}

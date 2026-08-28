@@ -1,0 +1,91 @@
+{
+  "_meta": {
+    "page": "ai-client-intake-automation-law-firms",
+    "sourceFile": "blog/ai-client-intake-automation-law-firms.html",
+    "outputFile": "de/blog/ai-client-intake-automation-law-firms.html",
+    "language": "de",
+    "locale": "de-DE",
+    "dir": "ltr",
+    "status": "DRAFT — needs native/fluent German review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Standard German, informal du.",
+    "note": "no form"
+  },
+  "head": {
+    "title": "KI-Mandatsannahme-Automatisierung für Kanzleien (2026)",
+    "description": "Wie KI-Mandatsannahme jeden Anruf beantwortet, Interessenkonflikte prüft und Beratungsgespräche in unter 60 Sekunden bucht. Echte Zahlen für 2026 und ein Umsetzungsplan.",
+    "keywords": "Mandatsannahme Automatisierung Kanzlei, KI-Mandatsannahme Kanzleien, Mandatsannahme automatisieren, Reaktionszeit juristische Leads, KI-Annahmeassistent Anwälte, Familienrecht Mandatsannahme Automatisierung, Personenschadenrecht Mandatsannahme Automatisierung",
+    "og:title": "KI-Mandatsannahme-Automatisierung für Kanzleien: jeden Fall in unter einer Minute erfassen",
+    "og:description": "Die meisten Kanzleien beantworten nur ein Drittel der E-Mails potenzieller Mandanten. So erfasst KI-Mandatsannahme jeden Fall, prüft Interessenkonflikte und bucht Beratungsgespräche rund um Gerichtstermine.",
+    "og:locale": "de_DE",
+    "twitter:title": "KI-Mandatsannahme-Automatisierung für Kanzleien (2026)",
+    "twitter:description": "Wie KI-Mandatsannahme jeden Fall erfasst, Interessenkonflikte prüft und Beratungsgespräche in unter 60 Sekunden bucht."
+  },
+  "headings": {
+    "h1": "KI-Mandatsannahme-Automatisierung für Kanzleien: jeden Fall in unter einer Minute erfassen",
+    "h2": [
+      "Die wichtigsten Punkte",
+      "Das Annahmeproblem, das sich in aller Öffentlichkeit versteckt",
+      "Was KI-Mandatsannahme-Automatisierung tatsächlich tut",
+      "Die Grenze, die die KI-Annahme niemals überschreiten darf",
+      "Die Zahlen, die Kanzleien nach dem Start sehen",
+      "Was es kostet und wie schnell es sich amortisiert",
+      "Der Stack hinter einem Annahmeaufbau",
+      "Wie du startest, ohne zu überbauen",
+      "Häufig gestellte Fragen",
+      "Weiterführende Beiträge",
+      "Wie viele Anrufer haben aufgelegt, während du vor Gericht warst?"
+    ],
+    "h3": [
+      "Er beantwortet jeden Anruf und jede Anfrage, Tag und Nacht",
+      "Er erfasst das Anliegen in einem strukturierten Gespräch",
+      "Er prüft auf Interessenkonflikte und Eignung vor der Buchung",
+      "Er bucht qualifizierte Beratungsgespräche automatisch"
+    ]
+  },
+  "schema": {
+    "breadcrumb": [
+      { "position": 1, "name": "Startseite", "item": "https://innovariatech.space/de" },
+      { "position": 2, "name": "Blog", "item": "https://innovariatech.space/de/blog" },
+      { "position": 3, "name": "KI-Mandatsannahme-Automatisierung für Kanzleien", "item": "https://innovariatech.space/de/blog/ai-client-intake-automation-law-firms" }
+    ],
+    "article": {
+      "headline": "KI-Mandatsannahme-Automatisierung für Kanzleien: jeden Fall in unter einer Minute erfassen (2026)"
+    },
+    "faq": [
+      "Was ist KI-Mandatsannahme-Automatisierung für Kanzleien?",
+      "Erteilt die KI-Annahme Rechtsberatung?",
+      "Was kostet KI-Mandatsannahme-Automatisierung?",
+      "Lässt es sich in Clio oder unser Kanzleimanagementsystem integrieren?",
+      "Werden die Mandatsannahmedaten vertraulich behandelt?"
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched German search terms for German-speaking legal-practice buyers, not literal translations of the English keywords.",
+    "primary": [
+      "Mandatsannahme automatisieren",
+      "KI für Kanzleien",
+      "Mandantenannahme Software"
+    ],
+    "secondary": [
+      "KI-Telefonassistent Kanzlei",
+      "Anwalt Anrufe automatisieren",
+      "Clio Integration",
+      "Erstberatung Termin automatisch buchen",
+      "Reaktionszeit Mandantenanfragen"
+    ]
+  },
+  "translatorNotes": [
+    "FLAG: legal-ethics jurisdiction sensitivity. This post is written around the US model of legal ethics: 'unauthorized practice of law', attorney-client confidentiality, Clio's US 'Legal Trends Report' secret-shopper data, and 'attorney'. In German-speaking markets the equivalents differ (Germany: Rechtsdienstleistungsgesetz / unerlaubte Rechtsberatung; anwaltliche Verschwiegenheitspflicht per BRAO/BORA; Austria and Switzerland differ again). 'unauthorized practice of law' was rendered as 'unerlaubte Rechtsberatung' as the nearest lay term, but a German-qualified reviewer (ideally with legal-marketing compliance knowledge for the target jurisdiction) must confirm the ethics and confidentiality wording before publishing, since anwaltliche Werbung and Verschwiegenheit are strictly regulated.",
+    "Glossary terms applied: client intake -> Mandatsannahme; law firm -> Kanzlei; attorney -> Anwalt; consultation -> Beratungsgespräch; legal advice -> Rechtsberatung. 'client'/'prospective client' -> Mandant/Interessent; 'retainer'/'retained client' -> Mandat/gewonnenes Mandat; 'matter' -> Anliegen; 'paralegal' -> Anwaltsfachangestellte. Clio kept literal.",
+    "Statistics kept exact: 33%, 40%, 56%, 48%, 73%, 42 Prozent. Timeframes kept: unter 60 Sekunden, unter einer Minute, zwei bis vier Wochen.",
+    "Prices kept exact with German thousands separator: '1.000 und 5.000 US-Dollar', '50 bis 300 US-Dollar'.",
+    "Brand/tool names kept literal: Clio, Twilio, Calendly, n8n, Make. Unsplash image URLs unchanged. Cited source kept: Clio 2024 Legal Trends Report.",
+    "No em-dashes in body prose; commas and rewrites used. The &mdash; entities inside the data table were kept as-is because they are the source's placeholder dashes for 'no data', not sentence em-dashes.",
+    "Internal same-site links repointed to /de (industries, services, blog, case-studies, contact). /privacy, /terms, sitemap, mailto, tel and external URLs left unchanged.",
+    "Language switcher rebuilt as three-way with EN + ES links and DE current.",
+    "No lead/audit form on this page, so no window.__i18n form block was added.",
+    "'You own everything we build' rendered as the fixed glossary phrase 'Dir gehört alles, was wir bauen.'"
+  ],
+  "suggestedLlmsTxtEntry": "German translation of the law-firm article on how AI client intake automation answers every call, screens conflicts, books consultations in under a minute, and never gives legal advice.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent German review before going live."
+}

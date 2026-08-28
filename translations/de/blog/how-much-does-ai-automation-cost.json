@@ -1,0 +1,94 @@
+{
+  "_meta": {
+    "page": "how-much-does-ai-automation-cost",
+    "sourceFile": "blog/how-much-does-ai-automation-cost.html",
+    "outputFile": "de/blog/how-much-does-ai-automation-cost.html",
+    "language": "de",
+    "locale": "de-DE",
+    "dir": "ltr",
+    "status": "DRAFT — needs native/fluent German review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Standard German, informal du.",
+    "note": "no form"
+  },
+  "head": {
+    "title": "Was kostet KI-Automatisierung 2026? Echte Preise",
+    "description": "Echte KI-Automatisierungspreise für 2026, ohne Verkaufsgespräch. Umsetzungskosten, monatliche Gebühren und Amortisationsrechnung für kleine Unternehmen, nach Workflow und nach Stufe.",
+    "keywords": "KI-Automatisierung Kosten, KI-Automatisierung Preise, was kostet KI-Automatisierung, KI-Automatisierungsagentur Kosten, Kosten Unternehmen automatisieren, KI-Automatisierung ROI, Automatisierungskosten kleines Unternehmen 2026",
+    "og:title": "Was kostet KI-Automatisierung 2026? Echte Preise, kein Verkaufsgespräch",
+    "og:description": "Echte KI-Automatisierungspreise für 2026 ohne Ausflüchte. Umsetzungskosten, monatliche Gebühren und Amortisationsrechnung, aufgeschlüsselt nach Workflow und Stufe.",
+    "og:locale": "de_DE",
+    "twitter:title": "Was kostet KI-Automatisierung 2026? Echte Preise",
+    "twitter:description": "Echte KI-Automatisierungspreise für 2026, kein Verkaufsgespräch. Umsetzungskosten, monatliche Gebühren und Amortisationsrechnung nach Stufe."
+  },
+  "headings": {
+    "h1": "Was kostet KI-Automatisierung 2026? Echte Preise, kein Verkaufsgespräch",
+    "h2": [
+      "Warum dir niemand einen klaren Preis nennt",
+      "Die drei Preisstufen, in klaren Zahlen",
+      "Was deine Zahl wirklich treibt",
+      "Echte Preise nach häufigem Projekt",
+      "Der Teil, der mehr zählt als der Preis: die Amortisation",
+      "DIY, Freelancer oder Agentur: was das Richtige ist",
+      "Wie du ein Angebot liest, ohne dir die Finger zu verbrennen",
+      "Häufig gestellte Fragen",
+      "Weiterführende Beiträge",
+      "Hol dir eine echte Zahl für dein Unternehmen, kein \"kommt darauf an\""
+    ],
+    "h3": [
+      "Wie viele Workflows",
+      "Wie viele Tools es verbindet",
+      "Wie viel individuelle Logik",
+      "Wie sauber deine Daten sind",
+      "DIY",
+      "Ein Freelancer",
+      "Eine Agentur"
+    ]
+  },
+  "schema": {
+    "breadcrumb": [
+      { "position": 1, "name": "Startseite", "item": "https://innovariatech.space/de" },
+      { "position": 2, "name": "Blog", "item": "https://innovariatech.space/de/blog" },
+      { "position": 3, "name": "Was kostet KI-Automatisierung", "item": "https://innovariatech.space/de/blog/how-much-does-ai-automation-cost" }
+    ],
+    "article": {
+      "headline": "Was kostet KI-Automatisierung 2026? Echte Preise, kein Verkaufsgespräch"
+    },
+    "faq": [
+      "Was kostet KI-Automatisierung für ein kleines Unternehmen 2026?",
+      "Was treibt den Preis eines Automatisierungsprojekts?",
+      "Was ist der ROI von KI-Automatisierung und wie schnell amortisiert sie sich?",
+      "Sollte ich No-Code-Tools nutzen oder eine Agentur beauftragen?",
+      "Warum sagen Agenturen \"kommt darauf an\", statt einen Preis zu nennen?"
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched German search terms a German small-business buyer would use, not literal translations of the English keywords.",
+    "primary": [
+      "KI-Automatisierung Kosten",
+      "was kostet Automatisierung Unternehmen",
+      "KI-Automatisierung Preise 2026"
+    ],
+    "secondary": [
+      "Automatisierung ROI",
+      "Workflow-Automatisierung Kosten",
+      "Zapier Make n8n Kosten",
+      "Automatisierungsagentur Preis",
+      "Prozessautomatisierung kleines Unternehmen"
+    ]
+  },
+  "translatorNotes": [
+    "PRICING POST: figures kept exact. Every dollar figure carried over unchanged and rendered with the currency named as US-Dollar. German thousands separator applied: 1.000 / 1.500 / 8.000 / 25.000 etc. Percentages kept (20 bis 30 Prozent). Timeframes kept (3 bis 6 Monate).",
+    "Key glossary conversions verified: '$3.70 for every $1' -> '3,70 US-Dollar für jeden investierten Dollar'; cost -> Kosten; build cost -> Umsetzungskosten (table header 'Build' -> 'Umsetzung'); monthly fees -> monatliche Gebühren (table header 'Monthly' -> 'Monatlich'); payback -> Amortisation; tier -> Stufe (table header 'Tier' -> 'Stufe'). '$8,000 to $25,000+' kept the plus sign as '25.000+ US-Dollar'.",
+    "All pricing-table labels translated; all numeric values kept exact. Table captions translated.",
+    "Informal du (duzen) used throughout.",
+    "Brand/tool names kept literal: Zapier, Make, n8n. Cited sources kept literal: AutomationForce, SoluLab. wordCount 2800 kept in JSON-LD. mentions array of SoftwareApplication kept.",
+    "'client intake' in the project table rendered as 'Mandatsannahme' per the law-firm glossary; 'WISMO' kept as the acronym.",
+    "No em-dashes used anywhere; commas and rewrites replace the English dashes and the ' — ' in the CTA heading.",
+    "Internal same-site links repointed to /de (services, industries, blog, contact). /privacy, /terms, sitemap, mailto, tel and external URLs (Unsplash, LinkedIn) left unchanged.",
+    "Language switcher rebuilt as three-way with EN + ES links and DE current.",
+    "No lead/audit form on this page, so no window.__i18n form block was added.",
+    "'You own everything we build' rendered as the fixed glossary phrase 'Dir gehört alles, was wir bauen.'"
+  ],
+  "suggestedLlmsTxtEntry": "German translation of the pricing guide giving real 2026 AI automation build costs, monthly fees, cost tiers, and payback math for small businesses, with every figure kept exact.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent German review before going live."
+}

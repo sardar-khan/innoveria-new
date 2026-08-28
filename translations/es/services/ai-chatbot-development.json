@@ -1,0 +1,53 @@
+{
+  "_meta": {
+    "page": "service: AI Chatbot Development",
+    "sourceFile": "/services/ai-chatbot-development.html",
+    "outputFile": "/es/services/ai-chatbot-development.html",
+    "language": "es", "locale": "es-ES", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú.",
+    "note": "Full translated copy is in the rendered page. This file records head/meta, schema strings, FAQ, targeted keywords, and reviewer notes."
+  },
+  "head": {
+    "title": "Desarrollo de chatbots con IA que agendan | Innovaria",
+    "description": "Servicios de desarrollo de chatbots con IA entrenados con tu contenido real. Califican visitantes, responden a cualquier hora y agendan llamadas.",
+    "canonical": "https://innovariatech.space/es/services/ai-chatbot-development",
+    "robots": "noindex, follow",
+    "og": { "title": "Desarrollo de chatbots con IA que agendan llamadas | Innovaria", "description": "Chatbots entrenados con el contenido real de tu negocio para web y WhatsApp. Califican visitantes, responden a las 11 de la noche y agendan llamadas.", "locale": "es_ES" }
+  },
+  "headings": {
+    "hero_h1": "Servicios de desarrollo de chatbots con IA entrenados con tu negocio real",
+    "problems_h2": "Cada pregunta sin responder es un cliente que se va",
+    "solution_h2": "Un chatbot que suena como tu negocio, no como un menú telefónico",
+    "outcomes_h2": "Lo que cambia un chatbot entrenado",
+    "how_h2": "De tu contenido a un chatbot en vivo en cuatro pasos",
+    "why_h2": "Chatbots con los que la gente termina de hablar, no que cierra con fastidio",
+    "proof_h2": "Una marca de ecommerce redujo casi a la mitad sus tickets de soporte",
+    "tech_h2": "Modelos serios, tus canales",
+    "faq_h2": "Servicios de desarrollo de chatbots con IA, respondidos sin rodeos",
+    "finalCta_h2": "Descubre qué están preguntando tus visitantes cuando nadie responde",
+    "contact_h2": "Solicita tu auditoría de automatización gratis"
+  },
+  "schema": {
+    "inLanguage": "es",
+    "serviceName": "Servicios de desarrollo de chatbots con IA",
+    "serviceDescription": "Servicios de desarrollo de chatbots con IA para web y WhatsApp: chatbots entrenados con el contenido real del negocio del cliente que responden las preguntas de los visitantes, califican leads, agendan llamadas a cualquier hora y pasan las conversaciones complejas a personas con todo el contexto.",
+    "breadcrumb": ["Inicio", "Servicios", "Servicios de desarrollo de chatbots con IA"],
+    "faqCount": 6
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish search terms, not literal translations.",
+    "primary": ["desarrollo de chatbots con IA", "crear un chatbot para mi web", "chatbot con inteligencia artificial para empresas"],
+    "secondary": ["chatbot para WhatsApp Business", "chatbot entrenado con mi contenido", "chatbot que agenda citas"],
+    "longTail": ["cuánto cuesta un chatbot con IA a medida", "chatbot para atención al cliente 24 horas", "chatbot que califica leads en la web"]
+  },
+  "translatorNotes": [
+    "Register: informal tú, consistent across the set.",
+    "'trained on your content' -> 'entrenado con tu contenido'; 'grounding' -> 'anclaje al contenido' (functional; a reviewer may prefer 'fundamentado en tu contenido'). 'knowledge base' -> 'base de conocimiento'.",
+    "'canned scripts' -> 'guiones enlatados'; 'decision tree bots' -> 'bots de árbol de decisión'; 'guardrails' -> 'salvaguardas'.",
+    "Prices unchanged: '1.000 y 5.000 dólares', '50 a 300 dólares', '$11k'. Product names kept (OpenAI, Claude, WhatsApp Business, Shopify, etc.).",
+    "Cross-links: nav/footer point ai-automation, lead-automation, ai-voice-agents, ai-chatbot-development, email-automation, workflow-automation to /es (all translated). generative-ai, social, consulting, the blog link, and the ecommerce industry link still fall back to English.",
+    "Breadcrumb 'Servicios' points to English /services hub (Phase 2 page not yet translated)."
+  ],
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live."
+}

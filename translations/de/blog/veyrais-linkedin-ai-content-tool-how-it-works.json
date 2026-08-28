@@ -1,0 +1,84 @@
+{
+  "_meta": {
+    "page": "veyrais-linkedin-ai-content-tool-how-it-works",
+    "sourceFile": "blog/veyrais-linkedin-ai-content-tool-how-it-works.html",
+    "outputFile": "de/blog/veyrais-linkedin-ai-content-tool-how-it-works.html",
+    "language": "de",
+    "locale": "de-DE",
+    "dir": "ltr",
+    "status": "DRAFT — needs native/fluent German review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Standard German, informal du.",
+    "note": "Product/marketing post about the Veyrais LinkedIn tool. Had-form: no (no lead/audit form on this page, so no window.__i18n block added). Brand and tool names kept literal (Veyrais, Taplio, MagicPost, Kleo, Jasper, Buffer, Hootsuite, PostEverywhere, LinkedIn, Reddit, Medium, Google). Prices kept exact with currency named as US-Dollar."
+  },
+  "head": {
+    "title": "Veyrais: Das KI-Content-Tool für LinkedIn, erklärt",
+    "description": "Veyrais ist das LinkedIn-Content-Tool, das wir für uns selbst gebaut haben und weiterhin täglich nutzen. Sieh dir an, wie es funktioniert, was es kostet und wie es im Vergleich zu Taplio und MagicPost abschneidet.",
+    "keywords": "Veyrais KI, KI-Content-Tool LinkedIn, LinkedIn Post Generator, LinkedIn Automatisierung Tool, KI Ghostwriter LinkedIn, Veyrais Preise, bestes KI-Tool für LinkedIn 2026",
+    "og:title": "Veyrais: Das KI-Content-Tool für LinkedIn, erklärt",
+    "og:description": "Das LinkedIn-Content-Tool, das wir für uns selbst gebaut haben. Sieh genau, wie es funktioniert, was es kostet und wie es im Vergleich zum restlichen Markt abschneidet.",
+    "og:locale": "de_DE",
+    "twitter:title": "Veyrais: Das KI-Content-Tool für LinkedIn, erklärt",
+    "twitter:description": "Wie Veyrais wirklich funktioniert, was es kostet und wie es im Vergleich zu Taplio, MagicPost und dem Rest abschneidet."
+  },
+  "headings": {
+    "h1": "Veyrais: das KI-Content-Tool für LinkedIn, das wir für uns selbst gebaut haben, jetzt für alle offen",
+    "h2": [
+      "Die wichtigsten Punkte",
+      "Warum wir es überhaupt gebaut haben",
+      "Was es tatsächlich tut",
+      "Was es nicht tut",
+      "Pläne und Preise",
+      "Wie Veyrais im Vergleich zum restlichen Markt abschneidet",
+      "Wie du loslegst",
+      "Wenn du mehr brauchst als ein Tool für die persönliche LinkedIn-Präsenz",
+      "Häufig gestellte Fragen",
+      "Weiterführende Beiträge",
+      "Sieh es laufen, bevor du dich entscheidest"
+    ]
+  },
+  "schema": {
+    "breadcrumb": [
+      { "position": 1, "name": "Startseite", "item": "https://innovariatech.space/de" },
+      { "position": 2, "name": "Blog", "item": "https://innovariatech.space/de/blog" },
+      { "position": 3, "name": "Veyrais: das KI-Content-Tool für LinkedIn", "item": "https://innovariatech.space/de/blog/veyrais-linkedin-ai-content-tool-how-it-works" }
+    ],
+    "article": {
+      "headline": "Veyrais: das KI-Content-Tool für LinkedIn, das wir für uns selbst gebaut haben, jetzt für alle offen"
+    },
+    "faq": [
+      "Ist Veyrais dasselbe Tool, das Innovaria Tech für die eigene LinkedIn-Präsenz nutzt?",
+      "Wie unterscheidet sich Veyrais von Taplio oder MagicPost?",
+      "Veröffentlicht Veyrais automatisch, ohne dass ich etwas prüfe?",
+      "Was ist in jeder Preisstufe tatsächlich enthalten?",
+      "Kann ich Pläne einfach kündigen oder wechseln?",
+      "Ist das dasselbe wie die maßgeschneiderten Automatisierungssysteme, die Innovaria Tech für Kunden baut?"
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched German search terms for a German audience, not literal translations of the English keywords.",
+    "primary": [
+      "KI Tool für LinkedIn",
+      "LinkedIn Beiträge automatisch erstellen",
+      "LinkedIn Content KI"
+    ],
+    "secondary": [
+      "LinkedIn Ghostwriter KI",
+      "LinkedIn Post Generator deutsch",
+      "Taplio Alternative",
+      "LinkedIn Karussell erstellen",
+      "Veyrais Erfahrungen"
+    ]
+  },
+  "translatorNotes": [
+    "Informal du (duzen) used throughout, consistent with the marketing tone.",
+    "Tool and brand names kept literal: Veyrais, Taplio, MagicPost, Kleo, Jasper, Buffer, Hootsuite, PostEverywhere, LinkedIn, Reddit, Medium, Google.",
+    "Prices kept exact; currency named as US-Dollar per glossary. Plan prices spelled out in prose (fünfzehn/fünfundzwanzig/vierzig US-Dollar im Monat) to match the English word style; digits used for competitor prices (69, 200, 99, 76).",
+    "No em-dashes used anywhere; commas and rewrites replace the English dashes.",
+    "Internal same-site links repointed to /de (brand, services, industries, blog, contact). /veyrais case study link left unchanged per instructions (kept English path). /privacy, /terms, sitemap, mailto, tel and external URLs left unchanged.",
+    "Language switcher rebuilt as three-way with EN + ES links and DE current.",
+    "No lead/audit form on this page, so no window.__i18n form block was added.",
+    "'You own everything we build' rendered as the fixed glossary phrase 'Dir gehört alles, was wir bauen.'"
+  ],
+  "suggestedLlmsTxtEntry": "German translation of the Veyrais article explaining how the in-house LinkedIn AI content tool works, what it costs, and how it compares to competitors.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent German review before going live."
+}

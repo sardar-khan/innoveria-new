@@ -1,0 +1,89 @@
+{
+  "_meta": {
+    "sourcePage": "services.html",
+    "targetPage": "de/services.html",
+    "language": "de",
+    "locale": "de-DE",
+    "dir": "ltr",
+    "status": "DRAFT — needs native/fluent German review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Standard German, informal du.",
+    "note": "Services hub page with NO form (has-form: false), so NO window.__i18n form block was added. Source was top-level, so its assets/, css/, js/, favicon.ico were converted to root-relative /assets, /css, /js, /favicon.ico. Three-way EN/ES/DE switcher. noindex,follow draft. Lists the nine services."
+  },
+  "head": {
+    "title": "KI- & Automatisierungsleistungen: Neun Systeme | Innovaria",
+    "description": "Neun Automatisierungsleistungen: Chatbots, Sprachassistenten, Lead-Antwort, E-Mail, Workflows und Beratung. Festpreis-Bauten, die dir gehören.",
+    "ogLocale": "de_DE",
+    "ogTitle": "KI- & Automatisierungsleistungen: Neun Systeme, die wir bauen | Innovaria Tech",
+    "ogDescription": "Chatbots, Sprachassistenten, Lead-Antwort, E-Mail, Workflows, generative KI und Beratung. Festpreis-Bauten, die dir gehören.",
+    "twitterTitle": "KI- & Automatisierungsleistungen: Neun Systeme, die wir bauen | Innovaria Tech",
+    "twitterDescription": "Chatbots, Sprachassistenten, Lead-Antwort, E-Mail, Workflows, generative KI und Beratung. Festpreis-Bauten, die dir gehören.",
+    "canonical": "https://innovariatech.space/de/services",
+    "robots": "noindex, follow",
+    "alternates": {
+      "en": "https://innovariatech.space/services",
+      "es": "https://innovariatech.space/es/services",
+      "de": "https://innovariatech.space/de/services",
+      "x-default": "https://innovariatech.space/services"
+    }
+  },
+  "headings": {
+    "h1": "Neun Automatisierungssysteme. Ein Ziel: zurückgeholter Umsatz.",
+    "h2": [
+      "Jede Leistung ist ein eigenes System, mit einer eigenen Seite",
+      "Analyse, Bauplan, Bau, Übergabe",
+      "Fragen zu den Leistungen, direkt beantwortet",
+      "Unsicher, mit welchem System du starten sollst? Genau dafür ist die Analyse da."
+    ],
+    "serviceCards": [
+      "Lead-Automatisierung",
+      "KI-Sprachassistenten",
+      "KI-Chatbot-Entwicklung",
+      "E-Mail-Automatisierung",
+      "Workflow-Automatisierung",
+      "Social-Media-Automatisierung",
+      "Generative-KI-Entwicklung",
+      "KI-Beratung",
+      "KI-Automatisierung (Alles)"
+    ]
+  },
+  "schema": {
+    "itemListName": "Neun KI- und Automatisierungsleistungen von Innovaria Tech",
+    "inLanguage": "de",
+    "itemList": [
+      { "position": 1, "name": "KI-Automatisierung", "url": "https://innovariatech.space/de/services/ai-automation" },
+      { "position": 2, "name": "KI-Chatbot-Entwicklung", "url": "https://innovariatech.space/de/services/ai-chatbot-development" },
+      { "position": 3, "name": "KI-Sprachassistenten", "url": "https://innovariatech.space/de/services/ai-voice-agents" },
+      { "position": 4, "name": "Generative-KI-Entwicklung", "url": "https://innovariatech.space/de/services/generative-ai-development" },
+      { "position": 5, "name": "KI-Beratung", "url": "https://innovariatech.space/de/services/ai-consulting" },
+      { "position": 6, "name": "Lead-Automatisierung", "url": "https://innovariatech.space/de/services/lead-automation" },
+      { "position": 7, "name": "E-Mail-Automatisierung", "url": "https://innovariatech.space/de/services/email-automation" },
+      { "position": 8, "name": "Workflow-Automatisierung", "url": "https://innovariatech.space/de/services/workflow-automation" },
+      { "position": 9, "name": "Social-Media-Automatisierung", "url": "https://innovariatech.space/de/services/social-automation" }
+    ],
+    "breadcrumb": [
+      { "position": 1, "name": "Startseite", "item": "https://innovariatech.space/de" },
+      { "position": 2, "name": "Leistungen", "item": "https://innovariatech.space/de/services" }
+    ],
+    "faq": [
+      { "q": "Könnt ihr mit den Tools arbeiten, die wir schon nutzen?", "a": "Ja. n8n, Make und Zapier verbinden sich mit Tausenden von Apps, deshalb bauen wir fast immer auf deinem aktuellen CRM, Kalender, deiner Telefonanlage und deinem Postfach auf, statt sie zu ersetzen. Wenn ein Tool eine API hat, können wir es automatisieren." },
+      { "q": "Brauchen wir alle neun Leistungen?", "a": "Nein. Die meisten Kunden starten mit einem System, meist Lead-Automatisierung oder einem KI-Sprachassistenten, weil diese am schnellsten Umsatzwirkung zeigen. Die kostenlose Analyse sagt dir, welcher einzelne Bau das meiste Geld für dein Unternehmen zurückholt." },
+      { "q": "Was passiert, wenn eine Automatisierung ausfällt?", "a": "Jeder Bau enthält Fehlerbenachrichtigungen, 30 Tage inklusivem Support und Dokumentation. Danach kannst du sie selbst warten, jeden beauftragen, der die Plattform kennt, oder uns in einem kleinen Betreuungsplan behalten. Du bist nie gebunden." }
+    ]
+  },
+  "targetedKeywords": {
+    "note": "German search intent for an AI/automation services hub. Not deployed; provided so a native reviewer can confirm terms real German buyers type.",
+    "primary": ["KI-Automatisierung Leistungen", "Automatisierungsagentur", "KI-Automatisierung Dienstleistungen"],
+    "secondary": ["Chatbot Entwicklung", "KI-Sprachassistent", "Lead-Automatisierung", "Workflow-Automatisierung", "E-Mail-Automatisierung", "generative KI Entwicklung", "KI-Beratung"]
+  },
+  "translatorNotes": [
+    "Glossary applied across the nine service names: AI Automation → KI-Automatisierung; AI Chatbot Development → KI-Chatbot-Entwicklung; AI Voice Agents → KI-Sprachassistenten; Generative AI Development → Generative-KI-Entwicklung; AI Consulting → KI-Beratung; Lead Automation → Lead-Automatisierung; Email Automation → E-Mail-Automatisierung; Workflow Automation → Workflow-Automatisierung; Social Media Automation → Social-Media-Automatisierung.",
+    "Industries in nav dropdown: Real Estate → Immobilien; Healthcare → Gesundheitswesen; Ecommerce → E-Commerce; Legal → Kanzleien; Finance & Accounting → Finanzen & Buchhaltung; Education → Bildung; Manufacturing → Fertigung; Logistics → Logistik.",
+    "audit → Analyse; roadmap → Fahrplan; blueprint → Bauplan; Book a Free Audit → Kostenlose Analyse buchen.",
+    "'recovered revenue' → 'zurückgeholter Umsatz'; 'speed to lead' → 'Tempo zum Lead'.",
+    "Top-level source assets (assets/, css/, js/, favicon.ico) converted to root-relative (/assets, /css, /js, /favicon.ico).",
+    "No form on this page, so no window.__i18n block was added (matches the sibling hub convention).",
+    "Numbers, %, brand names (n8n, Make, Zapier), email, phone kept exact."
+  ],
+  "suggestedLlmsTxtEntry": "German (draft, not indexed) translation of the Services hub: nine AI and automation systems (lead response, voice agents, chatbots, email, workflows, generative AI, consulting, and more) as fixed-price builds you own, each starting with a free audit.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent German review before going live."
+}

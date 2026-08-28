@@ -1,0 +1,70 @@
+{
+  "_meta": {
+    "page": "Blog post — AI Automation vs Hiring a Virtual Assistant (Buyer Guides)",
+    "sourceFile": "/blog/ai-automation-vs-hiring-a-virtual-assistant.html",
+    "outputFile": "/es/blog/ai-automation-vs-hiring-a-virtual-assistant.html",
+    "language": "es", "locale": "es-ES", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú.",
+    "note": "Full blog post translated: head/meta, 4 JSON-LD blocks, nav, breadcrumbs, hero, lede, answer capsule, key takeaways, body sections, side-by-side comparison table, inline CTAs, FAQ, related reading, CTA band, footer, alt text and aria-labels. No lead/audit form on this page, so no window.__i18n block was added. Internal links repointed to /es; external links, /privacy, /terms, sitemap, mailto, tel unchanged."
+  },
+  "head": {
+    "title": "Automatización con IA frente a contratar un asistente virtual",
+    "description": "Una comparación honesta, punto por punto, entre la automatización con IA y contratar un asistente virtual: costo, velocidad y control, y por qué la mayoría de negocios pequeños necesita ambos.",
+    "keywords": "automatización con IA frente a asistente virtual, automatización con IA o contratar personal, costo de un asistente virtual, costo de un empleado de IA, contrato un asistente virtual o uso IA, comparación de costos de automatización para negocios pequeños",
+    "canonical": "https://innovariatech.space/es/blog/ai-automation-vs-hiring-a-virtual-assistant",
+    "robots": "noindex, follow",
+    "og:title": "Automatización con IA frente a contratar un asistente virtual: una comparación honesta",
+    "og:description": "Una comparación honesta, punto por punto, entre la automatización con IA y contratar un asistente virtual: costo, velocidad y control, y por qué la mayoría de negocios pequeños termina necesitando ambos.",
+    "og:locale": "es_ES",
+    "twitter:title": "Automatización con IA frente a contratar un asistente virtual: una comparación honesta",
+    "twitter:description": "Una comparación honesta, punto por punto, entre la automatización con IA y contratar un asistente virtual: costo, velocidad y control."
+  },
+  "headings": {
+    "hero_h1": "Automatización con IA frente a contratar un asistente virtual: una comparación honesta",
+    "h2_va_cost": "Lo que cuesta de verdad un asistente virtual",
+    "h2_ai_cost": "Lo que cuesta de verdad la automatización con IA",
+    "h2_comparison": "Una comparación directa y honesta",
+    "h2_each_wins": "Dónde gana cada una con claridad",
+    "h2_decided": "Dónde se decide de verdad",
+    "h2_both": "Por qué la mayoría de los negocios termina haciendo ambas",
+    "h2_practice": "Cómo se ve esto en la práctica",
+    "h2_costs": "Lo que cuesta averiguarlo",
+    "h2_faq": "Preguntas frecuentes",
+    "h2_related": "Lecturas relacionadas",
+    "h2_takeaways": "Puntos clave",
+    "cta_band_h2": "Consigue una respuesta honesta para tu carga de trabajo concreta"
+  },
+  "schema": {
+    "breadcrumb": ["Inicio", "Blog", "Automatización con IA frente a contratar un asistente virtual"],
+    "article": {
+      "headline": "Automatización con IA frente a contratar un asistente virtual: una comparación honesta",
+      "inLanguage": "es"
+    },
+    "faq": [
+      "¿La automatización con IA siempre sale más barata que un asistente virtual?",
+      "¿Puede la automatización con IA reemplazar por completo a un asistente virtual?",
+      "¿Cómo sé cuáles de mis tareas deberían automatizarse y cuáles debería llevar una persona?",
+      "¿La mayoría de los negocios elige una u otra, o ambas?",
+      "¿Cuánto tarda construir un sistema de automatización frente a contratar un asistente virtual?",
+      "¿Somos dueños del sistema de automatización una vez construido, o quedamos atados a una suscripción?"
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish search terms, not literal translations.",
+    "primary": ["automatización con IA vs asistente virtual", "costo de un asistente virtual", "automatizar o contratar asistente"],
+    "secondary": ["cuánto cuesta un asistente virtual al mes", "automatización con IA para negocios pequeños", "asistente virtual o inteligencia artificial"]
+  },
+  "translatorNotes": [
+    "Register: informal tú throughout, consistent with the rest of the es effort.",
+    "Comparison TABLE: all cell text and the caption translated; the two price ranges stated in prose ('between one thousand and five thousand dollars') rendered as '1.000 y 5.000 dólares' (period thousands separator). Prices/numbers/%/read-time kept exact.",
+    "'virtual assistant' -> 'asistente virtual'; 'lead' -> 'lead'; 'follow up' -> 'seguimiento'; 'fixed quote/price' -> 'presupuesto cerrado / precio cerrado'; 'judgment' -> 'criterio'; 'rule based' -> 'basado en reglas'; 'around the clock' -> 'las veinticuatro horas'; 'offshore' -> 'de otro país'.",
+    "'August 22, 2026' -> '22 de agosto de 2026'; '10 min read' -> '10 min de lectura'.",
+    "Brand/legal names kept exact: Innovaria Tech, Innovaria Tech Limited, Ahsan Ilyas, U.S. Small Business Administration -> 'Administración de Pequeñas Empresas de EE. UU.' (glossed).",
+    "Internal links repointed to /es equivalents (blog cross-links, /es/services/*, /es/contact, footer, breadcrumbs, brand). English slugs kept in paths. lang-switch EN link -> /blog/<slug>.",
+    "External links unchanged: Unsplash images, SBA advocacy URL, LinkedIn author, sitemap. /privacy and /terms left as-is. No /veyrais link present on this page.",
+    "No lead/audit <form> exists on this post, so no window.__i18n form block was inserted."
+  ],
+  "suggestedLlmsTxtEntry": "/es/blog/ai-automation-vs-hiring-a-virtual-assistant — Spanish (es). An honest, side-by-side comparison of AI automation versus hiring a virtual assistant across cost, speed, consistency, and judgment, ending with why most small businesses combine both. DRAFT pending native review.",
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live."
+}

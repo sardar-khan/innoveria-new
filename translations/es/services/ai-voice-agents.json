@@ -1,0 +1,61 @@
+{
+  "_meta": {
+    "page": "service: AI Voice Agents",
+    "sourceFile": "/services/ai-voice-agents.html",
+    "outputFile": "/es/services/ai-voice-agents.html",
+    "language": "es", "locale": "es-ES", "dir": "ltr",
+    "status": "DRAFT — needs native/fluent Spanish review before publishing. Not indexed, not deployed.",
+    "translationVariety": "Neutral international Spanish, informal tú.",
+    "note": "Full translated copy is in the rendered page. This file records head/meta, schema strings, FAQ, targeted keywords, and reviewer notes."
+  },
+  "head": {
+    "title": "Agentes de voz con IA: cada llamada atendida | Innovaria",
+    "description": "Servicios de agentes de voz con IA que atienden cada llamada al primer tono, 24/7, agendan en tu calendario y responden por SMS las llamadas perdidas.",
+    "canonical": "https://innovariatech.space/es/services/ai-voice-agents",
+    "robots": "noindex, follow",
+    "og": { "title": "Agentes de voz con IA: cada llamada atendida | Innovaria", "description": "Tu teléfono atendido al primer tono, 24/7. Conversación natural, reservas en tu calendario, llamadas complejas transferidas con un resumen.", "locale": "es_ES" }
+  },
+  "headings": {
+    "hero_h1": "Servicios de agentes de voz con IA que atienden al primer tono, 24/7",
+    "problems_h2": "Tu teléfono es donde los clientes te prueban primero y último",
+    "solution_h2": "Un agente telefónico que funciona como lo haría una gran recepcionista",
+    "outcomes_h2": "Qué cambia cuando el teléfono siempre se atiende",
+    "how_h2": "De la auditoría a un agente telefónico en vivo en cuatro pasos",
+    "why_h2": "Construido para que quien llama se quede, no pulse cero",
+    "proof_h2": "Una clínica dejó de perder llamadas durante las consultas",
+    "tech_h2": "Telefonía que escala, voces que no chirrían",
+    "faq_h2": "Servicios de agentes de voz con IA, respondidos sin rodeos",
+    "finalCta_h2": "Descubre cuántas llamadas perdiste esta semana",
+    "contact_h2": "Solicita tu auditoría de automatización gratis"
+  },
+  "schema": {
+    "inLanguage": "es",
+    "serviceName": "Servicios de agentes de voz con IA",
+    "serviceDescription": "Servicios de agentes de voz con IA que atienden las líneas telefónicas del negocio al primer tono, 24/7, mantienen conversaciones naturales, agendan citas en los calendarios, transfieren las llamadas complejas a personas con un resumen y responden por SMS cada llamada perdida.",
+    "breadcrumb": ["Inicio", "Servicios", "Servicios de agentes de voz con IA"],
+    "faq": [
+      { "q": "¿Qué son los servicios de agentes de voz con IA?", "a": "Los servicios de agentes de voz con IA construyen un agente telefónico que atiende tu línea de negocio al primer tono, a cualquier hora de cualquier día. Mantiene una conversación natural, responde preguntas sobre tu negocio, agenda citas directamente en tu calendario y transfiere las llamadas que necesitan a una persona junto con un resumen por escrito. Quien cuelga antes de tiempo recibe un SMS de respuesta al instante." },
+      { "q": "¿Un agente de voz con IA suena robótico?", "a": "Los agentes de voz modernos hablan con voces naturales de última generación, gestionan las interrupciones y siguen el hilo de quien llama en vez de imponer un menú. Ajustamos el saludo, el tono y el vocabulario a tu negocio, y tú escuchas llamadas de prueba y apruebas la voz antes de que atienda a un cliente real." },
+      { "q": "¿Qué pasa cuando una llamada es demasiado compleja para el agente?", "a": "El agente la transfiere. Reconoce cuándo quien llama necesita criterio, está molesto o pide hablar con una persona, y entonces deriva la llamada al miembro del equipo correcto con un resumen de todo lo dicho hasta ese momento. Fuera del horario laboral toma un mensaje detallado, agenda una devolución de llamada y le envía la transcripción a tu equipo." },
+      { "q": "¿Cuánto cuestan los servicios de agentes de voz con IA?", "a": "Un agente de voz completo, incluyendo los flujos de llamada, la reserva en el calendario, las transferencias y la respuesta por SMS a las llamadas perdidas, normalmente cuesta entre 1.000 y 5.000 dólares construirlo, más de 50 a 300 dólares al mes en cuotas de plataforma y de llamadas. Cotizamos un precio cerrado tras una auditoría gratis, así que no hay facturas abiertas." },
+      { "q": "¿Cuánto tarda la puesta en marcha?", "a": "De una a dos semanas para un agente sencillo de atención y reserva, de dos a cuatro semanas para un sistema completo con transferencias, sincronización con el CRM y recuperación de llamadas perdidas. Escuchas al agente atender llamadas de prueba reales antes de pagar la factura final." },
+      { "q": "¿Qué hay del cumplimiento normativo y el consentimiento para grabar llamadas?", "a": "Configuramos el agente según tu jurisdicción: avisos de grabación en el saludo donde se requiere consentimiento, reglas de retención de datos que tú controlas y plataformas que cumplen con HIPAA para el sector salud. Las grabaciones y transcripciones viven en cuentas que son de tu negocio, y tú decides qué se guarda y por cuánto tiempo." }
+    ]
+  },
+  "targetedKeywords": {
+    "note": "Researched Spanish search terms, not literal translations.",
+    "primary": ["agente de voz con IA", "recepcionista virtual con IA", "contestador automático con inteligencia artificial"],
+    "secondary": ["atención telefónica automatizada", "agendar citas por teléfono con IA", "no perder llamadas del negocio"],
+    "longTail": ["agente telefónico con IA que agenda citas", "responder llamadas 24/7 sin recepcionista", "SMS automático a llamadas perdidas"]
+  },
+  "translatorNotes": [
+    "Register: informal tú, consistent across the set.",
+    "'first ring' -> 'al primer tono'; 'text back' -> 'respuesta por SMS' / 'SMS de respuesta'; 'warm transfer' rendered as 'transferencia con contexto' (functional, since a literal 'transferencia cálida' is not idiomatic).",
+    "'press zero' kept literal as 'pulsar cero' (the phone-menu escape) — natural in Spanish.",
+    "'no shows' -> 'ausencias' (medical no-show context). 'front desk' -> 'recepción'.",
+    "Prices unchanged: '1.000 y 5.000 dólares', '50 a 300 dólares'. HIPAA kept as-is; Twilio/Calendly/CRM product names kept.",
+    "Cross-links: nav/footer point ai-automation, lead-automation, ai-voice-agents, email-automation, workflow-automation to /es (all translated). generative-ai, chatbots, social, consulting, the two blog links, and the healthcare industry link still fall back to English.",
+    "Breadcrumb 'Servicios' points to English /services hub (Phase 2 page not yet translated)."
+  ],
+  "reviewFlag": "NOT PUBLISH READY. Machine-produced first draft; requires native or fluent Spanish review before going live."
+}

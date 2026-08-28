@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Leads Admin | Innovaria Tech</title>
+  <meta name="robots" content="noindex, nofollow">
+  <link rel="icon" href="favicon.ico" sizes="48x48">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    .admin-wrap { min-height: 100vh; display: flex; flex-direction: column; }
+    .admin-main { flex: 1; padding: 2.5rem 0 4rem; }
+    .admin-toolbar { display: flex; flex-wrap: wrap; gap: 0.8rem; align-items: center; margin: 1.5rem 0; }
+    .admin-toolbar input[type="search"] {
+      flex: 1; min-width: 220px; padding: 0.65rem 0.9rem;
+      border: 1.5px solid var(--line); border-radius: var(--radius-sm);
+      font: inherit; color: var(--ink); background: #fff;
+    }
+    .admin-toolbar input[type="search"]:focus { outline: none; border-color: var(--cyan); }
+    .lead-count { font-family: var(--mono); color: var(--cyan); font-size: 0.9rem; }
+    .leads-table-wrap { overflow-x: auto; border: 1px solid var(--line); border-radius: var(--radius); background: var(--panel); }
+    table.leads { border-collapse: collapse; width: 100%; font-size: 0.92rem; min-width: 760px; }
+    table.leads th, table.leads td { padding: 0.7rem 0.9rem; border-bottom: 1px solid var(--line); text-align: left; vertical-align: top; }
+    table.leads th { font-family: var(--mono); font-size: 0.75rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); position: sticky; top: 0; background: var(--bg-2); }
+    table.leads tr:hover td { background: rgba(23, 42, 84, 0.03); }
+    table.leads td.msg { max-width: 380px; color: var(--muted); }
+    .lead-date { font-family: var(--mono); font-size: 0.8rem; color: var(--muted); white-space: nowrap; }
+    .btn-tiny { padding: 0.3rem 0.75rem; font-size: 0.8rem; border-radius: 999px; border: 1px solid var(--line); background: transparent; color: var(--muted); cursor: pointer; text-decoration: none; display: inline-block; }
+    .btn-tiny:hover { border-color: var(--cyan); color: var(--cyan); }
+    .btn-tiny.danger:hover { border-color: #f87171; color: #f87171; }
+    .login-card { max-width: 420px; margin: 8vh auto 0; }
+    .empty-state { padding: 3rem 1.5rem; text-align: center; color: var(--muted); }
+    .hidden { display: none !important; }
+    .row-actions { display: flex; gap: 0.4rem; white-space: nowrap; }
+    .auto-toggle { display: inline-flex; align-items: center; gap: 0.4rem; font-size: 0.85rem; color: var(--muted); cursor: pointer; user-select: none; }
+    .auto-toggle input { width: 15px; height: 15px; accent-color: var(--cyan); cursor: pointer; }
+    .last-updated { font-family: var(--mono); font-size: 0.78rem; color: var(--muted); }
+    @keyframes newFlash { 0% { background: rgba(34, 197, 94, 0.22); } 100% { background: transparent; } }
+    table.leads tr.is-new td { animation: newFlash 6s ease-out; }
+    .replied-badge { display: inline-block; margin-top: 0.35rem; font-family: var(--mono); font-size: 0.7rem; letter-spacing: 0.04em; color: #16a34a; }
+    /* Reply compose modal */
+    .modal-overlay { position: fixed; inset: 0; background: rgba(10, 17, 32, 0.55); display: flex; align-items: flex-start; justify-content: center; padding: 6vh 1rem 2rem; z-index: 1000; overflow-y: auto; }
+    .reply-box { background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); width: 100%; max-width: 560px; padding: 1.6rem 1.7rem 1.4rem; box-shadow: 0 20px 60px rgba(10, 17, 32, 0.35); }
+    .reply-box h3 { margin: 0 0 0.2rem; }
+    .reply-box .reply-to { color: var(--muted); font-size: 0.9rem; margin: 0 0 1.1rem; }
+    .reply-box label { display: block; font-family: var(--mono); font-size: 0.72rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); margin: 0 0 0.35rem; }
+    .reply-box input[type="text"], .reply-box textarea { width: 100%; padding: 0.65rem 0.8rem; border: 1.5px solid var(--line); border-radius: var(--radius-sm); font: inherit; color: var(--ink); background: #fff; margin-bottom: 1rem; }
+    .reply-box input[type="text"]:focus, .reply-box textarea:focus { outline: none; border-color: var(--cyan); }
+    .reply-box textarea { resize: vertical; min-height: 160px; line-height: 1.55; }
+    .reply-actions { display: flex; gap: 0.6rem; justify-content: flex-end; align-items: center; }
+    .reply-actions .spacer { flex: 1; }
+  </style>
+</head>
+<body>
+<div class="admin-wrap">
+
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="/" aria-label="Innovaria Tech home">
+        <img src="assets/logo-innovaria.png" alt="Innovaria Tech logo" width="188" height="64">
+      </a>
+      <nav class="site-nav" aria-label="Admin">
+        <span class="lead-count" id="who"></span>
+        <button class="btn btn-ghost btn-sm hidden" id="logout-btn" type="button">Log out</button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="admin-main">
+    <div class="container">
+
+      <!-- Login -->
+      <div class="card login-card" id="login-view">
+        <span class="kicker">Leads admin</span>
+        <h2>Enter your admin key</h2>
+        <p style="color:var(--muted);font-size:0.95rem;">The value of the ADMIN_KEY environment variable set in the Vercel project.</p>
+        <form id="login-form" class="form-grid">
+          <div class="form-field">
+            <label for="admin-key">Admin key</label>
+            <input id="admin-key" type="password" autocomplete="current-password" required>
+          </div>
+          <div><button class="btn btn-primary" type="submit">Open Portal</button></div>
+          <p id="login-status" class="form-status" role="status"></p>
+        </form>
+      </div>
+
+      <!-- Portal -->
+      <div id="portal-view" class="hidden">
+        <span class="kicker">Leads admin</span>
+        <h1 style="font-size:clamp(1.6rem,3vw,2.2rem);">Audit requests <span class="lead-count" id="count"></span></h1>
+        <div class="admin-toolbar">
+          <input type="search" id="filter" placeholder="Filter by name, email, company, or message">
+          <button class="btn btn-ghost btn-sm" id="refresh-btn" type="button">Refresh</button>
+          <button class="btn btn-ghost btn-sm" id="csv-btn" type="button">Export CSV</button>
+          <label class="auto-toggle"><input type="checkbox" id="auto-refresh" checked> Auto-refresh</label>
+          <span class="last-updated" id="last-updated"></span>
+        </div>
+        <div class="leads-table-wrap">
+          <table class="leads">
+            <thead>
+              <tr><th>When</th><th>Name</th><th>Email</th><th>Company</th><th>Biggest bottleneck</th><th>From page</th><th></th></tr>
+            </thead>
+            <tbody id="rows"></tbody>
+          </table>
+          <div class="empty-state hidden" id="empty">No leads yet. When someone submits the contact form, it appears here.</div>
+        </div>
+        <p id="portal-status" class="form-status" role="status"></p>
+      </div>
+
+    </div>
+  </main>
+
+  <!-- Reply compose modal -->
+  <div id="reply-modal" class="modal-overlay hidden" role="dialog" aria-modal="true" aria-labelledby="reply-title">
+    <div class="reply-box">
+      <h3 id="reply-title">Reply to <span id="reply-name"></span></h3>
+      <p class="reply-to">To <span id="reply-email"></span> &middot; sent from info@innovariatech.space</p>
+      <label for="reply-subject">Subject</label>
+      <input id="reply-subject" type="text" maxlength="200">
+      <label for="reply-message">Message</label>
+      <textarea id="reply-message" rows="9" placeholder="Write your reply..."></textarea>
+      <div class="reply-actions">
+        <p id="reply-status" class="form-status" role="status" style="margin:0;"></p>
+        <span class="spacer"></span>
+        <button class="btn btn-ghost btn-sm" id="reply-cancel" type="button">Cancel</button>
+        <button class="btn btn-primary btn-sm" id="reply-send" type="button">Send email</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+(function () {
+  "use strict";
+  var API = "api/lead";
+  var KEY_STORE = "innovaria_admin_key";
+  var POLL_MS = 15000; // auto-refresh interval while the tab is visible
+  var leads = [];
+  var seen = {};        // ids we already knew about, to detect genuinely new leads
+  var recentNew = {};   // ids to visually flash as "just arrived"
+  var pollTimer = null;
+
+  var loginView = document.getElementById("login-view");
+  var portalView = document.getElementById("portal-view");
+  var loginStatus = document.getElementById("login-status");
+  var portalStatus = document.getElementById("portal-status");
+  var rows = document.getElementById("rows");
+  var empty = document.getElementById("empty");
+  var count = document.getElementById("count");
+  var logoutBtn = document.getElementById("logout-btn");
+  var autoRefresh = document.getElementById("auto-refresh");
+  var lastUpdated = document.getElementById("last-updated");
+
+  function key() { return sessionStorage.getItem(KEY_STORE) || ""; }
+
+  function setStatus(el, msg, ok) {
+    el.textContent = msg || "";
+    el.className = "form-status" + (msg ? (ok ? " ok" : " err") : "");
+  }
+
+  function esc(s) {
+    return String(s).replace(/[&<>"']/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+    });
+  }
+
+  function fmtDate(iso) {
+    var d = new Date(iso);
+    return isNaN(d) ? esc(iso) : d.toLocaleDateString() + " " + d.toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" });
+  }
+
+  function render() {
+    var q = document.getElementById("filter").value.trim().toLowerCase();
+    var visible = leads.filter(function (l) {
+      if (!q) return true;
+      return (l.name + " " + l.email + " " + l.company + " " + l.bottleneck).toLowerCase().indexOf(q) !== -1;
+    });
+    count.textContent = "(" + leads.length + (q ? ", showing " + visible.length : "") + ")";
+    rows.innerHTML = visible.map(function (l) {
+      var replies = Array.isArray(l.replies) ? l.replies : [];
+      var badge = replies.length
+        ? '<div class="replied-badge" title="Last reply ' + esc(fmtDate(l.lastRepliedAt)) + '">&#10003; replied' +
+          (replies.length > 1 ? " &times;" + replies.length : "") + " &middot; " + esc(fmtDate(l.lastRepliedAt)) + "</div>"
+        : "";
+      return "<tr" + (recentNew[l.id] ? ' class="is-new"' : "") + ">" +
+        '<td class="lead-date">' + fmtDate(l.at) + "</td>" +
+        "<td><strong>" + esc(l.name) + "</strong>" + badge + "</td>" +
+        '<td><a href="mailto:' + esc(l.email) + '?subject=' + encodeURIComponent("Your free automation audit - Innovaria Tech") + '">' + esc(l.email) + "</a></td>" +
+        "<td>" + esc(l.company) + "</td>" +
+        '<td class="msg">' + esc(l.bottleneck) + "</td>" +
+        '<td class="lead-date">' + esc(l.page || "") + "</td>" +
+        '<td><div class="row-actions">' +
+          '<button class="btn-tiny" data-reply="' + esc(l.id) + '" type="button">Reply</button>' +
+          '<button class="btn-tiny danger" data-del="' + esc(l.id) + '" type="button">Delete</button>' +
+        "</div></td>" +
+        "</tr>";
+    }).join("");
+    empty.classList.toggle("hidden", visible.length > 0);
+  }
+
+  /* Reply compose ---------------------------------------------------------- */
+  var replyModal = document.getElementById("reply-modal");
+  var replyName = document.getElementById("reply-name");
+  var replyEmail = document.getElementById("reply-email");
+  var replySubject = document.getElementById("reply-subject");
+  var replyMessage = document.getElementById("reply-message");
+  var replyStatus = document.getElementById("reply-status");
+  var replySendBtn = document.getElementById("reply-send");
+  var replyingId = null;
+
+  function openReply(lead) {
+    replyingId = lead.id;
+    var first = (lead.name || "").split(" ")[0] || "there";
+    replyName.textContent = lead.name || lead.email;
+    replyEmail.textContent = lead.email;
+    replySubject.value = "Re: your automation audit request";
+    replyMessage.value = "Hi " + first + ",\n\n\n\nBest,\nThe Innovaria Tech team";
+    setStatus(replyStatus, "");
+    replyModal.classList.remove("hidden");
+    replyMessage.focus();
+    // Place the cursor on the empty line, ready to type.
+    var pos = replyMessage.value.indexOf("\n\n") + 2;
+    replyMessage.setSelectionRange(pos, pos);
+  }
+
+  function closeReply() {
+    replyModal.classList.add("hidden");
+    replyingId = null;
+  }
+
+  function sendReply() {
+    var lead = leads.filter(function (l) { return l.id === replyingId; })[0];
+    if (!lead) return;
+    var subject = replySubject.value.trim();
+    var message = replyMessage.value.trim();
+    if (subject.length < 2) { setStatus(replyStatus, "Add a subject.", false); return; }
+    if (message.length < 2) { setStatus(replyStatus, "Write a message.", false); return; }
+
+    replySendBtn.disabled = true;
+    setStatus(replyStatus, "Sending...", true);
+    fetch("api/reply", {
+      method: "POST",
+      headers: { "Content-Type": "application/json", Authorization: "Bearer " + key() },
+      body: JSON.stringify({ to: lead.email, subject: subject, message: message, leadId: lead.id })
+    }).then(function (r) {
+      return r.json().then(function (data) {
+        if (!r.ok) throw new Error((data && data.error) || ("Send failed (status " + r.status + ")."));
+        return data;
+      }, function () {
+        if (!r.ok) throw new Error("Send failed (status " + r.status + ").");
+        return {};
+      });
+    }).then(function (data) {
+      // Reflect the reply locally so the badge shows without a full reload.
+      lead.replies = Array.isArray(lead.replies) ? lead.replies : [];
+      lead.replies.push({ at: (data && data.at) || new Date().toISOString(), subject: subject });
+      lead.lastRepliedAt = lead.replies[lead.replies.length - 1].at;
+      closeReply();
+      render();
+      setStatus(portalStatus, "Reply sent to " + lead.email + ".", true);
+    }).catch(function (err) {
+      setStatus(replyStatus, err.message, false);
+    }).then(function () {
+      replySendBtn.disabled = false;
+    });
+  }
+
+  replySendBtn.addEventListener("click", sendReply);
+  document.getElementById("reply-cancel").addEventListener("click", closeReply);
+  replyModal.addEventListener("click", function (e) { if (e.target === replyModal) closeReply(); });
+  document.addEventListener("keydown", function (e) { if (e.key === "Escape" && !replyModal.classList.contains("hidden")) closeReply(); });
+
+  function fmtClock() {
+    var d = new Date();
+    return d.toLocaleTimeString([], { hour: "2-digit", minute: "2-digit", second: "2-digit" });
+  }
+
+  // Apply a fresh leads list. On a background poll (isPoll), detect ids we have
+  // not seen before, flash them, and announce the count without disturbing the
+  // admin's filter text or an open reply.
+  function applyData(data, isPoll) {
+    var incoming = data.leads || [];
+    var fresh = [];
+    incoming.forEach(function (l) { if (!seen[l.id]) { if (isPoll) fresh.push(l.id); seen[l.id] = true; } });
+    leads = incoming;
+    if (fresh.length) {
+      recentNew = {};
+      fresh.forEach(function (id) { recentNew[id] = true; });
+      setStatus(portalStatus, fresh.length + (fresh.length === 1 ? " new lead just arrived." : " new leads just arrived."), true);
+      setTimeout(function () {
+        recentNew = {};
+        if (portalStatus.textContent.indexOf("new lead") !== -1) setStatus(portalStatus, "");
+        render();
+      }, 6000);
+    }
+    render();
+    lastUpdated.textContent = "Updated " + fmtClock();
+  }
+
+  function load() {
+    setStatus(portalStatus, "Loading...", true);
+    return fetch(API, { headers: { Authorization: "Bearer " + key() } })
+      .then(function (r) {
+        if (r.status === 401) throw new Error("That admin key is wrong.");
+        if (r.status === 503) throw new Error("Storage is not configured yet. Attach Upstash Redis to the Vercel project (see README).");
+        if (!r.ok) throw new Error("Could not load leads (status " + r.status + ").");
+        return r.json();
+      })
+      .then(function (data) {
+        setStatus(portalStatus, "");
+        loginView.classList.add("hidden");
+        portalView.classList.remove("hidden");
+        logoutBtn.classList.remove("hidden");
+        applyData(data, false); // initial load: seed "seen", nothing flashes
+        startPolling();
+      });
+  }
+
+  // Background refresh: quiet (no "Loading..."), never logs the admin out on a
+  // transient hiccup, and skips overlapping runs.
+  var polling = false;
+  function quietLoad() {
+    if (polling || !key()) return Promise.resolve();
+    polling = true;
+    return fetch(API, { headers: { Authorization: "Bearer " + key() } })
+      .then(function (r) { if (!r.ok) throw new Error("poll " + r.status); return r.json(); })
+      .then(function (data) { applyData(data, true); })
+      .catch(function () { /* keep the current view; try again next tick */ })
+      .then(function () { polling = false; });
+  }
+
+  function schedulePoll() {
+    clearTimeout(pollTimer);
+    pollTimer = setTimeout(pollTick, POLL_MS);
+  }
+  function pollTick() {
+    if (autoRefresh.checked && !document.hidden && key() && !portalView.classList.contains("hidden")) {
+      quietLoad().then(schedulePoll);
+    } else {
+      schedulePoll();
+    }
+  }
+  function startPolling() {
+    clearTimeout(pollTimer);
+    schedulePoll();
+  }
+
+  autoRefresh.addEventListener("change", function () {
+    if (autoRefresh.checked) { quietLoad(); schedulePoll(); }
+    else { clearTimeout(pollTimer); lastUpdated.textContent = "Auto-refresh off"; }
+  });
+
+  // Catch up instantly when the admin returns to the tab.
+  document.addEventListener("visibilitychange", function () {
+    if (!document.hidden && autoRefresh.checked && key() && !portalView.classList.contains("hidden")) {
+      quietLoad().then(schedulePoll);
+    }
+  });
+
+  document.getElementById("login-form").addEventListener("submit", function (e) {
+    e.preventDefault();
+    sessionStorage.setItem(KEY_STORE, document.getElementById("admin-key").value.trim());
+    setStatus(loginStatus, "Checking...", true);
+    load().catch(function (err) {
+      sessionStorage.removeItem(KEY_STORE);
+      setStatus(loginStatus, err.message, false);
+    });
+  });
+
+  logoutBtn.addEventListener("click", function () {
+    sessionStorage.removeItem(KEY_STORE);
+    location.reload();
+  });
+
+  document.getElementById("refresh-btn").addEventListener("click", function () {
+    load().catch(function (err) { setStatus(portalStatus, err.message, false); });
+  });
+
+  document.getElementById("filter").addEventListener("input", render);
+
+  rows.addEventListener("click", function (e) {
+    var replyId = e.target.getAttribute && e.target.getAttribute("data-reply");
+    if (replyId) {
+      var lead = leads.filter(function (l) { return l.id === replyId; })[0];
+      if (lead) openReply(lead);
+      return;
+    }
+    var id = e.target.getAttribute && e.target.getAttribute("data-del");
+    if (!id) return;
+    if (!confirm("Delete this lead permanently?")) return;
+    fetch(API + "?id=" + encodeURIComponent(id), {
+      method: "DELETE",
+      headers: { Authorization: "Bearer " + key() }
+    }).then(function (r) {
+      if (!r.ok) throw new Error("Delete failed (status " + r.status + ").");
+      leads = leads.filter(function (l) { return l.id !== id; });
+      render();
+    }).catch(function (err) { setStatus(portalStatus, err.message, false); });
+  });
+
+  document.getElementById("csv-btn").addEventListener("click", function () {
+    var head = ["date", "name", "email", "company", "bottleneck", "page"];
+    var lines = [head.join(",")].concat(leads.map(function (l) {
+      return [l.at, l.name, l.email, l.company, l.bottleneck, l.page || ""].map(function (v) {
+        return '"' + String(v).replace(/"/g, '""') + '"';
+      }).join(",");
+    }));
+    var blob = new Blob([lines.join("\r\n")], { type: "text/csv" });
+    var a = document.createElement("a");
+    a.href = URL.createObjectURL(blob);
+    a.download = "innovaria-leads.csv";
+    a.click();
+    URL.revokeObjectURL(a.href);
+  });
+
+  if (key()) {
+    load().catch(function (err) {
+      sessionStorage.removeItem(KEY_STORE);
+      setStatus(loginStatus, err.message, false);
+    });
+  }
+})();
+</script>
+</body>
+</html>

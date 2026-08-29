@@ -1253,6 +1253,11 @@ p { margin: 0 0 1em; }
    everything else mirrors automatically from dir="rtl".
    ============================================================ */
 [dir="rtl"] { text-align: right; }
+/* Prevent horizontal scroll from off-screen decorative orbs / marquee: in RTL,
+   ancestor overflow:hidden does not stop the document scrolling into inline-start
+   overflow. `clip` contains it without creating a scroll container, so the
+   position:sticky header keeps working (unlike overflow-x:hidden). */
+[dir="rtl"], [dir="rtl"] body { overflow-x: clip; }
 [dir="rtl"] body { font-family: "Segoe UI", Tahoma, "Geeza Pro", "Noto Naskh Arabic", "Noto Sans Arabic", var(--font); }
 /* Header + language switcher */
 [dir="rtl"] .site-nav .btn { margin-left: 0; margin-right: 0.4rem; }

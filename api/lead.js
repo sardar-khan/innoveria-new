@@ -184,6 +184,27 @@ function isAdmin(req) {
   return Boolean(process.env.ADMIN_KEY) && key === process.env.ADMIN_KEY;
 }
 
+// A real audit request describes a workflow; it does not paste links. A URL (or
+// link markup) anywhere in the free-text fields is a near-certain spam bot
+// (promo codes, link shorteners), so we drop it silently like the honeypot.
+function isSpammy(lead) {
+  const blob = (lead.name + " " + lead.company + " " + lead.bottleneck);
+  if (/https?:\/\/|www\.[a-z0-9-]+\.[a-z]/i.test(blob)) return true; // any explicit link
+  if (/\[url[=\]]|\[link[=\]]|<a\s+href/i.test(blob)) return true;   // bbcode / html link markup
+  return false;
+}
+
+// The page a lead came from. The form always sends window.location.pathname; a
+// bot POSTing straight to the API usually omits it, so fall back to the Referer
+// header, and label anything with no context "direct" rather than leaving it blank.
+function resolvePage(b, req) {
+  const explicit = clean(b.page, 200);
+  if (explicit) return explicit;
+  const ref = req.headers.referer || req.headers.referrer || "";
+  try { if (ref) return new URL(ref).pathname.slice(0, 200); } catch (e) { /* ignore */ }
+  return "direct";
+}
+
 module.exports = async (req, res) => {
   res.setHeader("Cache-Control", "no-store");
 
@@ -202,12 +223,19 @@ module.exports = async (req, res) => {
         email: clean(b.email, 160).toLowerCase(),
         company: clean(b.company, 160),
         bottleneck: clean(b.bottleneck, 2000),
-        page: clean(b.page, 200),
+        page: resolvePage(b, req),
         at: new Date().toISOString(),
       };
 
       if (lead.name.length < 2 || !validEmail(lead.email) || lead.company.length < 2 || lead.bottleneck.length < 10) {
         return res.status(400).json({ error: "Please fill every field with valid details." });
+      }
+
+      // Content spam filter. Drop links-in-message bots silently (200 so they do
+      // not retry): no stored lead, no confirmation email, no team notification.
+      if (isSpammy(lead)) {
+        console.warn("[lead] dropped as spam:", lead.email, "|", lead.bottleneck.slice(0, 80));
+        return res.status(200).json({ ok: true });
       }
 
       // 1) Store the lead (best-effort). A storage outage must not cost us the

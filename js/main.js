@@ -374,7 +374,7 @@
   }
 
   /* Blog card slider (home) ------------------------------------------------- */
-  /* Pages through the latest posts: 4 per view on desktop, 2 on tablet, 1 on
+  /* Pages through the latest posts: 3 per view on desktop, 2 on tablet, 1 on
      mobile. Each page shift is exactly one viewport width plus one gap, so the
      transform is direction-agnostic and gap-safe (RTL just flips the sign). */
   var bSlider = document.querySelector("[data-blog-slider]");
@@ -387,7 +387,7 @@
     var bRTL = document.documentElement.getAttribute("dir") === "rtl";
     var bPage = 0, bPages = 1, bTimer = null;
 
-    function bPerView() { var w = window.innerWidth; return w < 620 ? 1 : (w < 980 ? 2 : 4); }
+    function bPerView() { var w = window.innerWidth; return w < 620 ? 1 : (w < 980 ? 2 : 3); }
 
     function bRender() {
       bTrack.style.transform = "translateX(calc((100% + 1.5rem) * " + (bPage * (bRTL ? 1 : -1)) + "))";

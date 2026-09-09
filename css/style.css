@@ -1296,7 +1296,11 @@ p { margin: 0 0 1em; }
 .slider-btn svg { width: 18px; height: 18px; }
 .blog-slider { overflow: hidden; margin: -0.6rem; padding: 0.6rem; }
 .blog-track { display: flex; align-items: stretch; gap: 1.5rem; transition: transform 0.55s cubic-bezier(0.22, 0.61, 0.36, 1); will-change: transform; }
-.blog-slide { flex: 0 0 calc((100% - 4.5rem) / 4); min-width: 0; height: auto; }
+.blog-slide { flex: 0 0 calc((100% - 3rem) / 3); min-width: 0; height: auto; }
+.blog-track .card { padding: 1.5rem 1.4rem; }
+.blog-track .card h3 { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.blog-track .card p:not(.post-meta) { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; flex: none; }
+.blog-track .card .card-link { margin-top: auto; }
 .blog-track .card:hover { transform: translateY(-6px); border-color: var(--line-bright); box-shadow: 0 14px 34px rgba(23, 42, 84, 0.10); }
 .slider-dots { display: flex; gap: 0.5rem; justify-content: center; margin-top: 1.6rem; }
 .slider-dot { width: 9px; height: 9px; padding: 0; border: 0; border-radius: 999px; background: var(--line-bright); cursor: pointer; transition: width 0.3s ease, background 0.3s ease; }

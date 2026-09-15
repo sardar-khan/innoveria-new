@@ -26,6 +26,16 @@
     });
   }
 
+  /* Header lifts with a soft shadow once the page scrolls */
+  var siteHeader = document.querySelector(".site-header");
+  if (siteHeader) {
+    var onHeaderScroll = function () {
+      siteHeader.classList.toggle("scrolled", window.scrollY > 8);
+    };
+    onHeaderScroll();
+    window.addEventListener("scroll", onHeaderScroll, { passive: true });
+  }
+
   var reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
   /* Mobile menu ---------------------------------------------------------- */

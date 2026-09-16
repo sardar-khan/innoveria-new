@@ -1386,7 +1386,7 @@ p { margin: 0 0 1em; }
 }
 .mega-cat .mega-ic { width: 30px; height: 30px; border-radius: 9px; }
 .mega-cat .mega-ic svg { width: 16px; height: 16px; }
-.mega-cat-t { display: flex; flex-direction: column; line-height: 1.25; min-width: 0; flex: 1; }
+.mega-cat-t { display: flex; flex-direction: column; line-height: 1.25; min-width: 0; flex: 1; white-space: normal; }
 .mega-cat-t strong { font-size: 0.9rem; color: #e8eefb; font-weight: 600; }
 .mega-cat-t em { font-style: normal; font-size: 0.76rem; color: var(--muted); }
 .mega-chev { margin-left: auto; display: grid; place-items: center; color: var(--muted); opacity: 0; transform: translateX(-3px); transition: opacity 0.2s ease, transform 0.2s ease; }
@@ -1408,7 +1408,7 @@ p { margin: 0 0 1em; }
   background: rgba(255, 255, 255, 0.035);
 }
 .mega-service-card:hover { border-color: var(--line-bright); background: rgba(255, 255, 255, 0.06); }
-.mega-service-t { display: flex; flex-direction: column; min-width: 0; }
+.mega-service-t { display: flex; flex-direction: column; min-width: 0; white-space: normal; }
 .mega-service-t strong { color: #fff; font-size: 0.95rem; }
 .mega-service-t em { font-style: normal; color: var(--muted); font-size: 0.84rem; line-height: 1.45; margin-top: 0.25rem; overflow-wrap: anywhere; }
 .mega-viewall { display: inline-block; margin-top: 0.75rem; color: var(--cyan); font-size: 0.85rem; font-weight: 600; padding: 0 !important; background: none !important; }
@@ -1431,6 +1431,7 @@ p { margin: 0 0 1em; }
   border: 1px solid var(--line);
   border-radius: 14px !important;
   background: rgba(255, 255, 255, 0.035);
+  white-space: normal;
   transition: background 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
 }
 .mega-card:hover { background: rgba(34, 211, 238, 0.1) !important; border-color: var(--line-bright); transform: translateY(-2px); }

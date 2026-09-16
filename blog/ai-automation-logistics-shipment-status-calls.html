@@ -201,35 +201,325 @@
           <button class="nav-caret" type="button" aria-expanded="false" aria-label="Show services menu">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" aria-hidden="true"><path d="m5 8 7 7 7-7"/></svg>
           </button>
-          <div class="nav-menu">
-            <a class="nav-menu-hub" href="/services">All nine services <span>what each system does and how we scope it</span></a>
-            <a href="/services/ai-automation">AI Automation</a>
-            <a href="/services/lead-automation">Lead Automation</a>
-            <a href="/services/ai-voice-agents">AI Voice Agents</a>
-            <a href="/services/ai-chatbot-development">AI Chatbots</a>
-            <a href="/services/email-automation">Email Automation</a>
-            <a href="/services/workflow-automation">Workflow Automation</a>
-            <a href="/services/social-automation">Social Automation</a>
-            <a href="/services/generative-ai-development">Generative AI</a>
-            <a href="/services/ai-consulting">AI Consulting</a>
+          <div class="nav-menu nav-mega mega-services" role="menu" aria-label="Services">
+        <div class="mega-cats">
+          <span class="mega-label">Category</span>
+          <a class="mega-cat is-active" href="/services/ai-automation" data-svc="ai-automation" role="menuitem">
+            <span class="mega-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="3"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3M4.9 4.9l2.1 2.1M17 17l2.1 2.1M19.1 4.9 17 7M7 17l-2.1 2.1"/></svg></span>
+            <span class="mega-cat-t"><strong>AI Automation</strong><em>End to end systems</em></span>
+            <span class="mega-chev"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m9 18 6-6-6-6"/></svg></span>
+          </a>
+          <a class="mega-cat" href="/services/lead-automation" data-svc="lead-automation" role="menuitem">
+            <span class="mega-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M19 8v6M22 11h-6"/></svg></span>
+            <span class="mega-cat-t"><strong>Lead Automation</strong><em>Capture and route</em></span>
+            <span class="mega-chev"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m9 18 6-6-6-6"/></svg></span>
+          </a>
+          <a class="mega-cat" href="/services/ai-voice-agents" data-svc="ai-voice-agents" role="menuitem">
+            <span class="mega-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.91.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg></span>
+            <span class="mega-cat-t"><strong>AI Voice Agents</strong><em>Answer every call</em></span>
+            <span class="mega-chev"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m9 18 6-6-6-6"/></svg></span>
+          </a>
+          <a class="mega-cat" href="/services/ai-chatbot-development" data-svc="ai-chatbot-development" role="menuitem">
+            <span class="mega-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg></span>
+            <span class="mega-cat-t"><strong>AI Chatbots</strong><em>Web and support bots</em></span>
+            <span class="mega-chev"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m9 18 6-6-6-6"/></svg></span>
+          </a>
+          <a class="mega-cat" href="/services/email-automation" data-svc="email-automation" role="menuitem">
+            <span class="mega-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-10 6L2 7"/></svg></span>
+            <span class="mega-cat-t"><strong>Email Automation</strong><em>Follow up for you</em></span>
+            <span class="mega-chev"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m9 18 6-6-6-6"/></svg></span>
+          </a>
+          <a class="mega-cat" href="/services/workflow-automation" data-svc="workflow-automation" role="menuitem">
+            <span class="mega-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="6" y1="3" x2="6" y2="15"/><circle cx="18" cy="6" r="3"/><circle cx="6" cy="18" r="3"/><path d="M18 9a9 9 0 0 1-9 9"/></svg></span>
+            <span class="mega-cat-t"><strong>Workflow Automation</strong><em>Connect your stack</em></span>
+            <span class="mega-chev"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m9 18 6-6-6-6"/></svg></span>
+          </a>
+          <a class="mega-cat" href="/services/social-automation" data-svc="social-automation" role="menuitem">
+            <span class="mega-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg></span>
+            <span class="mega-cat-t"><strong>Social Automation</strong><em>Content on autopilot</em></span>
+            <span class="mega-chev"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m9 18 6-6-6-6"/></svg></span>
+          </a>
+          <a class="mega-cat" href="/services/generative-ai-development" data-svc="generative-ai-development" role="menuitem">
+            <span class="mega-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3l1.8 4.9L18.7 9l-4.9 1.8L12 15.7l-1.8-4.9L5.3 9l4.9-1.1z"/><path d="M19 14l.7 1.9 1.9.7-1.9.7-.7 1.9-.7-1.9-1.9-.7 1.9-.7z"/></svg></span>
+            <span class="mega-cat-t"><strong>Generative AI</strong><em>Custom AI builds</em></span>
+            <span class="mega-chev"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m9 18 6-6-6-6"/></svg></span>
+          </a>
+          <a class="mega-cat" href="/services/ai-consulting" data-svc="ai-consulting" role="menuitem">
+            <span class="mega-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"/></svg></span>
+            <span class="mega-cat-t"><strong>AI Consulting</strong><em>Strategy first</em></span>
+            <span class="mega-chev"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m9 18 6-6-6-6"/></svg></span>
+          </a>
+        </div>
+        <div class="mega-body">
+          <div class="mega-panel is-active" data-svc="ai-automation">
+            <div class="mega-service">
+              <span class="mega-label">Service</span>
+              <a class="mega-service-card" href="/services/ai-automation">
+                <span class="mega-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="3"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3M4.9 4.9l2.1 2.1M17 17l2.1 2.1M19.1 4.9 17 7M7 17l-2.1 2.1"/></svg></span>
+                <span class="mega-service-t"><strong>AI Automation</strong><em>Custom automations that connect your tools and run the busywork end to end.</em></span>
+              </a>
+              <a class="mega-viewall" href="/services">View all services <span aria-hidden="true">&rarr;</span></a>
+            </div>
+            <div class="mega-caps">
+              <span class="mega-label">Capabilities</span>
+              <ul class="mega-cap-list">
+                <li>Workflow design</li>
+                <li>Tool and API integration</li>
+                <li>Live data sync</li>
+                <li>Human handoff rules</li>
+                <li>Monitoring and alerts</li>
+              </ul>
+              <div class="mega-cta">
+                <a class="btn btn-ghost btn-sm" href="/services/ai-automation">Open AI Automation <span aria-hidden="true">&rarr;</span></a>
+                <a class="btn btn-primary btn-sm" href="/contact">Talk to an expert <span aria-hidden="true">&rarr;</span></a>
+              </div>
+            </div>
           </div>
+          <div class="mega-panel" data-svc="lead-automation">
+            <div class="mega-service">
+              <span class="mega-label">Service</span>
+              <a class="mega-service-card" href="/services/lead-automation">
+                <span class="mega-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M19 8v6M22 11h-6"/></svg></span>
+                <span class="mega-service-t"><strong>Lead Automation</strong><em>Capture, qualify, and route every lead the moment it arrives.</em></span>
+              </a>
+              <a class="mega-viewall" href="/services">View all services <span aria-hidden="true">&rarr;</span></a>
+            </div>
+            <div class="mega-caps">
+              <span class="mega-label">Capabilities</span>
+              <ul class="mega-cap-list">
+                <li>Instant lead capture</li>
+                <li>Qualification logic</li>
+                <li>CRM routing</li>
+                <li>Follow up triggers</li>
+                <li>Source reporting</li>
+              </ul>
+              <div class="mega-cta">
+                <a class="btn btn-ghost btn-sm" href="/services/lead-automation">Open Lead Automation <span aria-hidden="true">&rarr;</span></a>
+                <a class="btn btn-primary btn-sm" href="/contact">Talk to an expert <span aria-hidden="true">&rarr;</span></a>
+              </div>
+            </div>
+          </div>
+          <div class="mega-panel" data-svc="ai-voice-agents">
+            <div class="mega-service">
+              <span class="mega-label">Service</span>
+              <a class="mega-service-card" href="/services/ai-voice-agents">
+                <span class="mega-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.91.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg></span>
+                <span class="mega-service-t"><strong>AI Voice Agents</strong><em>Voice agents that answer calls around the clock and escalate to a person when it matters.</em></span>
+              </a>
+              <a class="mega-viewall" href="/services">View all services <span aria-hidden="true">&rarr;</span></a>
+            </div>
+            <div class="mega-caps">
+              <span class="mega-label">Capabilities</span>
+              <ul class="mega-cap-list">
+                <li>24/7 inbound answering</li>
+                <li>Order and status lookups</li>
+                <li>Appointment booking</li>
+                <li>Live escalation</li>
+                <li>Call logging</li>
+              </ul>
+              <div class="mega-cta">
+                <a class="btn btn-ghost btn-sm" href="/services/ai-voice-agents">Open AI Voice Agents <span aria-hidden="true">&rarr;</span></a>
+                <a class="btn btn-primary btn-sm" href="/contact">Talk to an expert <span aria-hidden="true">&rarr;</span></a>
+              </div>
+            </div>
+          </div>
+          <div class="mega-panel" data-svc="ai-chatbot-development">
+            <div class="mega-service">
+              <span class="mega-label">Service</span>
+              <a class="mega-service-card" href="/services/ai-chatbot-development">
+                <span class="mega-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg></span>
+                <span class="mega-service-t"><strong>AI Chatbots</strong><em>Chatbots that answer questions and take real action from your live data.</em></span>
+              </a>
+              <a class="mega-viewall" href="/services">View all services <span aria-hidden="true">&rarr;</span></a>
+            </div>
+            <div class="mega-caps">
+              <span class="mega-label">Capabilities</span>
+              <ul class="mega-cap-list">
+                <li>Presale product questions</li>
+                <li>Support deflection</li>
+                <li>Order actions</li>
+                <li>Lead capture</li>
+                <li>Human handoff</li>
+              </ul>
+              <div class="mega-cta">
+                <a class="btn btn-ghost btn-sm" href="/services/ai-chatbot-development">Open AI Chatbots <span aria-hidden="true">&rarr;</span></a>
+                <a class="btn btn-primary btn-sm" href="/contact">Talk to an expert <span aria-hidden="true">&rarr;</span></a>
+              </div>
+            </div>
+          </div>
+          <div class="mega-panel" data-svc="email-automation">
+            <div class="mega-service">
+              <span class="mega-label">Service</span>
+              <a class="mega-service-card" href="/services/email-automation">
+                <span class="mega-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-10 6L2 7"/></svg></span>
+                <span class="mega-service-t"><strong>Email Automation</strong><em>Automated follow up that keeps every lead warm and stops the moment they reply.</em></span>
+              </a>
+              <a class="mega-viewall" href="/services">View all services <span aria-hidden="true">&rarr;</span></a>
+            </div>
+            <div class="mega-caps">
+              <span class="mega-label">Capabilities</span>
+              <ul class="mega-cap-list">
+                <li>Instant acknowledgment</li>
+                <li>Nurture sequences</li>
+                <li>Reply detection</li>
+                <li>Segmentation</li>
+                <li>Reporting</li>
+              </ul>
+              <div class="mega-cta">
+                <a class="btn btn-ghost btn-sm" href="/services/email-automation">Open Email Automation <span aria-hidden="true">&rarr;</span></a>
+                <a class="btn btn-primary btn-sm" href="/contact">Talk to an expert <span aria-hidden="true">&rarr;</span></a>
+              </div>
+            </div>
+          </div>
+          <div class="mega-panel" data-svc="workflow-automation">
+            <div class="mega-service">
+              <span class="mega-label">Service</span>
+              <a class="mega-service-card" href="/services/workflow-automation">
+                <span class="mega-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="6" y1="3" x2="6" y2="15"/><circle cx="18" cy="6" r="3"/><circle cx="6" cy="18" r="3"/><path d="M18 9a9 9 0 0 1-9 9"/></svg></span>
+                <span class="mega-service-t"><strong>Workflow Automation</strong><em>Automate the repetitive steps across the tools your team already uses.</em></span>
+              </a>
+              <a class="mega-viewall" href="/services">View all services <span aria-hidden="true">&rarr;</span></a>
+            </div>
+            <div class="mega-caps">
+              <span class="mega-label">Capabilities</span>
+              <ul class="mega-cap-list">
+                <li>Multi tool workflows</li>
+                <li>Approvals</li>
+                <li>Document generation</li>
+                <li>Notifications</li>
+                <li>Error handling</li>
+              </ul>
+              <div class="mega-cta">
+                <a class="btn btn-ghost btn-sm" href="/services/workflow-automation">Open Workflow Automation <span aria-hidden="true">&rarr;</span></a>
+                <a class="btn btn-primary btn-sm" href="/contact">Talk to an expert <span aria-hidden="true">&rarr;</span></a>
+              </div>
+            </div>
+          </div>
+          <div class="mega-panel" data-svc="social-automation">
+            <div class="mega-service">
+              <span class="mega-label">Service</span>
+              <a class="mega-service-card" href="/services/social-automation">
+                <span class="mega-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg></span>
+                <span class="mega-service-t"><strong>Social Automation</strong><em>Plan, generate, and schedule social content in your own voice.</em></span>
+              </a>
+              <a class="mega-viewall" href="/services">View all services <span aria-hidden="true">&rarr;</span></a>
+            </div>
+            <div class="mega-caps">
+              <span class="mega-label">Capabilities</span>
+              <ul class="mega-cap-list">
+                <li>Content generation</li>
+                <li>Scheduling</li>
+                <li>Trend sourcing</li>
+                <li>Carousels</li>
+                <li>Analytics</li>
+              </ul>
+              <div class="mega-cta">
+                <a class="btn btn-ghost btn-sm" href="/services/social-automation">Open Social Automation <span aria-hidden="true">&rarr;</span></a>
+                <a class="btn btn-primary btn-sm" href="/contact">Talk to an expert <span aria-hidden="true">&rarr;</span></a>
+              </div>
+            </div>
+          </div>
+          <div class="mega-panel" data-svc="generative-ai-development">
+            <div class="mega-service">
+              <span class="mega-label">Service</span>
+              <a class="mega-service-card" href="/services/generative-ai-development">
+                <span class="mega-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3l1.8 4.9L18.7 9l-4.9 1.8L12 15.7l-1.8-4.9L5.3 9l4.9-1.1z"/><path d="M19 14l.7 1.9 1.9.7-1.9.7-.7 1.9-.7-1.9-1.9-.7 1.9-.7z"/></svg></span>
+                <span class="mega-service-t"><strong>Generative AI</strong><em>Custom generative AI features built on your own data and workflows.</em></span>
+              </a>
+              <a class="mega-viewall" href="/services">View all services <span aria-hidden="true">&rarr;</span></a>
+            </div>
+            <div class="mega-caps">
+              <span class="mega-label">Capabilities</span>
+              <ul class="mega-cap-list">
+                <li>RAG assistants</li>
+                <li>Content tools</li>
+                <li>Data extraction</li>
+                <li>Custom models</li>
+                <li>Safety guardrails</li>
+              </ul>
+              <div class="mega-cta">
+                <a class="btn btn-ghost btn-sm" href="/services/generative-ai-development">Open Generative AI <span aria-hidden="true">&rarr;</span></a>
+                <a class="btn btn-primary btn-sm" href="/contact">Talk to an expert <span aria-hidden="true">&rarr;</span></a>
+              </div>
+            </div>
+          </div>
+          <div class="mega-panel" data-svc="ai-consulting">
+            <div class="mega-service">
+              <span class="mega-label">Service</span>
+              <a class="mega-service-card" href="/services/ai-consulting">
+                <span class="mega-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"/></svg></span>
+                <span class="mega-service-t"><strong>AI Consulting</strong><em>A clear, honest roadmap before you spend a dollar on any build.</em></span>
+              </a>
+              <a class="mega-viewall" href="/services">View all services <span aria-hidden="true">&rarr;</span></a>
+            </div>
+            <div class="mega-caps">
+              <span class="mega-label">Capabilities</span>
+              <ul class="mega-cap-list">
+                <li>Opportunity audit</li>
+                <li>Prioritization</li>
+                <li>Tool selection</li>
+                <li>ROI modeling</li>
+                <li>Rollout plan</li>
+              </ul>
+              <div class="mega-cta">
+                <a class="btn btn-ghost btn-sm" href="/services/ai-consulting">Open AI Consulting <span aria-hidden="true">&rarr;</span></a>
+                <a class="btn btn-primary btn-sm" href="/contact">Talk to an expert <span aria-hidden="true">&rarr;</span></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
         </div>
         <div class="nav-item">
           <a href="/industries">Industries</a>
           <button class="nav-caret" type="button" aria-expanded="false" aria-label="Show industries menu">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" aria-hidden="true"><path d="m5 8 7 7 7-7"/></svg>
           </button>
-          <div class="nav-menu">
-            <a class="nav-menu-hub" href="/industries">All eight industries <span>the leak we see most in each, and the fix</span></a>
-            <a href="/industries/real-estate">Real Estate</a>
-            <a href="/industries/healthcare">Healthcare</a>
-            <a href="/industries/ecommerce">Ecommerce</a>
-            <a href="/industries/legal">Legal</a>
-            <a href="/industries/finance">Finance &amp; Accounting</a>
-            <a href="/industries/education">Education</a>
-            <a href="/industries/manufacturing">Manufacturing</a>
-            <a href="/industries/logistics">Logistics</a>
-          </div>
+          <div class="nav-menu nav-mega mega-industries" role="menu" aria-label="Industries">
+        <div class="mega-cards">
+          <a class="mega-card" href="/industries/real-estate" role="menuitem">
+            <span class="mega-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 9.5 12 3l9 6.5V21a1 1 0 0 1-1 1h-5v-6H9v6H4a1 1 0 0 1-1-1z"/></svg></span>
+            <strong>Real Estate</strong>
+            <span class="mega-card-d">Follow up and book every lead.</span>
+          </a>
+          <a class="mega-card" href="/industries/healthcare" role="menuitem">
+            <span class="mega-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.8 6.6a5.5 5.5 0 0 0-9.3-2.6L12 4l-.5-.5A5.5 5.5 0 1 0 3.7 11l8.3 8.3 8.3-8.3a5.5 5.5 0 0 0 .5-4.4z"/></svg></span>
+            <strong>Healthcare</strong>
+            <span class="mega-card-d">Intake and scheduling, handled with care.</span>
+          </a>
+          <a class="mega-card" href="/industries/ecommerce" role="menuitem">
+            <span class="mega-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="9" cy="21" r="1"/><circle cx="20" cy="21" r="1"/><path d="M1 1h4l2.7 13.4a2 2 0 0 0 2 1.6h9.7a2 2 0 0 0 2-1.6L23 6H6"/></svg></span>
+            <strong>Ecommerce</strong>
+            <span class="mega-card-d">Support, returns, and cart recovery.</span>
+          </a>
+          <a class="mega-card" href="/industries/legal" role="menuitem">
+            <span class="mega-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v18M3 7h18M6 7l-3 6h6zM18 7l-3 6h6zM8 21h8"/></svg></span>
+            <strong>Legal</strong>
+            <span class="mega-card-d">Client intake without the phone tag.</span>
+          </a>
+          <a class="mega-card" href="/industries/finance" role="menuitem">
+            <span class="mega-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="6" y1="20" x2="6" y2="16"/><line x1="12" y1="20" x2="12" y2="10"/><line x1="18" y1="20" x2="18" y2="4"/></svg></span>
+            <strong>Finance &amp; Accounting</strong>
+            <span class="mega-card-d">Answer the season's routine calls.</span>
+          </a>
+          <a class="mega-card" href="/industries/education" role="menuitem">
+            <span class="mega-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 10 12 5 2 10l10 5 10-5z"/><path d="M6 12v5c0 1 2.7 2.5 6 2.5s6-1.5 6-2.5v-5"/></svg></span>
+            <strong>Education</strong>
+            <span class="mega-card-d">Nurture families through a long decision.</span>
+          </a>
+          <a class="mega-card" href="/industries/manufacturing" role="menuitem">
+            <span class="mega-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 20h20V9l-6 4V9l-6 4V4H4a2 2 0 0 0-2 2z"/></svg></span>
+            <strong>Manufacturing</strong>
+            <span class="mega-card-d">Order and quote status, answered.</span>
+          </a>
+          <a class="mega-card" href="/industries/logistics" role="menuitem">
+            <span class="mega-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="1" y="6" width="13" height="11" rx="1"/><path d="M14 9h4l3 3v5h-7z"/><circle cx="6" cy="18" r="2"/><circle cx="17" cy="18" r="2"/></svg></span>
+            <strong>Logistics</strong>
+            <span class="mega-card-d">Dispatch calls without the hold time.</span>
+          </a>
+        </div>
+        <a class="mega-viewall mega-viewall-foot" href="/industries">See all eight industries <span aria-hidden="true">&rarr;</span></a>
+      </div>
         </div>
         <a href="/case-studies">Case Studies</a>
         <a href="/about">About</a>

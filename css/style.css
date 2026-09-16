@@ -1335,3 +1335,136 @@ p { margin: 0 0 1em; }
 @media (prefers-reduced-motion: reduce) { .blog-track { transition: none; } .blog-track .card:hover { transform: none; } }
 /* In RTL the prev/next chevrons point the natural way */
 [dir="rtl"] .slider-btn svg { transform: scaleX(-1); }
+
+/* ==========================================================================
+   Mega menus: Services (3-column category panel) + Industries (card grid)
+   ========================================================================== */
+.nav-mega { padding: 0.6rem; }
+.mega-label {
+  display: block;
+  font-family: var(--mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--muted);
+  padding: 0.25rem 0.5rem 0.55rem;
+}
+.mega-ic {
+  display: grid;
+  place-items: center;
+  width: 34px;
+  height: 34px;
+  flex: none;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.055);
+  border: 1px solid var(--line);
+  color: var(--cyan);
+}
+.mega-ic svg { width: 18px; height: 18px; }
+
+/* Services: category | service | capabilities */
+.mega-services {
+  display: grid;
+  grid-template-columns: 262px minmax(0, 1fr);
+  gap: 0;
+  width: min(780px, 92vw);
+  left: -1rem;
+}
+.mega-cats {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+  padding: 0.3rem;
+  border-right: 1px solid var(--line);
+}
+.mega-cat {
+  display: flex !important;
+  align-items: center;
+  gap: 0.65rem;
+  padding: 0.5rem 0.6rem !important;
+  border-radius: 12px !important;
+}
+.mega-cat .mega-ic { width: 30px; height: 30px; border-radius: 9px; }
+.mega-cat .mega-ic svg { width: 16px; height: 16px; }
+.mega-cat-t { display: flex; flex-direction: column; line-height: 1.25; min-width: 0; flex: 1; }
+.mega-cat-t strong { font-size: 0.9rem; color: #e8eefb; font-weight: 600; }
+.mega-cat-t em { font-style: normal; font-size: 0.76rem; color: var(--muted); }
+.mega-chev { margin-left: auto; display: grid; place-items: center; color: var(--muted); opacity: 0; transform: translateX(-3px); transition: opacity 0.2s ease, transform 0.2s ease; }
+.mega-chev svg { width: 15px; height: 15px; }
+.mega-cat:hover, .mega-cat.is-active { background: rgba(34, 211, 238, 0.12) !important; }
+.mega-cat.is-active .mega-cat-t strong, .mega-cat:hover .mega-cat-t strong { color: var(--cyan); }
+.mega-cat.is-active .mega-ic, .mega-cat:hover .mega-ic { border-color: var(--line-bright); color: var(--cyan); }
+.mega-cat.is-active .mega-chev, .mega-cat:hover .mega-chev { opacity: 1; transform: translateX(0); }
+
+.mega-body { position: relative; padding: 0.3rem 0.4rem; }
+.mega-panel { display: none; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 1.1rem; }
+.mega-panel.is-active { display: grid; }
+.mega-service-card {
+  display: flex !important;
+  gap: 0.7rem;
+  padding: 0.8rem !important;
+  border: 1px solid var(--line);
+  border-radius: 14px !important;
+  background: rgba(255, 255, 255, 0.035);
+}
+.mega-service-card:hover { border-color: var(--line-bright); background: rgba(255, 255, 255, 0.06); }
+.mega-service-t { display: flex; flex-direction: column; min-width: 0; }
+.mega-service-t strong { color: #fff; font-size: 0.95rem; }
+.mega-service-t em { font-style: normal; color: var(--muted); font-size: 0.84rem; line-height: 1.45; margin-top: 0.25rem; overflow-wrap: anywhere; }
+.mega-viewall { display: inline-block; margin-top: 0.75rem; color: var(--cyan); font-size: 0.85rem; font-weight: 600; padding: 0 !important; background: none !important; }
+.mega-viewall:hover { text-decoration: underline; }
+.mega-caps .mega-cap-list { list-style: none; margin: 0.3rem 0 0; padding: 0; display: grid; gap: 0.4rem; }
+.mega-cap-list li { position: relative; padding-left: 1.05rem; font-size: 0.85rem; color: #e8eefb; }
+.mega-cap-list li::before { content: ""; position: absolute; left: 0.1rem; top: 0.52em; width: 5px; height: 5px; border-radius: 50%; background: var(--cyan); }
+.mega-cta { display: flex; gap: 0.5rem; margin-top: 1rem; flex-wrap: wrap; }
+.mega-cta .btn { padding: 0.5rem 0.95rem; font-size: 0.82rem; }
+.mega-cta .btn-ghost { border-color: var(--line-bright); }
+
+/* Industries: card grid */
+.mega-industries { width: min(720px, 94vw); left: -6rem; right: auto; }
+.mega-cards { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.5rem; }
+.mega-card {
+  display: flex !important;
+  flex-direction: column;
+  gap: 0.35rem;
+  padding: 0.85rem 0.8rem !important;
+  border: 1px solid var(--line);
+  border-radius: 14px !important;
+  background: rgba(255, 255, 255, 0.035);
+  transition: background 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
+}
+.mega-card:hover { background: rgba(34, 211, 238, 0.1) !important; border-color: var(--line-bright); transform: translateY(-2px); }
+.mega-card strong { color: #fff; font-size: 0.88rem; font-weight: 600; }
+.mega-card-d { color: var(--muted); font-size: 0.78rem; line-height: 1.35; }
+.mega-card .mega-ic { margin-bottom: 0.15rem; }
+.mega-viewall-foot { margin: 0.7rem 0.3rem 0.2rem; }
+
+/* Mobile: collapse mega menus back to a simple stacked list (keeps the base accordion indent) */
+@media (max-width: 880px) {
+  .nav-item { flex-wrap: wrap; }
+  .mega-services, .mega-industries { display: block; grid-template-columns: 1fr; width: 100%; flex-basis: 100%; left: auto; right: auto; }
+  .nav-item.open > .nav-mega { display: block; }
+  .mega-label, .mega-chev, .mega-body, .mega-service, .mega-caps, .mega-viewall-foot, .mega-card-d { display: none !important; }
+  .mega-cats { border: 0; padding: 0; display: block; }
+  .mega-cat { padding: 0.5rem 0 !important; gap: 0.55rem; }
+  .mega-cat .mega-ic { width: 26px; height: 26px; }
+  .mega-cat-t em { display: none; }
+  .mega-cards { display: block; grid-template-columns: 1fr; gap: 0; }
+  .mega-card { flex-direction: row; align-items: center; gap: 0.55rem; padding: 0.5rem 0 !important; border: 0 !important; background: none !important; border-radius: 0 !important; }
+  .mega-card:hover { transform: none; background: none !important; }
+  .mega-card .mega-ic { width: 26px; height: 26px; margin-bottom: 0; }
+}
+
+/* RTL: flip mega menu positioning, dividers, chevrons, and bullets */
+[dir="rtl"] .mega-services { left: auto; right: -1rem; }
+[dir="rtl"] .mega-industries { left: auto; right: -6rem; }
+[dir="rtl"] .mega-cats { border-right: 0; border-left: 1px solid var(--line); }
+[dir="rtl"] .mega-chev { margin-left: 0; margin-right: auto; transform: translateX(3px); }
+[dir="rtl"] .mega-chev svg { transform: scaleX(-1); }
+[dir="rtl"] .mega-cat.is-active .mega-chev, [dir="rtl"] .mega-cat:hover .mega-chev { transform: translateX(0); }
+[dir="rtl"] .mega-cap-list li { padding-left: 0; padding-right: 1.05rem; }
+[dir="rtl"] .mega-cap-list li::before { left: auto; right: 0.1rem; }
+@media (max-width: 880px) {
+  [dir="rtl"] .mega-services, [dir="rtl"] .mega-industries { left: auto; right: auto; }
+  [dir="rtl"] .mega-cats { border-left: 0; }
+}

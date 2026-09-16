@@ -36,6 +36,22 @@
     window.addEventListener("scroll", onHeaderScroll, { passive: true });
   }
 
+  /* Services mega menu: hovering a category previews its service + capabilities */
+  var megaServices = document.querySelector(".mega-services");
+  if (megaServices) {
+    var megaCats = megaServices.querySelectorAll(".mega-cat");
+    var megaPanels = megaServices.querySelectorAll(".mega-panel");
+    var megaActivate = function (slug) {
+      megaCats.forEach(function (c) { c.classList.toggle("is-active", c.getAttribute("data-svc") === slug); });
+      megaPanels.forEach(function (p) { p.classList.toggle("is-active", p.getAttribute("data-svc") === slug); });
+    };
+    megaCats.forEach(function (c) {
+      var slug = c.getAttribute("data-svc");
+      c.addEventListener("mouseenter", function () { megaActivate(slug); });
+      c.addEventListener("focus", function () { megaActivate(slug); });
+    });
+  }
+
   var reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
   /* Mobile menu ---------------------------------------------------------- */

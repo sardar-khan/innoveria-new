@@ -7,6 +7,9 @@
     "nodemailer": "^6.10.1"
   },
   "scripts": {
-    "seo-check": "node scripts/seo-check.mjs"
+    "seo-check": "node scripts/seo-check.mjs",
+    "build:css": "npx --yes esbuild css/style.css --minify --outfile=css/style.min.css",
+    "build:js": "npx --yes esbuild js/main.js --minify --outfile=js/main.min.js",
+    "build:min": "npm run build:css && npm run build:js"
   }
 }

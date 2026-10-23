@@ -1,3 +1,4 @@
+/* SOURCE FILE. Edit here, then run `npm run build:min` to regenerate css/style.min.css (the file the pages load). */
 /* ==========================================================================
    Innovaria Tech — shared design system (light theme with dark anchors)
    White/soft-gray pages; dark navy header, heroes, stats band, CTA band,
@@ -17,6 +18,7 @@
   --ink: #2a3a5c;
   --muted: #5d6e90;
   --accent: #0891b2;
+  --link: #0e7490;
 
   /* Dark anchor tokens */
   --dark-bg: #060a13;
@@ -55,6 +57,7 @@
   --panel: rgba(255, 255, 255, 0.035);
   --panel-2: rgba(255, 255, 255, 0.065);
   --accent: #22d3ee;
+  --link: #22d3ee;
   --text-grad: var(--grad);
   --acc1: #22d3ee;
   --acc2: #22d3ee;
@@ -94,7 +97,7 @@ body::before {
 
 img { max-width: 100%; height: auto; display: block; }
 
-a { color: var(--accent); }
+a { color: var(--link); }
 a:hover { color: var(--g2); }
 
 h1, h2, h3, h4 {
@@ -147,7 +150,7 @@ p { margin: 0 0 1em; }
   font-weight: 700;
   letter-spacing: 0.16em;
   text-transform: uppercase;
-  color: var(--accent);
+  color: var(--link);
   margin-bottom: 1rem;
   font-family: var(--mono);
 }
@@ -196,7 +199,7 @@ p { margin: 0 0 1em; }
 
 .btn-ghost {
   background: transparent;
-  color: var(--accent);
+  color: var(--link);
   border-color: var(--accent);
 }
 .btn-ghost:hover { filter: brightness(1.1); transform: translateY(-2px); }
@@ -562,7 +565,7 @@ p { margin: 0 0 1em; }
 }
 .terminal-body { padding: 1.1rem 1.2rem 1.3rem; min-height: 250px; }
 .terminal-body .tline { display: flex; gap: 0.7rem; margin-bottom: 0.55rem; opacity: 0; animation: tline-in 0.35s ease forwards; }
-.terminal-body .t-time { color: #5b6f92; flex-shrink: 0; }
+.terminal-body .t-time { color: #8697bd; flex-shrink: 0; }
 .terminal-body .t-ok { color: #34d399; }
 .terminal-body .t-info { color: var(--cyan); }
 .terminal-body .t-warn { color: #fbbf24; }
@@ -601,7 +604,7 @@ p { margin: 0 0 1em; }
   white-space: nowrap;
   letter-spacing: 0.06em;
 }
-.marquee span b { color: var(--accent); font-weight: 400; }
+.marquee span b { color: var(--link); font-weight: 400; }
 
 @keyframes marquee { to { transform: translateX(-50%); } }
 
@@ -917,7 +920,7 @@ p { margin: 0 0 1em; }
   top: 50%;
   transform: translateY(-50%);
   font-size: 1.4rem;
-  color: var(--accent);
+  color: var(--link);
   transition: transform 0.2s ease;
 }
 .faq details[open] summary::after { content: "\2013"; }
@@ -1105,7 +1108,7 @@ p { margin: 0 0 1em; }
   font-weight: 700;
   letter-spacing: 0.14em;
   text-transform: uppercase;
-  color: var(--accent);
+  color: var(--link);
 }
 .plan .price { font-size: 2.6rem; font-weight: 800; color: var(--heading); margin: 0.3rem 0 0; letter-spacing: -0.02em; }
 .plan .price span { font-size: 1rem; color: var(--muted); font-weight: 500; }
@@ -1118,7 +1121,7 @@ p { margin: 0 0 1em; }
   border-bottom: 1px solid var(--line);
 }
 .plan li:last-child { border-bottom: 0; }
-.plan li::before { content: "\2713"; position: absolute; left: 0; color: var(--accent); font-weight: 700; }
+.plan li::before { content: "\2713"; position: absolute; left: 0; color: var(--link); font-weight: 700; }
 .plan .btn { width: 100%; }
 .plan.popular {
   border-color: rgba(124, 58, 237, 0.32);
@@ -1328,7 +1331,8 @@ p { margin: 0 0 1em; }
 .blog-track .card .card-link { margin-top: auto; }
 .blog-track .card:hover { transform: translateY(-6px); border-color: var(--line-bright); box-shadow: 0 14px 34px rgba(23, 42, 84, 0.10); }
 .slider-dots { display: flex; gap: 0.5rem; justify-content: center; margin-top: 1.6rem; }
-.slider-dot { width: 9px; height: 9px; padding: 0; border: 0; border-radius: 999px; background: var(--line-bright); cursor: pointer; transition: width 0.3s ease, background 0.3s ease; }
+.slider-dot { position: relative; width: 9px; height: 9px; padding: 0; border: 0; border-radius: 999px; background: var(--line-bright); cursor: pointer; transition: width 0.3s ease, background 0.3s ease; }
+.slider-dot::after { content: ""; position: absolute; inset: -8px; border-radius: 999px; }
 .slider-dot.active { width: 26px; background: var(--cyan); }
 @media (max-width: 980px) { .blog-slide { flex-basis: calc((100% - 1.5rem) / 2); } }
 @media (max-width: 620px) { .blog-slide { flex-basis: 100%; } }

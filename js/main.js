@@ -1,3 +1,4 @@
+/* SOURCE FILE. Edit here, then run `npm run build:min` to regenerate js/main.min.js (the file the pages load). */
 /* Innovaria Tech — menu, animations, form validation. No dependencies. */
 (function () {
   "use strict";

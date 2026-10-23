@@ -132,47 +132,6 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "HowTo",
-    "name": "Cómo automatizar tu primera respuesta a leads con n8n",
-    "description": "Una guía paso a paso para crear un flujo básico de respuesta automática a leads en n8n, desde el disparador webhook hasta el email instantáneo.",
-    "totalTime": "PT1H",
-    "step": [
-      {
-        "@type": "HowToStep",
-        "name": "Crea el disparador webhook",
-        "text": "Añade un nodo Webhook como primer paso de tu flujo, ajusta el método HTTP a POST y apunta tu formulario de contacto a la URL de webhook de prueba para confirmar que los datos entrantes llegan correctamente."
-      },
-      {
-        "@type": "HowToStep",
-        "name": "Estructura los datos entrantes",
-        "text": "Añade un nodo Set para estandarizar los campos del formulario entrante en una estructura predecible, como name, email, message y source."
-      },
-      {
-        "@type": "HowToStep",
-        "name": "Redacta una respuesta usando tu propia información",
-        "text": "Añade un nodo de IA conectado a un modelo de lenguaje con instrucciones claras para responder usando únicamente tus servicios, precios y próximos pasos."
-      },
-      {
-        "@type": "HowToStep",
-        "name": "Envía la respuesta automáticamente",
-        "text": "Añade un nodo de envío de email configurado para mandar la respuesta redactada a la dirección de email del lead, y comprueba que llega correctamente."
-      },
-      {
-        "@type": "HowToStep",
-        "name": "Registra el lead en un sitio que tu equipo pueda ver",
-        "text": "Añade un nodo final que escriba los datos del lead en una hoja de cálculo o CRM para que tu equipo tenga un registro de cada consulta."
-      },
-      {
-        "@type": "HowToStep",
-        "name": "Cambia al webhook de producción y vuelve a probar",
-        "text": "Cuando el flujo funcione de forma fiable con la URL de prueba, cambia al webhook de producción, actualiza tu formulario y prueba casos límite como campos en blanco o envíos duplicados."
-      }
-    ]
-  }
-  </script>
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
     "@type": "FAQPage",
     "inLanguage": "es",
     "mainEntity": [

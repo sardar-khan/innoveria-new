@@ -132,47 +132,6 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "HowTo",
-    "name": "How to automate your first lead reply with n8n",
-    "description": "A step by step guide to building a basic automated lead reply workflow in n8n, from webhook trigger to instant email response.",
-    "totalTime": "PT1H",
-    "step": [
-      {
-        "@type": "HowToStep",
-        "name": "Create the webhook trigger",
-        "text": "Add a Webhook node as the first step in your workflow, set the HTTP method to POST, and point your contact form at the test webhook URL to confirm incoming data arrives correctly."
-      },
-      {
-        "@type": "HowToStep",
-        "name": "Structure the incoming data",
-        "text": "Add a Set node to standardize incoming form fields into a predictable structure, such as name, email, message, and source."
-      },
-      {
-        "@type": "HowToStep",
-        "name": "Draft a reply using your own information",
-        "text": "Add an AI node connected to a language model with clear instructions to answer only using your provided services, pricing, and next steps."
-      },
-      {
-        "@type": "HowToStep",
-        "name": "Send the reply automatically",
-        "text": "Add an email sending node configured to send the drafted reply to the lead's email address, and test that it lands correctly."
-      },
-      {
-        "@type": "HowToStep",
-        "name": "Log the lead somewhere your team can see it",
-        "text": "Add a final node that writes the lead's details into a spreadsheet or CRM so your team has a record of every inquiry."
-      },
-      {
-        "@type": "HowToStep",
-        "name": "Switch to the production webhook and test again",
-        "text": "Once the workflow works reliably on the test URL, switch to the production webhook, update your form, and test edge cases such as blank fields or duplicate submissions."
-      }
-    ]
-  }
-  </script>
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
     "@type": "FAQPage",
     "mainEntity": [
       {

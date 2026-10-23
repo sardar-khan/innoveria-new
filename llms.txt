@@ -31,7 +31,7 @@ Primary conversion: free 30 minute automation audit with a written roadmap the p
 
 ## Proof
 
-- [Case Studies](https://innovariatech.space/case-studies): anonymized representative results including a 12 agent brokerage cutting lead response from 4+ hours to 90 seconds (+34% viewings), a clinic cutting no shows 31%, an ecommerce brand recovering $11k monthly, and a law firm booking 42% more consultations
+- [Case Studies](https://innovariatech.space/case-studies): anonymized, representative examples of the automation outcomes we work toward across real estate, healthcare, ecommerce, and legal
 - [Veyrais](https://innovariatech.space/veyrais): our own LinkedIn automation, built in house and running in production; proof of capability, not a product for sale
 
 ## Content
@@ -68,6 +68,29 @@ Primary conversion: free 30 minute automation audit with a written roadmap the p
 - [AI automation for medical clinics](https://innovariatech.space/blog/ai-automation-medical-clinics): cutting patient no shows, ending phone tag, and filling cancellations while staying HIPAA compliant
 - [AI for real estate lead generation](https://innovariatech.space/blog/ai-real-estate-lead-generation): replying to every enquiry in under 60 seconds, qualifying buyers, and booking viewings around the clock
 - [How real estate teams use AI automation in 2026](https://innovariatech.space/blog/how-real-estate-uses-ai-automation-2026): the five systems top teams run, with realistic numbers
+- [AI chatbots for ecommerce: presale and support](https://innovariatech.space/blog/ai-chatbots-for-ecommerce-presale-and-support-questions): answering the same ten presale and support questions from real product and order data, not a generic script
+- [AI chatbots for ecommerce: cart recovery](https://innovariatech.space/blog/ai-chatbots-for-ecommerce-recover-abandoned-carts): catching cart hesitation live, what actually recovers a cart, and the consent rules before any outbound message
+- [AI chatbots for healthcare clinics](https://innovariatech.space/blog/ai-chatbots-for-healthcare-clinics-intake-and-scheduling): online intake and scheduling into the EHR, patient data handled properly, never assessing a symptom
+- [AI chatbots for law firms](https://innovariatech.space/blog/ai-chatbots-for-law-firms-client-intake): round the clock web intake that routes instead of advising and never runs a conflict check
+- [AI email automation for real estate](https://innovariatech.space/blog/ai-email-automation-for-real-estate-lead-follow-up): following up with slow burn buyers for months and stopping the moment a human replies
+- [AI email automation for schools](https://innovariatech.space/blog/ai-email-automation-for-schools-follow-up-with-families): keeping admissions inquiries warm without manufactured urgency, student data handled with care
+- [AI voice agents for accounting firms](https://innovariatech.space/blog/ai-voice-agents-for-accounting-firms-tax-season-calls): answering every client call through tax season, protecting confidentiality, handing off to a preparer
+- [AI voice agents for logistics](https://innovariatech.space/blog/ai-voice-agents-for-logistics-dispatch-calls-without-hold-time): answering dispatch and driver calls instantly and escalating rate decisions to a person
+- [AI voice agents for manufacturers](https://innovariatech.space/blog/ai-voice-agents-for-manufacturers-order-quote-status-calls): answering order and quote status calls from ERP data without pulling an estimator off the floor
+
+### How-to guides
+
+- [How to set up an AI chatbot for your website](https://innovariatech.space/blog/how-to-set-up-an-ai-chatbot-for-your-website): a numbered walkthrough, one job, real content, honest testing, and a clean handoff to a person
+- [How to set up an AI voice agent for your business](https://innovariatech.space/blog/how-to-set-up-an-ai-voice-agent-for-your-business): what to decide before choosing a platform, writing a prompt that works, and testing before a real caller hears it
+- [Is your business ready for AI automation: a checklist](https://innovariatech.space/blog/is-your-business-ready-for-ai-automation-checklist): the full readiness checklist, free and no email gate, covering what to check before spending a dollar
+
+## Other languages
+
+Full translated versions of this site exist. Each page links its alternates with hreflang.
+
+- Spanish: https://innovariatech.space/es/
+- German: https://innovariatech.space/de/
+- Arabic: https://innovariatech.space/ar/
 
 ## Key facts
 

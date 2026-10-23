@@ -8,6 +8,18 @@
 import { readFileSync, readdirSync, statSync } from "node:fs";
 import { join, relative, sep } from "node:path";
 
+// Decode the handful of HTML entities we use, so length reflects the rendered title.
+function decodeEntities(s) {
+  return s
+    .replace(/&amp;/g, "&")
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/&middot;/g, "·")
+    .replace(/&rarr;/g, "→");
+}
+
 const ROOT = join(import.meta.dirname, "..");
 const TODAY = new Date().toISOString().slice(0, 10);
 const IGNORE = new Set(["node_modules", ".git", "scripts"]);
@@ -41,14 +53,15 @@ function checkHtml(path) {
   // Title length (text before any " | " suffix is the meaningful part, but check full)
   const title = html.match(/<title>([^<]*)<\/title>/);
   if (title) {
-    const t = title[1].trim();
+    const t = decodeEntities(title[1].trim());
     if (t.length > 60) warnings.push(`${rel}: <title> ${t.length} chars (>60): ${t}`);
   }
 
   // Meta description length
   const desc = html.match(/<meta\s+name="description"\s+content="([^"]*)"/i);
-  if (desc && desc[1].length > 155) {
-    warnings.push(`${rel}: meta description ${desc[1].length} chars (>155)`);
+  if (desc) {
+    const d = decodeEntities(desc[1]);
+    if (d.length > 155) warnings.push(`${rel}: meta description ${d.length} chars (>155)`);
   }
 }
 

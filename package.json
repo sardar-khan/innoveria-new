@@ -5,5 +5,8 @@
   "description": "Innovaria Tech marketing site. Static pages plus Vercel serverless functions in /api.",
   "dependencies": {
     "nodemailer": "^6.10.1"
+  },
+  "scripts": {
+    "seo-check": "node scripts/seo-check.mjs"
   }
 }

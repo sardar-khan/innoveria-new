@@ -3,6 +3,19 @@
 (function () {
   "use strict";
 
+  /* Decorative looping animations (hero orbs, marquee, gradient pan) stay
+     still until the page has loaded, so they do not compete with first paint.
+     CSS gates them behind html.loaded; add it once everything is in. */
+  (function () {
+    var markLoaded = function () {
+      var add = function () { document.documentElement.classList.add("loaded"); };
+      if (window.requestAnimationFrame) window.requestAnimationFrame(add);
+      else add();
+    };
+    if (document.readyState === "complete") markLoaded();
+    else window.addEventListener("load", markLoaded);
+  })();
+
   /* Language switcher dropdown (globe button) */
   var langSwitch = document.querySelector(".lang-switch");
   var langToggle = langSwitch && langSwitch.querySelector(".lang-toggle");

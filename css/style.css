@@ -563,7 +563,7 @@ p { margin: 0 0 1em; }
   font-size: 0.78rem;
   margin-left: 0.6rem;
 }
-.terminal-body { padding: 1.1rem 1.2rem 1.3rem; min-height: 250px; }
+.terminal-body { padding: 1.1rem 1.2rem 1.3rem; min-height: 340px; }
 .terminal-body .tline { display: flex; gap: 0.7rem; margin-bottom: 0.55rem; opacity: 0; animation: tline-in 0.35s ease forwards; }
 .terminal-body .t-time { color: #8697bd; flex-shrink: 0; }
 .terminal-body .t-ok { color: #34d399; }
@@ -1240,7 +1240,7 @@ p { margin: 0 0 1em; }
   .brand img { width: 150px; height: 51px; }
   .hero { padding-top: 2.6rem; }
   .hero-ctas .btn { width: 100%; text-align: center; }
-  .terminal-body { min-height: 200px; padding: 0.9rem 0.9rem 1.1rem; }
+  .terminal-body { min-height: 340px; padding: 0.9rem 0.9rem 1.1rem; }
   .terminal { font-size: 0.78rem; }
   .card, .step { padding: 1.4rem 1.2rem; }
   .case-metrics { gap: 1.1rem 1.6rem; }
@@ -1473,3 +1473,23 @@ p { margin: 0 0 1em; }
   [dir="rtl"] .mega-services, [dir="rtl"] .mega-industries { left: auto; right: auto; }
   [dir="rtl"] .mega-cats { border-left: 0; }
 }
+
+/* --------------------------------------------------------------------------
+   Performance pass
+   - Reserve the hero terminal's height so the typed feed does not push the
+     page down as lines appear (fixes the desktop layout shift).
+   - Drop the entrance delay on the above-the-fold heading so the LCP text
+     paints immediately instead of fading in.
+   - Hold the decorative looping animations until the page has loaded (main.js
+     adds .loaded on window load), keeping the load window quiet.
+   -------------------------------------------------------------------------- */
+.terminal-body { min-height: 340px; }
+.page-hero .breadcrumbs,
+.page-hero .kicker,
+.page-hero h1,
+.page-hero .lede,
+.page-hero .post-meta { animation: none; }
+html:not(.loaded) .hero-orb,
+html:not(.loaded) .page-hero::before,
+html:not(.loaded) .marquee-track,
+html:not(.loaded) .grad-text { animation: none !important; }
